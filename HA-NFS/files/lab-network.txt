@@ -1,0 +1,3 @@
+This illustration shows our hands on lab network in a simple fashion. 
+Three VM icons named master1, master2 and master3 are displayed horizontally and all connect down to a horizontal line indicating a network.
+Below the horizontal network line is a different colored VM icon named client1 and this connects up to the horizontal network line.
