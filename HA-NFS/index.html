@@ -159,13 +159,11 @@ Connection to 127.0.0.1 closed.
 </pre>
               </ol>
               <p>To avoid continually logging in and out you may want to open
-                four terminal windows - master1, master2, master3 and client1 -
-                to easily switch between VMs. If you are doing this, ensure that
+                four terminal windows, one for each of <code>master1, master2, master3</code> and <code>client1</code> to easily switch between VMs. If you are doing this, ensure that
                 all your terminals are in the in the same directory so the <code>vagrant
                   ssh</code> commands succeed.</p>
               <p> A step may say "On all masters..." and should be performed on
-                master1, master2 and master3. This is done to remove redundancy
-                as the action and result are identical.</p>
+                <code>master1, master2 and master3</code>. This is done to remove redundancy as the action and result are identical.</p>
             </section>
             <!-- ========================================================================================================================= -->
             <section>
@@ -204,7 +202,8 @@ Connection to 127.0.0.1 closed.
                   alt="section 2" class="num_circ" height="32" width="32">Install
                 software</h2>
               <p>Now enable the required Oracle Linux repositories before
-                installing the Corosync, Ganesha, Gluster and Pacemaker software</p>
+                installing the Corosync, Ganesha, Gluster and Pacemaker software.</p>
+                <p>Remember to use <code><strong>vagrant ssh hostname</strong></</strong></code> to login to each of the masters and <code><strong>sudo -i</strong></code> to elevate your privileges to root <em>before</em> running these commands. </p>
               <ol>
                 <li>(On <strong>all </strong>masters) Install the Gluster yum
                   repository configuration
