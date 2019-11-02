@@ -8,6 +8,10 @@ Included with each lab are sample scripts that can be used to create the initial
 environment using [Oracle VM VirtualBox](https://virtualbox.org) and 
 [Vagrant by HashiCorp](https://www.vagrantup.com/).
 
+## Available Labs
+
+* [Creating a highly available NFS service with Oracle Linux 7](https://oracle.github.io/linux-labs/HA-NFS/)
+
 # License
 
 Copyright &copy; 2019 Oracle and/or its associates. All rights reserved.
