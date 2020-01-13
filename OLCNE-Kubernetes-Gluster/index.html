@@ -79,8 +79,9 @@
               </p>
               <p>It will create four VMs for us, one master and three worker
                 nodes before deploying the Kubernetes module. The Oracle Linux
-                VirtualBox template includes a second virtual disk which will
-                hold our Gluster data.</p>
+                VirtualBox template includes an unused second virtual disk
+                (/dev/sdb) which we will use to store our Gluster data. This
+                tutorial will require 12GB of RAM and 15GB of disk space.</p>
               <p></p>
               <ul>
                 <li>Vagrant from <a href="https://www.vagrantup.com/" target="_blank">https://www.vagrantup.com/</a></li>
@@ -135,8 +136,8 @@ Connection to 127.0.0.1 closed.</pre>
                     worker count from two to three. This is done as Gluster
                     requires three replicas by default.</p>
                   <pre>[user@demo lab]$ <strong>vi Vagrantfile</strong></pre>
-                  Update the line that defines MEMORY to be
-                  <pre>      MEMORY = default_i("MEMORY", 3048)  </pre>
+                  Update the line that defines MEMORY to be <br>
+                  <pre>      MEMORY = default_i("MEMORY", 3072</pre>
                   Update the line that defines NB_WORKERS to be
                   <pre>      NB_WORKERS = default_i('NB_WORKERS', 3)  </pre>
                 </li>
@@ -173,7 +174,7 @@ Connection to 127.0.0.1 closed.</pre>
                 </li>
                 <li>Allow the required port through the firewall
                   <pre>[vagrant@worker1 ~]$ <strong>sudo firewall-cmd --add-service=glusterfs --permanent</strong>
-[vagrant@worker1 ~]$ <strong>sudofirewall-cmd --reload</strong></pre>
+[vagrant@worker1 ~]$ <strong>sudo firewall-cmd --reload</strong></pre>
                 </li>
                 <li>Secure the Gluster environment with TLS
                   <p>As we're using the OLCNE vagrant box there are already x509
