@@ -469,8 +469,61 @@ demo-nginx-75fd7f5594-bsqf4   1/1     Running   0          88s</pre>
             <hr>
             <section>
               <h2 id="section_6" role="button" style="text-align: left;"><img src="img/32_6.png"
-                  alt="section 6" class="num_circ" height="32" width="32">Appendix:
-                Example Gluster output</h2>
+                  alt="section 6" class="num_circ" height="32" width="32">Appendix
+                A: Enabling TLS in Heketi</h2>
+              <p> When deploying in production you may want to encrypt
+                communications between the Kubernetes API server and Heketi. </p>
+              <p>Perform the following on the master node.</p>
+              <ol>
+                <li>Update the <code>/etc/heketi/heketi.json</code> file.
+                  <pre>[vagrant@master1~]$ <strong>sudo vi /etc/heketi/heketi.json</strong></pre>
+                  <p>Insert the following after the port definition</p>
+                  <pre>"_enable_tls_comment": "Enable TLS in Heketi Server",
+"enable_tls": true,
+
+"_cert_file_comment": "Path to a valid certificate file",
+"cert_file": "/etc/olcne/pki/production/node.cert",
+
+"_key_file_comment": "Path to a valid private key file",
+"key_file": "/etc/olcne/pki/production/node.key",</pre>
+                </li>
+                <li> Restart the service
+                  <pre>[vagrant@master1~]$ <strong>sudo systemctl restart heketi.service</strong></pre>
+                </li>
+                <li> Trust the example Certificate Authority
+                  <pre>[vagrant@master1~]$ <strong>sudo cp /etc/olcne/pki/production/ca.cert /etc/pki/ca-trust/source/anchors/</strong>
+[vagrant@master1~]$ <strong>sudo update-ca-trust extract</strong>
+</pre> </li>
+                <li> Validate HTTPS Heketi is working
+                  <pre>[vagrant@master1~]$ <strong>curl https://localhost:8080/hello</strong>
+Hello from Heketi</pre>
+                </li>
+                <li> Create the StorageClass object with a https <code>resturl</code>
+                  <pre>[vagrant@master1~]$ <strong>cat &lt;&lt; EOF | kubectl apply -f -
+apiVersion: storage.k8s.io/v1
+kind: StorageClass
+metadata:
+  name: hyperconverged
+  annotations:
+    storageclass.kubernetes.io/is-default-class: "true"
+provisioner: kubernetes.io/glusterfs
+parameters:
+  resturl: "https://localhost</strong><strong>:8080"
+  restauthenabled: "true"
+  restuser: "admin"
+  secretNamespace: "default"
+  secretName: "heketi-admin"
+EOF</strong>
+storageclass.storage.k8s.io/hyperconverged created</pre>
+                </li>
+              </ol>
+              <p> Heketi communications are now encrypted.</p>
+            </section>
+            <hr>
+            <section>
+              <h2 id="section_7" role="button" style="text-align: left;"><img src="img/32_7.png"
+                  alt="section 7" class="num_circ" height="32" width="32">Appendix
+                B: Example Gluster output</h2>
               <ol>
                 <li>List volumes
                   <pre>[vagrant@master1 ~]$ <strong>heketi-cli --user admin \
