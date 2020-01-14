@@ -190,15 +190,17 @@ master1: worker3.vagrant.vm   Ready    &lt;none&gt;   3m59s   v1.14.8+1.0.2.el7<
                   <pre>[vagrant@worker1 ~]$ <strong>sudo firewall-cmd --add-service=glusterfs --permanent</strong>
 [vagrant@worker1 ~]$ <strong>sudo firewall-cmd --reload</strong></pre>
                 </li>
-                <li>Secure the Gluster environment with TLS
+                <li>Setup the Gluster environment with TLS to encrypt management
+                  traffic between Gluster nodes<br>
                   <p>As we're using the OLCNE vagrant box there are already
                     x.509 certificates created so we shall re-use them</p>
                   <pre>[vagrant@worker1 ~]$ <strong>sudo cp /etc/olcne/pki/production/ca.cert /etc/ssl/glusterfs.ca</strong>
 [vagrant@worker1 ~]$ <strong>sudo cp /etc/olcne/pki/production/node.key /etc/ssl/glusterfs.key</strong>
 [vagrant@worker1 ~]$ <strong>sudo cp /etc/olcne/pki/production/node.cert /etc/ssl/glusterfs.pem</strong>
 [vagrant@worker1 ~]$ <strong>sudo touch /var/lib/glusterd/secure-access</strong></pre>
-                  <p> This encrypts only management traffic between Gluster
-                    nodes. See the summary and Appendix A for more information.</p>
+                  <p>Note this encrypts only management traffic between Gluster
+                    nodes, see the summary and <em>Appendix A</em> for more
+                    information.</p>
                 </li>
                 <li>Enable the service
                   <pre>[vagrant@worker1 ~]$ <strong>sudo systemctl enable --now glusterd.service</strong></pre>
@@ -654,9 +656,9 @@ There are no active volume tasks</pre>
               <ul>
                 <li><a href="https://v1-14.docs.kubernetes.io/docs/concepts/storage/storage-classes/#glusterfs"
                     target="_blank">Glusterfs StorageClass</a></li>
-                <li><a href="https://docs.oracle.com/cd/E52668_01/F18418/html/gluster-tls.html"
+                <li><a href="https://docs.oracle.com/en/operating-systems/oracle-linux/gluster-storage/gluster-tls.html"
                     target="_blank">Gluster: Setting up Transport Layer Security</a></li>
-                <li><a href="https://docs.oracle.com/cd/E52668_01/F18418/html/gluster-using.html#gluster-volumes"
+                <li><a href="https://docs.oracle.com/en/operating-systems/oracle-linux/gluster-storage/gluster-using.html"
                     target="_blank">Gluster: Setting up Volumes</a></li>
               </ul>
             </section>
