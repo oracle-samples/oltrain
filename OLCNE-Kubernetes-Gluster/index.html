@@ -85,7 +85,7 @@
               <p></p>
               <ul>
                 <li>Vagrant from <a href="https://www.vagrantup.com/" target="_blank">https://www.vagrantup.com/</a></li>
-                <li>Oracle Virtualbox from <a href="https://www.virtualbox.org/"
+                <li>Oracle VirtualBox from <a href="https://www.virtualbox.org/"
                     target="_blank">https://www.virtualbox.org/</a></li>
               </ul>
               <h3><br>
@@ -131,33 +131,41 @@ Connection to 127.0.0.1 closed.</pre>
                   <pre>[user@demo lab]$ <strong>git clone https://github.com/oracle/vagrant-boxes</strong>
 [user@demo lab]$ <strong>cd vagrant-boxes/OLCNE</strong></pre>
                 </li>
-                <li>Install the <code>vagrant-env</code> plugin
+                <li>Install the Vagrant plugins
                   <p>To avoid directly modifying the Vagrantfile we override its
                     parameters with <code>vagrant-env</code> </p>
                   <pre>[user@demo lab]$ <strong>vagrant plugin install vagrant-env</strong></pre>
+                  <p>To automatically configure the <code>/etc/hosts</code>
+                    file of our VMs we use the <code>vagrant-hosts</code>
+                    plugin </p>
+                  <pre>[user@demo lab]$ <strong>vagrant plugin install vagrant-hosts</strong></pre>
                 </li>
                 <li>Define the environment file <code>.env.local</code>
                   <p>Increase the memory available to each VM and raise the
                     worker count from two to three. This is done as Gluster
                     requires three replicas by default.</p>
-                  <pre>[user@demo lab]$ <strong>cat &lt;&lt; EOF &gt; .env.local
-MEMORY = 3072
-NB_WORKERS = 3
-EOF</strong></pre>
+                  <pre>[user@demo lab]$ <strong>cp .env .env.local</strong>
+[user@demo lab]$ <strong>vi Vagrantfile</strong></pre>
+                  Uncomment and update the line that defines MEMORY to be <br>
+                  <pre>MEMORY = 3072</pre>
+                  Uncomment and update the line that defines NB_WORKERS to be
+                  <pre>NB_WORKERS = 3</pre>
                 </li>
                 <li>Start the cluster
                   <pre>[user@demo lab]$ <strong>vagrant up</strong></pre>
                   <p>The deployment of the Kubernetes module will take some time
                     as additional software is downloaded and installed but you
-                    will soon see</p>
-                  <pre>master1: ===== Your Oracle Linux Cloud Native Environment is operational. =====</pre>
-                  <p style="padding-left: 30px;">If you have issues with the <code>vagrant
-                      up</code> then please open a <a class="jive-link-external-small"
-                      href="https://github.com/oracle/vagrant-boxes/issues" rel="nofollow"
-                      target="_blank">GitHub issue</a> </p>
-                </li>
-                <li>You can now connect to each VM using
-                  <pre>[user@demo lab]$ <strong>vagrant ssh master1</strong></pre>
+                    will soon see:</p>
+                  <pre>master1: ===== Your Oracle Linux Cloud Native Environment is operational. =====
+master1: NAME                 STATUS   ROLES    AGE     VERSION
+master1: master1.vagrant.vm   Ready    master   5m2s    v1.14.8+1.0.2.el7
+master1: worker1.vagrant.vm   Ready    &lt;none&gt;   3m37s   v1.14.8+1.0.2.el7
+master1: worker2.vagrant.vm   Ready    &lt;none&gt;   4m21s   v1.14.8+1.0.2.el7
+master1: worker3.vagrant.vm   Ready    &lt;none&gt;   3m59s   v1.14.8+1.0.2.el7</pre>
+                  <p> Note the <strong>Ready</strong> status of each Kubernetes
+                    node, if you have issues with the <code>vagrant up</code>
+                    then please open a <a class="jive-link-external-small" href="https://github.com/oracle/vagrant-boxes/issues"
+                      rel="nofollow" target="_blank">GitHub issue</a> </p>
                 </li>
               </ol>
             </section>
@@ -167,8 +175,10 @@ EOF</strong></pre>
                   alt="section 2" class="num_circ" height="32" width="32">Configure
                 the workers</h2>
               <p>For each of the workers we will install and configure the
-                Gluster service. Run the following commands on worker1, worker2
-                and worker3</p>
+                Gluster service.</p>
+              <p>Open three terminal windows and use the <code>vagrant ssh
+                  hostname</code> command to connect to the three workers: <code>worker1</code>,
+                <code>worker2</code> and <code>worker3</code>.</p>
               <ol>
                 <li>Enable the RPM repositories
                   <pre>[vagrant@worker1 ~]$ <strong>sudo yum install -y oracle-gluster-release-el7</strong></pre>
@@ -181,18 +191,21 @@ EOF</strong></pre>
 [vagrant@worker1 ~]$ <strong>sudo firewall-cmd --reload</strong></pre>
                 </li>
                 <li>Secure the Gluster environment with TLS
-                  <p>As we're using the OLCNE vagrant box there are already x509
-                    certificates created so we shall re-use them</p>
+                  <p>As we're using the OLCNE vagrant box there are already
+                    x.509 certificates created so we shall re-use them</p>
                   <pre>[vagrant@worker1 ~]$ <strong>sudo cp /etc/olcne/pki/production/ca.cert /etc/ssl/glusterfs.ca</strong>
 [vagrant@worker1 ~]$ <strong>sudo cp /etc/olcne/pki/production/node.key /etc/ssl/glusterfs.key</strong>
 [vagrant@worker1 ~]$ <strong>sudo cp /etc/olcne/pki/production/node.cert /etc/ssl/glusterfs.pem</strong>
 [vagrant@worker1 ~]$ <strong>sudo touch /var/lib/glusterd/secure-access</strong></pre>
+                  <p> This encrypts only management traffic between Gluster
+                    nodes. See the summary and Appendix A for more information.</p>
                 </li>
                 <li>Enable the service
                   <pre>[vagrant@worker1 ~]$ <strong>sudo systemctl enable --now glusterd.service</strong></pre>
-                  <p>Remember to execute these steps on all three worker VMs.</p>
                 </li>
               </ol>
+              <p>Remember to execute these steps on all three worker VMs. After
+                this you can close the three connections to the worker VMs.</p>
             </section>
             <hr>
             <section>
@@ -202,6 +215,8 @@ EOF</strong></pre>
               <p>With Gluster installed on the workers we will install and
                 configure Heketi which will use the Gluster nodes to provision
                 storage. </p>
+              <p>We perform this step on the VM <code>master1</code>,
+                connecting with the <code>vagrant ssh hostname</code> command.</p>
               <ol>
                 <li>Enable the RPM repositories
                   <pre>[vagrant@master1~]$ <strong>sudo yum install -y oracle-gluster-release-el7</strong></pre>
@@ -347,12 +362,14 @@ Cluster:b569b6963558a97481a8d6830122866c</pre>
                 Kubernetes</h2>
               <p>With Heketi configured we must now configure Kubernetes to
                 communicate with Heketi when volumes are requested. </p>
+              <p>We perform this step on the VM <code>master1</code>,
+                connecting with the <code>vagrant ssh hostname</code> command.</p>
               <ol>
                 <li>Create a <a href="https://v1-14.docs.kubernetes.io/docs/concepts/configuration/secret/"
                     target="_blank">Secret</a> object to store our Heketi
                   administrator passphrase
                   <pre>[vagrant@master1~]$ <strong>kubectl create secret generic heketi-admin \
-  --type="kubernetes.io/glusterfs" --from-literal=key='Admin Password' \
+  --type='kubernetes.io/glusterfs' --from-literal=key='Admin Password' \
   --namespace=default</strong>
 secret/heketi-admin created</pre>
                 </li>
@@ -451,6 +468,12 @@ deployment.apps/demo-nginx created </pre>
 NAME                          READY   STATUS    RESTARTS   AGE
 demo-nginx-75fd7f5594-bsqf4   1/1     Running   0          88s</pre>
                 </li>
+                <li>Verify the volume used is Glusterfs
+                  <p>Change the command to the name of the pod identified in the
+                    previous step</p>
+                  <pre>[vagrant@master1 ~]$ <strong>kubectl exec demo-nginx-75fd7f5594-bsqf4 -ti -- mount -t fuse.glusterfs</strong>
+192.168.99.111:vol_6b0062f9e1cc0e5592120679eb249ae9 on /usr/share/nginx/html type fuse.glusterfs (rw,relatime,user_id=0,group_id=0,default_permissions,allow_other,max_read=131072)</pre>
+                </li>
               </ol>
               <p> At this point our Kubernetes environment is creating Gluster
                 volumes when a PersistantVolumeClaim is created and deleting
@@ -477,8 +500,11 @@ demo-nginx-75fd7f5594-bsqf4   1/1     Running   0          88s</pre>
                   alt="section 6" class="num_circ" height="32" width="32">Appendix
                 A: Enabling TLS in Heketi</h2>
               <p> When deploying in production you may want to encrypt
-                communications between the Kubernetes API server and Heketi. </p>
-              <p>Perform the following on the master node.</p>
+                communications between the Kubernetes API server and Heketi. In
+                section four we configured Heketi and the StorageClass to use
+                HTTP, we now update this to HTTPS.</p>
+              <p>We perform this step on the VM <code>master1</code>,
+                connecting with the <code>vagrant ssh hostname</code> command.</p>
               <ol>
                 <li>Update the <code>/etc/heketi/heketi.json</code> file.
                   <pre>[vagrant@master1~]$ <strong>sudo vi /etc/heketi/heketi.json</strong></pre>
@@ -491,7 +517,24 @@ demo-nginx-75fd7f5594-bsqf4   1/1     Running   0          88s</pre>
 
 "_key_file_comment": "Path to a valid private key file",
 "key_file": "/etc/olcne/pki/production/node.key",</pre>
-                </li>
+                  <p> For example </p>
+                  <pre>{
+  "_port_comment": "Heketi Server Port Number",
+  "port": "8080",
+
+  "_enable_tls_comment": "Enable TLS in Heketi Server",
+  "enable_tls": true,
+
+  "_cert_file_comment": "Path to a valid certificate file",
+  "cert_file": "/etc/olcne/pki/production/node.cert",
+
+  "_key_file_comment": "Path to a valid private key file",
+  "key_file": "/etc/olcne/pki/production/node.key",
+
+  "_use_auth": "Enable JWT authorization. Please enable for deployment",
+  "use_auth": true,
+  ...
+</pre> </li>
                 <li> Restart the service
                   <pre>[vagrant@master1~]$ <strong>sudo systemctl restart heketi.service</strong></pre>
                 </li>
@@ -502,6 +545,13 @@ demo-nginx-75fd7f5594-bsqf4   1/1     Running   0          88s</pre>
                 <li> Validate HTTPS Heketi is working
                   <pre>[vagrant@master1~]$ <strong>curl https://localhost:8080/hello</strong>
 Hello from Heketi</pre>
+                </li>
+                <li>(Optional) Delete an existing StorageClass object
+                  <p> Note that StorageClass parameters cannot be updated, if
+                    you already have a StorageClass <em>hyperconverged</em> you
+                    must delete it before continuing</p>
+                  <pre>[vagrant@master1~]$ <strong>kubectl delete storageclass hyperconverged</strong>
+storageclass.storage.k8s.io "hyperconverged" deleted</pre>
                 </li>
                 <li> Create the StorageClass object with a https <code>resturl</code>
                   <pre>[vagrant@master1~]$ <strong>cat &lt;&lt; EOF | kubectl apply -f -
@@ -521,6 +571,10 @@ parameters:
 EOF</strong>
 storageclass.storage.k8s.io/hyperconverged created</pre>
                 </li>
+                <li>To use further <code>heketi-cli</code> commands you must
+                  first declare the HTTPS url
+                  <pre>[vagrant@master1 ~]$ <strong>export HEKETI_CLI_SERVER=https://localhost:8080</strong></pre>
+                </li>
               </ol>
               <p> Heketi communications are now encrypted.</p>
             </section>
@@ -530,6 +584,11 @@ storageclass.storage.k8s.io/hyperconverged created</pre>
                   alt="section 7" class="num_circ" height="32" width="32">Appendix
                 B: Example Gluster output</h2>
               <ol>
+                <li>(Optional) Define the Heketi server URL
+                  <p> If you have completed <em>Appendix A: Enabling TLS in
+                      Heketi</em> then you must declare the updated URL </p>
+                  <pre>[vagrant@master1 ~]$ <strong>export HEKETI_CLI_SERVER=https://localhost:8080</strong></pre>
+                </li>
                 <li>List volumes
                   <pre>[vagrant@master1 ~]$ <strong>heketi-cli --user admin \
                                 --secret "Admin Password" \
