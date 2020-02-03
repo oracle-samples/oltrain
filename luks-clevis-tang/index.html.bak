@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <!-- Part number: Ennnnn-01 -->
+    <!-- Published date: Feb 2020 -->
+    <!-- Template date: October 15, 2018 -->
+    <!-- Put the content ID of this OBE between the empty quotation marks for 'content' below -->
+    <meta name="contentid" content="">
+    <!-- The title below is displayed on the browser tab, in search results, and in  history. It can be longer than the tutorial title in the <h1> element, below.-->
+    <!-- Use an imperative verb in the title. -->
+    <title>TODO</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="robots" content="INDEX, FOLLOW">
+    <meta name="description" content="TODO.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/normalize.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/obe-lite.css">
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/jquery-ui-1.10.4.custom.js"></script>
+    <script src="js/jquery.tocify.jd.js"></script>
+    <script src="js/leftnav.js"></script>
+  </head>
+  <body>
+    <header>
+      <div class="w1024" style="min-height:55px; display:block;"> <a href="https://docs.oracle.com"
+
+          class="oracle-logo"> <img src="img/oracle_doc_logo.png" alt="Oracle Documentation"
+
+            style="max-width: none;" height="22" width="236"></a> </div>
+    </header>
+    <!--end header-->
+    <div id="content">
+      <!-- The title below is displayed as the title at the top of the OBE page. It can be shorter than the title in the <title> element, above. -->
+      <!-- Use an imperative verb in the title. -->
+      <h1><img src="img/obe_tag.png" alt="Oracle by Example branding" align="middle">TODO</h1>
+      <div class="w1024" style="clear:both; position:relative; margin-top:40px;">
+        <div class="navbackwide border-right"><!-- --></div>
+        <div id="shownav" title="Show Navigation" tabindex="0"><span class="fa fa-list"></span></div>
+        <div id="sidebar"><!-- -->
+          <div class="left-nav-tut"><!-- -->
+            <div id="hidenavw" title="Hide Navigation" tabindex="0"><span class="fa fa-close"></span></div>
+            <div id="navbar" class="left-nav-w"><!-- -->
+              <div id="toc" class="tocify"><!-- --></div>
+            </div>
+          </div>
+        </div>
+        <div id="bookContainer">
+          <article>
+            <section>
+              <h2><img src="img/32_begin.png" alt="section 0" class="num_circ" height="32"
+
+                  width="32">Before You Begin</h2>
+              <p>This 20-minute tutorial shows you how to configure an Oracle
+                Linux system with encrypted disks that ...TODO </p>
+              <h3>Background</h3>
+              <p>....</p>
+              <p>This lab uses Oracle Linux 8 but the same tools are available
+                on Oracle Linux 7. </p>
+              <h3>What Do You Need?</h3>
+              <ul>
+                <li>Vagrant from <a href="https://www.vagrantup.com/" target="_blank">https://www.vagrantup.com/</a></li>
+                <li>Oracle VirtualBox from <a href="https://www.virtualbox.org/"
+
+                    target="_blank">https://www.virtualbox.org/</a></li>
+              </ul>
+              <h3>Environment</h3>
+              <p>This lab involves multiple VMs and you will need to perform
+                different steps on different VMs. The easiest way to do this is
+                through the vagrant command </p>
+              <p><code>vagrant ssh &lt;hostname</code><span style="font-family: &quot;Courier New&quot;,Courier,monospace;">&gt;</span></p>
+              <p>Once connected you can return to your desktop with a standard <code>
+                  logout</code> or <code>exit</code> command.</p>
+              <p> For example </p>
+              <ol>
+                <pre>[user@demo lab]$ <strong>vagrant ssh keyserver</strong>
+Last login: Tue Aug 20 23:56:58 2019 from 10.0.2.2
+[vagrant@keyserver ~]$ <strong>hostname</strong>
+keyserver.vagrant.vm
+[vagrant@keyserver ~]$ <strong>exit</strong>
+logout
+Connection to 127.0.0.1 closed.
+[user@demo lab]$ <strong>vagrant ssh appserver</strong>
+Last login: Tue Aug 20 05:25:49 2019 from 10.0.2.2
+[vagrant@appserver ~]$ <strong>hostname</strong>
+appserver.vagrant.vm
+[vagrant@appserver ~]$ <strong>logout</strong>
+Connection to 127.0.0.1 closed.</pre>
+              </ol>
+            </section>
+            <!-- ========================================================================================================================= -->
+            <section>
+              <hr>
+              <h2 id="section_1" role="button" style="text-align: left;"><img src="img/32_1.png"
+
+                  alt="section 1" class="num_circ" height="32" width="32">Start
+                the lab environment</h2>
+              <p>You will first download and start the VMs we will be using in
+                this lab environment. This is simplified through the use of
+                Vagrant.</p>
+              <ol>
+                <li>Download the lab configuration
+                  <pre>[user@demo lab]$ <strong>git clone https://github.com/oracle/linux-labs.git</strong></pre>
+                </li>
+                <li>Change to the lab directory
+                  <pre>[user@demo lab]$ <strong>cd linux-labs/luks-clevis-tang/</strong></pre>
+                </li>
+                <li>Install the Vagrant plugin
+                  <p>To automatically configure the <code>/etc/hosts</code>
+                    file of our VMs we use the <code>vagrant-hosts</code>
+                    plugin </p>
+                  <pre>[user@demo luks-clevis-tang]$ <strong>vagrant plugin install vagrant-hosts</strong></pre>
+                </li>
+                <li>Start the lab virtual machines
+                  <pre>[user@demo luks-clevis-tang]$ <strong>vagrant up</strong></pre>
+                </li>
+              </ol>
+              <p>Vagrant will download an Oracle Linux 8 image and create two
+                virtual machines.</p>
+              <p>Remember you can access them using the <code>vagrant ssh
+                  hostname</code> command mentioned above and you do not need to
+                connect via address. </p>
+            </section>
+            <section>
+              <h2 id="section_2" role="button" style="text-align: left;"><img src="img/32_2.png"
+
+                  alt="section 2" class="num_circ" height="32" width="32">Configure
+                the key server</h2>
+              <p>Install Tang, allow it to receive requests on port 80 and start
+                the service.</p>
+              <p>We perform this step on the VM <code>keyserver</code>,
+                connecting with the <code>vagrant ssh keyserver</code> command.</p>
+              <ol>
+                <li>Install the RPMs
+                  <pre>[vagrant@keyserver ~]$ <strong>sudo dnf install -y tang</strong></pre>
+                </li>
+                <li>Allow the required port through the firewall
+                  <pre>[vagrant@keyserver ~]$ <strong>sudo firewall-cmd --add-service=http --permanent</strong>
+[vagrant@keyserver ~]$ <strong>sudo firewall-cmd --reload</strong></pre>
+                </li>
+                <li>Enable the service
+                  <pre>[vagrant@keyserver ~]$ <strong>sudo systemctl enable --now tangd.socket</strong></pre>
+                </li>
+                <li>Refresh the Tang cache
+                  <pre>[vagrant@keyserver ~]$ <strong>sudo systemctl restart tangd-update</strong></pre>
+                </li>
+              </ol>
+            </section>
+            <hr>
+            <section>
+              <h2 id="section_3" role="button" style="text-align: left;"><img src="img/32_3.png"
+
+                  alt="section 3" class="num_circ" height="32" width="32">Create
+                an encrypted filesystem on <code>appserver</code></h2>
+              <p> </p>
+              <p>Create a passphrase based encrypted disk device, a filesystem
+                on top of that device and mount it as /encrypted.</p>
+              <p>We perform this step on the VM <code>appserver</code>,
+                connecting with the <code>vagrant ssh appserver</code> command.</p>
+              <ol>
+                <li>Install the RPMs
+                  <pre>[vagrant@appserver ~]$ <strong>sudo dnf install -y cryptsetup</strong></pre>
+                </li>
+                <li>Create an encrypted disk
+                  <pre>[vagrant@appserver ~]$ <strong>sudo cryptsetup --verbose luksFormat /dev/sdb</strong>
+
+WARNING!
+========
+This will overwrite data on /dev/sdb irrevocably.
+
+Are you sure? (Type uppercase yes): <strong>YES</strong>
+Enter passphrase for /dev/sdb: <strong>examplepassphrase</strong>
+Verify passphrase:
+Key slot 0 created.
+Command successful.                  </pre>
+                </li>
+                <li>Unlock the block device for use
+                  <pre>[vagrant@appserver ~]$ <strong>sudo cryptsetup --verbose luksOpen /dev/sdb demodisk </strong>
+Enter passphrase for /dev/sdb: <strong>examplepassphrase</strong>
+Key slot 0 unlocked.
+Command successful.
+</pre>
+                  <p> This has created a device of demodisk under /dev/mapper </p>
+                  <pre>[vagrant@appserver ~]$ <strong>ls -la /dev/mapper/demodisk</strong>
+lrwxrwxrwx. 1 root root 7 Feb  3 04:05 /dev/mapper/demodisk -&gt; ../dm-2</pre>
+                </li>
+                <li>Create a filesystem on the encrypted disk
+                  <pre>[vagrant@appserver ~]$ <strong>sudo mkfs.xfs /dev/mapper/demodisk</strong>
+meta-data=/dev/mapper/demodisk   isize=512    agcount=4, agsize=1023488 blks
+         =                       sectsz=512   attr=2, projid32bit=1
+         =                       crc=1        finobt=1, sparse=1, rmapbt=0
+         =                       reflink=1
+data     =                       bsize=4096   blocks=4093952, imaxpct=25
+         =                       sunit=0      swidth=0 blks
+naming   =version 2              bsize=4096   ascii-ci=0, ftype=1
+log      =internal log           bsize=4096   blocks=2560, version=2
+         =                       sectsz=512   sunit=0 blks, lazy-count=1
+realtime =none                   extsz=4096   blocks=0, rtextents=0</pre>
+                </li>
+                <li>Identify the UUID of the new filesytem
+                  <pre>[vagrant@appserver ~]$ <strong>sudo blkid -s UUID  /dev/mapper/demodisk</strong>
+/dev/mapper/demodisk: UUID="4057664e-122f-421d-bcb6-2cb5a068a4d8"
+</pre> </li>
+                <li>Create a fstab entry for the filesystem
+                  <pre>[vagrant@appserver ~]$ <strong>echo "UUID=4057664e-122f-421d-bcb6-2cb5a068a4d8 /encrypted xfs defaults 0 0" | sudo tee -a /etc/fstab</strong></pre>
+                </li>
+                <li>Mount the filesystem
+                  <pre>[vagrant@appserver ~]$ <strong>sudo mkdir /encrypted</strong>
+[vagrant@appserver ~]$ <strong>sudo mount /encrypted</strong>                </pre>
+                </li>
+              </ol>
+            </section>
+            <hr>
+            <section>
+              <h2 id="section_4" role="button" style="text-align: left;"><img src="img/32_4.png"
+
+                  alt="section 4" class="num_circ" height="32" width="32">Add a
+                remote key to the encrypted filesystem</h2>
+              <ol>
+                <li>Install the RPMs
+                  <pre>[vagrant@appserver ~]$ <strong>sudo dnf install -y clevis-systemd clevis-luks</strong></pre>
+                </li>
+                <li>View the keys
+                  <pre>[vagrant@appserver ~]$ <strong>sudo cryptsetup luksDump /dev/sdb</strong>
+LUKS header information
+Version:        2
+Epoch:          3
+Metadata area:  16384 [bytes]
+Keyslots area:  16744448 [bytes]
+UUID:           74f0faf1-9cb9-45f9-a3d8-ef276263d729
+Label:          (no label)
+Subsystem:      (no subsystem)
+Flags:          (no flags)
+
+Data segments:
+  0: crypt
+        offset: 16777216 [bytes]
+        length: (whole device)
+        cipher: aes-xts-plain64
+        sector: 512 [bytes]
+
+Keyslots:
+  0: luks2
+        Key:        512 bits
+        Priority:   normal
+        Cipher:     aes-xts-plain64
+        Cipher key: 512 bits
+        PBKDF:      argon2i
+        Time cost:  4
+        Memory:     652621
+        Threads:    2
+        Salt:       89 f8 d9 3f 82 d3 e7 a9 5c c3 0e 97 4a b2 17 96
+                    d2 8d 35 f6 ee 10 e8 df ed 23 cb 5a 1e d0 72 76
+        AF stripes: 4000
+        AF hash:    sha256
+        Area offset:32768 [bytes]
+        Area length:258048 [bytes]
+        Digest ID:  0
+Tokens:
+Digests:
+  0: pbkdf2
+        Hash:       sha256
+        Iterations: 60235
+        Salt:       16 45 a8 71 ea d3 03 c2 b1 09 ca d9 a3 10 fa 7f
+                    ab 3f a0 22 1a f3 8b 11 38 14 d3 b7 dd da 15 26
+        Digest:     66 b1 2f f5 ee ba 82 47 a9 f6 82 97 da 69 56 5d
+                    48 e8 4f 8c 8b 81 b0 96 5e dd 5b 35 7e eb ee 28</pre>
+                </li>
+                <li>Add remote key
+                  <pre>[vagrant@appserver ~]$ <strong>sudo clevis luks bind -d /dev/sdb tang '{"url":"http://keyserver"}'</strong>
+The advertisement contains the following signing keys:
+
+9PZH7moczWcBukwc8esiW-dMAJs
+
+Do you wish to trust these keys? [ynYN] <strong>y</strong>
+Enter existing LUKS password: <strong>examplepassphrase</strong></pre>
+                </li>
+                <li>Show that there is a new keyslot in use
+                  <pre>[vagrant@appserver ~]$ <strong>sudo cryptsetup luksDump /dev/sdb</strong>
+LUKS header information
+Version:        2
+Epoch:          5
+Metadata area:  16384 [bytes]
+Keyslots area:  16744448 [bytes]
+UUID:           74f0faf1-9cb9-45f9-a3d8-ef276263d729
+Label:          (no label)
+Subsystem:      (no subsystem)
+Flags:          (no flags)
+
+Data segments:
+  0: crypt
+        offset: 16777216 [bytes]
+        length: (whole device)
+        cipher: aes-xts-plain64
+        sector: 512 [bytes]
+
+Keyslots:
+  0: luks2
+        Key:        512 bits
+        Priority:   normal
+        Cipher:     aes-xts-plain64
+        Cipher key: 512 bits
+        PBKDF:      argon2i
+        Time cost:  4
+        Memory:     652621
+        Threads:    2
+        Salt:       89 f8 d9 3f 82 d3 e7 a9 5c c3 0e 97 4a b2 17 96
+                    d2 8d 35 f6 ee 10 e8 df ed 23 cb 5a 1e d0 72 76
+        AF stripes: 4000
+        AF hash:    sha256
+        Area offset:32768 [bytes]
+        Area length:258048 [bytes]
+        Digest ID:  0
+  1: luks2
+        Key:        512 bits
+        Priority:   normal
+        Cipher:     aes-xts-plain64
+        Cipher key: 512 bits
+        PBKDF:      argon2i
+        Time cost:  4
+        Memory:     715513
+        Threads:    2
+        Salt:       09 ae 5e 47 e6 15 f2 1b 99 ad c9 a6 8f 56 db fc
+                    6a 4f ac 33 37 0c 4c 27 48 02 99 1e 45 5b 9d 1c
+        AF stripes: 4000
+        AF hash:    sha256
+        Area offset:290816 [bytes]
+        Area length:258048 [bytes]
+        Digest ID:  0
+Tokens:
+  0: clevis
+        Keyslot:  1
+Digests:
+  0: pbkdf2
+        Hash:       sha256
+        Iterations: 60235
+        Salt:       16 45 a8 71 ea d3 03 c2 b1 09 ca d9 a3 10 fa 7f
+                    ab 3f a0 22 1a f3 8b 11 38 14 d3 b7 dd da 15 26
+        Digest:     66 b1 2f f5 ee ba 82 47 a9 f6 82 97 da 69 56 5d
+                    48 e8 4f 8c 8b 81 b0 96 5e dd 5b 35 7e eb ee 28</pre>
+                </li>
+              </ol>
+            </section>
+            <hr>
+            <section>
+              <h2 id="section_5" role="button" style="text-align: left;"><img src="img/32_5.png"
+
+                  alt="section 5" class="num_circ" height="32" width="32">Unlock
+                an encrypted filesystem on boot</h2>
+              <ol>
+                <li>Enable the service
+                  <pre>[vagrant@appserver ~]$ <strong>sudo systemctl enable clevis-luks-askpass.path</strong></pre>
+                </li>
+                <li>Identify the block device UUID for later use
+                  <pre>[vagrant@appserver ~]$ <strong>sudo blkid -s UUID  /dev/sdb</strong>
+/dev/sdb: UUID="74f0faf1-9cb9-45f9-a3d8-ef276263d729"</pre>
+                </li>
+                <li>Have the block device unlocked during boot
+                  <p> <code>/etc/crypttab</code> defines how encrypted
+                    filesystems are configured during boot </p>
+                  <pre>[vagrant@appserver ~]$ <strong>echo "demodisk UUID=74f0faf1-9cb9-45f9-a3d8-ef276263d729 - _netdev" | sudo tee -a /etc/crypttab</strong></pre>
+                </li>
+                <li>Mount the filesystem later in the boot
+                  <p> To ensure the disk is unlocked before the filesystem is
+                    mounted, update the /etc/fstab </p>
+                  <pre>[vagrant@appserver ~]$ <strong>sudo vi /etc/fstab</strong></pre>
+                  and change the line
+                  <pre>UUID=4057664e-122f-421d-bcb6-2cb5a068a4d8 /encrypted xfs defaults 0 0</pre>
+                  to
+                  <pre>UUID=4057664e-122f-421d-bcb6-2cb5a068a4d8 /encrypted xfs _netdev 0 0</pre>
+                </li>
+                <li>Restart the appserver to verify the filesystem is mounted at
+                  boot
+                  <pre>[vagrant@appserver ~]$ <strong>sudo shutdown</strong>
+Connection to 127.0.0.1 closed by remote host.
+Connection to 127.0.0.1 closed.
+</pre>
+                  <pre>[user@demo luks-clevis-tang]$ <strong>vagrant up appserver</strong></pre>
+                  <pre>[user@demo luks-clevis-tang]$ <strong>vagrant ssh appserver</strong></pre>
+                </li>
+              </ol>
+            </section>
+            <hr>
+            <section>
+              <h2 id="section_6" role="button" style="text-align: left;"><img src="img/32_6.png"
+
+                  alt="section 6" class="num_circ" height="32" width="32">Optional:
+                Remove keyphrase</h2>
+              <p> You can remove the passphrase from slot 0 and mandate use of
+                the tang server. If the tang server is unreachable the disk
+                cannot be unlocked and filesystem inaccessible. </p>
+              <ol>
+                <li>Remove the passphrase
+                  <pre>[vagrant@appserver ~]$ <strong>cryptsetup --verbose luksRemoveKey /dev/sdb</strong></pre>
+                </li>
+              </ol>
+            </section>
+            <hr>
+            <section>
+              <h2 id="section_7" role="button" style="text-align: left;"><img src="img/32_7.png"
+
+                  alt="section 7" class="num_circ" height="32" width="32">Appendix: Encrypted root</h2>
+              <ol>
+                <li>Install the RPMs
+                  <pre>[vagrant@appserver ~]$ <strong>sudo dnf install -y clevis-dracut</strong></pre>
+                </li>
+                <li>Rebuild boot files
+                  <pre>[vagrant@appserver ~]$ <strong>sudo dracut -fv</strong></pre></li>
+                
+              </ol>
+            </section>
+            <hr>
+            <section>
+              <h2 id="section_8" role="button" style="text-align: left;"><img src="img/32_8.png"
+
+                  alt="section 8" class="num_circ" height="32" width="32">Step
+                Title</h2>
+              <ol>
+                <li>...</li>
+              </ol>
+            </section>
+            <hr>
+            <hr>
+            <section>
+              <!-- Include the More Information section only in a standalone tutorial or in the final lab or tutorial in a series (not in a learning path) -->
+              <h2 id="more_info" role="button" style="text-align: left;"><img src="img/32_more.png"
+
+                  alt="more information" class="num_circ" height="32" width="32">Want
+                to Learn More?</h2>
+              <ul>
+                <li><a href="https://github.com/latchset/tang/" target="_blank">Tang</a></li>
+                <li><a href="https://github.com/latchset/tang/wiki/Server-Key-Database"
+
+                    target="_blank">Tang: Server Key Database</a></li>
+                <li><a href="https://github.com/latchset/clevis" target="_blank">Clevis</a></li>
+              </ul>
+            </section>
+            <hr> </article>
+          <strong> </strong></div>
+        <strong> <br class="clearfloat">
+        </strong></div>
+      <strong> </strong></div>
+    <strong>
+      <!--close main-->
+      <!--end content-->
+      <div class="footer-container ">
+        <div style="max-width: 994px; padding:10px 0 0 17px;">
+          <footer class="footer-list">
+            <ul>
+              <li> <a href="https://www.oracle.com/corporate/index.html" target="_blank">About
+                  Oracle</a> </li>
+              <li> <a href="https://www.oracle.com/us/corporate/contact/index.html"
+
+                  target="_blank">Contact Us</a> </li>
+              <li> <a href="https://www.oracle.com/us/legal/index.html" target="_blank">Legal
+                  Notices</a> </li>
+              <li> <a href="https://www.oracle.com/us/legal/terms/index.html" target="_blank">Terms
+                  of Use</a> </li>
+              <li> <a href="https://www.oracle.com/us/legal/privacy/index.html"
+
+                  target="_blank">Your Privacy Rights</a> </li>
+              <li> <a href="https://www.oracle.com/pls/topic/lookup?ctx=cpyr&amp;id=en">Copyright
+                  © 2018, Oracle and/or its affiliates. All rights reserved.</a></li>
+            </ul>
+          </footer>
+        </div>
+        <script type="text/javascript" src="https://www.oracleimg.com/us/assets/metrics/ora_docs.js"></script>
+      </div>
+      <!-- OBE Dialog Box code 10/15/2018 -->
+      <!-- DO NOT ALTER THE CODE BELOW   -->
+      <div id="lpModal" class="modal">
+        <!-- Modal hdr and body -->
+        <div id="obe_dialog" class="modal-content">
+          <div class="modal-header"> <a href="#" class="close"> <span class="close">×</span>
+            </a>
+            <h1>Associated Learning Paths</h1>
+          </div>
+          <div id="dialog-content"> </div>
+          <div id="dialog-close" class="closeBtn"> <a href="#" class="close2">
+              <p class="close2"> <span>&nbsp;&nbsp;View&nbsp;&nbsp;</span> </p>
+            </a> </div>
+        </div>
+      </div>
+      <!-- END OBE Dialog Box code --> </strong>
+  </body>
+</html>

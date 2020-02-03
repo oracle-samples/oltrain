@@ -1,0 +1,52 @@
+#
+# Vagrantfile to create Hands on Lab
+#
+# Copyright (c) 2019 Oracle and/or its affiliates. All rights reserved.
+# Licensed under the Universal Permissive License v 1.0 as shown at https://oss.oracle.com/licenses/upl
+#
+#
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+
+  # Memory for the VMs (2GB)
+  MEMORY = 2048
+
+  GROUP = "/Disk-encryption-lab"
+
+  # We start from the latest OL 8 Box
+  config.vm.box = "ol8-latest"
+  config.vm.box_url = "https://yum.oracle.com/boxes/oraclelinux/latest/ol8-latest.box"
+  
+  config.vm.provider :virtualbox do |vb|
+    vb.memory = MEMORY
+    vb.customize ["modifyvm", :id, "--groups", GROUP] unless GROUP.nil?
+  end
+
+  config.vagrant.plugins = "vagrant-hosts"
+
+  if Vagrant.has_plugin?("vagrant-hosts")
+    config.vm.provision :hosts do |provisioner|
+      provisioner.add_localhost_hostnames = false
+      provisioner.sync_hosts = true
+      provisioner.autoconfigure = true
+    end
+  end
+  
+  # Vagrant box has firewall disabled but standard Oracle Linux 8 will not.
+  config.vm.provision "shell",
+    inline: "systemctl enable --now firewalld"
+
+  config.vm.define "keyserver" do |keyserver|
+    keyserver.vm.hostname = "keyserver.vagrant.vm"
+    keyserver.vm.network "private_network",  ip: "192.168.99.200"
+  end
+
+  config.vm.define "appserver" do |appserver|
+    appserver.vm.hostname = "appserver.vagrant.vm"
+	appserver.vm.network "private_network", ip: "192.168.99.201"
+  end
+
+  config.vm.post_up_message = "Build complete"
+end
