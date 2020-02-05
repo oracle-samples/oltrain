@@ -14,19 +14,19 @@
     <meta name="robots" content="INDEX, FOLLOW">
     <meta name="description" content="Learn how to create an encrypted XFS filesystem that's automatically unlocked by Clevis when booted on the same network as Tang.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://oracle.github.io/linux-labs/css/normalize.min.css">
-    <link rel="stylesheet" href="https://oracle.github.io/linux-labs/css/font-awesome.min.css">
-    <link rel="stylesheet" href="https://oracle.github.io/linux-labs/css/obe-lite.css">
-    <script src="https://oracle.github.io/linux-labs/js/jquery-1.11.0.min.js"></script>
-    <script src="https://oracle.github.io/linux-labs/js/jquery-ui-1.10.4.custom.js"></script>
-    <script src="https://oracle.github.io/linux-labs/js/jquery.tocify.jd.js"></script>
-    <script src="https://oracle.github.io/linux-labs/js/leftnav.js"></script>
+    <link rel="stylesheet" href="/linux-labs/css/normalize.min.css">
+    <link rel="stylesheet" href="/linux-labs/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/linux-labs/css/obe-lite.css">
+    <script src="/linux-labs/js/jquery-1.11.0.min.js"></script>
+    <script src="/linux-labs/js/jquery-ui-1.10.4.custom.js"></script>
+    <script src="/linux-labs/js/jquery.tocify.jd.js"></script>
+    <script src="/linux-labs/js/leftnav.js"></script>
   </head>
   <body>
     <header>
       <div class="w1024" style="min-height:55px; display:block;"> <a href="https://docs.oracle.com"
 
-          class="oracle-logo"> <img src="https://oracle.github.io/linux-labs/img/oracle_doc_logo.png" alt="Oracle Documentation"
+          class="oracle-logo"> <img src="/linux-labs/img/oracle_doc_logo.png" alt="Oracle Documentation"
 
             style="max-width: none;" height="22" width="236"></a> </div>
     </header>
@@ -34,7 +34,7 @@
     <div id="content">
       <!-- The title below is displayed as the title at the top of the OBE page. It can be shorter than the title in the <title> element, above. -->
       <!-- Use an imperative verb in the title. -->
-      <h1><img src="https://oracle.github.io/linux-labs/img/obe_tag.png" alt="Oracle by Example branding" align="middle">Oracle
+      <h1><img src="/linux-labs/img/obe_tag.png" alt="Oracle by Example branding" align="middle">Oracle
         Linux Disk Encryption Using Network Based Key Services</h1>
       <div class="w1024" style="clear:both; position:relative; margin-top:40px;">
         <div class="navbackwide border-right"><!-- --></div>
@@ -50,7 +50,7 @@
         <div id="bookContainer">
           <article>
             <section>
-              <h2><img src="https://oracle.github.io/linux-labs/img/32_begin.png" alt="section 0" class="num_circ" height="32"
+              <h2><img src="/linux-labs/img/32_begin.png" alt="section 0" class="num_circ" height="32"
 
                   width="32">Before You Begin</h2>
               <p>This 20-minute tutorial shows you how to configure an Oracle
@@ -110,7 +110,7 @@ Connection to 127.0.0.1 closed.</pre>
             <!-- ========================================================================================================================= -->
             <section>
               <hr>
-              <h2 id="section_1" role="button" style="text-align: left;"><img src="https://oracle.github.io/linux-labs/img/32_1.png"
+              <h2 id="section_1" role="button" style="text-align: left;"><img src="/linux-labs/img/32_1.png"
 
                   alt="section 1" class="num_circ" height="32" width="32">Start
                 the lab environment</h2>
@@ -141,7 +141,7 @@ Connection to 127.0.0.1 closed.</pre>
                 connect via address. </p>
             </section>
             <section>
-              <h2 id="section_2" role="button" style="text-align: left;"><img src="https://oracle.github.io/linux-labs/img/32_2.png"
+              <h2 id="section_2" role="button" style="text-align: left;"><img src="/linux-labs/img/32_2.png"
 
                   alt="section 2" class="num_circ" height="32" width="32">Configure
                 the key server</h2>
@@ -167,7 +167,7 @@ Connection to 127.0.0.1 closed.</pre>
             </section>
             <hr>
             <section>
-              <h2 id="section_3" role="button" style="text-align: left;"><img src="https://oracle.github.io/linux-labs/img/32_3.png"
+              <h2 id="section_3" role="button" style="text-align: left;"><img src="/linux-labs/img/32_3.png"
 
                   alt="section 3" class="num_circ" height="32" width="32">Create
                 an encrypted filesystem on <code>appserver</code></h2>
@@ -230,7 +230,7 @@ realtime =none                   extsz=4096   blocks=0, rtextents=0</pre>
             </section>
             <hr>
             <section>
-              <h2 id="section_4" role="button" style="text-align: left;"><img src="https://oracle.github.io/linux-labs/img/32_4.png"
+              <h2 id="section_4" role="button" style="text-align: left;"><img src="/linux-labs/img/32_4.png"
 
                   alt="section 4" class="num_circ" height="32" width="32">Add a
                 remote key to the encrypted device</h2>
@@ -369,7 +369,7 @@ Digests:
             </section>
             <hr>
             <section>
-              <h2 id="section_5" role="button" style="text-align: left;"><img src="https://oracle.github.io/linux-labs/img/32_5.png"
+              <h2 id="section_5" role="button" style="text-align: left;"><img src="/linux-labs/img/32_5.png"
 
                   alt="section 5" class="num_circ" height="32" width="32">Mount
                 the encrypted filesystem on boot</h2>
@@ -416,7 +416,7 @@ Filesystem               Size  Used Avail Use% Mounted on
             </section>
             <hr>
             <section>
-              <h2 id="section_6" role="button" style="text-align: left;"><img src="https://oracle.github.io/linux-labs/img/32_6.png"
+              <h2 id="section_6" role="button" style="text-align: left;"><img src="/linux-labs/img/32_6.png"
 
                   alt="section 6" class="num_circ" height="32" width="32">Optional:
                 Remove known passphrase</h2>
@@ -485,7 +485,7 @@ Digests:
             </section>
             <hr>
             <section>
-              <h2 id="section_7" role="button" style="text-align: left;"><img src="https://oracle.github.io/linux-labs/img/32_7.png"
+              <h2 id="section_7" role="button" style="text-align: left;"><img src="/linux-labs/img/32_7.png"
 
                   alt="section 7" class="num_circ" height="32" width="32">Appendix:
                 Unlock encrypted root during boot</h2>
@@ -513,7 +513,7 @@ Digests:
             <hr>
             <section>
               <!-- Include the More Information section only in a standalone tutorial or in the final lab or tutorial in a series (not in a learning path) -->
-              <h2 id="more_info" role="button" style="text-align: left;"><img src="https://oracle.github.io/linux-labs/img/32_more.png"
+              <h2 id="more_info" role="button" style="text-align: left;"><img src="/linux-labs/img/32_more.png"
 
                   alt="more information" class="num_circ" height="32" width="32">Want
                 to Learn More?</h2>
