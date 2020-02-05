@@ -13,7 +13,7 @@ Vagrant.configure("2") do |config|
   # Memory for the VMs (2GB)
   MEMORY = 2048
 
-  GROUP = "/Disk-encryption-lab"
+  GROUP = "/NBDE-lab"
 
   # We start from the latest OL 8 Box
   config.vm.box = "ol8-latest"
