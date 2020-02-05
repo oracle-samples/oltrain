@@ -45,7 +45,7 @@ Vagrant.configure("2") do |config|
 
   config.vm.define "appserver" do |appserver|
     appserver.vm.hostname = "appserver.vagrant.vm"
-	appserver.vm.network "private_network", ip: "192.168.99.201"
+    appserver.vm.network "private_network", ip: "192.168.99.201"
   end
 
   config.vm.post_up_message = "Build complete"
