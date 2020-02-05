@@ -128,10 +128,10 @@ Connection to 127.0.0.1 closed.</pre>
                   <p>To automatically configure the <code>/etc/hosts</code>
                     file of our VMs we use the <code>vagrant-hosts</code>
                     plugin </p>
-                  <pre>[user@demo luks-clevis-tang]$ <strong>vagrant plugin install vagrant-hosts</strong></pre>
+                  <pre>[user@demo NBDE]$ <strong>vagrant plugin install vagrant-hosts</strong></pre>
                 </li>
                 <li>Start the lab virtual machines
-                  <pre>[user@demo luks-clevis-tang]$ <strong>vagrant up</strong></pre>
+                  <pre>[user@demo NBDE]$ <strong>vagrant up</strong></pre>
                 </li>
               </ol>
               <p>Vagrant will download an Oracle Linux 8 image and create two
@@ -406,8 +406,8 @@ Digests:
 Connection to 127.0.0.1 closed by remote host.
 Connection to 127.0.0.1 closed.
 </pre>
-                  <pre>[user@demo luks-clevis-tang]$ <strong>vagrant up appserver</strong></pre>
-                  <pre>[user@demo luks-clevis-tang]$ <strong>vagrant ssh appserver</strong></pre>
+                  <pre>[user@demo NBDE]$ <strong>vagrant up appserver</strong></pre>
+                  <pre>[user@demo NBDE]$ <strong>vagrant ssh appserver</strong></pre>
                   <pre>[vagrant@appserver]$ <strong>df -h /encrypted/</strong>
 Filesystem               Size  Used Avail Use% Mounted on
 /dev/mapper/exampledisk   16G  144M   16G   1% /encrypted</pre>
