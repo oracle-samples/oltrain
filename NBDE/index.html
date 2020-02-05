@@ -65,11 +65,11 @@
               <ul>
                 <li>Linux Unified Key Setup (LUKS) is a disk encryption
                   standard.</li>
-                <li><a href="https://gitlab.com/cryptsetup/cryptsetup/-/wikis/home">Cryptsetup</a>
-                  configures disk based encryption and includes support for LUKS</li>
-                <li><a href="https://github.com/latchset/tang">Tang</a> is a
+                <li><a href="https://gitlab.com/cryptsetup/cryptsetup/-/wikis/home" target="_blank">Cryptsetup</a> configures disk
+                  based encryption and includes support for LUKS</li>
+                <li><a href="https://github.com/latchset/tang" target="_blank">Tang</a> is a
                   network service that provides cryptographic services over HTTP</li>
-                <li><a href="https://github.com/latchset/clevis">Clevis</a> is
+                <li><a href="https://github.com/latchset/clevis" target="_blank">Clevis</a> is
                   an encryption framework. Clevis can use keys provided by Tang
                   as a passphrase to unlock LUKS volumes</li>
               </ul>
@@ -296,11 +296,10 @@ The advertisement contains the following signing keys:
 
 Do you wish to trust these keys? [ynYN] <strong>y</strong>
 Enter existing LUKS password: <strong>examplepassphrase</strong></pre>
-                  <p>Because no private keys are exchanged between the
-                    keyserver and the host with the encrypted disk,
-                    TLS is not required. However a reverse proxy could be
-                    implemented to do SSL/TLS termination as Clevis supports
-                    HTTPS.</p>
+                  <p>Because no private keys are exchanged between the keyserver
+                    and the host with the encrypted disk, TLS is not required.
+                    However a reverse proxy could be implemented to do SSL/TLS
+                    termination as Clevis supports HTTPS.</p>
                 </li>
                 <li>Show there is a new keyslot in use by Clevis in slot 1<br>
                   <pre>[vagrant@appserver ~]$ <strong>sudo cryptsetup luksDump /dev/sdb</strong>
@@ -554,7 +553,7 @@ Digests:
 
                   target="_blank">Your Privacy Rights</a> </li>
               <li> <a href="https://www.oracle.com/pls/topic/lookup?ctx=cpyr&amp;id=en">Copyright
-                  © 2018, Oracle and/or its affiliates. All rights reserved.</a></li>
+                  © 2020, Oracle and/or its affiliates.</a></li>
             </ul>
           </footer>
         </div>
