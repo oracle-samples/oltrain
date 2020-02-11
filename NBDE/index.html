@@ -180,7 +180,7 @@ Connection to 127.0.0.1 closed.</pre>
                   <pre>[vagrant@appserver ~]$ <strong>sudo dnf install -y cryptsetup</strong></pre>
                 </li>
                 <li>Create an encrypted disk
-                  <pre>[vagrant@appserver ~]$ <strong>sudo cryptsetup --verbose luksFormat /dev/sdb</strong>
+                  <pre>[vagrant@appserver ~]$ <strong>sudo cryptsetup luksFormat --type luks2 --cipher aes-xts-plain64 --key-size 512 --hash sha256 --use-random /dev/sdb</strong>
 
 WARNING!
 ========
@@ -191,6 +191,9 @@ Enter passphrase for /dev/sdb: <strong>examplepassphrase</strong>
 Verify passphrase: <strong>examplepassphrase</strong>
 Key slot 0 created.
 Command successful.                  </pre>
+                  <p> These options are given as an example and you may need to
+                    alter the cipher, hash and key size to fit your environment.
+                  </p>
                 </li>
                 <li>Unlock the block device for use
                   <pre>[vagrant@appserver ~]$ <strong>sudo cryptsetup --verbose luksOpen /dev/sdb demodisk </strong>
@@ -297,9 +300,11 @@ The advertisement contains the following signing keys:
 Do you wish to trust these keys? [ynYN] <strong>y</strong>
 Enter existing LUKS password: <strong>examplepassphrase</strong></pre>
                   <p>Because no private keys are exchanged between the keyserver
-                    and the host with the encrypted disk, TLS is not required.
-                    However a reverse proxy could be implemented to do SSL/TLS
-                    termination as Clevis supports HTTPS.</p>
+                    and the host with the encrypted disk you may determine TLS is not required in your environment.
+                    A reverse proxy may be used to do SSL/TLS termination for Tang as Clevis supports HTTPS.</p>
+                  <p>
+                    If you choose to use HTTPS then your host with the encrypted disk must trust the Certificate Authority used to sign the reverse proxy, see update-ca-trust(8)
+                  </p>
                 </li>
                 <li>Show there is a new keyslot in use by Clevis in slot 1<br>
                   <pre>[vagrant@appserver ~]$ <strong>sudo cryptsetup luksDump /dev/sdb</strong>
