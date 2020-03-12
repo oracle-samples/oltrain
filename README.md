@@ -16,7 +16,7 @@ environment using [Oracle VM VirtualBox](https://virtualbox.org) and
 
 # License
 
-Copyright &copy; 2019 Oracle and/or its associates. All rights reserved.
+Copyright &copy; 2019,2020 Oracle and/or its associates. 
 
 All content in this repository is distributed under the [Universal Permissive 
 License 1.0](https://oss.oracle.com/licenses/upl/).
