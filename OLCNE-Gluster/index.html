@@ -1,48 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
   <head>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <!-- Published date: January 2020 -->
     <!-- Template date: October 15, 2018 -->
+    <meta name="jarvis_url" content="/en/operating-systems/oracle-linux/8/obe-template"/>
+    <meta name="part_number" content="Fnnnnn_01"/>
+    <meta name="jarvis_pub_guid" content="OL8-OBE-TEMPLATE"/>
+    <meta name="jarvis_metadata_language" content="en"/>
+    <meta name="jarvis_metadata_category" content="operating-systems"/>
+    <meta name="jarvis_metadata_suite" content="linux"/>
+    <meta name="jarvis_metadata_product_group" content="not-applicable"/>
+    <meta name="jarvis_metadata_product" content="oracle-linux"/>
+    <meta name="jarvis_metadata_release" content="8"/>
+    <meta name="jarvis_metadata_pubalias" content="obe-template"/>
+    
     <!-- Put the content ID of this OBE between the empty quotation marks for 'content' below -->
-    <meta name="contentid" content="">
+    <meta name="contentid" content="" />
+    <meta content="text/html; charset=utf-8" http-equiv="content-type" />
     <!-- The title below is displayed on the browser tab, in search results, and in  history. It can be longer than the tutorial title in the <h1> element, below.-->
     <!-- Use an imperative verb in the title. -->
-    <title>Dynamic provisioning of Gluster volumes with the Kubernetes module of
-      Oracle Linux Cloud Native Environment</title>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="robots" content="INDEX, FOLLOW">
-    <meta name="description" content="Learn how to configure Heketi, Gluster and Kubernetes to dynamically create storage volumes as users request them.">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/linux-labs/css/normalize.min.css">
-    <link rel="stylesheet" href="/linux-labs/css/font-awesome.min.css">
-    <link rel="stylesheet" href="/linux-labs/css/obe-lite.css">
-    <script src="/linux-labs/js/jquery-1.11.0.min.js"></script>
-    <script src="/linux-labs/js/jquery-ui-1.10.4.custom.js"></script>
-    <script src="/linux-labs/js/jquery.tocify.jd.js"></script>
-    <script src="/linux-labs/js/leftnav.js"></script>
+    <title>Dynamic provisioning of Gluster volumes with the Kubernetes module of Oracle Linux Cloud Native Environment</title>
+    
+    <meta name="robots" content="INDEX, FOLLOW" />
+    <meta name="description" content="Learn how to configure Heketi, Gluster and Kubernetes to dynamically create storage volumes as users request them." />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="https://docs.oracle.com/en/operating-systems/oracle-linux/obe-style-js/css/normalize.min.css"/>
+    <link rel="stylesheet" href="https://docs.oracle.com/en/operating-systems/oracle-linux/obe-style-js/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://docs.oracle.com/en/operating-systems/oracle-linux/obe-style-js/css/obe-lite.css" />
+    <link rel="stylesheet" href="https://docs.oracle.com/en/operating-systems/oracle-linux/obe-style-js/css/obe-linux.css" />
+    <script src="https://docs.oracle.com/en/operating-systems/oracle-linux/obe-style-js/js/jquery-1.11.0.min.js"></script>
+    <script src="https://docs.oracle.com/en/operating-systems/oracle-linux/obe-style-js/js/jquery-ui-1.10.4.custom.js"></script>
+    <script src="https://docs.oracle.com/en/operating-systems/oracle-linux/obe-style-js/js/jquery.tocify.jd.js"></script>
+    <script src="https://docs.oracle.com/en/operating-systems/oracle-linux/obe-style-js/js/leftnav.js"></script>
   </head>
   <body>
     <header>
-      <div class="w1024" style="min-height:55px; display:block;"> <a href="https://docs.oracle.com"
-
-          class="oracle-logo"> <img src="/linux-labs/img/oracle_doc_logo.png" alt="Oracle Documentation"
-
-            style="max-width: none;" height="22" width="236"></a> </div>
+      <div class="w1024"> <a href="https://docs.oracle.com" class="oracle-logo">
+        <img src="https://docs.oracle.com/en/operating-systems/oracle-linux/obe-style-js/img/oracle_doc_logo.png" alt="Oracle Documentation"/></a>
+      </div>
     </header>
     <!--end header-->
+    
     <div id="content">
+      
       <!-- The title below is displayed as the title at the top of the OBE page. It can be shorter than the title in the <title> element, above. -->
       <!-- Use an imperative verb in the title. -->
-      <h1><img src="/linux-labs/img/obe_tag.png" alt="Oracle by Example branding" align="middle">Using
-        Gluster with Oracle Linux Cloud Native Environment</h1>
+      <h1>Dynamic provisioning of Gluster volumes with the Kubernetes module of Oracle Linux Cloud Native Environment</h1>
       <div class="w1024" style="clear:both; position:relative; margin-top:40px;">
         <div class="navbackwide border-right"><!-- --></div>
         <div id="shownav" title="Show Navigation" tabindex="0"><span class="fa fa-list"></span></div>
         <div id="sidebar"><!-- -->
           <div class="left-nav-tut"><!-- -->
             <div id="hidenavw" title="Hide Navigation" tabindex="0"><span class="fa fa-close"></span></div>
-            <div id="navbar" class="left-nav-w"><!-- -->
+            <div  id="navbar" class="left-nav-w"><!-- -->
+              <img src="https://docs.oracle.com/en/operating-systems/oracle-linux/obe-style-js/img/obe_tag.png" class="obe-logo" alt="Oracle by Example branding" />
               <div id="toc" class="tocify"><!-- --></div>
             </div>
           </div>
@@ -50,41 +61,37 @@
         <div id="bookContainer">
           <article>
             <section>
-              <h2><img src="/linux-labs/img/32_begin.png" alt="section 0" class="num_circ" height="32"
-
-                  width="32">Before You Begin</h2>
+              <h2><img src="https://docs.oracle.com/en/operating-systems/oracle-linux/obe-style-js//img/32_begin.png" alt="section 0" height="32" width="32" class="num_circ"/>Before You Begin</h2>
               <p>This 30-minute tutorial shows you how to configure Oracle Linux
                 components to dynamically create storage volumes as Kubernetes
-                users request them.</p>
+                users request them. </p>
               <h3>Background</h3>
               <p>The Kubernetes module for the Oracle Linux Cloud Native
                 Environment (OLCNE) includes multiple storage class <a class="jive-link-external-small"
-
+                  
                   href="https://v1-14.docs.kubernetes.io/docs/concepts/storage/storage-classes/#provisioner"
-
+                  
                   rel="nofollow" target="_blank">provisioners</a>. In this
                 example we will create an integrated system where Kubernetes
                 workers provide persistent <a class="jive-link-external-small"
-
+                  
                   href="https://www.gluster.org/" rel="nofollow" target="_blank">Gluster</a>
                 based storage in addition to their normal execution duties.</p>
               <p>Using the Kubernetes Glusterfs plugin and <a class="jive-link-external-small"
-
-                  href="https://github.com/heketi/heketi" rel="nofollow" target="_blank">Heketi</a>
+                
+                href="https://github.com/heketi/heketi" rel="nofollow" target="_blank">Heketi</a>
                 we can then dynamically provision Gluster volumes for use as
                 Kubernetes <a class="jive-link-external-small" href="https://v1-14.docs.kubernetes.io/docs/concepts/storage/persistent-volumes/"
-
+                  
                   rel="nofollow" target="_blank">PersistentVolumes</a> and
                 automatically destroy them when the <a href="https://v1-14.docs.kubernetes.io/docs/concepts/storage/persistent-volumes/#persistentvolumeclaims"
-
-                  target="_blank">PersistentVolumeClaims</a> are deleted.</p>
-              <p><br>
-              </p>
+                  
+                  target="_blank">PersistentVolumeClaims</a> are deleted.</p>  
               <h3>What Do You Need?</h3>
               <p>There are existing examples for installing the Kubernetes
                 module so to avoid repetition we'll work from the Vagrant build
                 available at <a class="jive-link-external-small" href="https://github.com/oracle/vagrant-boxes/"
-
+                  
                   rel="nofollow" target="_blank">https://github.com/oracle/vagrant-boxes/</a>
               </p>
               <p>It will create four VMs for us, one master and three worker
@@ -96,21 +103,20 @@
               <ul>
                 <li>Vagrant from <a href="https://www.vagrantup.com/" target="_blank">https://www.vagrantup.com/</a></li>
                 <li>Oracle VirtualBox from <a href="https://www.virtualbox.org/"
-
-                    target="_blank">https://www.virtualbox.org/</a></li>
+                  
+                  target="_blank">https://www.virtualbox.org/</a></li>
               </ul>
-              <h3><br>
-              </h3>
               <h3>Environment</h3>
               <p>This lab involves multiple VMs and you will need to perform
                 different steps on different VMs. The easiest way to do this is
                 through the vagrant command </p>
               <p><code>vagrant ssh &lt;hostname</code><span style="font-family: &quot;Courier New&quot;,Courier,monospace;">&gt;</span></p>
               <p>Once connected you can return to your desktop with a standard <code>
-                  logout</code> or <code>exit</code> command.</p>
+                logout</code> or <code>exit</code> command.</p>
               <p> For example </p>
-              <ol>
-                <pre>[user@demo lab]$ <strong>vagrant ssh master1</strong>
+              <ol style="list-style: none;">
+                <li>
+                  <pre>[user@demo lab]$ <strong>vagrant ssh master1</strong>
 Last login: Tue Aug 20 23:56:58 2019 from 10.0.2.2
 [vagrant@master1 ~]$ <strong>hostname</strong>
 master1.vagrant.vm
@@ -123,33 +129,26 @@ Last login: Tue Aug 20 05:25:49 2019 from 10.0.2.2
 worker1.vagrant.vm
 [vagrant@worker1 ~]$ <strong>logout</strong>
 Connection to 127.0.0.1 closed.</pre>
+                </li>
               </ol>
-              <p><br>
-              </p>
-              <ul>
-              </ul>
             </section>
-            <!-- ========================================================================================================================= -->
-            <section>
-              <hr>
-              <h2 id="section_1" role="button" style="text-align: left;"><img src="/linux-labs/img/32_1.png"
 
-                  alt="section 1" class="num_circ" height="32" width="32">Start
-                the Lab environment</h2>
-              <p><br>
-              </p>
+            <!-- ========================================================================================================================= -->
+            <section class="step">
+              <hr/>
+              <h2>Start the Lab environment</h2>
+              <p>You will first download and start the VMs we will be using in
+                 this lab environment. This is simplified through the use of
+                 Vagrant.</p>
               <ol>
                 <li>Clone the Git repository and change to the OLCNE directory
                   <pre>[user@demo lab]$ <strong>git clone https://github.com/oracle/vagrant-boxes</strong>
 [user@demo lab]$ <strong>cd vagrant-boxes/OLCNE</strong></pre>
                 </li>
                 <li>Install the Vagrant plugins
-                  <p>To avoid directly modifying the Vagrantfile we override its
-                    parameters with <code>vagrant-env</code> </p>
+                  <p>To avoid directly modifying the Vagrantfile we override its parameters with <code>vagrant-env</code> </p>
                   <pre>[user@demo lab]$ <strong>vagrant plugin install vagrant-env</strong></pre>
-                  <p>To automatically configure the <code>/etc/hosts</code>
-                    file of our VMs we use the <code>vagrant-hosts</code>
-                    plugin </p>
+                  <p>To automatically configure the <code>/etc/hosts</code> file of our VMs we use the <code>vagrant-hosts</code> plugin </p>
                   <pre>[user@demo lab]$ <strong>vagrant plugin install vagrant-hosts</strong></pre>
                 </li>
                 <li>Define the environment file <code>.env.local</code>
@@ -158,9 +157,9 @@ Connection to 127.0.0.1 closed.</pre>
                     requires three replicas by default.</p>
                   <pre>[user@demo lab]$ <strong>cp .env .env.local</strong>
 [user@demo lab]$ <strong>vi .env.local</strong></pre>
-                  Uncomment and update the line that defines MEMORY to be <br>
+                  <p>Uncomment and update the line that defines MEMORY to be </p>
                   <pre>MEMORY = 3072</pre>
-                  Uncomment and update the line that defines NB_WORKERS to be
+                  <p>Uncomment and update the line that defines NB_WORKERS to be </p>
                   <pre>NB_WORKERS = 3</pre>
                 </li>
                 <li>Start the cluster
@@ -182,17 +181,13 @@ master1: worker3.vagrant.vm   Ready    &lt;none&gt;   3m59s   v1.14.8+1.0.2.el7<
                 </li>
               </ol>
             </section>
-            <hr>
-            <section>
-              <h2 id="section_2" role="button" style="text-align: left;"><img src="/linux-labs/img/32_2.png"
-
-                  alt="section 2" class="num_circ" height="32" width="32">Configure
-                the workers</h2>
-              <p>For each of the workers we will install and configure the
-                Gluster service.</p>
+            <hr/>
+            <section class="step">
+              <h2>Configure the workers</h2>
+              <p>For each of the workers we will install and configure the Gluster service.</p>
               <p>Open three terminal windows and use the <code>vagrant ssh
-                  hostname</code> command to connect to the three workers: <code>worker1</code>,
-                <code>worker2</code> and <code>worker3</code>.</p>
+                 hostname</code> command to connect to the three workers: <code>worker1</code>,
+                 <code>worker2</code> and <code>worker3</code>.</p>
               <ol>
                 <li>Enable the RPM repositories
                   <pre>[vagrant@worker1 ~]$ <strong>sudo yum install -y oracle-gluster-release-el7</strong></pre>
@@ -204,8 +199,7 @@ master1: worker3.vagrant.vm   Ready    &lt;none&gt;   3m59s   v1.14.8+1.0.2.el7<
                   <pre>[vagrant@worker1 ~]$ <strong>sudo firewall-cmd --add-service=glusterfs --permanent</strong>
 [vagrant@worker1 ~]$ <strong>sudo firewall-cmd --reload</strong></pre>
                 </li>
-                <li>Setup the Gluster environment with TLS to encrypt management
-                  traffic between Gluster nodes<br>
+                <li>Setup the Gluster environment with TLS to encrypt management traffic between Gluster nodes
                   <p>As we're using the OLCNE vagrant box there are already
                     x.509 certificates created so we shall re-use them</p>
                   <pre>[vagrant@worker1 ~]$ <strong>sudo cp /etc/olcne/pki/production/ca.cert /etc/ssl/glusterfs.ca</strong>
@@ -223,12 +217,9 @@ master1: worker3.vagrant.vm   Ready    &lt;none&gt;   3m59s   v1.14.8+1.0.2.el7<
               <p>Remember to execute these steps on all three worker VMs. After
                 this you can close the three connections to the worker VMs.</p>
             </section>
-            <hr>
-            <section>
-              <h2 id="section_3" role="button" style="text-align: left;"><img src="/linux-labs/img/32_3.png"
-
-                  alt="section 3" class="num_circ" height="32" width="32">Configure
-                the master</h2>
+            <hr/>
+            <section class="step">
+              <h2>Configure the master</h2>
               <p>With Gluster installed on the workers we will install and
                 configure Heketi which will use the Gluster nodes to provision
                 storage. </p>
@@ -345,11 +336,8 @@ Hello from Heketi</pre>
   ]
 }</pre>
                 </li>
-                <li>Load the Heketi topology file using the username and
-                  password defined in step five
-                  <pre>[vagrant@master1~]$ <strong>heketi-cli --user admin \
-                       --secret "Admin Password" \
-                       topology load --json=/etc/heketi/topology.json</strong>
+                <li>Load the Heketi topology file using the username and password defined in step five
+                  <pre>[vagrant@master1~]$ <strong>heketi-cli --user admin --secret "Admin Password" topology load --json=/etc/heketi/topology.json</strong>
 Creating cluster ... ID: b569b6963558a97481a8d6830122866c
     Allowing file volumes on cluster.
     Allowing block volumes on cluster.
@@ -361,8 +349,7 @@ Creating cluster ... ID: b569b6963558a97481a8d6830122866c
       Adding device /dev/sdb ... OK</pre>
                 </li>
                 <li> List the nodes of known clusters
-                  <pre>[vagrant@master1~]$ <strong>heketi-cli --secret "Admin Password" --user admin \
-                        node list</strong>
+                  <pre>[vagrant@master1~]$ <strong>heketi-cli --secret "Admin Password" --user admin node list</strong>
 Id:04945b7cbe3d21121a99a1ade306ded0
 Cluster:b569b6963558a97481a8d6830122866c
 Id:22905523990f4d110beeefb88f319af9
@@ -372,30 +359,19 @@ Cluster:b569b6963558a97481a8d6830122866c</pre>
                 </li>
               </ol>
             </section>
-            <hr>
-            <section>
-              <h2 id="section_4" role="button" style="text-align: left;"><img src="/linux-labs/img/32_4.png"
-
-                  alt="section 4" class="num_circ" height="32" width="32">Configure
-                Kubernetes</h2>
+            <hr/>
+            <section class="step">
+              <h2>Configure Kubernetes</h2>
               <p>With Heketi configured we must now configure Kubernetes to
                 communicate with Heketi when volumes are requested. </p>
               <p>We perform this step on the VM <code>master1</code>,
                 connecting with the <code>vagrant ssh hostname</code> command.</p>
               <ol>
-                <li>Create a <a href="https://v1-14.docs.kubernetes.io/docs/concepts/configuration/secret/"
-
-                    target="_blank">Secret</a> object to store our Heketi
-                  administrator passphrase
-                  <pre>[vagrant@master1~]$ <strong>kubectl create secret generic heketi-admin \
-  --type='kubernetes.io/glusterfs' --from-literal=key='Admin Password' \
-  --namespace=default</strong>
+                <li>Create a <a href="https://v1-14.docs.kubernetes.io/docs/concepts/configuration/secret/" target="_blank">Secret</a> object to store our Heketi administrator passphrase
+                  <pre>[vagrant@master1~]$ <strong>kubectl create secret generic heketi-admin --type='kubernetes.io/glusterfs' --from-literal=key='Admin Password' --namespace=default</strong>
 secret/heketi-admin created</pre>
                 </li>
-                <li> Create the hyperconverged <a href="https://v1-14.docs.kubernetes.io/docs/concepts/storage/storage-classes/"
-
-                    target="_blank">StorageClass</a> object as the default
-                  StorageClass
+                <li> Create the hyperconverged <a href="https://v1-14.docs.kubernetes.io/docs/concepts/storage/storage-classes/" target="_blank">StorageClass</a> object as the default StorageClass
                   <pre>[vagrant@master1~]$ <strong>cat &lt;&lt; EOF | kubectl apply -f -
 apiVersion: storage.k8s.io/v1
 kind: StorageClass
@@ -435,8 +411,7 @@ persistentvolumeclaim/gluster-pvc-3 created
 persistentvolumeclaim/gluster-pvc-4 created
 persistentvolumeclaim/gluster-pvc-5 created </pre>
                 </li>
-                <li>Verify the PersistentVolumeClaims are dynamically filled by
-                  Gluster volumes
+                <li>Verify the PersistentVolumeClaims are dynamically filled by Gluster volumes
                   <p> It may take a few moments for these to be assigned </p>
                   <pre>[vagrant@master1 ~]$ <strong>kubectl get pvc</strong>
 NAME            STATUS   VOLUME                                     CAPACITY   ACCESS MODES   STORAGECLASS     AGE
@@ -447,10 +422,7 @@ gluster-pvc-3   Bound    pvc-a6cf6b06-328d-11ea-ab06-08002720edbc   1Gi        R
 gluster-pvc-4   Bound    pvc-a6ec2027-328d-11ea-ab06-08002720edbc   1Gi        RWX            hyperconverged   42s
 gluster-pvc-5   Bound    pvc-a707ffff-328d-11ea-ab06-08002720edbc   1Gi        RWX            hyperconverged   42s </pre>
                 </li>
-                <li>Create an example <a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/"
-
-                    target="_blank">Deployment</a> that uses a
-                  PersistentVolumeClaim defined above
+                <li>Create an example <a href="https://kubernetes.io/docs/concepts/workloads/controllers/deployment/" target="_blank">Deployment</a> that uses a PersistentVolumeClaim defined above
                   <pre>[vagrant@master1~]$ <strong>cat &lt;&lt; EOF | kubectl apply -f -
 apiVersion: apps/v1
 kind: Deployment
@@ -483,8 +455,7 @@ spec:
 EOF</strong>
 deployment.apps/demo-nginx created </pre>
                 </li>
-                <li>Ensure that our example Gluster backed nginx pod has started
-                  successfully
+                <li>Ensure that our example Gluster backed nginx pod has started successfully
                   <pre>[vagrant@master1 ~]$ <strong>kubectl get pod -l run=demo-nginx </strong>
 NAME                          READY   STATUS    RESTARTS   AGE
 demo-nginx-75fd7f5594-bsqf4   1/1     Running   0          88s</pre>
@@ -500,11 +471,9 @@ demo-nginx-75fd7f5594-bsqf4   1/1     Running   0          88s</pre>
                 volumes when a PersistantVolumeClaim is created and deleting
                 them when the PersistantVolumeClaim is deleted. </p>
             </section>
-            <hr>
-            <section>
-              <h2 id="section_5" role="button" style="text-align: left;"><img src="/linux-labs/img/32_5.png"
-
-                  alt="section 5" class="num_circ" height="32" width="32">Summary</h2>
+            <hr/>
+            <section class="step">
+              <h2>Summary</h2>
               <p>When a PersistantVolumeClaim is made the Kubernetes API Server
                 (running on master1) will request a volume from Heketi (running
                 on master1). Heketi will create a Gluster volume from the three
@@ -516,12 +485,9 @@ demo-nginx-75fd7f5594-bsqf4   1/1     Running   0          88s</pre>
                 encryption enabled, the above configuration only enables
                 encryption of management traffic.</p>
             </section>
-            <hr>
-            <section>
-              <h2 id="section_6" role="button" style="text-align: left;"><img src="/linux-labs/img/32_6.png"
-
-                  alt="section 6" class="num_circ" height="32" width="32">Appendix
-                A: Enabling TLS in Heketi</h2>
+            <hr/>
+            <section class="step">
+              <h2>Appendix A: Enabling TLS in Heketi</h2>
               <p> When deploying in production you may want to encrypt
                 communications between the Kubernetes API server and Heketi. In
                 section four we configured Heketi and the StorageClass to use
@@ -557,14 +523,16 @@ demo-nginx-75fd7f5594-bsqf4   1/1     Running   0          88s</pre>
   "_use_auth": "Enable JWT authorization. Please enable for deployment",
   "use_auth": true,
   ...
-</pre> </li>
+</pre> 
+                </li>
                 <li> Restart the service
                   <pre>[vagrant@master1~]$ <strong>sudo systemctl restart heketi.service</strong></pre>
                 </li>
                 <li> Trust the example Certificate Authority
                   <pre>[vagrant@master1~]$ <strong>sudo cp /etc/olcne/pki/production/ca.cert /etc/pki/ca-trust/source/anchors/</strong>
 [vagrant@master1~]$ <strong>sudo update-ca-trust extract</strong>
-</pre> </li>
+</pre> 
+                </li>
                 <li> Validate HTTPS Heketi is working
                   <pre>[vagrant@master1~]$ <strong>curl https://localhost:8080/hello</strong>
 Hello from Heketi</pre>
@@ -594,19 +562,15 @@ parameters:
 EOF</strong>
 storageclass.storage.k8s.io/hyperconverged created</pre>
                 </li>
-                <li>To use further <code>heketi-cli</code> commands you must
-                  first declare the HTTPS url
+                <li>To use further <code>heketi-cli</code> commands you must first declare the HTTPS url
                   <pre>[vagrant@master1 ~]$ <strong>export HEKETI_CLI_SERVER=https://localhost:8080</strong></pre>
                 </li>
               </ol>
               <p> Heketi communications are now encrypted.</p>
             </section>
-            <hr>
-            <section>
-              <h2 id="section_7" role="button" style="text-align: left;"><img src="/linux-labs/img/32_7.png"
-
-                  alt="section 7" class="num_circ" height="32" width="32">Appendix
-                B: Example Gluster output</h2>
+            <hr/>
+            <section class="step">
+              <h2>Appendix B: Example Gluster output</h2>
               <ol>
                 <li>(Optional) Define the Heketi server URL
                   <p> If you have completed <em>Appendix A: Enabling TLS in
@@ -614,9 +578,7 @@ storageclass.storage.k8s.io/hyperconverged created</pre>
                   <pre>[vagrant@master1 ~]$ <strong>export HEKETI_CLI_SERVER=https://localhost:8080</strong></pre>
                 </li>
                 <li>List volumes
-                  <pre>[vagrant@master1 ~]$ <strong>heketi-cli --user admin \
-                                --secret "Admin Password" \
-                                volume list</strong>
+                  <pre>[vagrant@master1 ~]$ <strong>heketi-cli --user admin --secret "Admin Password" volume list</strong>
 Id:6f8138811d8b7e39d145234cccd2e6b7    Cluster:b569b6963558a97481a8d6830122866c    Name:vol_6f8138811d8b7e39d145234cccd2e6b7
 Id:82d135b634f32c57ee2973ad14655e3f    Cluster:b569b6963558a97481a8d6830122866c    Name:vol_82d135b634f32c57ee2973ad14655e3f
 Id:bcc202bc33ae7a9276ff276547be3914    Cluster:b569b6963558a97481a8d6830122866c    Name:vol_bcc202bc33ae7a9276ff276547be3914
@@ -625,9 +587,7 @@ Id:ea43fee36910d74a8a5e9979798ee861    Cluster:b569b6963558a97481a8d6830122866c 
 Id:fbe0f5ba7eac242723c47951f1c8887d    Cluster:b569b6963558a97481a8d6830122866c    Name:vol_fbe0f5ba7eac242723c47951f1c8887d</pre>
                 </li>
                 <li>Show volume info
-                  <pre>[vagrant@master1 ~]$ <strong>heketi-cli --user admin \
-                                --secret "Admin Password" \
-                                volume info 6f8138811d8b7e39d145234cccd2e6b7</strong>
+                  <pre>[vagrant@master1 ~]$ <strong>heketi-cli --user admin --secret "Admin Password" volume info 6f8138811d8b7e39d145234cccd2e6b7</strong>
 Name: vol_6f8138811d8b7e39d145234cccd2e6b7
 Size: 1
 Volume Id: 6f8138811d8b7e39d145234cccd2e6b7
@@ -643,10 +603,8 @@ Durability Type: replicate
 Distributed+Replica: 3
 Snapshot Factor: 1.00
 </pre> </li>
-                <li>Show the state of the Gluster volume from a workers
-                  perspective
-                  <pre>[vagrant@worker1 ~]$ <strong>sudo gluster volume status \
-                                vol_6f8138811d8b7e39d145234cccd2e6b7</strong>
+                <li>Show the state of the Gluster volume from a workers perspective
+                  <pre>[vagrant@worker1 ~]$ <strong>sudo gluster volume status vol_6f8138811d8b7e39d145234cccd2e6b7</strong>
 Status of volume: vol_6f8138811d8b7e39d145234cccd2e6b7
 Gluster process                             TCP Port  RDMA Port  Online  Pid
 ------------------------------------------------------------------------------
@@ -669,68 +627,68 @@ There are no active volume tasks</pre>
                 </li>
               </ol>
             </section>
-            <hr>
+            
+            <!--
+                        <hr/>
+                        <section>
+                            <h2 id="next"  style="text-align: left;"><img src="https://docs.oracle.com/en/operating-systems/oracle-linux/obe-style-js//img/32_next.png" alt="next step" height="32" width="32" class="num_circ"/>Next Tutorial</h2>
+                            <p>...</p>
+                        </section>
+                        -->
+            <hr/>
             <section>
               <!-- Include the More Information section only in a standalone tutorial or in the final lab or tutorial in a series (not in a learning path) -->
-              <h2 id="more_info" role="button" style="text-align: left;"><img src="/linux-labs/img/32_more.png"
-
-                  alt="more information" class="num_circ" height="32" width="32">Want
-                to Learn More?</h2>
+              <h2 id="more_info"  style="text-align: left;"><img src="https://docs.oracle.com/en/operating-systems/oracle-linux/obe-style-js//img/32_more.png" alt="more information" height="32" width="32" class="num_circ"/>Want to Learn More?</h2>
               <ul>
-                <li><a href="https://v1-14.docs.kubernetes.io/docs/concepts/storage/storage-classes/#glusterfs"
-
-                    target="_blank">Glusterfs StorageClass</a></li>
-                <li><a href="https://docs.oracle.com/en/operating-systems/oracle-linux/gluster-storage/gluster-tls.html"
-
-                    target="_blank">Gluster: Setting up Transport Layer Security</a></li>
-                <li><a href="https://docs.oracle.com/en/operating-systems/oracle-linux/gluster-storage/gluster-using.html"
-
-                    target="_blank">Gluster: Setting up Volumes</a></li>
+                <li><a href="https://v1-14.docs.kubernetes.io/docs/concepts/storage/storage-classes/#glusterfs" target="_blank">Glusterfs StorageClass</a></li>
+                <li><a href="https://docs.oracle.com/en/operating-systems/oracle-linux/gluster-storage/gluster-tls.html" target="_blank">Gluster: Setting up Transport Layer Security</a></li>
+                <li><a href="https://docs.oracle.com/en/operating-systems/oracle-linux/gluster-storage/gluster-using.html" target="_blank">Gluster: Setting up Volumes</a></li>
               </ul>
             </section>
-            <hr> </article>
+            <hr/>
+          </article>
         </div>
-        <br class="clearfloat">
+        <br class="clearfloat"/>
       </div>
     </div>
-    <!--close main-->
+    <!--close main--> 
     <!--end content-->
     <div class="footer-container ">
       <div style="max-width: 994px; padding:10px 0 0 17px;">
         <footer class="footer-list">
           <ul>
-            <li> <a href="https://www.oracle.com/corporate/index.html" target="_blank">About
-                Oracle</a> </li>
-            <li> <a href="https://www.oracle.com/us/corporate/contact/index.html"
-
-                target="_blank">Contact Us</a> </li>
-            <li> <a href="https://www.oracle.com/us/legal/index.html" target="_blank">Legal
-                Notices</a> </li>
-            <li> <a href="https://www.oracle.com/us/legal/terms/index.html" target="_blank">Terms
-                of Use</a> </li>
-            <li> <a href="https://www.oracle.com/us/legal/privacy/index.html" target="_blank">Your
-                Privacy Rights</a> </li>
-            <li> <a href="https://www.oracle.com/pls/topic/lookup?ctx=cpyr&amp;id=en">Copyright
-                © 2020, Oracle and/or its affiliates. All rights reserved.</a></li>
+            <li> <a href="https://www.oracle.com/corporate/index.html" target="_blank">About Oracle</a> </li>
+            <li> <a href="https://www.oracle.com/us/corporate/contact/index.html" target="_blank">Contact Us</a> </li>
+            <li> <a href="https://www.oracle.com/us/legal/index.html" target="_blank">Legal Notices</a> </li>
+            <li> <a href="https://www.oracle.com/us/legal/terms/index.html" target="_blank">Terms of Use</a> </li>
+            <li> <a href="https://www.oracle.com/us/legal/privacy/index.html" target="_blank">Your Privacy Rights</a> </li>
+            <li> <a href="https://www.oracle.com/pls/topic/lookup?ctx=cpyr&amp;id=en">Copyright © 2019, Oracle and/or its affiliates. All rights reserved.</a></li>
           </ul>
         </footer>
       </div>
-      <script type="text/javascript" src="https://www.oracleimg.com/us/assets/metrics/ora_docs.js"></script>
+      <script src="https://www.oracleimg.com/us/assets/metrics/ora_docs.js"></script>
     </div>
     <!-- OBE Dialog Box code 10/15/2018 -->
     <!-- DO NOT ALTER THE CODE BELOW   -->
     <div id="lpModal" class="modal">
       <!-- Modal hdr and body -->
       <div id="obe_dialog" class="modal-content">
-        <div class="modal-header"> <a href="#" class="close"> <span class="close">×</span>
+        <div class="modal-header">
+          <a href="#" class="close">  
+            <span class="close">&#x000D7;</span>
           </a>
           <h1>Associated Learning Paths</h1>
         </div>
-        <div id="dialog-content"> </div>
-        <div id="dialog-close" class="closeBtn"> <a href="#" class="close2">
-            <p class="close2"> <span>&nbsp;&nbsp;View&nbsp;&nbsp;</span> </p>
-          </a> </div>
-      </div>
+        <div id="dialog-content" >
+        </div>
+        <div id="dialog-close" class="closeBtn">
+          <a href="#" class="close2">  
+            <p class="close2"> 
+              <span>&#160;&#160;View&#160;&#160;</span> 
+            </p>
+          </a>  
+        </div>
+      </div>   
     </div>
     <!-- END OBE Dialog Box code -->
   </body>
