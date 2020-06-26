@@ -19,9 +19,12 @@ Vagrant.configure("2") do |config|
 
   GROUP = "/HA-NFS-lab"
 
-  # We start from the latest OL 7 Box
-  config.vm.box = "ol7-latest"
-  config.vm.box_url = "https://yum.oracle.com/boxes/oraclelinux/latest/ol7-latest.box"
+  # Box metadata location and box name
+  BOX_URL = "https://oracle.github.io/vagrant-projects/boxes"
+  BOX_NAME = "oraclelinux/7"
+
+  config.vm.box = BOX_NAME
+  config.vm.box_url = "#{BOX_URL}/#{BOX_NAME}.json"
 
   config.vm.provider :virtualbox do |vb|
     vb.memory = MEMORY
