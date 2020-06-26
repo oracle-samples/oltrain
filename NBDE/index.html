@@ -13,14 +13,14 @@
     <meta name="jarvis_metadata_product" content="oracle-linux"/>
     <meta name="jarvis_metadata_release" content="8"/>
     <meta name="jarvis_metadata_pubalias" content="obe-template"/>
-    
+
     <!-- Put the content ID of this OBE between the empty quotation marks for 'content' below -->
     <meta name="contentid" content="" />
     <meta content="text/html; charset=utf-8" http-equiv="content-type" />
     <!-- The title below is displayed on the browser tab, in search results, and in  history. It can be longer than the tutorial title in the <h1> element, below.-->
     <!-- Use an imperative verb in the title. -->
     <title>Oracle Linux disk encryption using network based key services</title>
-    
+
     <meta name="robots" content="INDEX, FOLLOW" />
     <meta name="description" content="Learn how to create an encrypted XFS filesystem that's automatically unlocked by Clevis when booted on the same network as Tang." />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -40,9 +40,9 @@
       </div>
     </header>
     <!--end header-->
-    
+
     <div id="content">
-      
+
       <!-- The title below is displayed as the title at the top of the OBE page. It can be shorter than the title in the <title> element, above. -->
       <!-- Use an imperative verb in the title. -->
       <h1>Oracle Linux Disk Encryption Using Network Based Key Services</h1>
@@ -81,12 +81,12 @@
                 <li><a href="https://github.com/latchset/clevis" target="_blank">Clevis</a> is
                   an encryption framework. Clevis can use keys provided by Tang
                   as a passphrase to unlock LUKS volumes</li>
-              </ul>  
+              </ul>
               <h3>What Do You Need?</h3>
               <ul>
                 <li>Vagrant from <a href="https://www.vagrantup.com/" target="_blank">https://www.vagrantup.com/</a></li>
                 <li>Oracle VirtualBox from <a href="https://www.virtualbox.org/"
-                  
+
                   target="_blank">https://www.virtualbox.org/</a></li>
               </ul>
               <h3>Environment</h3>
@@ -379,12 +379,12 @@ Digests:
               <p> Configure the system to unlock the encrypted device and mount
                 the filesystem on boot. </p>
               <ol>
-                <li>Enable the service
-                  <pre>[vagrant@appserver ~]$ <strong>sudo systemctl enable clevis-luks-askpass.path</strong></pre>
-                </li>
                 <li>Identify the block device UUID for later use
                   <pre>[vagrant@appserver ~]$ <strong>sudo blkid -s UUID  /dev/sdb</strong>
 /dev/sdb: UUID="74f0faf1-9cb9-45f9-a3d8-ef276263d729"</pre>
+                </li>
+                <li>Enable the service using the UUID discovered for `/dev/sdb`:
+                  <pre>[vagrant@appserver ~]$ <strong>sudo systemctl enable clevis-luks-askpass@74f0faf1-9cb9-45f9-a3d8-ef276263d729.path</strong></pre>
                 </li>
                 <li>Have the block device unlocked during boot
                   <p>The file <code>/etc/crypttab</code> defines how encrypted
@@ -506,7 +506,7 @@ Digests:
                 your Tang server before root is mounted. For more information
                 see the <var>Network</var> section of dracut.cmdline(7) </p>
             </section>
-            
+
             <!--
                         <hr/>
                         <section>
@@ -531,7 +531,7 @@ Digests:
         <br class="clearfloat"/>
       </div>
     </div>
-    <!--close main--> 
+    <!--close main-->
     <!--end content-->
     <div class="footer-container ">
       <div style="max-width: 994px; padding:10px 0 0 17px;">
@@ -554,7 +554,7 @@ Digests:
       <!-- Modal hdr and body -->
       <div id="obe_dialog" class="modal-content">
         <div class="modal-header">
-          <a href="#" class="close">  
+          <a href="#" class="close">
             <span class="close">&#x000D7;</span>
           </a>
           <h1>Associated Learning Paths</h1>
@@ -562,13 +562,13 @@ Digests:
         <div id="dialog-content" >
         </div>
         <div id="dialog-close" class="closeBtn">
-          <a href="#" class="close2">  
-            <p class="close2"> 
-              <span>&#160;&#160;View&#160;&#160;</span> 
+          <a href="#" class="close2">
+            <p class="close2">
+              <span>&#160;&#160;View&#160;&#160;</span>
             </p>
-          </a>  
+          </a>
         </div>
-      </div>   
+      </div>
     </div>
     <!-- END OBE Dialog Box code -->
   </body>
