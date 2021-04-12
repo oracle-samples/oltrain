@@ -152,13 +152,15 @@ Connection to 127.0.0.1 closed.</pre>
                   <pre>[user@demo lab]$ <strong>vagrant plugin install vagrant-hosts</strong></pre>
                 </li>
                 <li>Define the environment file <code>.env.local</code>
-                  <p>Increase the memory available to each VM and raise the
-                    worker count from two to three. This is done as Gluster
+                  <p>Increase the memory available to each VM, raise the
+                    worker count from two to three, and enable the extra disk. This is done as Gluster
                     requires three replicas by default.</p>
                   <pre>[user@demo lab]$ <strong>cp .env .env.local</strong>
 [user@demo lab]$ <strong>vi .env.local</strong></pre>
                   <p>Uncomment and update the line that defines MEMORY to be </p>
                   <pre>MEMORY = 3072</pre>
+                  <p>Uncomment and update the line that defines EXTRA_DISK to be </p>
+                  <pre>EXTRA_DISK = true</pre>
                   <p>Uncomment and update the line that defines NB_WORKERS to be </p>
                   <pre>NB_WORKERS = 3</pre>
                 </li>
@@ -190,10 +192,10 @@ master1: worker3.vagrant.vm   Ready    &lt;none&gt;   3m59s   v1.14.8+1.0.2.el7<
                  <code>worker2</code> and <code>worker3</code>.</p>
               <ol>
                 <li>Enable the RPM repositories
-                  <pre>[vagrant@worker1 ~]$ <strong>sudo yum install -y oracle-gluster-release-el7</strong></pre>
+                  <pre>[vagrant@worker1 ~]$ <strong>sudo dnf install -y oracle-gluster-release-el8</strong></pre>
                 </li>
                 <li>Install the RPMs
-                  <pre>[vagrant@worker1 ~]$ <strong>sudo yum install -y glusterfs-server glusterfs-client</strong></pre>
+                  <pre>[vagrant@worker1 ~]$ <strong>sudo dnf install -y glusterfs-server glusterfs-client</strong></pre>
                 </li>
                 <li>Allow the required port through the firewall
                   <pre>[vagrant@worker1 ~]$ <strong>sudo firewall-cmd --add-service=glusterfs --permanent</strong>
@@ -227,10 +229,10 @@ master1: worker3.vagrant.vm   Ready    &lt;none&gt;   3m59s   v1.14.8+1.0.2.el7<
                 connecting with the <code>vagrant ssh hostname</code> command.</p>
               <ol>
                 <li>Enable the RPM repositories
-                  <pre>[vagrant@master1~]$ <strong>sudo yum install -y oracle-gluster-release-el7</strong></pre>
+                  <pre>[vagrant@master1~]$ <strong>sudo dnf install -y oracle-gluster-release-el8</strong></pre>
                 </li>
                 <li>Install the RPMs
-                  <pre>[vagrant@master1~]$ <strong>sudo yum install -y heketi heketi-client</strong></pre>
+                  <pre>[vagrant@master1~]$ <strong>sudo dnf install -y heketi heketi-client</strong></pre>
                 </li>
                 <li> Allow the required port through the firewall
                   <pre>[vagrant@master1~]$ <strong>sudo firewall-cmd --add-port=8080/tcp --permanent</strong>
@@ -238,7 +240,7 @@ master1: worker3.vagrant.vm   Ready    &lt;none&gt;   3m59s   v1.14.8+1.0.2.el7<
                 </li>
                 <li>Create a ssh authentication key for Heketi to use when
                   communicating with worker nodes
-                  <pre>[vagrant@master1~]$ <strong>sudo ssh-keygen -f /etc/heketi/heketi_key -t rsa -N ''</strong>
+                  <pre>[vagrant@master1~]$ <strong>sudo ssh-keygen -m PEM -t rsa -b 4096 -q -f /etc/heketi/heketi_key -N ''</strong>
 [vagrant@master1~]$ <strong>sudo ssh-copy-id -i /etc/heketi/heketi_key.pub worker1</strong>
 [vagrant@master1~]$ <strong>sudo ssh-copy-id -i /etc/heketi/heketi_key.pub worker2</strong>
 [vagrant@master1~]$ <strong>sudo ssh-copy-id -i /etc/heketi/heketi_key.pub worker3</strong>
@@ -495,6 +497,9 @@ demo-nginx-75fd7f5594-bsqf4   1/1     Running   0          88s</pre>
               <p>We perform this step on the VM <code>master1</code>,
                 connecting with the <code>vagrant ssh hostname</code> command.</p>
               <ol>
+                <li>Copy OLCNE certificates to heketi folder</li>
+                  <pre>[vagrant@master1~]$ <strong>sudo cp /etc/olcne/pki/production/node* /etc/heketi/</strong>
+[vagrant@master1~]$ <strong>sudo chown heketi:heketi /etc/heketi/node*</strong></pre>
                 <li>Update the <code>/etc/heketi/heketi.json</code> file.
                   <pre>[vagrant@master1~]$ <strong>sudo vi /etc/heketi/heketi.json</strong></pre>
                   <p>Insert the following after the port definition</p>
@@ -515,10 +520,10 @@ demo-nginx-75fd7f5594-bsqf4   1/1     Running   0          88s</pre>
   "enable_tls": true,
 
   "_cert_file_comment": "Path to a valid certificate file",
-  "cert_file": "/etc/olcne/pki/production/node.cert",
+  "cert_file": "/etc/heketi/node.cert",
 
   "_key_file_comment": "Path to a valid private key file",
-  "key_file": "/etc/olcne/pki/production/node.key",
+  "key_file": "/etc/heketi/node.key",
 
   "_use_auth": "Enable JWT authorization. Please enable for deployment",
   "use_auth": true,
@@ -640,8 +645,8 @@ There are no active volume tasks</pre>
               <!-- Include the More Information section only in a standalone tutorial or in the final lab or tutorial in a series (not in a learning path) -->
               <h2 id="more_info"  style="text-align: left;"><img src="https://docs.oracle.com/en/operating-systems/oracle-linux/obe-style-js//img/32_more.png" alt="more information" height="32" width="32" class="num_circ"/>Want to Learn More?</h2>
               <ul>
-                <li><a href="https://v1-14.docs.kubernetes.io/docs/concepts/storage/storage-classes/#glusterfs" target="_blank">Glusterfs StorageClass</a></li>
-                <li><a href="https://docs.oracle.com/en/operating-systems/oracle-linux/gluster-storage/gluster-tls.html" target="_blank">Gluster: Setting up Transport Layer Security</a></li>
+                <li><a href="https://kubernetes.io/docs/concepts/storage/storage-classes/#glusterfs" target="_blank">Glusterfs StorageClass</a></li>
+                <li><a href="https://docs.oracle.com/cd/E52668_01/F10040/html/gluster-312-tls.html" target="_blank">Gluster: Setting up Transport Layer Security</a></li>
                 <li><a href="https://docs.oracle.com/en/operating-systems/oracle-linux/gluster-storage/gluster-using.html" target="_blank">Gluster: Setting up Volumes</a></li>
               </ul>
             </section>
