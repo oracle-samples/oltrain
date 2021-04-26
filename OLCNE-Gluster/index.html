@@ -90,9 +90,9 @@
               <h3>What Do You Need?</h3>
               <p>There are existing examples for installing the Kubernetes
                 module so to avoid repetition we'll work from the Vagrant build
-                available at <a class="jive-link-external-small" href="https://github.com/oracle/vagrant-boxes/"
+                available at <a class="jive-link-external-small" href="https://github.com/oracle/vagrant-projects/"
                   
-                  rel="nofollow" target="_blank">https://github.com/oracle/vagrant-boxes/</a>
+                  rel="nofollow" target="_blank">https://github.com/oracle/vagrant-projects/</a>
               </p>
               <p>It will create four VMs for us, one master and three worker
                 nodes before deploying the Kubernetes module. The Oracle Linux
@@ -142,8 +142,8 @@ Connection to 127.0.0.1 closed.</pre>
                  Vagrant.</p>
               <ol>
                 <li>Clone the Git repository and change to the OLCNE directory
-                  <pre>[user@demo lab]$ <strong>git clone https://github.com/oracle/vagrant-boxes</strong>
-[user@demo lab]$ <strong>cd vagrant-boxes/OLCNE</strong></pre>
+                  <pre>[user@demo lab]$ <strong>git clone https://github.com/oracle/vagrant-projects</strong>
+[user@demo lab]$ <strong>cd vagrant-projects/OLCNE</strong></pre>
                 </li>
                 <li>Install the Vagrant plugins
                   <p>To avoid directly modifying the Vagrantfile we override its parameters with <code>vagrant-env</code> </p>
@@ -177,7 +177,7 @@ master1: worker2.vagrant.vm   Ready    &lt;none&gt;   4m21s   v1.14.8+1.0.2.el7
 master1: worker3.vagrant.vm   Ready    &lt;none&gt;   3m59s   v1.14.8+1.0.2.el7</pre>
                   <p> Note the <strong>Ready</strong> status of each Kubernetes
                     node, if you have issues with the <code>vagrant up</code>
-                    then please open a <a class="jive-link-external-small" href="https://github.com/oracle/vagrant-boxes/issues"
+                    then please open a <a class="jive-link-external-small" href="https://github.com/oracle/vagrant-projects/issues"
 
                       rel="nofollow" target="_blank">GitHub issue</a> </p>
                 </li>
