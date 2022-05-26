@@ -10,9 +10,9 @@ environment using [Oracle VM VirtualBox](https://virtualbox.org) and
 
 ## Available Labs
 
-* [Creating a highly available NFS service with Oracle Linux 7](https://oracle.github.io/linux-labs/HA-NFS/)
-* [Using Gluster with Oracle Linux Cloud Native Environment for Oracle Linux 8](https://oracle.github.io/linux-labs/OLCNE-Gluster/)
-* [Oracle Linux Disk Encryption Using Network Based Key Services](https://oracle.github.io/linux-labs/NBDE/)
+* [Creating a highly available NFS service with Oracle Linux 7](https://github.com/oracle-samples/linux-labs/HA-NFS/)
+* [Using Gluster with Oracle Linux Cloud Native Environment for Oracle Linux 8](https://github.com/oracle-samples/OLCNE-Gluster/)
+* [Oracle Linux Disk Encryption Using Network Based Key Services](https://github.com/oracle-samples/NBDE/)
 
 More labs are available at <https://docs.oracle.com/learn/>
 
