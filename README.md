@@ -20,7 +20,7 @@ Head to the Oracle Linux Training (oltrain) Station to learn about Linux and Vir
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with these pages? Contact <mailto:craig.mcbride@oracle.com> I'll help you sort it out.
 
 # License
 
