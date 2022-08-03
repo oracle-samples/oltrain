@@ -1,31 +1,37 @@
-# Oracle Linux Hands-On Labs
 
-This repository contains hands-on lab documentation that instructs users on how
-to install and configure various Oracle Linux components with a specific 
-demonstrable service.
+# Welcome to Oracle Linux Training Station <a name="top"></a>
+![](common/images/ol-train4.png)
+---
+Head to the Oracle Linux Training (oltrain) Station to learn about Linux and Virtualization products. The following tracks provides you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises for:
+- [Oracle Linux](./OL/ol.md): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
+![](common/images/OL-1200x200-banner.png)
+- [Linux on Oracle Cloud Infrastructure](./OLOCI/oloci.md): See how to use Linux to deliver powerful compute and networking performance with a comprehensive portfolio of infrastructure and platform cloud services.
+![](common/images/OLCI-1200x200-banner.png)
+- [Oracle Cloud Native Environment](./OCNE/ocne.md): Learn how you can deploy the software and tools to develop microservices-based applications in-line with open standards and specifications.
+![](common/images/OCNE-banner.jpg)
+- [Oracle Linux Automation Manager](./OLAM/olam.md): Learn how to use Oracle Linux Automation Engine as an automation tool for deploying software, configuring systems, and orchestrating tasks such as upgrades and updates, in the form of playbooks.
+![](common/images/OLAM-banner.jpg)
+- [Oracle Linux Virtualization Manager](./OLVM/olvm.md): Use resources available to adopt this open-source distributed server virtualization solution. Gain proficiency in deploying, configuring, monitoring, and managing an Oracle Linux Kernel-based Virtual Machine (KVM) environment with enterprise-grade performance.
+![](common/images/OLVM-1200x200-banner.png)
+- [OS Management on Oracle Cloud Infrastructure](./OSMG/osmg.md): Learn how to use the OS Management service to manage updates and patches for your operating system environments on your Oracle Cloud Infrastructure instances.
+![](common/images/OSM-OCI-1200x200-banner.png)
+- [Oracle Private Cloud Appliance](./OPCA/opca.md): Learn to perform various user and administrative tasks from the Compute Enclave and from the Service Enclave.
+![](common/images/PCA_header4.png)
 
-Included with each lab are sample scripts that can be used to create the initial
-environment using [Oracle VM VirtualBox](https://virtualbox.org) and 
-[Vagrant by HashiCorp](https://www.vagrantup.com/).
+### Support or Contact
 
-## Available Labs
-
-* [Creating a highly available NFS service with Oracle Linux 7](https://oracle-samples.github.io/linux-labs/HA-NFS/)
-* [Using Gluster with Oracle Linux Cloud Native Environment for Oracle Linux 8](https://oracle-samples.github.io/linux-labs/OLCNE-Gluster/)
-* [Oracle Linux Disk Encryption Using Network Based Key Services](https://oracle-samples.github.io/linux-labs/NBDE/)
-
-More labs are available at <https://docs.oracle.com/learn/>
+Having trouble with these pages? Contact [craig.mcbride@oracle.com](mailto:craig.mcbride@oracle.com) and I'll help you sort it out.
 
 # License
 
-Copyright &copy; 2022 Oracle and/or its associates. 
+Copyright &copy; 2022 Oracle and/or its associates.
 
-All content in this repository is distributed under the [Universal Permissive 
+All content in this repository is distributed under the [Universal Permissive
 License 1.0](https://oss.oracle.com/licenses/upl/).
 
 [Vagrant by HashiCorp](https://www.vagrantup.com/) is distributed under the
 [MIT License](https://github.com/hashicorp/vagrant/blob/master/LICENSE).
 
-[Ruby](https://www.ruby-lang.org/en/) is distributed under the terms of the 
-[2-clause BSD License](https://opensource.org/licenses/BSD-2-Clause) or the 
+[Ruby](https://www.ruby-lang.org/en/) is distributed under the terms of the
+[2-clause BSD License](https://opensource.org/licenses/BSD-2-Clause) or the
 conditions listed in the [Ruby `license.txt` file](https://www.ruby-lang.org/en/about/license.txt).
