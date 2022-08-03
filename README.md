@@ -20,7 +20,7 @@ Head to the Oracle Linux Training (oltrain) Station to learn about Linux and Vir
 
 ### Support or Contact
 
-Having trouble with these pages? Contact <mailto:craig.mcbride@oracle.com> I'll help you sort it out.
+Having trouble with these pages? Contact [craig.mcbride@oracle.com](mailto:craig.mcbride@oracle.com) and I'll help you sort it out.
 
 # License
 
