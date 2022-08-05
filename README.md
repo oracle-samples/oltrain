@@ -2,7 +2,7 @@
 # Welcome to Oracle Linux Training Station <a name="top"></a>
 ![](common/images/ol-train4.png)
 ---
-Head to the Oracle Linux Training (oltrain) Station to learn about Linux and Virtualization products. The following tracks provides you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises for:
+Head to the Oracle Linux Training Station to learn about Linux and Virtualization products. The following tracks provides you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises for:
 - [Oracle Linux](./OL/ol.md): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
 ![](common/images/OL-1200x200-banner.png)
 - [Linux on Oracle Cloud Infrastructure](./OLOCI/oloci.md): See how to use Linux to deliver powerful compute and networking performance with a comprehensive portfolio of infrastructure and platform cloud services.
