@@ -27,4 +27,8 @@ These videos will provide information to get started and work with the OS Manage
 [![](../common/images/migautolinosm_tmp.png)](https://youtu.be/vNY4jelIdgk)
 [![](../common/images/comprpt_tmp.png)](https://youtu.be/_pKnAcA7GUs)
 
+### Working with OS Management Hands On Lab
+
+[![](../common/images/migratealx_lab.png)](https://luna.oracle.com/lab/8848ec22-81cd-46d5-aeab-dd2dae36118b)
+
 #### [Return to Oracle Linux Training Station](../README.md)
