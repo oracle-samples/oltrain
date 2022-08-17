@@ -82,8 +82,8 @@ Learn to discover and administer block volume storage and create shared cluster 
 ### Using Storage on Oracle Cloud Infrastructure Hands On Labs
 
 [![](../common/images/oci-iscsi_lab.png)](https://luna.oracle.com/lab/dd23fba0-9e2b-4a62-b86c-bea4fbc08f9d)
-[![](../common/images/iscsi_lab.png)](https://luna.oracle.com/lab/f85faa38-5476-41a0-951e-56dd86a8ba78)
-[![](../common/images/lsa_lab.png)](https://luna.oracle.com/lab/d57199a3-83f5-4ce9-97f8-feacf9e3db31)
+[![](../common/images/conf_iscsi_lab.png)](https://luna.oracle.com/lab/f85faa38-5476-41a0-951e-56dd86a8ba78)
+[![](../common/images/create_lsa_lab.png)](https://luna.oracle.com/lab/d57199a3-83f5-4ce9-97f8-feacf9e3db31)
 [![](../common/images/conf_ocfs2_lab.png)](https://luna.oracle.com/lab/a7e62a2a-10d0-4b11-a317-bf559c99b148)
 
 ### KVM Virtualization for Instances Videos
