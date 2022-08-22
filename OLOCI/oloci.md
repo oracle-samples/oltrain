@@ -92,5 +92,17 @@ Learn to implement KVM virtualization in Oracle Linux instances deployed on Orac
 [![](../common/images/kvmimg_tmp.png)](https://youtu.be/R-zJgRIfil4)
 [![](../common/images/kvmgst_tmp.png)](https://youtu.be/J3s8Myn7A2o)
 [![](../common/images/ocikvm_tmp.png)](https://youtu.be/IiSsC7EqZSE)
+   
+---
+## Quiz
+Test your skills on what you have learned with this quiz.   
+  
+<table>
+    <tr>
+    <td><img src="../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:2EE71Y">Cloud Deployment with Linux on Oracle Cloud Infrastructure Quiz</a></td>
+  </tr>
+</table>    
 
+---
 #### [Return to Oracle Linux Training Station](../README.md)
