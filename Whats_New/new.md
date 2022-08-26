@@ -36,3 +36,16 @@ With the completion of these videos and hands on labs, every topic, every object
 - [Install Verrazzano on Oracle Cloud Native Environment](https://luna.oracle.com/lab/8a6bf419-7ef9-4be1-a679-680b03191011)
 
 ---
+   
+![](common/images/OLCI-banner-v2.png)
+
+### New Video
+
+- [Migrate Standalone Oracle Autonomous Linux Instances to use OS Management Service](https://youtu.be/vNY4jelIdgk)
+
+### New Hands On Lab
+
+- [Migrate Standalone Oracle Autonomous Linux Instances to use OS Management Service](https://luna.oracle.com/lab/8848ec22-81cd-46d5-aeab-dd2dae36118b)
+
+
+---
