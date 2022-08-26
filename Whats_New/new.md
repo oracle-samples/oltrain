@@ -37,7 +37,7 @@ With the completion of these videos and hands on labs, every topic, every object
 
 ---
    
-![](common/images/OLCI-banner-v2.png)
+![](../common/images/OLCI-banner-v2.png)
 
 ### New Video
 
