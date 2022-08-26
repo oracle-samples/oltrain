@@ -10,5 +10,5 @@ This track contains videos and hands on labs completed in Q1FY23.
 
 ### New Videos
 
-- [Pluggable Authentication Modules on Oracle Linux)](https://youtu.be/KRGC2lElVC8)
-- [![](Introducing Udev on Oracle Linux)](https://youtu.be/y3q8HAMTPDc)
+- [Pluggable Authentication Modules on Oracle Linux](https://youtu.be/KRGC2lElVC8)
+- [Introducing Udev on Oracle Linux](https://youtu.be/y3q8HAMTPDc)
