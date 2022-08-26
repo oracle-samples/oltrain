@@ -48,7 +48,7 @@ With the completion of these videos and hands on labs, every topic, every object
 
 ---
 
-![](common/images/PCA-banner-v2.png)
+![](../common/images/PCA-banner-v2.png)
 
 ### New Videos
 
