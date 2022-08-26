@@ -1,6 +1,6 @@
 
 
-This track contains videos and hands on labs completed in Q1FY23.
+This track contains videos and hands on labs completed in the last quarter (June - August 2022).
 
 ---
 
