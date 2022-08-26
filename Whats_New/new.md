@@ -25,8 +25,6 @@ With the completion of these videos and hands on labs, every topic, every object
 
 ![](../common/images/OCNE-banner-v2.png)
 
----
-
 ### New Hands On Labs
 
 - [Use Gluster with Oracle Cloud Native Environment](https://luna.oracle.com/lab/5455954d-142c-4801-9f34-5946ad19573d)
