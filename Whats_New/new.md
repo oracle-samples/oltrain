@@ -7,8 +7,6 @@ This track contains videos and hands on labs completed in Q1FY23.
 ![](../common/images/OL-banner-v2a.png)
 With the completion of these videos and hands on labs, every topic, every objective, every question in the Oracle Linux 8 certification exam is covered by videos and/or hands on labs in the Oracle Linux training track.
 
----
-
 ### New Videos
 
 - [Pluggable Authentication Modules on Oracle Linux](https://youtu.be/KRGC2lElVC8)
@@ -38,3 +36,5 @@ With the completion of these videos and hands on labs, every topic, every object
 - [Deploy an Internal Load Balancer with Oracle Cloud Native Environment](https://luna.oracle.com/lab/15c6f5a7-9fec-4946-bb42-92dd41310fdf)
 - [Use MetalLB with Oracle Cloud Native Environment](https://luna.oracle.com/lab/d931637d-4e6b-4a46-ba17-810a942c4309)
 - [Install Verrazzano on Oracle Cloud Native Environment](https://luna.oracle.com/lab/8a6bf419-7ef9-4be1-a679-680b03191011)
+
+---
