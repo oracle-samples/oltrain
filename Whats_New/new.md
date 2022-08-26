@@ -1,5 +1,4 @@
 
-
 This track contains videos and hands on labs completed in the last quarter (June - August 2022).
 
 ---
@@ -47,5 +46,14 @@ With the completion of these videos and hands on labs, every topic, every object
 
 - [Migrate Standalone Oracle Autonomous Linux Instances to use OS Management Service](https://luna.oracle.com/lab/8848ec22-81cd-46d5-aeab-dd2dae36118b)
 
+---
+
+![](../common/images/PCA-banner-v2.png)
+
+### New Videos
+
+- [Managing Block Volumes on Oracle Private Cloud Appliance](https://youtu.be/s5N6mGxUNew)
+- [Managing Boot Volumes on Oracle Private Cloud Appliance](https://youtu.be/Vo4119i8HsU)
 
 ---
+#### [Return to Oracle Linux Training Station](../README.md)
