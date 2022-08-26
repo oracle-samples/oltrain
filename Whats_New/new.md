@@ -22,3 +22,24 @@ With the completion of these videos and hands on labs, every topic, every object
 - [Run Kubernetes on Oracle Linux](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
 - [Use and Enable Access Control Lists (ACLs) on Oracle Linux](https://luna.oracle.com/lab/7a272852-6042-47e3-b25f-eb681c733e66)
 - [Encrypt Drives using LUKS on Oracle Linux](https://luna.oracle.com/lab/9c62956d-153b-4e93-84b0-0b2759f7e4bb)
+
+---
+
+![](../common/images/OCNE-banner-v2.png)
+
+---
+
+### New Hands On Labs
+
+- [Use Gluster with Oracle Cloud Native Environment](https://luna.oracle.com/lab/5455954d-142c-4801-9f34-5946ad19573d)
+- [Run a Compact Oracle Cloud Native Environment](https://luna.oracle.com/lab/c1bf32f7-7809-4355-bf83-d3f46797dd02)
+- [Use OCI Cloud Controller Manager on Oracle Cloud Native Environment](https://luna.oracle.com/lab/5571f277-3eb9-435f-b3b3-fe421fb9747e)
+- [Deploy an External Load Balancer with Oracle Cloud Native Environment](https://luna.oracle.com/lab/be8d99fc-44c3-4062-a3c3-95e982243ccf)
+- [Deploy an Internal Load Balancer with Oracle Cloud Native Environment](https://luna.oracle.com/lab/15c6f5a7-9fec-4946-bb42-92dd41310fdf)
+- [Use MetalLB with Oracle Cloud Native Environment](https://luna.oracle.com/lab/d931637d-4e6b-4a46-ba17-810a942c4309)
+- [Install Verrazzano on Oracle Cloud Native Environment](https://luna.oracle.com/lab/8a6bf419-7ef9-4be1-a679-680b03191011)
+
+
+
+
+- 
