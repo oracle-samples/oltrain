@@ -5,6 +5,7 @@ This track contains videos and hands on labs completed in Q1FY23.
 ---
 
 ![](../common/images/OL-banner-v2a.png)
+With the completion of these videos and hands on labs, every topic, every objective, every question in the Oracle Linux 8 certification exam is covered by videos and/or hands on labs in the Oracle Linux training track.
 
 ---
 
