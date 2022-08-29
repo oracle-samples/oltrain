@@ -112,7 +112,23 @@ Each tutorial provides step-by-step procedures to complete specific tasks but do
 
 [![](../common/images/istiosidecarocne_tut.png)](https://docs.oracle.com/en/learn/ocne-sidecars/)
 
-### Microservices Tech Preview
+---
+## Quiz
+Test your skills on what you have learned so far with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:DWXQQN7">Oracle Cloud Native Environment Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
+
+---
+   
+   
+
+## Microservices Tech Preview
 Oracle is actively investigating new microservices technologies permitting you to do research and development. The following videos describe configurations that leverage these technologies intended for pre-production systems.
 
 #### Helm Videos
@@ -136,5 +152,19 @@ Implemented by Dev-Ops teams to collect metrics in their cloud native environmen
 The following video will introduce Grafana, cover its installation, and demonstrate its configuration through the browser user interface.
 
 [![](../common/images/grafanaocne_tmp.png)](https://youtu.be/x6nloqYg-4w)
+
+---
+## Quiz
+Test your skills on your knowledge of the Tech Preview content you have watched with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:31YKJS">Oracle Cloud Native Environment Tech Preview Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
+
+---
 
 #### [Return to Oracle Linux Training Station](../README.md)

@@ -24,6 +24,22 @@ This tutorial provides step-by-step procedures to complete specific tasks on you
 
 [![](../../common/images/Intro_tut.png)](https://docs.oracle.com/en/learn/shell-commands-intro-to-oracle-linux/index.html)
 
+
+---
+## Quiz
+Test your skills on what you have learned so far with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:IJY139">Introduction to Oracle Linux Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
+
+---
+   
+
 #### [Return to Oracle Linux Track](../ol.md)
 
 #### [Return to Oracle Linux Training Station](../../README.md)
