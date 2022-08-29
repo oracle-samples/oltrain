@@ -96,9 +96,7 @@ Learn to implement KVM virtualization in Oracle Linux instances deployed on Orac
 ---
 ## Quiz
 Test your skills on what you have learned with this quiz.   
-
-**Note:** You will need to create a Single Sign On account if you do not already have one.
-  
+ 
 <table>
     <tr>
     <td><img src="../common/images/quiz_v2.png" width="40" height="50"></td>
@@ -106,5 +104,6 @@ Test your skills on what you have learned with this quiz.
   </tr>
 </table>    
 
+**Note:** You will need to create a Single Sign On account if you do not already have one.
 ---
 #### [Return to Oracle Linux Training Station](../README.md)
