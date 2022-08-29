@@ -103,7 +103,7 @@ Test your skills on what you have learned with this quiz.
     <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:2EE71Y">Cloud Deployment with Linux on Oracle Cloud Infrastructure Quiz</a></td>
   </tr>
 </table>    
-<b>Nore:</b> You access the quiz you will need to create a Single Sign On account if you do not already have one.
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
 ---
 #### [Return to Oracle Linux Training Station](../README.md)
