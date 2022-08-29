@@ -125,9 +125,10 @@ Test your skills on what you have learned so far with this quiz.
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
 ---
+   
+   
 
-
-### Microservices Tech Preview
+## Microservices Tech Preview
 Oracle is actively investigating new microservices technologies permitting you to do research and development. The following videos describe configurations that leverage these technologies intended for pre-production systems.
 
 #### Helm Videos
