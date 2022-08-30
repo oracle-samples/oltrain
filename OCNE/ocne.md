@@ -127,7 +127,7 @@ Test your skills on what you have learned so far with this quiz.
 ---
    
    
-
+![](../common/images/OCNE-techprev-banner.jpg)
 ## Microservices Tech Preview
 Oracle is actively investigating new microservices technologies permitting you to do research and development. The following videos describe configurations that leverage these technologies intended for pre-production systems.
 
