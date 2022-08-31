@@ -1,5 +1,5 @@
 
-This track contains videos and hands on labs completed in the last quarter (June - August 2022).
+This page highlights the videos and hands on labs that have been added to the learning tracks on the Oracle Linux Training Station in the period June-August 2022.
 
 ---
 
