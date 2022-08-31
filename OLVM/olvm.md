@@ -47,5 +47,17 @@ The following content will introduce you to storage concepts and how to create, 
 The following content will introduce you to Oracle Linux Virtualization Manager backup and recovery solutions.
 
 [![](../common/images/drolvm_tmp.png)](https://youtu.be/0VSo7ZGIdo8)
+---
+## Quiz
+Test your skills on what you have learned with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:CMMO0UH">Oracle Linux Virtualization Manager Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
+---
 #### [Return to Oracle Linux Training Station](../README.md)
