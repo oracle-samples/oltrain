@@ -119,7 +119,7 @@ Test your skills on what you have learned so far with this quiz.
 <table>
     <tr>
     <td><img src="../common/images/quiz_v2.png" width="40" height="50"></td>
-    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:DWXQQN7">Oracle Cloud Native Environment Quiz</a></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:DWXQQN7">Oracle Cloud Native Environment Track Quiz</a></td>
   </tr>
 </table>    
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
@@ -128,7 +128,8 @@ Test your skills on what you have learned so far with this quiz.
    
    
 
-## Microservices Tech Preview
+![](../common/images/OCNE-techprev-banner-V2.png)
+---
 Oracle is actively investigating new microservices technologies permitting you to do research and development. The following videos describe configurations that leverage these technologies intended for pre-production systems.
 
 #### Helm Videos
