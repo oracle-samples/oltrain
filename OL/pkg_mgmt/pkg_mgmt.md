@@ -10,7 +10,19 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 
 [![](../../common/images/usednf_lab.png)](https://luna.oracle.com/lab/609f19ec-b142-4fa9-81d1-ab6d1e97478c)
 [![](../../common/images/yumMirror_lab.png)](https://luna.oracle.com/lab/b3779123-c17c-4f89-bb93-8c343d891825)
+---
+## Quiz
+Test your skills on what you have learned about package management with Oracle Linux with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:2EE70X">Oracle Linux Package Management Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
+---
 #### [Return to Oracle Linux Track](../ol.md)
 
 #### [Return to Oracle Linux Training Station](../../README.md)
