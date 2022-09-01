@@ -32,7 +32,19 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/vg_lab.png)](https://luna.oracle.com/lab/ee495d1a-4e00-4d77-9719-2f27591d1ecd)
 [![](../../common/images/aclsol_lab.png)](https://luna.oracle.com/lab/7a272852-6042-47e3-b25f-eb681c733e66)
 [![](../../common/images/luksol_lab.png)](https://luna.oracle.com/lab/9c62956d-153b-4e93-84b0-0b2759f7e4bb)
+---
+## Quiz
+Test your skills on what you have learned about storage management on Oracle Linux with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:CPXRPS0">Oracle Linux Storage Management Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
+---
 #### [Return to Oracle Linux Track](../ol.md)
 
 #### [Return to Oracle Linux Training Station](../../README.md)

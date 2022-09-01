@@ -17,7 +17,19 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/sysctl.png)](https://luna.oracle.com/lab/aa8f2377-7967-4e45-bf32-bdc8054d5c76)
 [![](../../common/images/systemd_lab.png)](https://luna.oracle.com/lab/8a060473-bff3-4c04-9799-eb944951007c)
 [![](../../common/images/centos.png)](https://luna.oracle.com/lab/ee1c4ab9-010f-4b3c-bd1e-cdcca57800a2)
+---
+## Quiz
+Test your skills on what you have learned about installation and the boot process with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:DLCZA6M">Oracle Linux Installation Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
+---
 #### [Return to Oracle Linux Track](../ol.md)
 
 #### [Return to Oracle Linux Training Station](../../README.md)

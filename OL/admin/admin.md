@@ -30,7 +30,19 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/leapp_lab.png)](https://luna.oracle.com/lab/908d0e5b-4444-400a-87a7-2a9ec8c27550)
 [![](../../common/images/cgroups_lab.png)](https://luna.oracle.com/lab/14d89b6d-627b-4f1f-b859-4761e3ed352c)
 [![](../../common/images/selinux_lab.png)](https://luna.oracle.com/lab/89a09fdd-47c2-4755-b98e-35863bdf7bc0)
+---
+## Quiz
+Test your skills on what you have learned about administration of Oracle Linux with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:IJY13J">Oracle Linux Administration Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
+---
 #### [Return to Oracle Linux Track](../ol.md)
 
 #### [Return to Oracle Linux Training Station](../../README.md)

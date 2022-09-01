@@ -18,7 +18,19 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/monitor_lab.png)](https://luna.oracle.com/lab/73bf7efa-53a1-4528-ad60-5f7b721fc3f8)
 [![](../../common/images/logging_lab.png)](https://luna.oracle.com/lab/3f0906f5-a80e-418b-a8b4-48c60103c55c)
 [![](../../common/images/audit_lab.png)](https://luna.oracle.com/lab/3a72b337-d8c0-41b9-9193-e1bf50ad2ac9)
+---
+## Quiz
+Test your skills on what you have learned about monitoring and logging in Oracle Linux with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:CF0JMU5">Oracle Linux Monitoring and Logging Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
+---
 #### [Return to Oracle Linux Track](../ol.md)
 
 #### [Return to Oracle Linux Training Station](../../README.md)
