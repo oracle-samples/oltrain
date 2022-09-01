@@ -12,7 +12,19 @@ When working with Oracle Linux, the environment you are accessing is not always 
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
 [![](../../common/images/sshtunnels_lab.png)](https://luna.oracle.com/lab/d1dc0830-fe30-48d4-8e5c-d30ad525e36e)
+---
+## Quiz
+Test your skills on what you have learned about remote management of Oracle Linux with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:BG99CGZ">Oracle Linux Remote Management Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
+---
 #### [Return to Oracle Linux Track](../ol.md)
 
 #### [Return to Oracle Linux Training Station](../../README.md)
