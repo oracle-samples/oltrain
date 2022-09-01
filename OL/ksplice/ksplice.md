@@ -10,7 +10,19 @@ Oracle Ksplice allows you to install the latest kernel and key user-space securi
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
 [![](../../common/images/ksplice_lab.png)](https://luna.oracle.com/lab/7bf9e1e8-691e-42d4-823d-6a0fad49791c)
+---
+## Quiz
+Test your skills on what you have learned about Oracle Linux Ksplice with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:DEQTW7M">Oracle Linux Ksplice Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
+---
 #### [Return to Oracle Linux Track](../ol.md)
 
 #### [Return to Oracle Linux Training Station](../../README.md)
