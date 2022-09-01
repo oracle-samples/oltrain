@@ -13,7 +13,19 @@
 ## KVM Hands On Lab
 
 [![](../../common/images/createvmkvm_lab.png)](https://luna.oracle.com/lab/1671b073-895c-4800-bd60-cfe1f445074c)
+---
+## Quiz
+Test your skills on what you have learned about KVM on Oracle Linux with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:CPXRPS1">Oracle Linux KVM Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
+---
 ## VirtualBox Videos
 
 [![](../../common/images/instVB_tmp.png)](https://youtu.be/Dl2CxAoSC5o)
@@ -21,7 +33,19 @@
 [![](../../common/images/createVM_tmp.png)](https://youtu.be/E5fGTh2XT10)
 [![](../../common/images/instVBga_tmp.png)](https://youtu.be/NmFN7azdZzY)
 [![](../../common/images/expVB_tmp.png)](https://youtu.be/jEDfsovNNyg)
+---
+## Quiz
+Test your skills on what you have learned about VirtualBox on Oracle Linux with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:31YKIU">Oracle Linux Virtualbox Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
+---
 ## Container Videos
 
 [![](../../common/images/contov_tmp.png)](https://youtu.be/V9sOZHfuvVM)
@@ -46,7 +70,19 @@
 ## Container Tutorial
 
 [![](../../common/images/multi_lab.png)](https://docs.oracle.com/en/learn/oracle-linux-platform-images/index.html)
+---
+## Quiz
+Test your skills on what you have learned about working with containers on Oracle Linux with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:CS8UESN">Oracle Linux Containers Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
+---
 ## Kubernetes Videos
 
 [![](../../common/images/tour_tmp.png)](https://youtu.be/syBe1H-qe8U)
@@ -57,7 +93,19 @@
 
 [![](../../common/images/mini_lab.png)](https://luna.oracle.com/lab/8b2f7860-3204-4cd3-8d55-3f6de9ca03c2)
 [![](../../common/images/runkub_lab.png)](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
+---
+## Quiz
+Test your skills on what you have learned about Kubernetes on Oracle Linux with this quiz.   
+ 
+<table>
+    <tr>
+    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:BPJX2YO">Oracle Linux Kubernetes Quiz</a></td>
+  </tr>
+</table>    
+<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
+---
 #### [Return to Oracle Linux Track](../ol.md)
 
 #### [Return to Oracle Linux Training Station](../../README.md)
