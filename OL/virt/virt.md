@@ -1,3 +1,6 @@
+---   
+![](../../common/images/OL-virt-kvm.png)
+
 ## KVM Management Videos
 
 [![](../../common/images/kvm_tmp.png)](https://youtu.be/ALtnopSysY4)
@@ -26,6 +29,8 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
 ---
+![](../../common/images/OL-virt-virtbox.png)
+
 ## VirtualBox Videos
 
 [![](../../common/images/instVB_tmp.png)](https://youtu.be/Dl2CxAoSC5o)
@@ -45,7 +50,9 @@ Test your skills on what you have learned about VirtualBox on Oracle Linux with 
 </table>    
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
----
+--- 
+![](../../common/images/OL-virt-containers.png)
+
 ## Container Videos
 
 [![](../../common/images/contov_tmp.png)](https://youtu.be/V9sOZHfuvVM)
@@ -83,6 +90,8 @@ Test your skills on what you have learned about working with containers on Oracl
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
 ---
+![](../../common/images/OL-virt-kubern.png)
+
 ## Kubernetes Videos
 
 [![](../../common/images/tour_tmp.png)](https://youtu.be/syBe1H-qe8U)
