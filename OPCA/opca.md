@@ -53,6 +53,6 @@ For even more training on Oracle Private Cloud Appliance, use this link to acces
 
 <b>Note:</b> To access the learning path content you will need to create a Single Sign On account if you do not already have one.   
 
-[Oracle Private Cloud Appliance Foundations course](https://www.oracle.com/goto/pcafoundations)
+### [Oracle Private Cloud Appliance Foundations course](https://www.oracle.com/goto/pcafoundations)
 ---
 #### [Return to Oracle Linux Training Station](../README.md)
