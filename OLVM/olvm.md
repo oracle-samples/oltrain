@@ -47,6 +47,11 @@ The following content will introduce you to storage concepts and how to create, 
 The following content will introduce you to Oracle Linux Virtualization Manager backup and recovery solutions.
 
 [![](../common/images/drolvm_tmp.png)](https://youtu.be/0VSo7ZGIdo8)
+
+### Oracle Enterprise manager for Oracle Linux Virtualization Manager Videos
+The following content will introduce you to Cloud Administration of the Oracle Linux Virtualization Manager with Oracle Enterprise Manager 13c Cloud Control.
+
+
 ---
 ## Quiz
 Test your skills on what you have learned with this quiz.   
