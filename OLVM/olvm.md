@@ -51,6 +51,10 @@ The following content will introduce you to Oracle Linux Virtualization Manager 
 ### Oracle Enterprise manager for Oracle Linux Virtualization Manager Videos
 The following content will introduce you to Cloud Administration of the Oracle Linux Virtualization Manager with Oracle Enterprise Manager 13c Cloud Control.
 
+[![](../common/images/mon_olvm_oem_tut.png)](https://youtu.be/834PviF4kV0)
+[![](../common/images/reg_olvm_oem_tut.png)](https://youtu.be/nyMSJKFN4HU)
+[![](../common/images/con_met_ext_olvm_tut.png)](https://youtu.be/lyPtzCuEDcQ)
+[![](../common/images/crea_inc_rul_olvm_tut.png)](https://youtu.be/OMp6WoDxsqU)
 
 ---
 ## Quiz
