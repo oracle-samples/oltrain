@@ -26,6 +26,7 @@ These videos will provide information to get started and work with the OS Manage
 [![](../common/images/autolinosm_tmp.png)](https://youtu.be/Mt_zmEJ1UtM)
 [![](../common/images/migautolinosm_tmp.png)](https://youtu.be/vNY4jelIdgk)
 [![](../common/images/comprpt_tmp.png)](https://youtu.be/_pKnAcA7GUs)
+[![](../common/images/mod_streams_tmp.png)](https://youtu.be/y-dnguUNr6Y)
 
 ### Working with OS Management Hands On Lab
 
