@@ -28,6 +28,7 @@ Learn to provision and launch compute instances with the cloud web console to su
 ### Administering Instances In Oracle Cloud Infrastructure Videos
 Learn to administer compute instances using a range of tools and solutions provided to support your cloud solution in Oracle Cloud infrastructure.
 
+[![](../common/images/ol-streams-300x168.png)](https://youtu.be/y-dnguUNr6Y)
 [![](../common/images/enabociutil_tmp.png)](https://youtu.be/EV4ihmXZSUI)
 [![](../common/images/getstartosm_tmp.png)](https://youtu.be/7qmy5VusYKA)
 [![](../common/images/autolinosm_tmp.png)](https://youtu.be/Mt_zmEJ1UtM)
