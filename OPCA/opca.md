@@ -38,6 +38,7 @@ This section provides video training for administrator and user tasks performed 
 [![](../common/images/instociclipca_tmp.png)](https://youtu.be/SNtGCBl_yZE)
 [![](../common/images/confociclipca_tmp.png)](https://youtu.be/x2iWGXIa-rQ)
 [![](../common/images/usergrppca_tmp.png)](https://youtu.be/D0CxmJ6pn4U)
+[![](../common/images/pca_comp_pol_tmp.png)](https://youtu.be/KV4sQOWXab8)
 [![](../common/images/createvcnpca_tmp.png)](https://youtu.be/OCasg_HQ3LI)
 [![](../common/images/compinstpca_tmp.png)](https://youtu.be/lxD2w1Chyxg)
 [![](../common/images/instconfpca_tmp.png)](https://youtu.be/B4aW0hzDfc4)
