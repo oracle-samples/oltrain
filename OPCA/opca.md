@@ -48,6 +48,7 @@ This section provides video training for administrator and user tasks performed 
 [![](../common/images/instpoolpca_tmp.png)](https://youtu.be/VfSKX7WxNX8)
 [![](../common/images/blkvolpca_tmp.png)](https://youtu.be/s5N6mGxUNew)
 [![](../common/images/bootvolpca_tmp.png)](https://youtu.be/Vo4119i8HsU)
+[![](../common/images/man_vol_grps.png)](https://youtu.be/YlwfUWbXsT8)
 ---
 ## Oracle Private Cloud Appliance Foundations Training   
 For even more training on Oracle Private Cloud Appliance, use this link to access further foundation level training.   
