@@ -47,12 +47,10 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/verrazzano_lab.png)](https://luna.oracle.com/lab/8a6bf419-7ef9-4be1-a679-680b03191011)
 [![](../common/images/ocne_scale_lab.png)](https://luna.oracle.com/lab/6c9e4d88-27e7-43bd-9366-0693fb8e4d3a)
 
-### Installation Tutorials
+### Installation Tutorial
 Each tutorial provides step-by-step procedures to complete specific tasks but does not provide an environment. Perform these tutorial steps on your own Oracle Linux environment.
 
-[![](../common/images/haocne_tut.png)](https://docs.oracle.com/en/learn/ocne-install-ha/)
 [![](../common/images/operatorlcocne_tut.png)](https://docs.oracle.com/en/learn/ocne-olm/)
-[![](../common/images/scaleocne_tut.png)](https://docs.oracle.com/en/learn/ocne-scale/)
 
 ### Kubernetes Videos
 An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.
@@ -108,10 +106,10 @@ The following videos will introduce you to the role of Istio in supporting the m
 [![](../common/images/istioeg_tmp.png)](https://youtu.be/MHKc4hfszUI)
 [![](../common/images/istiort_tmp.png)](https://youtu.be/HDagk09TayQ)
 
-### Istio Tutorial
-Each tutorial provides step-by-step procedures to complete specific tasks but does not provide an environment. Perform these tutorial steps on your own Oracle Linux environment.
+### Istio Hands On Lab
+Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
-[![](../common/images/istiosidecarocne_tut.png)](https://docs.oracle.com/en/learn/ocne-sidecars/)
+[![](../common/images/istio_sidecar.png)](https://luna.oracle.com/lab/6e667326-fd72-4e65-a5b5-8398c5eef960)
 
 ---
 ## Quiz
