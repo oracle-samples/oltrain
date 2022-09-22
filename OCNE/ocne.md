@@ -108,10 +108,10 @@ The following videos will introduce you to the role of Istio in supporting the m
 [![](../common/images/istioeg_tmp.png)](https://youtu.be/MHKc4hfszUI)
 [![](../common/images/istiort_tmp.png)](https://youtu.be/HDagk09TayQ)
 
-### Istio Tutorial
-Each tutorial provides step-by-step procedures to complete specific tasks but does not provide an environment. Perform these tutorial steps on your own Oracle Linux environment.
+### Istio Hands On Lab
+Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
-[![](../common/images/istiosidecarocne_tut.png)](https://docs.oracle.com/en/learn/ocne-sidecars/)
+[![](../common/images/istio_sidecar.png)](https://luna.oracle.com/lab/6e667326-fd72-4e65-a5b5-8398c5eef960)
 
 ---
 ## Quiz
