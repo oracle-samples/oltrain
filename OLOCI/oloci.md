@@ -45,7 +45,7 @@ Learn to administer compute instances using a range of tools and solutions provi
 ### Administering Instances Hands On Lab
 
 [![](../common/images/migratealx_lab.png)](https://luna.oracle.com/lab/8848ec22-81cd-46d5-aeab-dd2dae36118b)
-[![](../common/images/ol_streams_lab.png)](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)
+[![](../common/images/ol-streams-lab1.png)](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)
 
 ### Managing Security and Access to your Cloud Videos
 Learn to secure access to instances and manage traffic between virtual networks in Oracle Cloud Infrastructure.
