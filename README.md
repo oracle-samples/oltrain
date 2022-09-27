@@ -3,7 +3,7 @@
 
 ![](common/images/ol-train4.png)
 ---
-Head to the Oracle Linux Training Station tracks below to learn about Linux and Virtualization products. These tracks provides you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises for:
+Head to the Oracle Linux Training Station tracks below to learn about Linux and Virtualization products. These tracks provide you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises.
 [![whats new](common/images/whats-new2.png)](./Whats_New/new.md)  
    
 ---
