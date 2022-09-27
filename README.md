@@ -1,13 +1,13 @@
 
 # Welcome to Oracle Linux Training Station <a name="top"></a>
-- [What's New](./Whats_New/new.md): Click here to see the most recent additions to the Oracle Linux Training Station.
 
 ![](common/images/ol-train4.png)
 ---
-Head to the Oracle Linux Training Station to learn about Linux and Virtualization products. The following tracks provides you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises for:
+Head to the Oracle Linux Training Station tracks below to learn about Linux and Virtualization products. These tracks provide you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises.
+[![whats new](common/images/whats-new2.png)](./Whats_New/new.md)  
    
----   
-   
+---
+
 ![](common/images/OL-banner-v2a.png)
 - [Oracle Linux](./OL/ol.md): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
    
