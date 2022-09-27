@@ -1,5 +1,6 @@
 
 # Welcome to Linux on Oracle Cloud Infrastructure Track
+
 ![](../common/images/OLCI-1200x200-banner.png)
 ---
 This track provides an elearning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.

@@ -1,5 +1,6 @@
 
 # Welcome to Oracle Linux Automation Manager Track
+
 ![](../common/images/OLAM-banner.jpg)
 ---
 This track provides free training to help introduce you to Oracle Linux Automation Manager and improve your skills with its automation tools.

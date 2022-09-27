@@ -1,5 +1,6 @@
 
 # Welcome to OS Management on Oracle Cloud Infrastructure Track
+
 ![](../common/images/OSM-OCI-1200x200-banner.png)
 ---
 The Oracle Cloud Infrastructure OS Management service allows you to manage updates and patches for the operating system environment on your Oracle Cloud Infrastructure instances.
