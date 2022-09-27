@@ -1,7 +1,8 @@
 
 # Welcome to Oracle Linux Training Station <a name="top"></a>
-- [What's New](./Whats_New/new.md): Click here to see the most recent additions to the Oracle Linux Training Station.
 [![whats new](common/images/whats-new1.png)](./Whats_New/new.md)
+
+---
 
 ![](common/images/ol-train4.png)
 ---
