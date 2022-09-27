@@ -1,8 +1,7 @@
 # What's New from the Oracle Linux Training Station
+
 ![](../common/images/whats-new-head2.png)
-
 ---
-
 This page highlights the videos and hands on labs that have been added to the learning tracks on the Oracle Linux Training Station in the period June-September 2022.
 
 ---
