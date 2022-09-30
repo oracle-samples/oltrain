@@ -43,6 +43,13 @@ Head to the Oracle Linux Training Station tracks below to learn about Linux and 
    
 ---
    
+### Resources
+
+Following blog pages provide additional product training information:
+
+- Oracle Linux Blog: https://blogs.oracle.com/linux/category/lnx-training
+- Simon Coter - Director of Product Management, Oracle Linux and Virtualization at Oracle: https://blogs.oracle.com/scoter/
+
 ### Support or Contact
 
 Having trouble with these pages? Contact [craig.mcbride@oracle.com](mailto:craig.mcbride@oracle.com) and I'll help you sort it out.
