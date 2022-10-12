@@ -65,6 +65,7 @@ With the completion of these videos and hands on labs, every topic, every object
 - [Managing Boot Volumes on Oracle Private Cloud Appliance](https://youtu.be/Vo4119i8HsU)
 - [Compartment and Policy Administration on Oracle Private Cloud Appliance](https://youtu.be/KV4sQOWXab8)
 - [Managing Volume Groups on Oracle Private Cloud Appliance](https://youtu.be/YlwfUWbXsT8)
+- [Migrating Virtual Machines on Oracle Private Cloud Appliance](https://youtu.be/_YjZMVApxaE)
 - [Patch Individual Components on Oracle Private Cloud Appliance](https://youtu.be/v_5ASLflVxU)
 
 ---
