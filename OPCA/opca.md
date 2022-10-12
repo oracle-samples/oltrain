@@ -27,6 +27,7 @@ This section provides video training for Day 0 configuration and for administrat
 [![](../common/images/grafanapca_tmp.png)](https://youtu.be/humJ2jiovBs)
 [![](../common/images/lokipca_tmp.png)](https://youtu.be/HiGz8ruDtas)
 [![](../common/images/alertspca_tmp.png)](https://youtu.be/Qmj_V8TAQXs)
+[![](../common/images/pca_migrating_virtual_machs_video_thumbnail_.png)](https://youtu.be/_YjZMVApxaE)
 
 ## Compute Enclave Tasks
 The Compute Enclave offers functionality to users of the cloud environment, and are very similar in operation to the corresponding Oracle Cloud Infrastructure services. Users of the Compute Enclave have certain permissions to enable the deployment of customer workloads through compute instances and associated resources. Cloud services include the compute and storage services, identity and access management, and networking.
