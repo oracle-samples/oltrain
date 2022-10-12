@@ -11,7 +11,7 @@ These short videos go through some common administration tasks that you can perf
 [![](../../common/images/passage_tmp.png)](https://youtu.be/WrcnDpj3axQ)
 [![](../../common/images/ftp_tmp.png)](https://youtu.be/xpBBUPLEkZg)
 [![](../../common/images/vim_tmp.png)](https://youtu.be/5xKldV3knzU)
-[![](../../common/images/leapp_tmp.png)](https://youtu.be/pk6tgzGpAU4)
+[![](../../common/images/leapp_tmp.png)](https://youtu.be/kxeBILa3YNc)
 [![](../../common/images/cgroups_tmp.png)](https://youtu.be/AiYK0VBW7e4)
 [![](../../common/images/selinux_tmp.png)](https://youtu.be/meKjLOxEu_o)
 [![](../../common/images/pam_tmp.png)](https://youtu.be/KRGC2lElVC8)
