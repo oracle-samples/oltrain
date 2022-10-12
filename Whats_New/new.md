@@ -23,6 +23,7 @@ With the completion of these videos and hands on labs, every topic, every object
 - [Use and Enable Access Control Lists (ACLs) on Oracle Linux](https://luna.oracle.com/lab/7a272852-6042-47e3-b25f-eb681c733e66)
 - [Encrypt Drives using LUKS on Oracle Linux](https://luna.oracle.com/lab/9c62956d-153b-4e93-84b0-0b2759f7e4bb)
 - [Mount an NFS Share Using a Rootful Podman Volume](https://luna.oracle.com/lab/556e1401-568f-447e-8c0b-c94a86b1114f)
+- [Install FreeIPA Server on Oracle Linux](https://luna.oracle.com/lab/19bfac85-6c1e-4775-8fc3-6f55022a8e47)
 
 ---
 
