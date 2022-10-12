@@ -2,7 +2,7 @@
 
 ![](../common/images/whats-new-head2.png)
 ---
-This page highlights the videos and hands on labs that have been added to the learning tracks on the Oracle Linux Training Station in the period June-September 2022.
+This page highlights the videos and hands on labs that have been added to the learning tracks on the Oracle Linux Training Station in the period June-October 2022.
 
 ---
 
@@ -23,6 +23,7 @@ With the completion of these videos and hands on labs, every topic, every object
 - [Use and Enable Access Control Lists (ACLs) on Oracle Linux](https://luna.oracle.com/lab/7a272852-6042-47e3-b25f-eb681c733e66)
 - [Encrypt Drives using LUKS on Oracle Linux](https://luna.oracle.com/lab/9c62956d-153b-4e93-84b0-0b2759f7e4bb)
 - [Mount an NFS Share Using a Rootful Podman Volume](https://luna.oracle.com/lab/556e1401-568f-447e-8c0b-c94a86b1114f)
+- [Install FreeIPA Server on Oracle Linux](https://luna.oracle.com/lab/19bfac85-6c1e-4775-8fc3-6f55022a8e47)
 
 ---
 
@@ -64,6 +65,8 @@ With the completion of these videos and hands on labs, every topic, every object
 - [Managing Boot Volumes on Oracle Private Cloud Appliance](https://youtu.be/Vo4119i8HsU)
 - [Compartment and Policy Administration on Oracle Private Cloud Appliance](https://youtu.be/KV4sQOWXab8)
 - [Managing Volume Groups on Oracle Private Cloud Appliance](https://youtu.be/YlwfUWbXsT8)
+- [Migrating Virtual Machines on Oracle Private Cloud Appliance](https://youtu.be/_YjZMVApxaE)
+- [Patch Individual Components on Oracle Private Cloud Appliance](https://youtu.be/v_5ASLflVxU)
 
 ---
 #### [Return to Oracle Linux Training Station](../README.md)
