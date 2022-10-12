@@ -2,7 +2,7 @@
 
 ![](../common/images/whats-new-head2.png)
 ---
-This page highlights the videos and hands on labs that have been added to the learning tracks on the Oracle Linux Training Station in the period June-September 2022.
+This page highlights the videos and hands on labs that have been added to the learning tracks on the Oracle Linux Training Station in the period June-October 2022.
 
 ---
 
@@ -64,6 +64,7 @@ With the completion of these videos and hands on labs, every topic, every object
 - [Managing Boot Volumes on Oracle Private Cloud Appliance](https://youtu.be/Vo4119i8HsU)
 - [Compartment and Policy Administration on Oracle Private Cloud Appliance](https://youtu.be/KV4sQOWXab8)
 - [Managing Volume Groups on Oracle Private Cloud Appliance](https://youtu.be/YlwfUWbXsT8)
+- [Patch Individual Components on Oracle Private Cloud Appliance](https://youtu.be/v_5ASLflVxU)
 
 ---
 #### [Return to Oracle Linux Training Station](../README.md)
