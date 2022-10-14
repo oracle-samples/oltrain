@@ -43,7 +43,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ---
    
 ![](../common/images/OL-page-remote.png)
-- [Remote Management](./rem_mgmt/rem_mgmt.md): Learn how to establish secure connections to remote Oracle Linux systems. With secure connections, all traffic transmitted over the wire is encrypted and protected from password sniffing attacks and other outside monitoring.
+- [Remote Management](./rem_mgmt/rem_mgmt.md): This page focuses on establishing secure connections to remote Oracle Linux systems. With secure connections, all  traffic transmitted over the wire is encrypted and protected from password sniffing attacks and other outside monitoring. Learn about OpenSSH proxyjump, SSH and client-side configuration, SSH tunnels, provisioning user and ssh keys with Ansible, VNC server, and using Gnome 3 screen sharing. Hands-on lab exercises cover configuring SSH tunnels in Oracle Linux.
    
 ---
    
