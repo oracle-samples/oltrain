@@ -33,7 +33,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ---
    
 ![](../common/images/OL-page-package.png)
-- [Package Management](./pkg_mgmt/pkg_mgmt.md): This page focuses on software package management, an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes, and security patches. Oracle Linux 8 introduced DNF, which replaces YUM, and in this track, we cover how to use DNF, install the Oracle UEK kernel and how to add repositories.
+- [Package Management](./pkg_mgmt/pkg_mgmt.md): This page focuses on software package management, an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes, and security patches. Oracle Linux 8 introduced DNF, which replaces YUM, and in this track, we cover how to use DNF, install the Oracle Unbreakable Enterprise Kernel (UEK), and how to add the Extra Packages for Enterprise Linux (EPEL) repository. Hands-on lab exercises cover usage of DNF and how to configure a local Yum server mirror.
    
 ---
    
