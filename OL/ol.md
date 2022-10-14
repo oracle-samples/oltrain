@@ -53,7 +53,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ---
    
 ![](../common/images/OL-page-virtual.png)
-- [Virtualization](./virt/virt.md): This page contains lessons on KVM, VirtualBox, Containers and Kubernetes. It covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux. Learn to take advantage of Linux virtualization and run operating systems as guests within Oracle Linux.
+- [Virtualization](./virt/virt.md): This page focuses on Kernel-based Virtual Machine (KVM), Oracle VM VirtualBox, Containers, Podman, chroot, and Kubernetes. It covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux. Learn to take advantage of Linux virtualization and run operating systems as guests within Oracle Linux. Hands-on lab exercises cover creating VMs with KVM, working with Podman, installing Minikube, and running Kubernetes on Oracle Linux.
    
 ---
    
