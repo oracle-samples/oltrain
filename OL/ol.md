@@ -23,7 +23,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ---
    
 ![](../common/images/OL-page-monitor.png)
-- [Monitoring and Logging](./mon_log/mon_log.md): This page focuses on typical monitoring and logging tasks performed on a Linux system. Learn how to monitor system performance and review system logs on Oracle Linux.
+- [Monitoring and Logging](./mon_log/mon_log.md): This page focuses on typical monitoring and logging tasks performed on a Linux system. Learn how to monitor system performance and review system logs on Oracle Linux using sosreport, iostat, mpstat, vmstat, top, netstat, rsyslog, logwatch, journald, and the Linux auditing system. Hands-on lab exercises cover usage of monitoring and logging utilities and services.
    
 ---
    
