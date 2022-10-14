@@ -48,7 +48,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ---
    
 ![](../common/images/OL-page-storage.png)
-- [Storage Management](./stor_mgmt/stor_mgmt.md): Get started on using fdisk, formatting, filesystems, and disk encryption. Whether manually partitioning your primary disk, adding additional disks for storage, or creating shared storage, working with disks is a skill all Linux Administrators should know.
+- [Storage Management](./stor_mgmt/stor_mgmt.md): This page focuses on partitioning disks, filesystems, file sharing, and disk encryption on Oracle Linux. Whether manually partitioning your primary disk, adding additional disks for storage, or creating shared storage, working with disks is a skill all Linux Administrators should know. Learn about fdisk, ext filesystems, mounting filesystems, the /etc/fstab file, swap space, NFS server, NFS export, and NFS shares, XFS filesystems, BTRFS filesystems, GlusterFS filesystems, and logical volume management (LVM). Hands-on lab exercises cover fdisk, mkfs, mount, swapon, parted, LVM, autofs, NFS, network-bound disk encryption, gluster storage, BTRFS, RAID, ACLs, and LUKS encryption on Oracle Linux.
    
 ---
    
