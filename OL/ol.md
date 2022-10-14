@@ -28,7 +28,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ---
    
 ![](../common/images/OL-page-network.png)
-- [Networking](./network/network.md): This page focuses on the configuration files, firewalls, and command line utilities to get a Linux system online. Learn how to connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems.
+- [Networking](./network/network.md): This page focuses on how to securely connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems. Learn about network configuration files, firewall services such as firewalld and nftables, command line utilities such as nmcli and ip, VLANs, and networking bonding on Oracle Linux. Hands-on lab exercises cover usage of nmcli and ip commands, and VLAN and networking bonding configuration.
    
 ---
    
