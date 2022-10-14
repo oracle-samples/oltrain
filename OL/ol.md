@@ -38,7 +38,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ---
    
 ![](../common/images/OL-page-ksplice.png)
-- [Oracle Ksplice](./ksplice/ksplice.md): Learn to install, configure and use Oracle Ksplice to provide rebootless kernel and critical user-space updates. Oracle Ksplice allows you to install the latest kernel and key user-space security and bug fix updates while the system is running.
+- [Oracle Ksplice](./ksplice/ksplice.md): This page focuses on installing, configuring and using Oracle Ksplice to provide rebootless kernel and critical user-space updates. Oracle Ksplice allows you to install the latest kernel and key user-space security and bug fix updates while the system is running. Learn how to enable Oracle Ksplice, run Ksplice commands, run upgrack commands, and uninstall Ksplice. Hands-on lab exercises cover usage of Oracle Ksplice in Oracle Linux.
    
 ---
    
