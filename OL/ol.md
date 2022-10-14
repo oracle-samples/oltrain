@@ -13,7 +13,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ---
    
 ![](../common/images/OL-page-install.png)
-- [Installation and Boot Process](./inst_boot/inst_boot.md): This page focuses on the installation and boot process. Learn how to complete an Oracle Linux installation for on-premises deployment and how to create an Oracle Linux instance on Oracle Cloud Infrastructure. You can also learn about the boot process and how to configure different services to start at boot time.
+- [Installation and Boot Process](./inst_boot/inst_boot.md): This page focuses on the installation and boot process. Learn how to complete an Oracle Linux installation for on-premises deployment and how to create an Oracle Linux instance on Oracle Cloud Infrastructure. You can also learn about the BIOS firmware bootloader process, Unified Extensible Firmware Interface (UEFI), GRUB2 Bootloader, and how to configure different systemd services to start at boot time. Hands-on lab exercises cover how to manage the boot kernel, how to localize your installation, how to use sysctl, /proc, /sys, and /etc/sysconfig, how to use and manage systemd target units, and how to switch a CentOS 8 instance to Oracle Linux 8.
    
 ---
    
