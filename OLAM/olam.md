@@ -53,6 +53,6 @@ Learn how to add users, organizations, credentials, and permissions to prepare f
 <p style="color:#AA643B;">Coming Soon</p> Oracle Linux Automation Manager Version 2.0 videos.
 
 ### Oracle Linux Automation Manager Hands On Labs
-<h3 style="color:red;"><b>Coming Soon</b></h3> Oracle Linux Automation Manager Version 2.0 free hands on labs.
+<p style="color:red;"><b>Coming Soon</b></p> Oracle Linux Automation Manager Version 2.0 free hands on labs.
 
 #### [Return to Oracle Linux Training Station](../README.md)
