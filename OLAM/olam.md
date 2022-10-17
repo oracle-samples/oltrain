@@ -19,16 +19,19 @@ Oracle Linux Automation Manager provides features that allow your organization t
 ![](../common/images/OLAM-ver1-section1.png)
 
 ### Installing Oracle Linux Automation Manager Videos
+
 These videos will get you started with the installation and overview of Oracle Linux Automation Manager version 1.0.
 
 [![](../common/images/instolam_tmp.png)](https://youtu.be/-RCqGHhweo0)
 [![](../common/images/gsolam_tmp.png)](https://youtu.be/EEWdxROy-nM)
 
 ### Installing Oracle Linux Automation Manager Hands On Lab
+
 Practice your skills with Oracle Linux Automation Manager version 1.0 with these free hands on labs.
 [![](../common/images/instolam_lab.png)](https://luna.oracle.com/lab/ecf924b0-a2e1-49eb-8700-8c8bea5d7502)
 
 ### Administering Oracle Linux Automation Manager Videos
+
 Learn how to add users, organizations, credentials, and permissions to prepare for running jobs with Oracle Linux Automation Manager version 1.0.
 
 [![](../common/images/ucolam_tmp.png)](https://youtu.be/AQk9vJZ2R0Y)
@@ -40,6 +43,7 @@ Learn how to add users, organizations, credentials, and permissions to prepare f
 
 ### Administering Oracle Linux Automation Manager Hands On Labs
 
+Practice your adminstration skills with Oracle Linux Automation Manager version 1.0 with these free hands on labs.
 [![](../common/images/writpbolae_lab.png)](https://luna.oracle.com/lab/27118507-76a6-4116-8ae3-eecc5314531e)
 [![](../common/images/autosetolae_lab.png)](https://luna.oracle.com/lab/56b90194-88ab-421e-bc93-2ac708dce6ba)
 [![](../common/images/confpodolae_lab.png)](https://luna.oracle.com/lab/6154cf89-6a6e-45b3-98ad-635979b953e8)
