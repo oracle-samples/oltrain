@@ -6,7 +6,7 @@
 This track is the place to explore Oracle Linux to help you grow your skillset using free videos and hands-on tutorials and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
 
 ---
-<body>   
+   
 ![](../common/images/OL-page-intro.png)
 - [Introduction to Oracle Linux](./intro/intro.md): New to Linux, or have a little experience working with the Linux operating system? Grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.
    
@@ -60,7 +60,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ![](../common/images/OL-page-howto.png)
 - [Oracle Linux How-To](./howto/howto.md): This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator. Learn how to file a service request, diagnostic data collection, kdump, registering with Oracle Unbreakable Linux Network (ULN), Oracle Ksplice, and Oracle Linux Yum server.
 
-
+| ![](../../common/images/quiz_v2.png)  | Learn how to file a service request, diagnostic data collection, kdump, registering with Oracle Unbreakable Linux Network (ULN), Oracle Ksplice, and Oracle Linux Yum server.  |
  
 <table style="width:1000px">
     <tr>
@@ -69,7 +69,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
   </tr>
 </table>    
 
-</body>
+
 ---
    
 #### [Return to Oracle Linux Training Station](../README.md)
