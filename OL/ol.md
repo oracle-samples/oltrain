@@ -60,18 +60,18 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ![](../common/images/OL-page-howto.png)
 - [Oracle Linux How-To](./howto/howto.md): This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator. Learn how to file a service request, diagnostic data collection, kdump, registering with Oracle Unbreakable Linux Network (ULN), Oracle Ksplice, and Oracle Linux Yum server.
 
-| This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator. | Learn how to file a service request, diagnostic data collection, kdump, registering with Oracle Unbreakable Linux Network (ULN), Oracle Ksplice, and Oracle Linux Yum server. |   
+|  | Learn how to file a service request, diagnostic data collection, kdump, registering with Oracle Unbreakable Linux Network (ULN), Oracle Ksplice, and Oracle Linux Yum server. |   
 
 | Syntax | Description |
 | --- | ----------- |
 | Header | Title |
 | Paragraph | Text |
  
-<table style="width:1000px">
+<table>
     <tr>
-    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
-    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:IJY139">Introduction to Oracle Linux Quiz</a></td>
-  </tr>
+        <td>This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.</td>
+        <td>Learn how to file a service request, diagnostic data collection, kdump, registering with Oracle Unbreakable Linux Network (ULN), Oracle Ksplice, and Oracle Linux Yum server.</td>
+    </tr>
 </table>    
 
 
