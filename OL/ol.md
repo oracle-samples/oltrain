@@ -64,7 +64,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
  
 <table style="width:1000px">
     <tr>
-    <td style="width:70%"><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
     <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:IJY139">Introduction to Oracle Linux Quiz</a></td>
   </tr>
 </table>    
