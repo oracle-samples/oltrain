@@ -56,10 +56,10 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 
 <table width="1000px">
       <tr>
-         <td valign="top">&#8226 <a href="./virt/virt.md">Virtualization:  </a>This page covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux. Learn to take advantage of Linux virtualization and run operating systems as guests within Oracle Linux.</td>
+         <td colspan="2";valign="top">&#8226 <a href="./virt/virt.md">Virtualization:  </a>This page covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux. Learn to take advantage of Linux virtualization and run operating systems as guests within Oracle Linux.</td>
       </tr>
       <tr>   
-         <td width="500px">Learn about these topics:
+         <td valign="top";width="500px">Learn about these topics:
             <ul>
                <li>Kernel-based Virtual Machine (KVM)</li>
                <li>Oracle VM VirtualBox</li>
@@ -69,7 +69,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Kubernetes</li>
             </ul>
          </td>
-         <td width="500px">Practice the following with real hands on labs:
+         <td valign="top";width="500px">Practice the following with real hands on labs:
             <ul>
                <li>Creating VMs with KVM</li>
                <li>Working with Podman</li>
