@@ -7,7 +7,7 @@ This track provides an elearning path with step-by-step instructions and guidanc
 
 As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.
 
-Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.<br>
+Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.<br><br>
    
 ![](../common/images/OLOCI-deploy-header1.png)
 ### Deploying Cloud Components with the Web Console Videos
