@@ -58,23 +58,24 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ---
    
 ![](../common/images/OL-page-howto.png)
-- [Oracle Linux How-To](./howto/howto.md): This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator. Learn how to file a service request, diagnostic data collection, kdump, registering with Oracle Unbreakable Linux Network (ULN), Oracle Ksplice, and Oracle Linux Yum server.
 
 <table width="1000px">
       <tr>
          <td valign="top">&#8226 <a href="./howto/howto.md">Oracle Linux How-To:  </a>This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.</td>
          <td width="400px">Learn about these topics:
             <ul>
-               <li>how to file a service request</li>
-               <li>diagnostic data collection</li>
-               <li>kdump</li>
-               <li>registering with Oracle Unbreakable Linux Network (ULN)</li>
+               <li>How to file a service request</li>
+               <li>Diagnostic data collection</li>
+               <li>Kdump</li>
+               <li>Registering with Oracle Unbreakable Linux Network (ULN)</li>
                <li>Oracle Ksplice</li>
                <li>Oracle Linux Yum server</li>
             </ul>
          </td>
      </tr>
 </table>    
+
+- [Oracle Linux How-To](./howto/howto.md): This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator. Learn how to file a service request, diagnostic data collection, kdump, registering with Oracle Unbreakable Linux Network (ULN), Oracle Ksplice, and Oracle Linux Yum server.
 
 ---
    
