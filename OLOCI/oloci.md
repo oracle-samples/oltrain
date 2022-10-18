@@ -7,9 +7,8 @@ This track provides an elearning path with step-by-step instructions and guidanc
 
 As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.
 
-Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.
+Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.<br>
    
-<br>
 ![](../common/images/OLOCI-deploy-header1.png)
 ### Deploying Cloud Components with the Web Console Videos
 Learn to provision and launch compute instances with the cloud web console to support your cloud solution in Oracle Cloud infrastructure.
@@ -26,9 +25,8 @@ Learn to provision and launch compute instances with the cloud web console to su
 
 ### Deploying Cloud Components Tutorial
 
-[![](../common/images/terr_lab.png)](https://docs.oracle.com/en/learn/intro_terraform_linux/index.html)
+[![](../common/images/terr_lab.png)](https://docs.oracle.com/en/learn/intro_terraform_linux/index.html)   
    
-<br>
 ![](../common/images/OLOCI-admin-header1.png)
 ### Administering Instances In Oracle Cloud Infrastructure Videos
 Learn to administer compute instances using a range of tools and solutions provided to support your cloud solution in Oracle Cloud infrastructure.
@@ -50,8 +48,7 @@ Learn to administer compute instances using a range of tools and solutions provi
 ### Administering Instances Hands On Lab
 
 [![](../common/images/migratealx_lab.png)](https://luna.oracle.com/lab/8848ec22-81cd-46d5-aeab-dd2dae36118b)
-[![](../common/images/ol-streams-lab1.png)](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)
-   
+[![](../common/images/ol-streams-lab1.png)](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)   
    
 ![](../common/images/OLOCI-security-header1.png)
 ### Managing Security and Access to your Cloud Videos
