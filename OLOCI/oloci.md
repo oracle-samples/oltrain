@@ -26,7 +26,8 @@ Learn to provision and launch compute instances with the cloud web console to su
 
 ### Deploying Cloud Components Tutorial
 
-[![](../common/images/terr_lab.png)](https://docs.oracle.com/en/learn/intro_terraform_linux/index.html)   
+[![](../common/images/terr_lab.png)](https://docs.oracle.com/en/learn/intro_terraform_linux/index.html)<br>
+<br>
    
 ![](../common/images/OLOCI-admin-header1.png)
 ### Administering Instances In Oracle Cloud Infrastructure Videos
