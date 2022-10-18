@@ -63,7 +63,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
  
 <table>
       <tr>
-         <td>&#9900 <a href="./howto/howto.md">Oracle Linux How-To:  </a>This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.</td>
+         <td>&#8826 <a href="./howto/howto.md">Oracle Linux How-To:  </a>This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.</td>
          <td>Learn how to file a service request, diagnostic data collection, kdump, registering with Oracle Unbreakable Linux Network (ULN), Oracle Ksplice, and Oracle Linux Yum server.</td>
      </tr>
 </table>    
