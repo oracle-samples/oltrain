@@ -9,7 +9,7 @@ As a Linux administrator, we walk you through building your first components on 
 
 Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.
    
-   
+<br>
 ![](../common/images/OLOCI-deploy-header1.png)
 ### Deploying Cloud Components with the Web Console Videos
 Learn to provision and launch compute instances with the cloud web console to support your cloud solution in Oracle Cloud infrastructure.
@@ -28,7 +28,7 @@ Learn to provision and launch compute instances with the cloud web console to su
 
 [![](../common/images/terr_lab.png)](https://docs.oracle.com/en/learn/intro_terraform_linux/index.html)
    
-   
+<br>
 ![](../common/images/OLOCI-admin-header1.png)
 ### Administering Instances In Oracle Cloud Infrastructure Videos
 Learn to administer compute instances using a range of tools and solutions provided to support your cloud solution in Oracle Cloud infrastructure.
