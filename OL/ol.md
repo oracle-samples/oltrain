@@ -9,13 +9,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-intro.png)
 
-<table width="1000px">
+<table width="1200px">
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./intro/intro.md">Introduction to Oracle Linux:  </a>New to Linux, or have a little experience working with the Linux operating system? Grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.<br><br>
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="500px"><b>Learn about these topics:</b>
+         <td valign="top";width="600px"><b>Learn about these topics:</b>
             <ul>
                <li>Shell and Command Line</li>
                <li>Files and Directories</li>
@@ -31,7 +31,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Remote access using SSH</li>
             </ul>
          </td>
-         <td valign="top";width="500px"><b>Practice the following with these tutorials:</b>
+         <td valign="top";width="600px"><b>Practice the following with these tutorials:</b>
             <ul>
                <li>Introduction to Oracle Linux: Shell and Command line</li>
             </ul>
@@ -44,13 +44,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-install.png)
 
-<table width="1000px">
+<table width="1200px">
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./inst_boot/inst_boot.md">Installation and Boot Process:  </a>This page focuses on the installation and boot process for Oracle Linux.<br><br>
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="500px"><b>Learn about these topics:</b>
+         <td valign="top";width="600px"><b>Learn about these topics:</b>
             <ul>
                <li>Oracle Linux installation</li>
                <li>Create an Oracle Linux instance on Oracle Cloud Infrastructure</li>
@@ -64,7 +64,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Control groups, SELinux, pluggable authentication modules (PAM)</li>
             </ul>
          </td>
-         <td valign="top";width="500px"><b>Practice the following with real hands on labs:</b>
+         <td valign="top";width="600px"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Manage the boot kernel</li>
                <li>Localize your installation</li>
@@ -81,13 +81,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-admin.png)
 
-<table width="1000px">
+<table width="1200px">
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./admin/admin.md">Administration:  </a>This page focuses on common administration tasks that you can perform on Oracle Linux.<br><br>
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="500px"><b>Learn about these topics:</b>
+         <td valign="top";width="600px"><b>Learn about these topics:</b>
             <ul>
                <li>Configure the system date and time</li>
                <li>Automate tasks with cron, anacron, at, and batch</li>
@@ -101,7 +101,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Control groups, SELinux, pluggable authentication modules (PAM)</li>
             </ul>
          </td>
-         <td valign="top";width="500px"><b>Practice the following with real hands on labs:</b>
+         <td valign="top";width="600px"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Users and groups administration</li>
                <li>Crony and crontab</li>
@@ -121,13 +121,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-monitor.png)
 
-<table width="1000px">
+<table width="1200px">
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./mon_log/mon_log.md">Monitoring and Logging:  </a>This page focuses on typical monitoring and logging tasks performed on a Linux system.<br><br>
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="500px"><b>Learn about these topics:</b>
+         <td valign="top";width="600px"><b>Learn about these topics:</b>
             <ul>
                <li>Monitor system performance</li>
                <li>Review system logs</li>
@@ -136,7 +136,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Linux auditing with auditd</li>
             </ul>
          </td>
-         <td valign="top";width="500px"><b>Practice the following with real hands on labs:</b>
+         <td valign="top";width="600px"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Monitoring system resources</li>
                <li>System logging</li>
@@ -152,13 +152,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-network.png)
 
-<table width="1000px">
+<table width="1200px">
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./network/network.md">Networking:  </a>This page focuses on how to securely connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems.<br><br>
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="500px"><b>Learn about these topics:</b>
+         <td valign="top";width="600px"><b>Learn about these topics:</b>
             <ul>
                <li>Network configuration files</li>
                <li>firewalld</li>
@@ -168,7 +168,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Network bonding</li>
             </ul>
          </td>
-         <td valign="top";width="500px"><b>Practice the following with real hands on labs:</b>
+         <td valign="top";width="600px"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>nmcli and IP utilities</li>
                <li>VLANs</li>
@@ -184,13 +184,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-package.png)
 
-<table width="1000px">
+<table width="1200px">
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./pkg_mgmt/pkg_mgmt.md">Package Management:  </a>This page focuses on software package management, an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes, and security patches. Oracle Linux 8 introduced DNF, which replaces YUM.<br><br>
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="500px"><b>Learn about these topics:</b>
+         <td valign="top";width="600px"><b>Learn about these topics:</b>
             <ul>
                <li>Use DNF</li>
                <li>Install the Oracle Unbreakable Enterprise Kernel (UEK)</li>
@@ -201,7 +201,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>NFS server, export and shares</li>
             </ul>
          </td>
-         <td valign="top";width="500px"><b>Practice the following with real hands on labs:</b>
+         <td valign="top";width="600px"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Use DNF</li>
                <li>Configure a local Yum server mirror</li>
@@ -216,13 +216,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-ksplice.png)
 
-<table width="1000px">
+<table width="1200px">
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./ksplice/ksplice.md">Oracle Ksplice:  </a>This page focuses on installing, configuring and using Oracle Ksplice to provide rebootless kernel and critical user-space updates. Oracle Ksplice allows you to install the latest kernel and key user-space security and bug fix updates while the system is running.<br><br>
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="500px"><b>Learn about these topics:</b>
+         <td valign="top";width="600px"><b>Learn about these topics:</b>
             <ul>
                <li>Enable Oracle Ksplice</li>
                <li>Run Ksplice</li>
@@ -230,7 +230,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Uninstall Ksplice</li>
             </ul>
          </td>
-         <td valign="top";width="500px"><b>Practice the following with real hands on labs:</b>
+         <td valign="top";width="600px"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Using Oracle Ksplice in Oracle Linux</li>
             </ul>
@@ -244,13 +244,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-remote.png)
 
-<table width="1000px">
+<table width="1200px">
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./rem_mgmt/rem_mgmt.md">Remote Management:  </a>This page focuses on establishing secure connections to remote Oracle Linux systems. With secure connections, all  traffic transmitted over the wire is encrypted and protected from password sniffing attacks and other outside monitoring.<br><br>
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="500px"><b>Learn about these topics:</b>
+         <td valign="top";width="600px"><b>Learn about these topics:</b>
             <ul>
                <li>OpenSSH proxyjump</li>
                <li>SSH configuration and tunnels</li>
@@ -259,7 +259,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Using Gnome 3 screen sharing</li>
             </ul>
          </td>
-         <td valign="top";width="500px"><b>Practice the following with real hands on labs:</b>
+         <td valign="top";width="600px"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Configuring SSH tunnels</li>
             </ul>
@@ -272,13 +272,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-storage.png)
 
-<table width="1000px">
+<table width="1200px">
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./stor_mgmt/stor_mgmt.md">Storage Management:  </a>This page focuses on partitioning disks, filesystems, file sharing, and disk encryption on Oracle Linux. Whether manually partitioning your primary disk, adding additional disks for storage, or creating shared storage, working with disks is a skill all Linux Administrators should know.<br><br>
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="500px"><b>Learn about these topics:</b>
+         <td valign="top";width="600px"><b>Learn about these topics:</b>
             <ul>
                <li>fdisk</li>
                <li>ext, XFS, BTRFS and GlusterFS filesystems</li>
@@ -289,7 +289,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>NFS server, export and shares</li>
             </ul>
          </td>
-         <td valign="top";width="500px"><b>Practice the following with real hands on labs:</b>
+         <td valign="top";width="600px"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>fdisk, mkfs, mount, swapon, parted, autofs</li>
                <li>NFS</li>
@@ -308,13 +308,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-virtual.png)
 
-<table width="1000px">
+<table width="1200px">
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./virt/virt.md">Virtualization:  </a>This page covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux. Learn to take advantage of Linux virtualization and run operating systems as guests within Oracle Linux.<br><br>
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="500px"><b>Learn about these topics:</b>
+         <td valign="top";width="600px"><b>Learn about these topics:</b>
             <ul>
                <li>Kernel-based Virtual Machine (KVM)</li>
                <li>Oracle VM VirtualBox</li>
@@ -324,7 +324,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Kubernetes</li>
             </ul>
          </td>
-         <td valign="top";width="500px"><b>Practice the following with real hands on labs:</b>
+         <td valign="top";width="600px"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Creating VMs with KVM</li>
                <li>Working with Podman</li>
@@ -342,9 +342,9 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-howto.png)
 
-<table width="1000px">
+<table width="1200px">
       <tr>
-         <td valign="top">&#8226 <a href="./howto/howto.md">Oracle Linux How-To:  </a>This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.</td>
+         <td valign="top";width="800px">&#8226 <a href="./howto/howto.md">Oracle Linux How-To:  </a>This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.</td>
          <td width="400px"><b>Learn about these topics:</b>
             <ul>
                <li>How to file a service request</li>
