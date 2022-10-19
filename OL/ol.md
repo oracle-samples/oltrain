@@ -53,7 +53,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
       </tr>
 -->
       <tr style="width:100%">   
-         <td valign="top" style="width:50%"><b>Learn about these topics:</b>
+         <td valign="top";style="width:50%"><b>Learn about these topics:</b>
             <ul>
                <li>Oracle Linux installation</li>
                <li>Create an Oracle Linux instance on Oracle Cloud Infrastructure</li>
@@ -67,7 +67,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Control groups, SELinux, pluggable authentication modules (PAM)</li>
             </ul>
          </td>
-         <td valign="top" style="width:50%"><b>Practice the following with real hands on labs:</b>
+         <td valign="top";style="width:50%"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Manage the boot kernel</li>
                <li>Localize your installation</li>
