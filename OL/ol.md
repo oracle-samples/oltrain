@@ -60,7 +60,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="500px">Learn about these topics:
+         <td valign="top";width="500px">**Learn about these topics:**
             <ul>
                <li>Kernel-based Virtual Machine (KVM)</li>
                <li>Oracle VM VirtualBox</li>
