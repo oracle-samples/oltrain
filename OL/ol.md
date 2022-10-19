@@ -9,13 +9,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-intro.png)
 
-<table width="1200px">
+<table width="100%">
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./intro/intro.md">Introduction to Oracle Linux:  </a>New to Linux, or have a little experience working with the Linux operating system? Grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.<br><br>
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="600px"><b>Learn about these topics:</b>
+         <td valign="top";width="50%"><b>Learn about these topics:</b>
             <ul>
                <li>Shell and Command Line</li>
                <li>Files and Directories</li>
@@ -31,7 +31,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Remote access using SSH</li>
             </ul>
          </td>
-         <td valign="top";width="600px"><b>Practice the following with these tutorials:</b>
+         <td valign="top";width="50%"><b>Practice the following with these tutorials:</b>
             <ul>
                <li>Introduction to Oracle Linux: Shell and Command line</li>
             </ul>
@@ -44,13 +44,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-install.png)
 
-<table width="1200px">
+<table width="100%">
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./inst_boot/inst_boot.md">Installation and Boot Process:  </a>This page focuses on the installation and boot process for Oracle Linux.<br><br>
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="600px"><b>Learn about these topics:</b>
+         <td valign="top";width="50%"><b>Learn about these topics:</b>
             <ul>
                <li>Oracle Linux installation</li>
                <li>Create an Oracle Linux instance on Oracle Cloud Infrastructure</li>
@@ -64,7 +64,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Control groups, SELinux, pluggable authentication modules (PAM)</li>
             </ul>
          </td>
-         <td valign="top";width="600px"><b>Practice the following with real hands on labs:</b>
+         <td valign="top";width="50%"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Manage the boot kernel</li>
                <li>Localize your installation</li>
