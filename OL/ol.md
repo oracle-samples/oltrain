@@ -44,12 +44,15 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-install.png)
 
-- [Installation and Boot Process](./inst_boot/inst_boot.md): This page focuses on the installation and boot process.
+- [Installation and Boot Process](./inst_boot/inst_boot.md): This page focuses on the installation and boot process.   
+
 <table width="1200">
+<!--
    <tr>
       <td colspan="2";valign="top">&#8226 <a href="./inst_boot/inst_boot.md">Installation and Boot Process:  </a>This page focuses on the installation and boot process for Oracle Linux.<br><br>
       </td>
    </tr>
+-->
       <tr>   
          <td width="600;"valign="top"><b>Learn about these topics:</b>
             <ul>
