@@ -31,7 +31,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/cgroups_lab.png)](https://luna.oracle.com/lab/14d89b6d-627b-4f1f-b859-4761e3ed352c)
 [![](../../common/images/selinux_lab.png)](https://luna.oracle.com/lab/89a09fdd-47c2-4755-b98e-35863bdf7bc0)
 [![](../../common/images/freeipa_lab.png)](https://luna.oracle.com/lab/19bfac85-6c1e-4775-8fc3-6f55022a8e47)
-[![](../../common/images/keycloak_lab2.png)](https://luna.oracle.com/lab/752793ff-9f74-4bb0-b848-90c5bcae4388)
+[![](../../common/images/keycloak_lab.png)](https://luna.oracle.com/lab/752793ff-9f74-4bb0-b848-90c5bcae4388)
 
 ---
 ## Quiz
