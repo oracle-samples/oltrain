@@ -15,7 +15,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
       </td>
    </tr>
       <tr>   
-         <td width="600";valign="top"><b>Learn about these topics:</b>
+         <td width="600"valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Shell and Command Line</li>
                <li>Files and Directories</li>
@@ -50,7 +50,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
       </td>
    </tr>
       <tr>   
-         <td width="600;"valign="top"><b>Learn about these topics:</b>
+         <td width="600"valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Oracle Linux installation</li>
                <li>Create an Oracle Linux instance on Oracle Cloud Infrastructure</li>
@@ -87,7 +87,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
       </tr>
       <tr>   
-         <td width="600";valign="top"><b>Learn about these topics:</b>
+         <td width="600"valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Configure the system date and time</li>
                <li>Automate tasks with cron, anacron, at, and batch</li>
@@ -101,7 +101,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Control groups, SELinux, pluggable authentication modules (PAM)</li>
             </ul>
          </td>
-         <td width="600";valign="top"><b>Practice the following with real hands on labs:</b>
+         <td width="600"valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Users and groups administration</li>
                <li>Crony and crontab</li>
