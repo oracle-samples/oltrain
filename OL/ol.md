@@ -52,7 +52,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
       </tr>
 -->
-      <tr>   
+      <tr width="1200px">   
          <td valign="top";width="600px"><b>Learn about these topics:</b>
             <ul>
                <li>Oracle Linux installation</li>
