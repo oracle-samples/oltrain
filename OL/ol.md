@@ -16,6 +16,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    </tr>
       <tr>   
          <td width="600"valign="top"><b>Learn about these topics:</b>
+<!--- For some reason the column width only works if width is defined before valign :( --->
             <ul>
                <li>Shell and command line</li>
                <li>Files and Directories</li>
