@@ -358,6 +358,14 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
      </tr>
 </table>    
 
+|:---|:---|
+|- [Oracle Linux How-To:](./howto/howto.md): This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.|-How to file a service request|
+||-Diagnostic data collection|
+||-Kdump|
+||-Registering with Oracle Unbreakable Linux Network (ULN)|
+||-Oracle Ksplice|
+||-Oracle Linux Yum server|
+
 ---
    
 #### [Return to Oracle Linux Training Station](../README.md)
