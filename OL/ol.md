@@ -127,7 +127,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
       </tr>
       <tr>   
-         <td width="600";valign="top"><b>Learn about these topics:</b>
+         <td width="600"valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Monitor system performance</li>
                <li>Review system logs</li>
@@ -136,7 +136,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Linux auditing with auditd</li>
             </ul>
          </td>
-         <td width="600";valign="top"><b>Practice the following with real hands on labs:</b>
+         <td width="600"valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Monitoring system resources</li>
                <li>System logging</li>
@@ -158,7 +158,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
       </tr>
       <tr>   
-         <td width="600";valign="top"><b>Learn about these topics:</b>
+         <td width="600"valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Network configuration files</li>
                <li>firewalld</li>
@@ -168,7 +168,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Network bonding</li>
             </ul>
          </td>
-         <td width="600";valign="top"><b>Practice the following with real hands on labs:</b>
+         <td width="600"valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>nmcli and IP utilities</li>
                <li>VLANs</li>
@@ -190,7 +190,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
       </tr>
       <tr>   
-         <td width="600";valign="top"><b>Learn about these topics:</b>
+         <td width="600"valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Use DNF</li>
                <li>Install the Oracle Unbreakable Enterprise Kernel (UEK)</li>
@@ -201,7 +201,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>NFS server, export and shares</li>
             </ul>
          </td>
-         <td width="600";valign="top"><b>Practice the following with real hands on labs:</b>
+         <td width="600"valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Use DNF</li>
                <li>Configure a local Yum server mirror</li>
@@ -222,7 +222,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
       </tr>
       <tr>   
-         <td width="600";valign="top"><b>Learn about these topics:</b>
+         <td width="600"valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Enable Oracle Ksplice</li>
                <li>Run Ksplice</li>
@@ -230,7 +230,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Uninstall Ksplice</li>
             </ul>
          </td>
-         <td width="600";valign="top"><b>Practice the following with real hands on labs:</b>
+         <td width="600"valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Using Oracle Ksplice in Oracle Linux</li>
             </ul>
@@ -250,7 +250,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
       </tr>
       <tr>   
-         <td width="600";valign="top"><b>Learn about these topics:</b>
+         <td width="600"valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>OpenSSH proxyjump</li>
                <li>SSH configuration and tunnels</li>
@@ -259,7 +259,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Using Gnome 3 screen sharing</li>
             </ul>
          </td>
-         <td width="600";valign="top"><b>Practice the following with real hands on labs:</b>
+         <td width="600"valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Configuring SSH tunnels</li>
             </ul>
@@ -278,7 +278,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
       </tr>
       <tr>   
-         <td width="600";valign="top"><b>Learn about these topics:</b>
+         <td width="600"valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>fdisk</li>
                <li>ext, XFS, BTRFS and GlusterFS filesystems</li>
@@ -289,7 +289,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>NFS server, export and shares</li>
             </ul>
          </td>
-         <td width="600";valign="top"><b>Practice the following with real hands on labs:</b>
+         <td width="600"valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>fdisk, mkfs, mount, swapon, parted, autofs</li>
                <li>NFS</li>
@@ -313,7 +313,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
       </tr>
       <tr>   
-         <td width="600";valign="top"><b>Learn about these topics:</b>
+         <td width="600"valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Kernel-based Virtual Machine (KVM)</li>
                <li>Oracle VM VirtualBox</li>
@@ -323,7 +323,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Kubernetes</li>
             </ul>
          </td>
-         <td width="600";valign="top"><b>Practice the following with real hands on labs:</b>
+         <td width="600"valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Creating VMs with KVM</li>
                <li>Working with Podman</li>
@@ -341,7 +341,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ![](../common/images/OL-page-howto.png)
 <table width="1200">
       <tr>
-         <td width="600";valign="top">&#8226 <a href="./howto/howto.md">Oracle Linux How-To:  </a>This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.</td>
+         <td width="600"valign="top">&#8226 <a href="./howto/howto.md">Oracle Linux How-To:  </a>This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.</td>
          <td width="600"><b>Learn about these topics:</b>
             <ul>
                <li>How to file a service request</li>
