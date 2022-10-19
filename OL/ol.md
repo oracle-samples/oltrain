@@ -48,6 +48,37 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ---
    
 ![](../common/images/OL-page-storage.png)
+
+<table width="1000px">
+      <tr>
+         <td colspan="2";valign="top">&#8226 <a href="./virt/virt.md">Virtualization:  </a>This page focuses on partitioning disks, filesystems, file sharing, and disk encryption on Oracle Linux. Whether manually partitioning your primary disk, adding additional disks for storage, or creating shared storage, working with disks is a skill all Linux Administrators should know.<br><br>
+         </td>
+      </tr>
+      <tr>   
+         <td valign="top";width="500px"><b>Learn about these topics:</b>
+            <ul>
+               <li>fdisk</li>
+               <li>ext, XFS, BTRFS and GlusterFS filesystems</li>
+               <li>Logical volume management (LVM)
+               <li>Mounting filesystems</li>
+               <li>/etc/fstab file</li>
+               <li>swap space</li>
+               <li>NFS server, export and shares</li>
+            </ul>
+         </td>
+         <td valign="top";width="500px"><b>Practice the following with real hands on labs:</b>
+            <ul>
+               <li>fdisk, mkfs, mount, swapon, parted, autofs</li>
+               <li>NFS</li>
+               <li>Network-bound disk encryption</li>
+               <li>LVM, Gluster storage, BTRFS, RAID</li>
+               <li>ACLs</li>
+               <li>LUKS encryption</li>
+            </ul>
+         </td>
+     </tr>
+</table>    
+
 - [Storage Management](./stor_mgmt/stor_mgmt.md): This page focuses on partitioning disks, filesystems, file sharing, and disk encryption on Oracle Linux. Whether manually partitioning your primary disk, adding additional disks for storage, or creating shared storage, working with disks is a skill all Linux Administrators should know. Learn about fdisk, ext filesystems, mounting filesystems, the /etc/fstab file, swap space, NFS server, NFS export, and NFS shares, XFS filesystems, BTRFS filesystems, GlusterFS filesystems, and logical volume management (LVM). Hands-on lab exercises cover fdisk, mkfs, mount, swapon, parted, LVM, autofs, NFS, network-bound disk encryption, gluster storage, BTRFS, RAID, ACLs, and LUKS encryption on Oracle Linux.
    
 ---
@@ -70,7 +101,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Kubernetes</li>
             </ul>
          </td>
-         <td valign="top";width="500px">Practice the following with real hands on labs:
+         <td valign="top";width="500px"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Creating VMs with KVM</li>
                <li>Working with Podman</li>
@@ -103,8 +134,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
      </tr>
 </table>    
-
-- [Oracle Linux How-To](./howto/howto.md): This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator. Learn how to file a service request, diagnostic data collection, kdump, registering with Oracle Unbreakable Linux Network (ULN), Oracle Ksplice, and Oracle Linux Yum server.
 
 ---
    
