@@ -7,8 +7,10 @@ This track provides an elearning path with step-by-step instructions and guidanc
 
 As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.
 
-Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.
-
+Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.<br>
+<br>
+   
+![](../common/images/OLOCI-deploy-header1.png)
 ### Deploying Cloud Components with the Web Console Videos
 Learn to provision and launch compute instances with the cloud web console to support your cloud solution in Oracle Cloud infrastructure.
 
@@ -24,8 +26,10 @@ Learn to provision and launch compute instances with the cloud web console to su
 
 ### Deploying Cloud Components Tutorial
 
-[![](../common/images/terr_lab.png)](https://docs.oracle.com/en/learn/intro_terraform_linux/index.html)
-
+[![](../common/images/terr_lab.png)](https://docs.oracle.com/en/learn/intro_terraform_linux/index.html)<br>
+<br>
+   
+![](../common/images/OLOCI-admin-header1.png)
 ### Administering Instances In Oracle Cloud Infrastructure Videos
 Learn to administer compute instances using a range of tools and solutions provided to support your cloud solution in Oracle Cloud infrastructure.
 
@@ -46,15 +50,19 @@ Learn to administer compute instances using a range of tools and solutions provi
 ### Administering Instances Hands On Lab
 
 [![](../common/images/migratealx_lab.png)](https://luna.oracle.com/lab/8848ec22-81cd-46d5-aeab-dd2dae36118b)
-[![](../common/images/ol-streams-lab1.png)](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)
-
+[![](../common/images/ol-streams-lab1.png)](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)<br>
+<br>
+   
+![](../common/images/OLOCI-security-header1.png)
 ### Managing Security and Access to your Cloud Videos
 Learn to secure access to instances and manage traffic between virtual networks in Oracle Cloud Infrastructure.
 
 [![](../common/images/genssh_tmp.png)](https://youtu.be/v5fGdgIrdd0)
 [![](../common/images/netsec_tmp.png)](https://youtu.be/2KBBRnuk-lc)
-[![](../common/images/seclst_tmp.png)](https://youtu.be/1AIXULHjabQ)
-
+[![](../common/images/seclst_tmp.png)](https://youtu.be/1AIXULHjabQ)<br>
+<br>
+   
+![](../common/images/OLOCI-network-header1.png)
 ### Networking your Oracle Cloud Infrastructure Videos
 Learn to build and administer virtual networks and gateways in Oracle Cloud Infrastructure. Manage instance networking and interfaces.
 
@@ -67,8 +75,10 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
 
 ### Networking your Oracle Cloud Infrastructure Hands On Lab
 
-[![](../common/images/vcn_lab.png)](https://luna.oracle.com/lab/5a3f5ad9-7931-43d8-bcdb-40884d6a100f)
+[![](../common/images/vcn_lab.png)](https://luna.oracle.com/lab/5a3f5ad9-7931-43d8-bcdb-40884d6a100f)<br>
+<br>
 
+![](../common/images/OLOCI-storage-header1.png)
 ### Using Storage on Oracle Cloud Infrastructure Videos
 Learn to discover and administer block volume storage and create shared cluster storage for instances.
 
@@ -87,8 +97,10 @@ Learn to discover and administer block volume storage and create shared cluster 
 [![](../common/images/oci-iscsi_lab.png)](https://luna.oracle.com/lab/dd23fba0-9e2b-4a62-b86c-bea4fbc08f9d)
 [![](../common/images/conf_iscsi_lab.png)](https://luna.oracle.com/lab/f85faa38-5476-41a0-951e-56dd86a8ba78)
 [![](../common/images/create_lsa_lab.png)](https://luna.oracle.com/lab/d57199a3-83f5-4ce9-97f8-feacf9e3db31)
-[![](../common/images/conf_ocfs2_lab.png)](https://luna.oracle.com/lab/a7e62a2a-10d0-4b11-a317-bf559c99b148)
+[![](../common/images/conf_ocfs2_lab.png)](https://luna.oracle.com/lab/a7e62a2a-10d0-4b11-a317-bf559c99b148)<br>
+<br>
 
+![](../common/images/OLOCI-kvm-header1.png)
 ### KVM Virtualization for Instances Videos
 Learn to implement KVM virtualization in Oracle Linux instances deployed on Oracle Cloud Infrastructure.
 
