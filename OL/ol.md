@@ -18,7 +18,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ---
    
 ![](../common/images/OL-page-admin.png)
-- [Administration](./admin/admin.md): This page focuses on common administration tasks that you can perform on Oracle Linux. Learn how to configure the system date and time, automate tasks with cron, anacron, at, and batch, dynamically load and unload kernel modules, configure users and groups, explore the proc and sysfs file systems to view and configure system hardware and system processes, password aging and su, FTP configuration, using vim, upgrades with LEAPP, control groups, SELinux, pluggable authentication modules (PAM), and udev. Hands-on lab exercises cover administration of users and groups, crony, crontab, tmux, postfix, STARTTLS for postfix, NGINX, LEAPP, control groups, SELinux, and FreeIPA.
+- [Administration](./admin/admin.md): This page focuses on common administration tasks that you can perform on Oracle Linux. Learn how to configure the system date and time, automate tasks with cron, anacron, at, and batch, dynamically load and unload kernel modules, configure users and groups, explore the proc and sysfs file systems to view and configure system hardware and system processes, password aging and su, FTP configuration, using vim, upgrades with LEAPP, control groups, SELinux, pluggable authentication modules (PAM), and udev. Hands-on lab exercises cover administration of users and groups, crony, crontab, tmux, postfix, STARTTLS for postfix, NGINX, LEAPP, control groups, SELinux, FreeIPA and Keycloak.
    
 ---
    
