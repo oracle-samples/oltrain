@@ -3,7 +3,7 @@
 
 ![](../common/images/OL-1200x200-banner.png)
 ---
-This track is the place to explore Oracle Linux to help you grow your skillset using free videos and hands-on tutorials and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
+This track is the place to explore Oracle Linux to help you grow your skillset using free videos and hands-on tutorials and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps or System Administrator.
 
 ---
    
@@ -17,11 +17,11 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
       <tr>   
          <td width="600"valign="top"><b>Learn about these topics:</b>
             <ul>
-               <li>Shell and Command Line</li>
+               <li>Shell and command line</li>
                <li>Files and Directories</li>
                <li>Permissions</li>
                <li>Linux architecture and kernel</li>
-               <li>Software Management</li>
+               <li>Software management</li>
                <li>Customizing the work environment</li>
                <li>Bash shell scripting</li>
                <li>Monitoring and managing processes</li>
@@ -31,7 +31,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Remote access using SSH</li>
             </ul>
          </td>
-         <td width="600"valign="top"><b>Practice the following with these tutorials:</b>
+         <td width="600"valign="top"><b>Practice with the following tutorials:</b>
             <ul>
                <li>Introduction to Oracle Linux: Shell and Command line</li>
             </ul>
@@ -55,12 +55,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Create an Oracle Linux instance on Oracle Cloud Infrastructure</li>
                <li>The BIOS firmware bootloader process</li>
                <li>Unified Extensible Firmware Interface (UEFI)</li>
-               <li>GRUB2 Bootloader and configuring systemd services</li>
-               <li>Password aging and su</li>
-               <li>FTP configuration</li>
-               <li>Using vim</li>
-               <li>LEAPP upgrades</li>
-               <li>Control groups, SELinux, pluggable authentication modules (PAM)</li>
+               <li>GRUB2 bootloader and configuring systemd services</li>
             </ul>
          </td>
          <td width="600"valign="top"><b>Practice the following with real hands on labs:</b>
@@ -107,7 +102,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>NGINX</li>
                <li>LEAPP</li>
                <li>Control groups and SELinux</li>
-               <li>reeIPA and Keycloak</li>
+               <li>FreeIPA and Keycloak</li>
             </ul>
          </td>
      </tr>
@@ -157,14 +152,14 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Network configuration files</li>
                <li>firewalld</li>
                <li>nftables</li>
-               <li>nmcli and IP utilities</li>
+               <li>Network Manager CLI and IP utilities</li>
                <li>VLANs</li>
-               <li>Network bonding</li>
+               <li>Network interface bonding</li>
             </ul>
          </td>
          <td width="600"valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
-               <li>nmcli and IP utilities</li>
+               <li>Network Manager CLI and IP utilities</li>
                <li>VLANs</li>
                <li>Network interface bonding</li>
             </ul>
@@ -178,7 +173,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 
 <table width="1200">
       <tr>
-         <td colspan="2"valign="top">&#8226 <a href="./pkg_mgmt/pkg_mgmt.md">Package Management:  </a>This page focuses on software package management, an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes, and security patches. Oracle Linux 8 introduced DNF, which replaces YUM.<br><br>
+         <td colspan="2"valign="top">&#8226 <a href="./pkg_mgmt/pkg_mgmt.md">Package Management:  </a>This page focuses on software package management, an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes and security patches. Oracle Linux 8 introduced DNF, which replaces YUM.<br><br>
          </td>
       </tr>
       <tr>   
@@ -187,10 +182,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Use DNF</li>
                <li>Install the Oracle Unbreakable Enterprise Kernel (UEK)</li>
                <li>Add extra packages for Enterprise Linux (EPEL) repository</li>
-               <li>Mounting filesystems</li>
-               <li>/etc/fstab file</li>
-               <li>swap space</li>
-               <li>NFS server, export and shares</li>
             </ul>
          </td>
          <td width="600"valign="top"><b>Practice the following with real hands on labs:</b>
@@ -234,7 +225,8 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 
 <table width="1200">
       <tr>
-         <td colspan="2"valign="top">&#8226 <a href="./rem_mgmt/rem_mgmt.md">Remote Management:  </a>This page focuses on establishing secure connections to remote Oracle Linux systems. With secure connections, all  traffic transmitted over the wire is encrypted and protected from password sniffing attacks and other outside monitoring.<br><br>
+         <td colspan="2"valign="top">&#8226 <a href="./rem_mgmt/rem_mgmt.md">Remote Management:  </a>This page focuses on establishing secure connections to remote Oracle Linux systems.   
+With secure connections, all traffic transmitted over the wire is encrypted and protected from password sniffing attacks and other outside monitoring.<br><br>
          </td>
       </tr>
       <tr>   
@@ -267,22 +259,22 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
       <tr>   
          <td width="600"valign="top"><b>Learn about these topics:</b>
             <ul>
-               <li>fdisk</li>
-               <li>ext, XFS, BTRFS and GlusterFS filesystems</li>
+               <li>fdisk, mkfs, swapon, parted</li>
+               <li>Ext, XFS, BTRFS, GlusterFS filesystems</li>
                <li>Logical volume management (LVM)</li>
                <li>Mounting filesystems</li>
                <li>/etc/fstab file</li>
-               <li>swap space</li>
+               <li>Swap space</li>
                <li>NFS server, export and shares</li>
             </ul>
          </td>
          <td width="600"valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
-               <li>fdisk, mkfs, mount, swapon, parted, autofs</li>
-               <li>NFS</li>
+               <li>Work with fdisk, mkfs, mount, swapon, parted, autofs</li>
+               <li>Create an NFS server</li>
                <li>Network-bound disk encryption</li>
-               <li>LVM, Gluster storage, BTRFS, RAID</li>
-               <li>ACLs</li>
+               <li>Configure and manager LVM, Gluster storage, BTRFS, RAID</li>
+               <li>Enable ACLs</li>
                <li>LUKS encryption</li>
             </ul>
          </td>
@@ -295,7 +287,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 
 <table width="1200">
       <tr>
-         <td colspan="2"valign="top">&#8226 <a href="./virt/virt.md">Virtualization:  </a>This page covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux. Learn to take advantage of Linux virtualization and run operating systems as guests within Oracle Linux.<br><br>
+         <td colspan="2"valign="top">&#8226 <a href="./virt/virt.md">Virtualization:  </a>This page covers lessons on installation, management, creation and other virtualization topics on Oracle Linux. Learn to take advantage of Linux virtualization and run operating systems as guests within Oracle Linux.<br><br>
          </td>
       </tr>
       <tr>   
@@ -304,15 +296,15 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Kernel-based Virtual Machine (KVM)</li>
                <li>Oracle VM VirtualBox</li>
                <li>Containers</li>
-               <li>Podman</li>
-               <li>chroot</li>
+               <li>Podman, Buildah, Skopeo</li>
+               <li>Chroot</li>
                <li>Kubernetes</li>
             </ul>
          </td>
          <td width="600"valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Creating VMs with KVM</li>
-               <li>Working with Podman</li>
+               <li>Working with Podman, Buildah, Skopeo</li>
                <li>Installing Minikube</li>
                <li>Running Kubernetes on Oracle Linux</li>
             </ul>
