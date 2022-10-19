@@ -46,7 +46,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 
 <table width="1200">
    <tr>
-      <td colspan="2";valign="top">&#8226 <a href="./inst_boot/inst_boot.md">Installation and Boot Process:  </a>This page focuses on the installation and boot process for Oracle Linux.<br><br>
+      <td colspan="2"valign="top">&#8226 <a href="./inst_boot/inst_boot.md">Installation and Boot Process:  </a>This page focuses on the installation and boot process for Oracle Linux.<br><br>
       </td>
    </tr>
       <tr>   
@@ -83,7 +83,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 
    <table width="1200">
       <tr>
-         <td colspan="2";valign="top">&#8226 <a href="./admin/admin.md">Administration:  </a>This page focuses on common administration tasks that you can perform on Oracle Linux.<br><br>
+         <td colspan="2"valign="top">&#8226 <a href="./admin/admin.md">Administration:  </a>This page focuses on common administration tasks that you can perform on Oracle Linux.<br><br>
          </td>
       </tr>
       <tr>   
@@ -123,7 +123,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 
 <table width="1200">
       <tr>
-         <td colspan="2";valign="top">&#8226 <a href="./mon_log/mon_log.md">Monitoring and Logging:  </a>This page focuses on typical monitoring and logging tasks performed on a Linux system.<br><br>
+         <td colspan="2"valign="top">&#8226 <a href="./mon_log/mon_log.md">Monitoring and Logging:  </a>This page focuses on typical monitoring and logging tasks performed on a Linux system.<br><br>
          </td>
       </tr>
       <tr>   
@@ -154,7 +154,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 
 <table width="1200">
       <tr>
-         <td colspan="2";valign="top">&#8226 <a href="./network/network.md">Networking:  </a>This page focuses on how to securely connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems.<br><br>
+         <td colspan="2"valign="top">&#8226 <a href="./network/network.md">Networking:  </a>This page focuses on how to securely connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems.<br><br>
          </td>
       </tr>
       <tr>   
@@ -186,7 +186,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 
 <table width="1200">
       <tr>
-         <td colspan="2";valign="top">&#8226 <a href="./pkg_mgmt/pkg_mgmt.md">Package Management:  </a>This page focuses on software package management, an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes, and security patches. Oracle Linux 8 introduced DNF, which replaces YUM.<br><br>
+         <td colspan="2"valign="top">&#8226 <a href="./pkg_mgmt/pkg_mgmt.md">Package Management:  </a>This page focuses on software package management, an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes, and security patches. Oracle Linux 8 introduced DNF, which replaces YUM.<br><br>
          </td>
       </tr>
       <tr>   
@@ -218,7 +218,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 
 <table width="1200">
       <tr>
-         <td colspan="2";valign="top">&#8226 <a href="./ksplice/ksplice.md">Oracle Ksplice:  </a>This page focuses on installing, configuring and using Oracle Ksplice to provide rebootless kernel and critical user-space updates. Oracle Ksplice allows you to install the latest kernel and key user-space security and bug fix updates while the system is running.<br><br>
+         <td colspan="2"valign="top">&#8226 <a href="./ksplice/ksplice.md">Oracle Ksplice:  </a>This page focuses on installing, configuring and using Oracle Ksplice to provide rebootless kernel and critical user-space updates. Oracle Ksplice allows you to install the latest kernel and key user-space security and bug fix updates while the system is running.<br><br>
          </td>
       </tr>
       <tr>   
@@ -246,7 +246,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 
 <table width="1200">
       <tr>
-         <td colspan="2";valign="top">&#8226 <a href="./rem_mgmt/rem_mgmt.md">Remote Management:  </a>This page focuses on establishing secure connections to remote Oracle Linux systems. With secure connections, all  traffic transmitted over the wire is encrypted and protected from password sniffing attacks and other outside monitoring.<br><br>
+         <td colspan="2"valign="top">&#8226 <a href="./rem_mgmt/rem_mgmt.md">Remote Management:  </a>This page focuses on establishing secure connections to remote Oracle Linux systems. With secure connections, all  traffic transmitted over the wire is encrypted and protected from password sniffing attacks and other outside monitoring.<br><br>
          </td>
       </tr>
       <tr>   
@@ -274,7 +274,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 
 <table width="1200">
       <tr>
-         <td colspan="2";valign="top">&#8226 <a href="./stor_mgmt/stor_mgmt.md">Storage Management:  </a>This page focuses on partitioning disks, filesystems, file sharing, and disk encryption on Oracle Linux. Whether manually partitioning your primary disk, adding additional disks for storage, or creating shared storage, working with disks is a skill all Linux Administrators should know.<br><br>
+         <td colspan="2"valign="top">&#8226 <a href="./stor_mgmt/stor_mgmt.md">Storage Management:  </a>This page focuses on partitioning disks, filesystems, file sharing, and disk encryption on Oracle Linux. Whether manually partitioning your primary disk, adding additional disks for storage, or creating shared storage, working with disks is a skill all Linux Administrators should know.<br><br>
          </td>
       </tr>
       <tr>   
@@ -309,7 +309,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ![](../common/images/OL-page-virtual.png)
 <table width="1200">
       <tr>
-         <td colspan="2";valign="top">&#8226 <a href="./virt/virt.md">Virtualization:  </a>This page covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux. Learn to take advantage of Linux virtualization and run operating systems as guests within Oracle Linux.<br><br>
+         <td colspan="2"valign="top">&#8226 <a href="./virt/virt.md">Virtualization:  </a>This page covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux. Learn to take advantage of Linux virtualization and run operating systems as guests within Oracle Linux.<br><br>
          </td>
       </tr>
       <tr>   
