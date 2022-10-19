@@ -15,7 +15,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="50%"><b>Learn about these topics:</b>
+         <td valign="top";style="width:50%"><b>Learn about these topics:</b>
             <ul>
                <li>Shell and Command Line</li>
                <li>Files and Directories</li>
@@ -31,7 +31,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Remote access using SSH</li>
             </ul>
          </td>
-         <td valign="top";width="50%"><b>Practice the following with these tutorials:</b>
+         <td valign="top";style="width:50%"><b>Practice the following with these tutorials:</b>
             <ul>
                <li>Introduction to Oracle Linux: Shell and Command line</li>
             </ul>
@@ -50,7 +50,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="50%"><b>Learn about these topics:</b>
+         <td valign="top";style="width:50%"><b>Learn about these topics:</b>
             <ul>
                <li>Oracle Linux installation</li>
                <li>Create an Oracle Linux instance on Oracle Cloud Infrastructure</li>
@@ -64,7 +64,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Control groups, SELinux, pluggable authentication modules (PAM)</li>
             </ul>
          </td>
-         <td valign="top";width="50%"><b>Practice the following with real hands on labs:</b>
+         <td valign="top";style="width:50%"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Manage the boot kernel</li>
                <li>Localize your installation</li>
