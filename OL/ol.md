@@ -44,15 +44,11 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-install.png)
 
-- [Installation and Boot Process](./inst_boot/inst_boot.md): This page focuses on the installation and boot process.   
-
 <table width="1200">
-<!--
    <tr>
       <td colspan="2";valign="top">&#8226 <a href="./inst_boot/inst_boot.md">Installation and Boot Process:  </a>This page focuses on the installation and boot process for Oracle Linux.<br><br>
       </td>
    </tr>
--->
       <tr>   
          <td width="600;"valign="top"><b>Learn about these topics:</b>
             <ul>
@@ -85,13 +81,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-admin.png)
 
-   <table>
+   <table width="1200">
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./admin/admin.md">Administration:  </a>This page focuses on common administration tasks that you can perform on Oracle Linux.<br><br>
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="600px"><b>Learn about these topics:</b>
+         <td width="600";valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Configure the system date and time</li>
                <li>Automate tasks with cron, anacron, at, and batch</li>
@@ -105,7 +101,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Control groups, SELinux, pluggable authentication modules (PAM)</li>
             </ul>
          </td>
-         <td valign="top";width="600px"><b>Practice the following with real hands on labs:</b>
+         <td width="600";valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Users and groups administration</li>
                <li>Crony and crontab</li>
@@ -125,13 +121,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-monitor.png)
 
-<table width="1200px">
+<table width="1200">
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./mon_log/mon_log.md">Monitoring and Logging:  </a>This page focuses on typical monitoring and logging tasks performed on a Linux system.<br><br>
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="600px"><b>Learn about these topics:</b>
+         <td width="600";valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Monitor system performance</li>
                <li>Review system logs</li>
@@ -140,7 +136,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Linux auditing with auditd</li>
             </ul>
          </td>
-         <td valign="top";width="600px"><b>Practice the following with real hands on labs:</b>
+         <td width="600";valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Monitoring system resources</li>
                <li>System logging</li>
@@ -156,13 +152,13 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-network.png)
 
-<table width="1200px">
+<table width="1200">
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./network/network.md">Networking:  </a>This page focuses on how to securely connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems.<br><br>
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="600px"><b>Learn about these topics:</b>
+         <td valign="top";width="600"><b>Learn about these topics:</b>
             <ul>
                <li>Network configuration files</li>
                <li>firewalld</li>
@@ -172,7 +168,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Network bonding</li>
             </ul>
          </td>
-         <td valign="top";width="600px"><b>Practice the following with real hands on labs:</b>
+         <td valign="top";width="600"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>nmcli and IP utilities</li>
                <li>VLANs</li>
