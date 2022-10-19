@@ -307,8 +307,8 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ---
    
 ![](../common/images/OL-page-virtual.png)
-
-<table width="1200px">
+<div style="width:1200px">
+<table>
       <tr>
          <td colspan="2";valign="top">&#8226 <a href="./virt/virt.md">Virtualization:  </a>This page covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux. Learn to take advantage of Linux virtualization and run operating systems as guests within Oracle Linux.<br><br>
          </td>
@@ -334,7 +334,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
      </tr>
 </table>    
-
+</div>
 
 - [Virtualization](./virt/virt.md): This page focuses on Kernel-based Virtual Machine (KVM), Oracle VM VirtualBox, Containers, Podman, chroot, and Kubernetes. It covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux. Learn to take advantage of Linux virtualization and run operating systems as guests within Oracle Linux. Hands-on lab exercises cover creating VMs with KVM, working with Podman, installing Minikube, and running Kubernetes on Oracle Linux.
    
@@ -344,7 +344,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 <div style="width:800px">
 <table>
       <tr>
-         <td valign="top";width="800px">&#8226 <a href="./howto/howto.md">Oracle Linux How-To:  </a>This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.</td>
+         <td valign="top">&#8226 <a href="./howto/howto.md">Oracle Linux How-To:  </a>This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.</td>
          <td width="400px"><b>Learn about these topics:</b>
             <ul>
                <li>How to file a service request</li>
