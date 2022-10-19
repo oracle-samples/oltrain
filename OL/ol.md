@@ -158,7 +158,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
       </tr>
       <tr>   
-         <td valign="top";width="600"><b>Learn about these topics:</b>
+         <td width="600";valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Network configuration files</li>
                <li>firewalld</li>
@@ -168,7 +168,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Network bonding</li>
             </ul>
          </td>
-         <td valign="top";width="600"><b>Practice the following with real hands on labs:</b>
+         <td width="600";valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>nmcli and IP utilities</li>
                <li>VLANs</li>
