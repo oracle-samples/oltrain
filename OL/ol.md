@@ -64,7 +64,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Control groups, SELinux, pluggable authentication modules (PAM)</li>
             </ul>
          </td>
-         <td width="600";"valign="top"><b>Practice the following with real hands on labs:</b>
+         <td width="600;"valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Manage the boot kernel</li>
                <li>Localize your installation</li>
