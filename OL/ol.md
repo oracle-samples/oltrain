@@ -38,7 +38,8 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          </td>
       </tr>
    </table>  
-   
+<br>
+<br>
    
 ![](../common/images/OL-page-install.png)
 
