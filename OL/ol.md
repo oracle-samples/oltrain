@@ -122,7 +122,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 <table width="1000px">
       <tr>
          <td valign="top">&#8226 <a href="./howto/howto.md">Oracle Linux How-To:  </a>This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.</td>
-         <td width="400px">Learn about these topics:
+         <td width="400px"><b>Learn about these topics:</b>
             <ul>
                <li>How to file a service request</li>
                <li>Diagnostic data collection</li>
