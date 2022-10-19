@@ -45,14 +45,14 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 ![](../common/images/OL-page-install.png)
 
 - [Installation and Boot Process](./inst_boot/inst_boot.md): This page focuses on the installation and boot process.
-<table style="width:100%">
+<table width="1200">
 <!--   <tr>
          <td colspan="2";valign="top">&#8226 <a href="./inst_boot/inst_boot.md">Installation and Boot Process:  </a>This page focuses on the installation and boot process for Oracle Linux.<br><br>
          </td>
       </tr>
 -->
       <tr>   
-         <td valign="top";style="width:50%"><b>Learn about these topics:</b>
+         <td width="600;"valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Oracle Linux installation</li>
                <li>Create an Oracle Linux instance on Oracle Cloud Infrastructure</li>
@@ -66,7 +66,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Control groups, SELinux, pluggable authentication modules (PAM)</li>
             </ul>
          </td>
-         <td valign="top";style="width:50%"><b>Practice the following with real hands on labs:</b>
+         <td width="600;"valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Manage the boot kernel</li>
                <li>Localize your installation</li>
