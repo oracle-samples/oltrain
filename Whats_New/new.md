@@ -24,10 +24,16 @@ With the completion of these videos and hands on labs, every topic, every object
 - [Encrypt Drives using LUKS on Oracle Linux](https://luna.oracle.com/lab/9c62956d-153b-4e93-84b0-0b2759f7e4bb)
 - [Mount an NFS Share Using a Rootful Podman Volume](https://luna.oracle.com/lab/556e1401-568f-447e-8c0b-c94a86b1114f)
 - [Install FreeIPA Server on Oracle Linux](https://luna.oracle.com/lab/19bfac85-6c1e-4775-8fc3-6f55022a8e47)
+- [Deploy Keycloak using Podman on Oracle Linux](https://luna.oracle.com/lab/752793ff-9f74-4bb0-b848-90c5bcae4388)
 
 ---
 
 ![](../common/images/OCNE-banner-v2.png)
+
+### New Video
+
+- [Oracle Cloud Native Environment 1.5.7 Update](https://youtu.be/zMjAfYUB3Qw)
+
 
 ### New Hands On Labs
 
@@ -67,6 +73,7 @@ With the completion of these videos and hands on labs, every topic, every object
 - [Managing Volume Groups on Oracle Private Cloud Appliance](https://youtu.be/YlwfUWbXsT8)
 - [Migrating Virtual Machines on Oracle Private Cloud Appliance](https://youtu.be/_YjZMVApxaE)
 - [Patch Individual Components on Oracle Private Cloud Appliance](https://youtu.be/v_5ASLflVxU)
+- [Resizing Block Volumes on Oracle Private Cloud Appliance](https://youtu.be/bO2kM9tSPU0)
 
 ---
 #### [Return to Oracle Linux Training Station](../README.md)
