@@ -28,7 +28,7 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
 ---
-![](../../common/images/OL-virt-virtbox.png)
+![](../../common/images/OL-virt-virtbox2.png)
 
 ### VirtualBox Videos
 
