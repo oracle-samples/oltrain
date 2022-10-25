@@ -11,6 +11,10 @@ With the completion of these videos and hands on labs, every topic, every object
 
 ### New Videos
 
+- [Import Oracle Cloud Infrastructure instances into VirtualBox 7.0](https://youtu.be/xGoE8X5NqkM)
+- [Export local virtual machines to Oracle Cloud Infrastructure with VirtualBox 7.0](https://youtu.be/KZAw45DeIMw)
+- [Manage OCI instances directly from VirtualBox 7.0](https://youtu.be/uFEN4Di-WDE)
+- [Configure Cloud Networking for local VirtualBox VMs using VirtualBox 7.0](https://youtu.be/wi853qbgXh4)
 - [Pluggable Authentication Modules on Oracle Linux](https://youtu.be/KRGC2lElVC8)
 - [Introducing Udev on Oracle Linux](https://youtu.be/y3q8HAMTPDc)
 
