@@ -30,7 +30,14 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
 ---
 ![](../../common/images/OL-virt-virtbox2.png)
 
-### VirtualBox Videos
+### VirtualBox 7.0 Videos
+
+[![](../../common/images/configure-networking-vbx7.png)](https://youtu.be/wi853qbgXh4)
+[![](../../common/images/manage-oci-vbx7.png)](https://youtu.be/uFEN4Di-WDE)
+[![](../../common/images/import-oci-to-vbx7.png)](https://youtu.be/xGoE8X5NqkM)
+[![](../../common/images/export-vms-to-oci-vbx7.png)](https://youtu.be/KZAw45DeIMw)
+
+### VirtualBox 6.1 Videos
 
 [![](../../common/images/instVB_tmp.png)](https://youtu.be/Dl2CxAoSC5o)
 [![](../../common/images/instVBext_tmp.png)](https://youtu.be/wHOYAGQtOcM)
