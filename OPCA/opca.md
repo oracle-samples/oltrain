@@ -14,10 +14,7 @@ Information and videos presented here cover technologies and components to help 
 ## Service Enclave Tasks
 The Oracle Private Cloud Appliance runs its own specific and separate administration area known as the Service Enclave. The Service Enclave is the part of the system where the appliance infrastructure is controlled. Access is closely monitored and restricted to privileged administrators. Functionality provided by the Service Enclave includes hardware and capacity management, tenancy management, system and component upgrade, system backup and restore, monitoring and tools for service and support, and so on.
 
-To access the Service Enclave, you use either the Service Web UI or Service CLI.
-
-### Service Enclave Tasks Videos
-This section provides video training for Day 0 configuration and for administrator tasks performed from the Service Enclave.
+This section provides video training for Day 0 configuration and for administrator tasks performed from the Service Enclave. To access the Service Enclave, you use either the Service Web UI or Service CLI.
 
 [![](../common/images/day0pca_tmp.png)](https://youtu.be/pkeW3uqt11w)
 [![](../common/images/servclipca_tmp.png)](https://youtu.be/zgX87aB32qw)
@@ -33,26 +30,38 @@ This section provides video training for Day 0 configuration and for administrat
 ## Compute Enclave Tasks
 The Compute Enclave offers functionality to users of the cloud environment, and are very similar in operation to the corresponding Oracle Cloud Infrastructure services. Users of the Compute Enclave have certain permissions to enable the deployment of customer workloads through compute instances and associated resources. Cloud services include the compute and storage services, identity and access management, and networking.
 
-To access the Compute Enclave, you use either the Compute Web UI or OCI CLI.
+This section provides video training for administrator and user tasks performed from the Compute Enclave. To access the Compute Enclave, you use either the Compute Web UI or OCI CLI.
 
-### Compute Enclave Tasks Videos
-This section provides video training for administrator and user tasks performed from the Compute Enclave.
+### Using the OCL CLI
 
 [![](../common/images/instociclipca_tmp.png)](https://youtu.be/SNtGCBl_yZE)
 [![](../common/images/confociclipca_tmp.png)](https://youtu.be/x2iWGXIa-rQ)
+
+### Identity and Access Management
+
 [![](../common/images/usergrppca_tmp.png)](https://youtu.be/D0CxmJ6pn4U)
 [![](../common/images/pca_comp_pol_tmp.png)](https://youtu.be/KV4sQOWXab8)
-[![](../common/images/createvcnpca_tmp.png)](https://youtu.be/OCasg_HQ3LI)
-[![](../common/images/compinstpca_tmp.png)](https://youtu.be/lxD2w1Chyxg)
-[![](../common/images/instconfpca_tmp.png)](https://youtu.be/B4aW0hzDfc4)
 [![](../common/images/federatingpca_tmp.png)](https://youtu.be/tsBn5UQSJ24)
 [![](../common/images/trustedrelypca_tmp.png)](https://youtu.be/wWm4TrPoEtI)
 [![](../common/images/sscpca_tmp.png)](https://youtu.be/uZcQk0pUe3s)
+
+### Networking
+
+[![](../common/images/createvcnpca_tmp.png)](https://youtu.be/OCasg_HQ3LI)
+[![](../common/images/PCA_IG.png)](https://youtu.be/H8GwY7i720A)
+
+### Compute Instance Deployment
+
+[![](../common/images/compinstpca_tmp.png)](https://youtu.be/lxD2w1Chyxg)
+[![](../common/images/instconfpca_tmp.png)](https://youtu.be/B4aW0hzDfc4)
 [![](../common/images/instpoolpca_tmp.png)](https://youtu.be/VfSKX7WxNX8)
+
+### Storage
+
 [![](../common/images/blkvolpca_tmp.png)](https://youtu.be/s5N6mGxUNew)
 [![](../common/images/bootvolpca_tmp.png)](https://youtu.be/Vo4119i8HsU)
-[![](../common/images/man_vol_grps.png)](https://youtu.be/YlwfUWbXsT8)
 [![](../common/images/pca_resizing_block_volumes.png)](https://youtu.be/bO2kM9tSPU0)
+[![](../common/images/man_vol_grps.png)](https://youtu.be/YlwfUWbXsT8)
 ---
 ## Oracle Private Cloud Appliance Foundations Training   
 For even more training on Oracle Private Cloud Appliance, use this link to access further foundation level training.   
