@@ -15,6 +15,7 @@ Information and videos presented here cover technologies and components to help 
 The Oracle Private Cloud Appliance runs its own specific and separate administration area known as the Service Enclave. The Service Enclave is the part of the system where the appliance infrastructure is controlled. Access is closely monitored and restricted to privileged administrators. Functionality provided by the Service Enclave includes hardware and capacity management, tenancy management, system and component upgrade, system backup and restore, monitoring and tools for service and support, and so on.
 
 This section provides video training for Day 0 configuration and for administrator tasks performed from the Service Enclave. To access the Service Enclave, you use either the Service Web UI or Service CLI.
+
 [![](../common/images/day0pca_tmp.png)](https://youtu.be/pkeW3uqt11w)
 [![](../common/images/servclipca_tmp.png)](https://youtu.be/zgX87aB32qw)
 [![](../common/images/authgrppca_tmp.png)](https://youtu.be/QCsCyFWPea0)
