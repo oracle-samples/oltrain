@@ -38,21 +38,31 @@ To access the Compute Enclave, you use either the Compute Web UI or OCI CLI.
 ### Compute Enclave Tasks Videos
 This section provides video training for administrator and user tasks performed from the Compute Enclave.
 
+#### Using the OCL CLI
 [![](../common/images/instociclipca_tmp.png)](https://youtu.be/SNtGCBl_yZE)
 [![](../common/images/confociclipca_tmp.png)](https://youtu.be/x2iWGXIa-rQ)
+
+#### Identity and Access Management
 [![](../common/images/usergrppca_tmp.png)](https://youtu.be/D0CxmJ6pn4U)
 [![](../common/images/pca_comp_pol_tmp.png)](https://youtu.be/KV4sQOWXab8)
-[![](../common/images/createvcnpca_tmp.png)](https://youtu.be/OCasg_HQ3LI)
-[![](../common/images/compinstpca_tmp.png)](https://youtu.be/lxD2w1Chyxg)
-[![](../common/images/instconfpca_tmp.png)](https://youtu.be/B4aW0hzDfc4)
 [![](../common/images/federatingpca_tmp.png)](https://youtu.be/tsBn5UQSJ24)
 [![](../common/images/trustedrelypca_tmp.png)](https://youtu.be/wWm4TrPoEtI)
 [![](../common/images/sscpca_tmp.png)](https://youtu.be/uZcQk0pUe3s)
+
+#### Networking
+[![](../common/images/createvcnpca_tmp.png)](https://youtu.be/OCasg_HQ3LI)
+[![](../common/images/PCA_IG.png)](https://youtu.be/H8GwY7i720A)
+
+#### Compute Instance Deployment
+[![](../common/images/compinstpca_tmp.png)](https://youtu.be/lxD2w1Chyxg)
+[![](../common/images/instconfpca_tmp.png)](https://youtu.be/B4aW0hzDfc4)
 [![](../common/images/instpoolpca_tmp.png)](https://youtu.be/VfSKX7WxNX8)
+
+#### Storage
 [![](../common/images/blkvolpca_tmp.png)](https://youtu.be/s5N6mGxUNew)
 [![](../common/images/bootvolpca_tmp.png)](https://youtu.be/Vo4119i8HsU)
-[![](../common/images/man_vol_grps.png)](https://youtu.be/YlwfUWbXsT8)
 [![](../common/images/pca_resizing_block_volumes.png)](https://youtu.be/bO2kM9tSPU0)
+[![](../common/images/man_vol_grps.png)](https://youtu.be/YlwfUWbXsT8)
 ---
 ## Oracle Private Cloud Appliance Foundations Training   
 For even more training on Oracle Private Cloud Appliance, use this link to access further foundation level training.   
