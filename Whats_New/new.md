@@ -79,6 +79,7 @@ With the completion of these videos and hands on labs, every topic, every object
 - [Patch Individual Components on Oracle Private Cloud Appliance](https://youtu.be/v_5ASLflVxU)
 - [Resizing Block Volumes on Oracle Private Cloud Appliance](https://youtu.be/bO2kM9tSPU0)
 - [Internet Gateway on Oracle Private Cloud Appliance](https://youtu.be/H8GwY7i720A)
+- [Managing Volume Groups on Oracle Private Cloud Appliance](https://youtu.be/YlwfUWbXsT8)
 
 ---
 #### [Return to Oracle Linux Training Station](../README.md)
