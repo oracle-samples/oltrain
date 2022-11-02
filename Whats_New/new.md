@@ -11,6 +11,7 @@ With the completion of these videos and hands on labs, every topic, every object
 
 ### New Videos
 
+- [Integrate VirtualBox 7.0 with Oracle Cloud Infrastructure](https://youtu.be/3roYMw-D2ks)
 - [Import Oracle Cloud Infrastructure instances into VirtualBox 7.0](https://youtu.be/xGoE8X5NqkM)
 - [Export local virtual machines to Oracle Cloud Infrastructure with VirtualBox 7.0](https://youtu.be/KZAw45DeIMw)
 - [Manage OCI instances directly from VirtualBox 7.0](https://youtu.be/uFEN4Di-WDE)
