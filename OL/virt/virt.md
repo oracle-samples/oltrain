@@ -32,7 +32,7 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
 
 ### VirtualBox 7.0 Videos
 
-[![](../../common/images/integrate-vbox-oci-300x169.png)](https://youtu.be/3roYMw-D2ks)
+[![](../../common/images/integrate-vbox7-oci.png)](https://youtu.be/3roYMw-D2ks)
 [![](../../common/images/configure-networking-vbx7.png)](https://youtu.be/wi853qbgXh4)
 [![](../../common/images/manage-oci-vbx7.png)](https://youtu.be/uFEN4Di-WDE)
 [![](../../common/images/import-oci-to-vbx7.png)](https://youtu.be/xGoE8X5NqkM)
