@@ -49,6 +49,7 @@ This section provides video training for administrator and user tasks performed 
 
 [![](../common/images/createvcnpca_tmp.png)](https://youtu.be/OCasg_HQ3LI)
 [![](../common/images/PCA_IG.png)](https://youtu.be/H8GwY7i720A)
+[![](../common/images/PCA_LPG.png)](https://youtu.be/pxdkxjajhO0)
 
 ### Compute Instance Deployment
 
