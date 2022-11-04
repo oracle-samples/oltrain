@@ -44,6 +44,7 @@ This section provides video training for administrator and user tasks performed 
 [![](../common/images/confociclipca_tmp.png)](https://youtu.be/x2iWGXIa-rQ)
 <br>
 <br>
+
 ![](../common/images/pca-page-iam.png)
 
 [![](../common/images/usergrppca_tmp.png)](https://youtu.be/D0CxmJ6pn4U)
@@ -53,6 +54,7 @@ This section provides video training for administrator and user tasks performed 
 [![](../common/images/sscpca_tmp.png)](https://youtu.be/uZcQk0pUe3s)
 <br>
 <br>
+
 ![](../common/images/pca-page-network.png)
 
 [![](../common/images/createvcnpca_tmp.png)](https://youtu.be/OCasg_HQ3LI)
@@ -60,6 +62,7 @@ This section provides video training for administrator and user tasks performed 
 [![](../common/images/PCA_LPG.png)](https://youtu.be/pxdkxjajhO0)
 <br>
 <br>
+
 ![](../common/images/pca-page-compinst.png)
 
 [![](../common/images/compinstpca_tmp.png)](https://youtu.be/lxD2w1Chyxg)
@@ -67,6 +70,7 @@ This section provides video training for administrator and user tasks performed 
 [![](../common/images/instpoolpca_tmp.png)](https://youtu.be/VfSKX7WxNX8)
 <br>
 <br>
+
 ![](../common/images/pca-page-storage.png)
 
 [![](../common/images/blkvolpca_tmp.png)](https://youtu.be/s5N6mGxUNew)
