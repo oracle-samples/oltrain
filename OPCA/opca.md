@@ -27,17 +27,17 @@ This section provides video training for Day 0 configuration and for administrat
 [![](../common/images/alertspca_tmp.png)](https://youtu.be/Qmj_V8TAQXs)
 [![](../common/images/pca_migrating_virtual_machs_video_thumbnail_.png)](https://youtu.be/_YjZMVApxaE)
 [![](../common/images/PCA_patching.png)](https://youtu.be/v_5ASLflVxU)
-   
 <br>
 <br>
+
 ![](../common/images/pca-page-compencl.png)
 
 The Compute Enclave offers functionality to users of the cloud environment, and are very similar in operation to the corresponding Oracle Cloud Infrastructure services. Users of the Compute Enclave have certain permissions to enable the deployment of customer workloads through compute instances and associated resources. Cloud services include the compute and storage services, identity and access management, and networking.
 
 This section provides video training for administrator and user tasks performed from the Compute Enclave. To access the Compute Enclave, you use either the Compute Web UI or OCI CLI.
-   
 <br>
 <br>
+
 ![](../common/images/pca-page-oclcli.png)
 
 [![](../common/images/instociclipca_tmp.png)](https://youtu.be/SNtGCBl_yZE)
