@@ -45,7 +45,7 @@ This section provides video training for administrator and user tasks performed 
 <br>
 <br>
 
-![](../common/images/pca-page-iam4.png)
+![](../common/images/pca-page-iam4x.png)
 
 [![](../common/images/usergrppca_tmp.png)](https://youtu.be/D0CxmJ6pn4U)
 [![](../common/images/pca_comp_pol_tmp.png)](https://youtu.be/KV4sQOWXab8)
