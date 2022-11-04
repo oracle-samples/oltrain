@@ -12,7 +12,7 @@ On these pages you will find material such as videos, documents and useful resou
 Information and videos presented here cover technologies and components to help you expand your learning of the Oracle Private Cloud Appliance.
 
 ![](../common/images/pca-page-srvencl.png)
-## Service Enclave Tasks
+[## Service Enclave Tasks]:
 
 The Oracle Private Cloud Appliance runs its own specific and separate administration area known as the Service Enclave. The Service Enclave is the part of the system where the appliance infrastructure is controlled. Access is closely monitored and restricted to privileged administrators. Functionality provided by the Service Enclave includes hardware and capacity management, tenancy management, system and component upgrade, system backup and restore, monitoring and tools for service and support, and so on.
 
@@ -30,19 +30,19 @@ This section provides video training for Day 0 configuration and for administrat
 [![](../common/images/PCA_patching.png)](https://youtu.be/v_5ASLflVxU)
 
 ![](../common/images/pca-page-compencl.png)
-## Compute Enclave Tasks
+[## Compute Enclave Tasks]:
 
 The Compute Enclave offers functionality to users of the cloud environment, and are very similar in operation to the corresponding Oracle Cloud Infrastructure services. Users of the Compute Enclave have certain permissions to enable the deployment of customer workloads through compute instances and associated resources. Cloud services include the compute and storage services, identity and access management, and networking.
 
 This section provides video training for administrator and user tasks performed from the Compute Enclave. To access the Compute Enclave, you use either the Compute Web UI or OCI CLI.
 
-### Using the OCL CLI
+[### Using the OCL CLI]:
 
 [![](../common/images/instociclipca_tmp.png)](https://youtu.be/SNtGCBl_yZE)
 [![](../common/images/confociclipca_tmp.png)](https://youtu.be/x2iWGXIa-rQ)
 
 ![](../common/images/pca-page-iam.png)
-### Identity and Access Management
+[### Identity and Access Management]:
 
 [![](../common/images/usergrppca_tmp.png)](https://youtu.be/D0CxmJ6pn4U)
 [![](../common/images/pca_comp_pol_tmp.png)](https://youtu.be/KV4sQOWXab8)
@@ -51,21 +51,21 @@ This section provides video training for administrator and user tasks performed 
 [![](../common/images/sscpca_tmp.png)](https://youtu.be/uZcQk0pUe3s)
 
 ![](../common/images/pca-page-network.png)
-### Networking
+[### Networking]:
 
 [![](../common/images/createvcnpca_tmp.png)](https://youtu.be/OCasg_HQ3LI)
 [![](../common/images/PCA_IG.png)](https://youtu.be/H8GwY7i720A)
 [![](../common/images/PCA_LPG.png)](https://youtu.be/pxdkxjajhO0)
 
 ![](../common/images/pca-page-compinst.png)
-### Compute Instance Deployment
+[### Compute Instance Deployment]:
 
 [![](../common/images/compinstpca_tmp.png)](https://youtu.be/lxD2w1Chyxg)
 [![](../common/images/instconfpca_tmp.png)](https://youtu.be/B4aW0hzDfc4)
 [![](../common/images/instpoolpca_tmp.png)](https://youtu.be/VfSKX7WxNX8)
 
 ![](../common/images/pca-page-storage.png)
-### Storage
+[### Storage]:
 
 [![](../common/images/blkvolpca_tmp.png)](https://youtu.be/s5N6mGxUNew)
 [![](../common/images/bootvolpca_tmp.png)](https://youtu.be/Vo4119i8HsU)
