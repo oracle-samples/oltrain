@@ -11,7 +11,7 @@ On these pages you will find material such as videos, documents and useful resou
 
 Information and videos presented here cover technologies and components to help you expand your learning of the Oracle Private Cloud Appliance.
 
-![](../common/images/pca-page-srvencl.png)
+![](../common/images/pca-page-srvencl2.png)
 
 The Oracle Private Cloud Appliance runs its own specific and separate administration area known as the Service Enclave. The Service Enclave is the part of the system where the appliance infrastructure is controlled. Access is closely monitored and restricted to privileged administrators. Functionality provided by the Service Enclave includes hardware and capacity management, tenancy management, system and component upgrade, system backup and restore, monitoring and tools for service and support, and so on.
 
@@ -30,7 +30,7 @@ This section provides video training for Day 0 configuration and for administrat
 <br>
 <br>
 
-![](../common/images/pca-page-compencl.png)
+![](../common/images/pca-page-compencl2.png)
 
 The Compute Enclave offers functionality to users of the cloud environment, and are very similar in operation to the corresponding Oracle Cloud Infrastructure services. Users of the Compute Enclave have certain permissions to enable the deployment of customer workloads through compute instances and associated resources. Cloud services include the compute and storage services, identity and access management, and networking.
 
@@ -38,14 +38,14 @@ This section provides video training for administrator and user tasks performed 
 <br>
 <br>
 
-![](../common/images/pca-page-oclcli.png)
+![](../common/images/pca-page-oclcli2.png)
 
 [![](../common/images/instociclipca_tmp.png)](https://youtu.be/SNtGCBl_yZE)
 [![](../common/images/confociclipca_tmp.png)](https://youtu.be/x2iWGXIa-rQ)
 <br>
 <br>
 
-![](../common/images/pca-page-iam.png)
+![](../common/images/pca-page-iam2.png)
 
 [![](../common/images/usergrppca_tmp.png)](https://youtu.be/D0CxmJ6pn4U)
 [![](../common/images/pca_comp_pol_tmp.png)](https://youtu.be/KV4sQOWXab8)
@@ -55,7 +55,7 @@ This section provides video training for administrator and user tasks performed 
 <br>
 <br>
 
-![](../common/images/pca-page-network.png)
+![](../common/images/pca-page-network2.png)
 
 [![](../common/images/createvcnpca_tmp.png)](https://youtu.be/OCasg_HQ3LI)
 [![](../common/images/PCA_IG.png)](https://youtu.be/H8GwY7i720A)
@@ -63,7 +63,7 @@ This section provides video training for administrator and user tasks performed 
 <br>
 <br>
 
-![](../common/images/pca-page-compinst.png)
+![](../common/images/pca-page-compinst2.png)
 
 [![](../common/images/compinstpca_tmp.png)](https://youtu.be/lxD2w1Chyxg)
 [![](../common/images/instconfpca_tmp.png)](https://youtu.be/B4aW0hzDfc4)
@@ -71,7 +71,7 @@ This section provides video training for administrator and user tasks performed 
 <br>
 <br>
 
-![](../common/images/pca-page-storage.png)
+![](../common/images/pca-page-storage2.png)
 
 [![](../common/images/blkvolpca_tmp.png)](https://youtu.be/s5N6mGxUNew)
 [![](../common/images/bootvolpca_tmp.png)](https://youtu.be/Vo4119i8HsU)
