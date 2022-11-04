@@ -27,18 +27,21 @@ This section provides video training for Day 0 configuration and for administrat
 [![](../common/images/alertspca_tmp.png)](https://youtu.be/Qmj_V8TAQXs)
 [![](../common/images/pca_migrating_virtual_machs_video_thumbnail_.png)](https://youtu.be/_YjZMVApxaE)
 [![](../common/images/PCA_patching.png)](https://youtu.be/v_5ASLflVxU)
-
+<br>
+<br>
 ![](../common/images/pca-page-compencl.png)
 
 The Compute Enclave offers functionality to users of the cloud environment, and are very similar in operation to the corresponding Oracle Cloud Infrastructure services. Users of the Compute Enclave have certain permissions to enable the deployment of customer workloads through compute instances and associated resources. Cloud services include the compute and storage services, identity and access management, and networking.
 
 This section provides video training for administrator and user tasks performed from the Compute Enclave. To access the Compute Enclave, you use either the Compute Web UI or OCI CLI.
-
+<br>
+<br>
 ![](../common/images/pca-page-oclcli.png)
 
 [![](../common/images/instociclipca_tmp.png)](https://youtu.be/SNtGCBl_yZE)
 [![](../common/images/confociclipca_tmp.png)](https://youtu.be/x2iWGXIa-rQ)
-
+<br>
+<br>
 ![](../common/images/pca-page-iam.png)
 
 [![](../common/images/usergrppca_tmp.png)](https://youtu.be/D0CxmJ6pn4U)
@@ -46,19 +49,22 @@ This section provides video training for administrator and user tasks performed 
 [![](../common/images/federatingpca_tmp.png)](https://youtu.be/tsBn5UQSJ24)
 [![](../common/images/trustedrelypca_tmp.png)](https://youtu.be/wWm4TrPoEtI)
 [![](../common/images/sscpca_tmp.png)](https://youtu.be/uZcQk0pUe3s)
-
+<br>
+<br>
 ![](../common/images/pca-page-network.png)
 
 [![](../common/images/createvcnpca_tmp.png)](https://youtu.be/OCasg_HQ3LI)
 [![](../common/images/PCA_IG.png)](https://youtu.be/H8GwY7i720A)
 [![](../common/images/PCA_LPG.png)](https://youtu.be/pxdkxjajhO0)
-
+<br>
+<br>
 ![](../common/images/pca-page-compinst.png)
 
 [![](../common/images/compinstpca_tmp.png)](https://youtu.be/lxD2w1Chyxg)
 [![](../common/images/instconfpca_tmp.png)](https://youtu.be/B4aW0hzDfc4)
 [![](../common/images/instpoolpca_tmp.png)](https://youtu.be/VfSKX7WxNX8)
-
+<br>
+<br>
 ![](../common/images/pca-page-storage.png)
 
 [![](../common/images/blkvolpca_tmp.png)](https://youtu.be/s5N6mGxUNew)
