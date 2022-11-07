@@ -25,7 +25,7 @@ Learn to provision and launch compute instances with the cloud web console to su
                <li>Create Oracle Linux instance</li>
                <li>Create Oracle Autonomous Linux instance</li>
                <li>Create Windows instance</li>
-               <li>Terminate instance (UEFI)</li>
+               <li>Terminate instance</li>
                <li>Detach, Attach boot volumes</li>
                <li>Scale instances</li>
                <li>Cloud-init</li>
