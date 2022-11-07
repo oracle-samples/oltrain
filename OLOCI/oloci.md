@@ -122,8 +122,8 @@ Learn to secure access to instances and manage traffic between virtual networks 
             <ul>
                <li>SSH keys</li>
                <li>Instance network security</li>
-               <li>Security lists/li>
-               </ul>
+               <li>Security lists</li>
+            </ul>
          </td>
       </tr>
 </table>  
@@ -146,14 +146,13 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
-               <li>OCI Utilities</li>
-               <li>Module streams and profiles</li>
-               <li>OS Management</li>
-               <li>Ksplice</li>
-               <li>GUI and VNC service</li>
-               <li>Access Windows instances</li>
-               <li>Oracle VM VirtualBox</li>
-               </ul>
+               <li>Oracle Cloud Infrastructure networks</li>
+               <li>Create Virtual Cloud Networks</li>
+               <li>VCN Internet Gateway</li>
+               <li>Remove a VCN</li>
+               <li>Add secondary VNIC</li>
+               <li>OCI Utilities network management</li>
+            </ul>
          </td>
          <td valign="top"><b>Practice the following Tutorials:</b>
             <ul>
@@ -199,7 +198,7 @@ Learn to discover and administer block volume storage and create shared cluster 
          </td>
          <td valign="top"><b>Practice the following Tutorials:</b>
             <ul>
-               <li>Use OCI iSCSI Utility on Oracle CLoud Infrastructure</li>
+               <li>Use OCI iSCSI Utility on Oracle Cloud Infrastructure</li>
                <li>Configure iSCSI targets and initiators on Oracle Linux on Oracle Cloud Infrastructure</li>
                <li>Create an Oracle Linux Storage Appliance in Oracle Cloud Infrastructure</li>
                <li>Configure an Oracle Cluster File System on Oracle Cloud Infrastructure</li>
@@ -239,7 +238,7 @@ Learn to implement KVM virtualization in Oracle Linux instances deployed on Orac
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
-               <li>Oracle KVM image</li>
+               <li>Use Oracle KVM image</li>
                <li>Create KVM guest</li>
                <li>OCI utilities oci-kvm network and storage</li>
             </ul>
