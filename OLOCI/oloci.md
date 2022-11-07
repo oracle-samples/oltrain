@@ -14,6 +14,35 @@ Get started today and see how your Linux administration helps achieve the benefi
 ### Deploying Cloud Components with the Web Console Videos
 Learn to provision and launch compute instances with the cloud web console to support your cloud solution in Oracle Cloud infrastructure.
 
+<table width="1200">
+<colgroup>
+   <col width="600">
+   <col width="600">
+</colgroup>
+      <tr>   
+         <td valign="top"><b>Learn about these topics:</b>
+            <ul>
+               <li>Create Oracle Linux instance</li>
+               <li>Create Oracle Autonomous Linux instance</li>
+               <li>Create Windows instance</li>
+               <li>Terminate instance (UEFI)</li>
+               <li>Detach, Attach boot volumes</li>
+               <li>Scale instances</li>
+               <li>Cloud-init</li>
+               <li>Terraform</li>
+               </ul>
+         </td>
+         <td valign="top"><b>Practice the following Tutorials:</b>
+            <ul>
+               <li>Introduction to Terraform with Oracle Linux</li>
+            </ul>
+         </td>
+     </tr>
+</table>  
+<br>
+   
+Learn to provision and launch compute instances with the cloud web console to support your cloud solution in Oracle Cloud infrastructure.
+
 [![](../common/images/creatLinxInst_tmp.png)](https://youtu.be/tlwlLd4GvCc)
 [![](../common/images/creatAutoLinxInst_tmp.png)](https://youtu.be/eKQ6h7Onr-8)
 [![](../common/images/creatWinInst_tmp.png)](https://youtu.be/8SgkZTUKwFg)
