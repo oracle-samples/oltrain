@@ -41,7 +41,6 @@ Learn to provision and launch compute instances with the cloud web console to su
 </table>  
 <br>
    
-Learn to provision and launch compute instances with the cloud web console to support your cloud solution in Oracle Cloud infrastructure.
 
 [![](../common/images/creatLinxInst_tmp.png)](https://youtu.be/tlwlLd4GvCc)
 [![](../common/images/creatAutoLinxInst_tmp.png)](https://youtu.be/eKQ6h7Onr-8)
@@ -62,6 +61,33 @@ Learn to provision and launch compute instances with the cloud web console to su
 ### Administering Instances In Oracle Cloud Infrastructure Videos
 Learn to administer compute instances using a range of tools and solutions provided to support your cloud solution in Oracle Cloud infrastructure.
 
+<table width="1200">
+<colgroup>
+   <col width="600">
+   <col width="600">
+</colgroup>
+      <tr>   
+         <td valign="top"><b>Learn about these topics:</b>
+            <ul>
+               <li>OCI Utilities</li>
+               <li>Module streams and profiles</li>
+               <li>OS Management</li>
+               <li>Ksplice(UEFI)</li>
+               <li>GUI and VNC service</li>
+               <li>Access Windows instance</li>
+               <li>Oracle VM VirtualBox</li>
+               </ul>
+         </td>
+         <td valign="top"><b>Practice the following Tutorials:</b>
+            <ul>
+               <li>Migrate Standalone Oracle Autonomous Linux Instances to use OS Management Service</li>
+               <li>Managing Oracle Linux Module Streams and Profiles with the OS Management Service</li>
+            </ul>
+         </td>
+     </tr>
+</table>  
+<br>
+   
 [![](../common/images/mod_streams_tmp.png)](https://youtu.be/y-dnguUNr6Y)
 [![](../common/images/enabociutil_tmp.png)](https://youtu.be/EV4ihmXZSUI)
 [![](../common/images/getstartosm_tmp.png)](https://youtu.be/7qmy5VusYKA)
@@ -86,6 +112,23 @@ Learn to administer compute instances using a range of tools and solutions provi
 ### Managing Security and Access to your Cloud Videos
 Learn to secure access to instances and manage traffic between virtual networks in Oracle Cloud Infrastructure.
 
+<table width="1200">
+<colgroup>
+   <col width="600">
+   <col width="600">
+</colgroup>
+      <tr>   
+         <td valign="top"><b>Learn about these topics:</b>
+            <ul>
+               <li>SSH keys</li>
+               <li>Instance network security</li>
+               <li>Security lists/li>
+               </ul>
+         </td>
+      </tr>
+</table>  
+<br>
+   
 [![](../common/images/genssh_tmp.png)](https://youtu.be/v5fGdgIrdd0)
 [![](../common/images/netsec_tmp.png)](https://youtu.be/2KBBRnuk-lc)
 [![](../common/images/seclst_tmp.png)](https://youtu.be/1AIXULHjabQ)<br>
@@ -95,6 +138,32 @@ Learn to secure access to instances and manage traffic between virtual networks 
 ### Networking your Oracle Cloud Infrastructure Videos
 Learn to build and administer virtual networks and gateways in Oracle Cloud Infrastructure. Manage instance networking and interfaces.
 
+<table width="1200">
+<colgroup>
+   <col width="600">
+   <col width="600">
+</colgroup>
+      <tr>   
+         <td valign="top"><b>Learn about these topics:</b>
+            <ul>
+               <li>OCI Utilities</li>
+               <li>Module streams and profiles</li>
+               <li>OS Management</li>
+               <li>Ksplice</li>
+               <li>GUI and VNC service</li>
+               <li>Access Windows instances</li>
+               <li>Oracle VM VirtualBox</li>
+               </ul>
+         </td>
+         <td valign="top"><b>Practice the following Tutorials:</b>
+            <ul>
+               <li>Create Virtual Cloud Networks in Oracle CLoud Infrastructure</li>
+            </ul>
+         </td>
+     </tr>
+</table>  
+<br>
+   
 [![](../common/images/intronet_tmp.png)](https://youtu.be/mrt2e7yiq5M)
 [![](../common/images/creavcn_tmp.png)](https://youtu.be/DICo2-eRPC4)
 [![](../common/images/confvcn_tmp.png)](https://youtu.be/MtFNdZz20M4)
@@ -111,6 +180,35 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
 ### Using Storage on Oracle Cloud Infrastructure Videos
 Learn to discover and administer block volume storage and create shared cluster storage for instances.
 
+<table width="1200">
+<colgroup>
+   <col width="600">
+   <col width="600">
+</colgroup>
+      <tr>   
+         <td valign="top"><b>Learn about these topics:</b>
+            <ul>
+               <li>Block volumes</li>
+               <li>OCI Utilities for managing iSCSI storage</li>
+               <li>iSCSI target and initiator</li>
+               <li>OCFS2 cluster</li>
+               <li>Oracle Linux Storage Appliance</li>
+               <li>File system service</li>
+               <li>Object storage</li>
+            </ul>
+         </td>
+         <td valign="top"><b>Practice the following Tutorials:</b>
+            <ul>
+               <li>Use OCI iSCSI Utility on Oracle CLoud Infrastructure</li>
+               <li>Configure iSCSI targets and initiators on Oracle Linux on Oracle Cloud Infrastructure</li>
+               <li>Create an Oracle Linux Storage Appliance in Oracle Cloud Infrastructure</li>
+               <li>Configure an Oracle Cluster File System on Oracle Cloud Infrastructure</li>
+            </ul>
+         </td>
+     </tr>
+</table>  
+<br>
+   
 [![](../common/images/bvs_tmp.png)](https://youtu.be/_W4TOj_g9bU)
 [![](../common/images/ociutilstor_tmp.png)](https://youtu.be/A0cis4ZohVo)
 [![](../common/images/confiscsi_tmp.png)](https://youtu.be/b2Go9QIrOFg)
@@ -133,6 +231,23 @@ Learn to discover and administer block volume storage and create shared cluster 
 ### KVM Virtualization for Instances Videos
 Learn to implement KVM virtualization in Oracle Linux instances deployed on Oracle Cloud Infrastructure.
 
+<table width="1200">
+<colgroup>
+   <col width="600">
+   <col width="600">
+</colgroup>
+      <tr>   
+         <td valign="top"><b>Learn about these topics:</b>
+            <ul>
+               <li>Oracle KVM image</li>
+               <li>Create KVM guest</li>
+               <li>OCI utilities oci-kvm network and storage</li>
+            </ul>
+         </td>
+      </tr>
+</table>  
+<br>
+   
 [![](../common/images/kvmimg_tmp.png)](https://youtu.be/R-zJgRIfil4)
 [![](../common/images/kvmgst_tmp.png)](https://youtu.be/J3s8Myn7A2o)
 [![](../common/images/ocikvm_tmp.png)](https://youtu.be/IiSsC7EqZSE)
