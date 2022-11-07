@@ -10,6 +10,7 @@ This page highlights the videos and hands on labs that have been added to the le
 
 ### New Videos
 
+- [Install Oracle Linux 9](https://youtu.be/BDmBtP4Y7Wg)
 - [Integrate VirtualBox 7.0 with Oracle Cloud Infrastructure](https://youtu.be/3roYMw-D2ks)
 - [Import Oracle Cloud Infrastructure instances into VirtualBox 7.0](https://youtu.be/xGoE8X5NqkM)
 - [Export local virtual machines to Oracle Cloud Infrastructure with VirtualBox 7.0](https://youtu.be/KZAw45DeIMw)

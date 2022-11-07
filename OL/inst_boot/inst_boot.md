@@ -1,6 +1,7 @@
 ## Installation and Boot Process Videos
 These videos focus on the installation and boot process. You can learn step-by-step how to complete an Oracle Linux 8 installation for on-premises deployment and how to create an Oracle Linux 8 instance on Oracle Cloud Infrastructure. You can also learn about the boot process and how to configure different services to start at boot time.
 
+[![](../../common/images/install-ol9-thumbnail.png)](https://youtu.be/BDmBtP4Y7Wg)
 [![](../../common/images/install_tmp.png)](https://youtu.be/l6fapYCHaQ0)
 [![](../../common/images/installoci_tmp.png)](https://youtu.be/ETpaOwAcB7M)
 [![](../../common/images/bios_tmp.png)](https://youtu.be/NP9BHTjih7g)
