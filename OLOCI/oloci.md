@@ -72,9 +72,9 @@ Learn to administer compute instances using a range of tools and solutions provi
                <li>OCI Utilities</li>
                <li>Module streams and profiles</li>
                <li>OS Management</li>
-               <li>Ksplice(UEFI)</li>
+               <li>Ksplice</li>
                <li>GUI and VNC service</li>
-               <li>Access Windows instance</li>
+               <li>Access Windows instances</li>
                <li>Oracle VM VirtualBox</li>
                </ul>
          </td>
