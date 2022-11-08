@@ -143,6 +143,8 @@ Learn to secure access to instances and manage traffic between virtual networks 
 [![](../common/images/seclst_tmp.png)](https://youtu.be/1AIXULHjabQ)<br>
 <br>
    
+***   
+   
 ![](../common/images/OLOCI-network-header2.png)
 
 Learn to build and administer virtual networks and gateways in Oracle Cloud Infrastructure. Manage instance networking and interfaces.
@@ -185,6 +187,8 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
 
 [![](../common/images/vcn_lab.png)](https://luna.oracle.com/lab/5a3f5ad9-7931-43d8-bcdb-40884d6a100f)<br>
 <br>
+
+_____________________________________________________________
 
 ![](../common/images/OLOCI-storage-header2.png)
 
