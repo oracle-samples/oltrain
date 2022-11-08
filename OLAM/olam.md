@@ -19,7 +19,7 @@ Oracle Linux Automation Manager provides features that allow your organization t
 ![](../common/images/OLAM-ver2-section2.png)
 
 ### Oracle Linux Automation Manager Videos
-**Coming Soon!** Oracle Linux Automation Manager Version 2.0 videos.
+[![](../common/images/olam2releasethumbnail.png)](https://youtu.be/2UwUXngKsDY)
 
 ### Oracle Linux Automation Manager Hands On Labs
 **Coming Soon!** Oracle Linux Automation Manager Version 2.0 free hands on labs.
