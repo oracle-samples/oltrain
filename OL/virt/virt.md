@@ -110,8 +110,12 @@ Test your skills on what you have learned about working with containers on Oracl
 
 [![](../../common/images/mini_lab.png)](https://luna.oracle.com/lab/8b2f7860-3204-4cd3-8d55-3f6de9ca03c2)
 [![](../../common/images/runkub_lab.png)](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
+
 ---
-### Quiz
+
+![](../../common/images/quiz1.png)
+   
+  
 Test your skills on what you have learned about Kubernetes on Oracle Linux with this quiz.   
  
 <table>

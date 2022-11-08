@@ -10,8 +10,8 @@ As a Linux administrator, we walk you through building your first components on 
 Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.<br>
 <br>
    
-![](../common/images/OLOCI-deploy-header1.png)
-### Deploying Cloud Components with the Web Console Videos
+![](../common/images/OLOCI-deploy-header2.png)
+
 Learn to provision and launch compute instances with the cloud web console to support your cloud solution in Oracle Cloud infrastructure.
 
 <table width="1200">
@@ -41,6 +41,7 @@ Learn to provision and launch compute instances with the cloud web console to su
 </table>  
 <br>
    
+### Videos
 
 [![](../common/images/creatLinxInst_tmp.png)](https://youtu.be/tlwlLd4GvCc)
 [![](../common/images/creatAutoLinxInst_tmp.png)](https://youtu.be/eKQ6h7Onr-8)
@@ -52,13 +53,15 @@ Learn to provision and launch compute instances with the cloud web console to su
 [![](../common/images/terr_tmp.png)](https://youtu.be/SeBhCRr21pg)
 [![](../common/images/confterr_tmp.png)](https://youtu.be/Bb25PRJ3Ats)
 
-### Deploying Cloud Components Tutorial
+### Tutorials
 
 [![](../common/images/terr_lab.png)](https://docs.oracle.com/en/learn/intro_terraform_linux/index.html)<br>
 <br>
    
-![](../common/images/OLOCI-admin-header1.png)
-### Administering Instances In Oracle Cloud Infrastructure Videos
+---
+   
+![](../common/images/OLOCI-admin-header2.png)
+
 Learn to administer compute instances using a range of tools and solutions provided to support your cloud solution in Oracle Cloud infrastructure.
 
 <table width="1200">
@@ -88,6 +91,8 @@ Learn to administer compute instances using a range of tools and solutions provi
 </table>  
 <br>
    
+### Videos
+
 [![](../common/images/mod_streams_tmp.png)](https://youtu.be/y-dnguUNr6Y)
 [![](../common/images/enabociutil_tmp.png)](https://youtu.be/EV4ihmXZSUI)
 [![](../common/images/getstartosm_tmp.png)](https://youtu.be/7qmy5VusYKA)
@@ -102,14 +107,16 @@ Learn to administer compute instances using a range of tools and solutions provi
 [![](../common/images/accwin_tmp.png)](https://youtu.be/d1fgBuE1GMY)
 [![](../common/images/instvboxoci_tmp.png)](https://youtu.be/JFVlp5vS_3g)
 
-### Administering Instances Hands On Lab
+### Hands On Labs
 
 [![](../common/images/migratealx_lab.png)](https://luna.oracle.com/lab/8848ec22-81cd-46d5-aeab-dd2dae36118b)
 [![](../common/images/ol-streams-lab1.png)](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)<br>
 <br>
    
-![](../common/images/OLOCI-security-header1.png)
-### Managing Security and Access to your Cloud Videos
+---
+   
+![](../common/images/OLOCI-security-header2.png)
+
 Learn to secure access to instances and manage traffic between virtual networks in Oracle Cloud Infrastructure.
 
 <table width="1200">
@@ -129,13 +136,17 @@ Learn to secure access to instances and manage traffic between virtual networks 
 </table>  
 <br>
    
+### Videos
+
 [![](../common/images/genssh_tmp.png)](https://youtu.be/v5fGdgIrdd0)
 [![](../common/images/netsec_tmp.png)](https://youtu.be/2KBBRnuk-lc)
 [![](../common/images/seclst_tmp.png)](https://youtu.be/1AIXULHjabQ)<br>
 <br>
    
-![](../common/images/OLOCI-network-header1.png)
-### Networking your Oracle Cloud Infrastructure Videos
+---   
+   
+![](../common/images/OLOCI-network-header2.png)
+
 Learn to build and administer virtual networks and gateways in Oracle Cloud Infrastructure. Manage instance networking and interfaces.
 
 <table width="1200">
@@ -163,6 +174,8 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
 </table>  
 <br>
    
+### Videos
+
 [![](../common/images/intronet_tmp.png)](https://youtu.be/mrt2e7yiq5M)
 [![](../common/images/creavcn_tmp.png)](https://youtu.be/DICo2-eRPC4)
 [![](../common/images/confvcn_tmp.png)](https://youtu.be/MtFNdZz20M4)
@@ -170,13 +183,15 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
 [![](../common/images/add2vnic_tmp.png)](https://youtu.be/AHOx8NV3iYA)
 [![](../common/images/nmoci_tmp.png)](https://youtu.be/ZhbVYs1RBZ8)
 
-### Networking your Oracle Cloud Infrastructure Hands On Lab
+### Hands On Labs
 
 [![](../common/images/vcn_lab.png)](https://luna.oracle.com/lab/5a3f5ad9-7931-43d8-bcdb-40884d6a100f)<br>
 <br>
 
-![](../common/images/OLOCI-storage-header1.png)
-### Using Storage on Oracle Cloud Infrastructure Videos
+---
+
+![](../common/images/OLOCI-storage-header2.png)
+
 Learn to discover and administer block volume storage and create shared cluster storage for instances.
 
 <table width="1200">
@@ -208,6 +223,8 @@ Learn to discover and administer block volume storage and create shared cluster 
 </table>  
 <br>
    
+### Videos
+
 [![](../common/images/bvs_tmp.png)](https://youtu.be/_W4TOj_g9bU)
 [![](../common/images/ociutilstor_tmp.png)](https://youtu.be/A0cis4ZohVo)
 [![](../common/images/confiscsi_tmp.png)](https://youtu.be/b2Go9QIrOFg)
@@ -218,7 +235,7 @@ Learn to discover and administer block volume storage and create shared cluster 
 [![](../common/images/fss_tmp.png)](https://youtu.be/JpC1wO-OFA8)
 [![](../common/images/objstor_tmp.png)](https://youtu.be/o5sb3u-Cb8s)
 
-### Using Storage on Oracle Cloud Infrastructure Hands On Labs
+### Hands On Labs
 
 [![](../common/images/oci-iscsi_lab.png)](https://luna.oracle.com/lab/dd23fba0-9e2b-4a62-b86c-bea4fbc08f9d)
 [![](../common/images/conf_iscsi_lab.png)](https://luna.oracle.com/lab/f85faa38-5476-41a0-951e-56dd86a8ba78)
@@ -226,8 +243,10 @@ Learn to discover and administer block volume storage and create shared cluster 
 [![](../common/images/conf_ocfs2_lab.png)](https://luna.oracle.com/lab/a7e62a2a-10d0-4b11-a317-bf559c99b148)<br>
 <br>
 
-![](../common/images/OLOCI-kvm-header1.png)
-### KVM Virtualization for Instances Videos
+---
+
+![](../common/images/OLOCI-kvm-header2.png)
+
 Learn to implement KVM virtualization in Oracle Linux instances deployed on Oracle Cloud Infrastructure.
 
 <table width="1200">
@@ -247,12 +266,17 @@ Learn to implement KVM virtualization in Oracle Linux instances deployed on Orac
 </table>  
 <br>
    
+### Videos
+
 [![](../common/images/kvmimg_tmp.png)](https://youtu.be/R-zJgRIfil4)
 [![](../common/images/kvmgst_tmp.png)](https://youtu.be/J3s8Myn7A2o)
 [![](../common/images/ocikvm_tmp.png)](https://youtu.be/IiSsC7EqZSE)
    
 ---
-## Quiz
+
+![](../common/images/quiz1.png)
+   
+   
 Test your skills on what you have learned with this quiz.   
  
 <table>

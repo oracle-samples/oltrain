@@ -15,8 +15,12 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/nwm_lab.png)](https://luna.oracle.com/lab/6cbaab1f-835c-445e-89eb-b42ba3e679bb/steps)
 [![](../../common/images/bond_lab.png)](https://luna.oracle.com/lab/fc37cd13-6a90-49df-adc1-6c3b40239265)
 [![](../../common/images/vlan_lab.png)](https://luna.oracle.com/lab/e8070728-d90b-41c9-8984-e4b1d98cee88)
+
 ---
-## Quiz
+
+![](../../common/images/quiz1.png)
+   
+  
 Test your skills on what you have learned about networking with Oracle Linux with this quiz.   
  
 <table>

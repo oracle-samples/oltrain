@@ -34,7 +34,10 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/ol_keycloak_lab.png)](https://luna.oracle.com/lab/752793ff-9f74-4bb0-b848-90c5bcae4388)
 
 ---
-## Quiz
+
+![](../../common/images/quiz1.png)
+   
+   
 Test your skills on what you have learned about administration of Oracle Linux with this quiz.
 
 <table>

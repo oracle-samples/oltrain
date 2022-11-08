@@ -58,7 +58,10 @@ The following content will introduce you to Cloud Administration of the Oracle L
 [![](../common/images/crea_inc_rul_olvm_tut.png)](https://youtu.be/OMp6WoDxsqU)
 
 ---
-## Quiz
+
+![](../common/images/quiz1.png)
+   
+  
 Test your skills on what you have learned with this quiz.   
  
 <table>

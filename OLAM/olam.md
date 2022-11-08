@@ -16,6 +16,18 @@ Oracle Linux Automation Manager provides features that allow your organization t
 
 ---
 
+![](../common/images/OLAM-ver2-section2.png)
+
+### Oracle Linux Automation Manager Videos
+**Coming Soon!** Oracle Linux Automation Manager Version 2.0 videos.
+
+### Oracle Linux Automation Manager Hands On Labs
+**Coming Soon!** Oracle Linux Automation Manager Version 2.0 free hands on labs.
+<br>
+<br>
+   
+---
+
 ![](../common/images/OLAM-ver1-section1.png)
 
 ### Installing Oracle Linux Automation Manager Videos   
@@ -52,13 +64,5 @@ Practice your adminstration skills with Oracle Linux Automation Manager version 
 [![](../common/images/ocidiolae_lab.png)](https://luna.oracle.com/lab/95a9fc4b-56a4-4b89-b8f1-b90489df5340)
 
 ---
-
-![](../common/images/OLAM-ver2-section2.png)
-
-### Oracle Linux Automation Manager Videos
-**Coming Soon!** Oracle Linux Automation Manager Version 2.0 videos.
-
-### Oracle Linux Automation Manager Hands On Labs
-**Coming Soon!** Oracle Linux Automation Manager Version 2.0 free hands on labs.
 
 #### [Return to Oracle Linux Training Station](../README.md)
