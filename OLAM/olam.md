@@ -63,12 +63,4 @@ Practice your adminstration skills with Oracle Linux Automation Manager version 
 
 ---
 
-![](../common/images/OLAM-ver2-section2.png)
-
-### Oracle Linux Automation Manager Videos
-**Coming Soon!** Oracle Linux Automation Manager Version 2.0 videos.
-
-### Oracle Linux Automation Manager Hands On Labs
-**Coming Soon!** Oracle Linux Automation Manager Version 2.0 free hands on labs.
-
 #### [Return to Oracle Linux Training Station](../README.md)
