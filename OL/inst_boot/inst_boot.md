@@ -18,8 +18,12 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/sysctl.png)](https://luna.oracle.com/lab/aa8f2377-7967-4e45-bf32-bdc8054d5c76)
 [![](../../common/images/systemd_lab.png)](https://luna.oracle.com/lab/8a060473-bff3-4c04-9799-eb944951007c)
 [![](../../common/images/centos.png)](https://luna.oracle.com/lab/ee1c4ab9-010f-4b3c-bd1e-cdcca57800a2)
+
 ---
-## Quiz
+
+![](../../common/images/quiz1.png)
+   
+   
 Test your skills on what you have learned about installation and the boot process with this quiz.   
  
 <table>
