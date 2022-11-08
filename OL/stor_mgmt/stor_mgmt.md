@@ -32,8 +32,12 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/vg_lab.png)](https://luna.oracle.com/lab/ee495d1a-4e00-4d77-9719-2f27591d1ecd)
 [![](../../common/images/aclsol_lab.png)](https://luna.oracle.com/lab/7a272852-6042-47e3-b25f-eb681c733e66)
 [![](../../common/images/luksol_lab.png)](https://luna.oracle.com/lab/9c62956d-153b-4e93-84b0-0b2759f7e4bb)
+
 ---
-## Quiz
+
+![](../../common/images/quiz1.png)
+   
+  
 Test your skills on what you have learned about storage management on Oracle Linux with this quiz.   
  
 <table>
