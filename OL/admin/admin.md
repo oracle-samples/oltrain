@@ -35,7 +35,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 
 ---
 
-![](../common/images/quiz1.png)
+![](../../common/images/quiz1.png)
    
    
 Test your skills on what you have learned about administration of Oracle Linux with this quiz.
