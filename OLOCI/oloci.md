@@ -143,7 +143,7 @@ Learn to secure access to instances and manage traffic between virtual networks 
 [![](../common/images/seclst_tmp.png)](https://youtu.be/1AIXULHjabQ)<br>
 <br>
    
-***   
+---   
    
 ![](../common/images/OLOCI-network-header2.png)
 
@@ -188,7 +188,7 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
 [![](../common/images/vcn_lab.png)](https://luna.oracle.com/lab/5a3f5ad9-7931-43d8-bcdb-40884d6a100f)<br>
 <br>
 
-_____________________________________________________________
+---
 
 ![](../common/images/OLOCI-storage-header2.png)
 
@@ -242,6 +242,8 @@ Learn to discover and administer block volume storage and create shared cluster 
 [![](../common/images/create_lsa_lab.png)](https://luna.oracle.com/lab/d57199a3-83f5-4ce9-97f8-feacf9e3db31)
 [![](../common/images/conf_ocfs2_lab.png)](https://luna.oracle.com/lab/a7e62a2a-10d0-4b11-a317-bf559c99b148)<br>
 <br>
+
+---
 
 ![](../common/images/OLOCI-kvm-header2.png)
 
