@@ -26,7 +26,7 @@ This tutorial provides step-by-step procedures to complete specific tasks on you
 
 ---
 
-![](../common/images/quiz1.png)
+![](../../common/images/quiz1.png)
    
    
 Test your skills on what you have learned so far with this quiz.   
