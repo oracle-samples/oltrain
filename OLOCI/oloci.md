@@ -58,6 +58,8 @@ Learn to provision and launch compute instances with the cloud web console to su
 [![](../common/images/terr_lab.png)](https://docs.oracle.com/en/learn/intro_terraform_linux/index.html)<br>
 <br>
    
+---
+   
 ![](../common/images/OLOCI-admin-header2.png)
 
 Learn to administer compute instances using a range of tools and solutions provided to support your cloud solution in Oracle Cloud infrastructure.
@@ -110,6 +112,8 @@ Learn to administer compute instances using a range of tools and solutions provi
 [![](../common/images/migratealx_lab.png)](https://luna.oracle.com/lab/8848ec22-81cd-46d5-aeab-dd2dae36118b)
 [![](../common/images/ol-streams-lab1.png)](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)<br>
 <br>
+   
+---
    
 ![](../common/images/OLOCI-security-header2.png)
 
