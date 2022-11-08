@@ -156,7 +156,10 @@ The following video will introduce Grafana, cover its installation, and demonstr
 [![](../common/images/grafanaocne_tmp.png)](https://youtu.be/x6nloqYg-4w)
 
 ---
-## Quiz
+
+![](../common/images/quiz1.png)
+   
+   
 Test your skills on your knowledge of the Tech Preview content you have watched with this quiz.   
  
 <table>
