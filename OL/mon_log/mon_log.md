@@ -18,8 +18,12 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/monitor_lab.png)](https://luna.oracle.com/lab/73bf7efa-53a1-4528-ad60-5f7b721fc3f8)
 [![](../../common/images/logging_lab.png)](https://luna.oracle.com/lab/3f0906f5-a80e-418b-a8b4-48c60103c55c)
 [![](../../common/images/audit_lab.png)](https://luna.oracle.com/lab/3a72b337-d8c0-41b9-9193-e1bf50ad2ac9)
+
 ---
-## Quiz
+
+![](../../common/images/quiz1.png)
+   
+   
 Test your skills on what you have learned about monitoring and logging in Oracle Linux with this quiz.   
  
 <table>
