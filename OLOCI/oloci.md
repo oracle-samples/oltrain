@@ -273,7 +273,10 @@ Learn to implement KVM virtualization in Oracle Linux instances deployed on Orac
 [![](../common/images/ocikvm_tmp.png)](https://youtu.be/IiSsC7EqZSE)
    
 ---
-## Quiz
+
+![](../common/images/quiz1.png)
+   
+   
 Test your skills on what you have learned with this quiz.   
  
 <table>
