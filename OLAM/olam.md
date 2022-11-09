@@ -8,7 +8,7 @@ This track provides free training to help introduce you to Oracle Linux Automati
 The Oracle Linux Automation Engine is an automation tool for deploying software, configuring systems, and orchestrating tasks such as upgrades and updates, in the form of playbooks.
 
 Oracle Linux Automation Manager provides features that allow your organization to effectively manage infrastructure configuration through a browser user interface. Using Oracle Linux Automation Manager you can:
-- Create and configure permissions for organizations, users, and teams that use Oracle Linux Automation Manager 
+- Create and configure permissions for organizations, users, and teams that use Oracle Linux Automation Manager
 - Create projects that import Oracle Linux Automation Engine playbooks from various sources, such as a local machine or from a remote git repository
 - Create an inventory which specifies the hosts where playbook tasks run
 - Create job templates that specify the projects and playbooks to run
@@ -19,31 +19,31 @@ Oracle Linux Automation Manager provides features that allow your organization t
 ![](../common/images/OLAM-ver2-section2.png)
 
 ### Oracle Linux Automation Manager Videos
+
 [![](../common/images/olam2releasethumbnail.png)](https://youtu.be/2UwUXngKsDY)
 
 ### Oracle Linux Automation Manager Hands On Labs
-**Coming Soon!** Oracle Linux Automation Manager Version 2.0 free hands on labs.
-<br>
-<br>
-   
+
+[![](../common/images/upgdolam2_lab.png)](https://luna.oracle.com/lab/6c7124cc-474f-4dd4-89fa-9beb536c71f5)
+
 ---
 
 ![](../common/images/OLAM-ver1-section1.png)
 
-### Installing Oracle Linux Automation Manager Videos   
+### Installing Oracle Linux Automation Manager Videos
 
 These videos will get you started with the installation and overview of Oracle Linux Automation Manager version 1.0.
 
 [![](../common/images/instolam_tmp.png)](https://youtu.be/-RCqGHhweo0)
 [![](../common/images/gsolam_tmp.png)](https://youtu.be/EEWdxROy-nM)
 
-### Installing Oracle Linux Automation Manager Hands On Lab   
+### Installing Oracle Linux Automation Manager Hands On Lab
 
 Practice your skills with Oracle Linux Automation Manager version 1.0 with these free hands on labs.
 
 [![](../common/images/instolam_lab.png)](https://luna.oracle.com/lab/ecf924b0-a2e1-49eb-8700-8c8bea5d7502)
 
-### Administering Oracle Linux Automation Manager Videos   
+### Administering Oracle Linux Automation Manager Videos
 
 Learn how to add users, organizations, credentials, and permissions to prepare for running jobs with Oracle Linux Automation Manager version 1.0.
 
@@ -54,7 +54,7 @@ Learn how to add users, organizations, credentials, and permissions to prepare f
 [![](../common/images/acolam_tmp.png)](https://youtu.be/gXSmPoY0BVs)
 [![](../common/images/diolam_tmp.png)](https://youtu.be/Fs3l5P-D_nk)
 
-### Administering Oracle Linux Automation Manager Hands On Labs   
+### Administering Oracle Linux Automation Manager Hands On Labs
 
 Practice your adminstration skills with Oracle Linux Automation Manager version 1.0 with these free hands on labs.
 
