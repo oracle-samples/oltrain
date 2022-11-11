@@ -13,6 +13,8 @@ This track allows you to explore Oracle VM VirtualBox to help you grow your skil
 [![](../common/images/manage-oci-vbx7.png)](https://youtu.be/uFEN4Di-WDE)
 [![](../common/images/import-oci-to-vbox7.png)](https://youtu.be/xGoE8X5NqkM)
 [![](../common/images/export-vms-to-oci-vbx7.png)](https://youtu.be/KZAw45DeIMw)
+<br>
+<br>
 
 ---
 
@@ -23,6 +25,8 @@ This track allows you to explore Oracle VM VirtualBox to help you grow your skil
 [![](../common/images/createVM_tmp.png)](https://youtu.be/E5fGTh2XT10)
 [![](../common/images/instVBga_tmp.png)](https://youtu.be/NmFN7azdZzY)
 [![](../common/images/expVB_tmp.png)](https://youtu.be/jEDfsovNNyg)
+<br>
+<br>
 
 ---
 
