@@ -15,7 +15,8 @@
 ### KVM Hands On Lab
 
 [![](../../common/images/createvmkvm_lab.png)](https://luna.oracle.com/lab/1671b073-895c-4800-bd60-cfe1f445074c)
----
+   
+   
 ![](../../common/images/quiz1.png)
    
       
@@ -61,7 +62,8 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
 ### Container Tutorial
 
 [![](../../common/images/multi_lab.png)](https://docs.oracle.com/en/learn/oracle-linux-platform-images/index.html)
----
+   
+   
 ![](../../common/images/quiz1.png)
    
   
