@@ -23,8 +23,12 @@ This track allows you to explore Oracle VM VirtualBox to help you grow your skil
 [![](../common/images/createVM_tmp.png)](https://youtu.be/E5fGTh2XT10)
 [![](../common/images/instVBga_tmp.png)](https://youtu.be/NmFN7azdZzY)
 [![](../common/images/expVB_tmp.png)](https://youtu.be/jEDfsovNNyg)
+
 ---
-### Quiz
+
+![](../common/images/quiz1.png)
+   
+   
 Test your skills on what you have learned about VirtualBox on Oracle Linux with this quiz.   
  
 <table>
