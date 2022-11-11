@@ -10,26 +10,26 @@ This track allows you to explore Oracle VM VirtualBox to help you grow your skil
 
 ### VirtualBox 7.0 Videos
 
-[![](../../common/images/integrate-vbox7-oci.png)](https://youtu.be/3roYMw-D2ks)
-[![](../../common/images/configure-networking-vbx7.png)](https://youtu.be/wi853qbgXh4)
-[![](../../common/images/manage-oci-vbx7.png)](https://youtu.be/uFEN4Di-WDE)
-[![](../../common/images/import-oci-to-vbox7.png)](https://youtu.be/xGoE8X5NqkM)
-[![](../../common/images/export-vms-to-oci-vbx7.png)](https://youtu.be/KZAw45DeIMw)
+[![](../common/images/integrate-vbox7-oci.png)](https://youtu.be/3roYMw-D2ks)
+[![](../common/images/configure-networking-vbx7.png)](https://youtu.be/wi853qbgXh4)
+[![](../common/images/manage-oci-vbx7.png)](https://youtu.be/uFEN4Di-WDE)
+[![](../common/images/import-oci-to-vbox7.png)](https://youtu.be/xGoE8X5NqkM)
+[![](../common/images/export-vms-to-oci-vbx7.png)](https://youtu.be/KZAw45DeIMw)
 
 ### VirtualBox 6.1 Videos
 
-[![](../../common/images/instVB_tmp.png)](https://youtu.be/Dl2CxAoSC5o)
-[![](../../common/images/instVBext_tmp.png)](https://youtu.be/wHOYAGQtOcM)
-[![](../../common/images/createVM_tmp.png)](https://youtu.be/E5fGTh2XT10)
-[![](../../common/images/instVBga_tmp.png)](https://youtu.be/NmFN7azdZzY)
-[![](../../common/images/expVB_tmp.png)](https://youtu.be/jEDfsovNNyg)
+[![](../common/images/instVB_tmp.png)](https://youtu.be/Dl2CxAoSC5o)
+[![](../common/images/instVBext_tmp.png)](https://youtu.be/wHOYAGQtOcM)
+[![](../common/images/createVM_tmp.png)](https://youtu.be/E5fGTh2XT10)
+[![](../common/images/instVBga_tmp.png)](https://youtu.be/NmFN7azdZzY)
+[![](../common/images/expVB_tmp.png)](https://youtu.be/jEDfsovNNyg)
 ---
 ### Quiz
 Test your skills on what you have learned about VirtualBox on Oracle Linux with this quiz.   
  
 <table>
     <tr>
-    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td><img src="../common/images/quiz_v2.png" width="40" height="50"></td>
     <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:31YKIU">Oracle Linux Virtualbox Quiz</a></td>
   </tr>
 </table>    
