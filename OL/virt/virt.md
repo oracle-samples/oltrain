@@ -16,7 +16,9 @@
 
 [![](../../common/images/createvmkvm_lab.png)](https://luna.oracle.com/lab/1671b073-895c-4800-bd60-cfe1f445074c)
 ---
-### Quiz
+![](../../common/images/quiz1.png)
+   
+      
 Test your skills on what you have learned about KVM virtualization on Oracle Linux with this quiz.   
  
 <table>
@@ -26,6 +28,8 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
   </tr>
 </table>    
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
+<br>
+<br>
 
 --- 
 
@@ -57,7 +61,9 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
 
 [![](../../common/images/multi_lab.png)](https://docs.oracle.com/en/learn/oracle-linux-platform-images/index.html)
 ---
-### Quiz
+![](../../common/images/quiz1.png)
+   
+  
 Test your skills on what you have learned about working with containers on Oracle Linux with this quiz.   
  
 <table>
@@ -67,6 +73,8 @@ Test your skills on what you have learned about working with containers on Oracl
   </tr>
 </table>    
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
+<br>
+<br>
 
 ---
 ![](../../common/images/OL-virt-kubern.png)
