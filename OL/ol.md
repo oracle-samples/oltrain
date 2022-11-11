@@ -310,7 +310,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Kernel-based Virtual Machine (KVM)</li>
-<--               <li>Oracle VM VirtualBox</li> -->
                <li>Containers</li>
                <li>Podman</li>
                <li>Chroot</li>
