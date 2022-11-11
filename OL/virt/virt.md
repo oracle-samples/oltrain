@@ -30,6 +30,7 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 <br>
 <br>
+<br>
 
 --- 
 
@@ -73,6 +74,7 @@ Test your skills on what you have learned about working with containers on Oracl
   </tr>
 </table>    
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
+<br>
 <br>
 <br>
 
