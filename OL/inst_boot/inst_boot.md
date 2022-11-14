@@ -17,7 +17,8 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/localize.png)](https://luna.oracle.com/lab/d657ae3c-ac29-4b0a-943e-e533f2e8093b)
 [![](../../common/images/sysctl.png)](https://luna.oracle.com/lab/aa8f2377-7967-4e45-bf32-bdc8054d5c76)
 [![](../../common/images/systemd_lab.png)](https://luna.oracle.com/lab/8a060473-bff3-4c04-9799-eb944951007c)
-[![](../../common/images/centos.png)](https://luna.oracle.com/lab/ee1c4ab9-010f-4b3c-bd1e-cdcca57800a2)
+[![](../../common/images/centos7.png)](https://luna.oracle.com/lab/660a07d9-0580-4fae-973b-d5dfaebda1cb)
+[![](../../common/images/centos.png)](https://docs.oracle.com/en/learn/switch_centos8_linux8/index.html)
 
 ---
 
