@@ -70,6 +70,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Use sysctl, /proc, /sys, and /etc/sysconfig</li>
                <li>Manage systemd target units</li>
                <li>Switch a CentOS 8 instance to Oracle Linux 8</li>
+               <li>Switch from CentOS 7 to Oracle Linux 7</li>
             </ul>
          </td>
      </tr>
