@@ -16,6 +16,7 @@ This page highlights the videos and hands on labs that have been added to the le
 
 ### New Hands On Labs
 
+- [Switch from CentOS 7 to Oracle Linux 7](https://luna.oracle.com/lab/660a07d9-0580-4fae-973b-d5dfaebda1cb)
 - [Use and Enable Access Control Lists (ACLs) on Oracle Linux](https://luna.oracle.com/lab/7a272852-6042-47e3-b25f-eb681c733e66)
 - [Encrypt Drives using LUKS on Oracle Linux](https://luna.oracle.com/lab/9c62956d-153b-4e93-84b0-0b2759f7e4bb)
 - [Mount an NFS Share Using a Rootful Podman Volume](https://luna.oracle.com/lab/556e1401-568f-447e-8c0b-c94a86b1114f)
@@ -44,12 +45,12 @@ This page highlights the videos and hands on labs that have been added to the le
    
 ![](../common/images/OLCI-banner-v2.png)
 
-### New Video
+### New Videos
 
 - [Migrate Standalone Oracle Autonomous Linux Instances to use OS Management Service](https://youtu.be/vNY4jelIdgk)
 - [Managing Module Streams and Profiles with the OS Management Service](https://youtu.be/y-dnguUNr6Y)
 
-### New Hands On Lab
+### New Hands On Labs
 
 - [Migrate Standalone Oracle Autonomous Linux Instances to use OS Management Service](https://luna.oracle.com/lab/8848ec22-81cd-46d5-aeab-dd2dae36118b)
 - [Managing Oracle Linux Module Streams and Profiles with the OS Management service](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)
@@ -62,7 +63,7 @@ This page highlights the videos and hands on labs that have been added to the le
 
 - [Release Features of Oracle Linux Automation Manager 2.0](https://youtu.be/2UwUXngKsDY)
 
-### New Hands On Lab
+### New Hands On Labs
 
 - [Upgrade to Oracle Linux Automation Manager 2.0](https://luna.oracle.com/lab/6c7124cc-474f-4dd4-89fa-9beb536c71f5)
 - [Migrate Oracle Linux Automation Manager 2.0 to a Clustered Deployment](https://luna.oracle.com/lab/d1847f91-0cdc-41b8-afc4-eb6d0ccd40c2)
