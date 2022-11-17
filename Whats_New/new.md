@@ -11,11 +11,6 @@ This page highlights the videos and hands on labs that have been added to the le
 ### New Videos
 
 - [Install Oracle Linux 9](https://youtu.be/BDmBtP4Y7Wg)
-- [Integrate VirtualBox 7.0 with Oracle Cloud Infrastructure](https://youtu.be/3roYMw-D2ks)
-- [Import Oracle Cloud Infrastructure instances into VirtualBox 7.0](https://youtu.be/xGoE8X5NqkM)
-- [Export local virtual machines to Oracle Cloud Infrastructure with VirtualBox 7.0](https://youtu.be/KZAw45DeIMw)
-- [Manage OCI instances directly from VirtualBox 7.0](https://youtu.be/uFEN4Di-WDE)
-- [Configure Cloud Networking for local VirtualBox VMs using VirtualBox 7.0](https://youtu.be/wi853qbgXh4)
 - [Pluggable Authentication Modules on Oracle Linux](https://youtu.be/KRGC2lElVC8)
 - [Introducing Udev on Oracle Linux](https://youtu.be/y3q8HAMTPDc)
 
@@ -71,6 +66,18 @@ This page highlights the videos and hands on labs that have been added to the le
 
 - [Upgrade to Oracle Linux Automation Manager 2.0](https://luna.oracle.com/lab/6c7124cc-474f-4dd4-89fa-9beb536c71f5)
 - [Migrate Oracle Linux Automation Manager 2.0 to a Clustered Deployment](https://luna.oracle.com/lab/d1847f91-0cdc-41b8-afc4-eb6d0ccd40c2)
+
+---
+
+![](../common/images/vbox-banner.png)
+
+### New Videos
+
+- [Integrate VirtualBox 7.0 with Oracle Cloud Infrastructure](https://youtu.be/3roYMw-D2ks)
+- [Import Oracle Cloud Infrastructure instances into VirtualBox 7.0](https://youtu.be/xGoE8X5NqkM)
+- [Export local virtual machines to Oracle Cloud Infrastructure with VirtualBox 7.0](https://youtu.be/KZAw45DeIMw)
+- [Manage OCI instances directly from VirtualBox 7.0](https://youtu.be/uFEN4Di-WDE)
+- [Configure Cloud Networking for local VirtualBox VMs using VirtualBox 7.0](https://youtu.be/wi853qbgXh4)
 
 ---
 
