@@ -24,6 +24,7 @@ Oracle Linux Automation Manager provides features that allow your organization t
 
 ### Oracle Linux Automation Manager Hands On Labs
 
+[![](../common/images/quick_start_olam2_lab.png)](https://luna.oracle.com/lab/4a1dcd6e-231c-4724-ae52-8d56431a2888)
 [![](../common/images/upgdolam2_lab.png)](https://luna.oracle.com/lab/6c7124cc-474f-4dd4-89fa-9beb536c71f5)
 [![](../common/images/migrate_olam2_lab.png)](https://luna.oracle.com/lab/d1847f91-0cdc-41b8-afc4-eb6d0ccd40c2)
 
