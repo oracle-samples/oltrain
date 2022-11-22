@@ -67,6 +67,7 @@ This page highlights the videos and hands on labs that have been added to the le
 
 - [Upgrade to Oracle Linux Automation Manager 2.0](https://luna.oracle.com/lab/6c7124cc-474f-4dd4-89fa-9beb536c71f5)
 - [Migrate Oracle Linux Automation Manager 2.0 to a Clustered Deployment](https://luna.oracle.com/lab/d1847f91-0cdc-41b8-afc4-eb6d0ccd40c2)
+- [Get Started with Oracle Linux Automation Manager 2.0](https://luna.oracle.com/lab/4a1dcd6e-231c-4724-ae52-8d56431a2888)
 
 ---
 
