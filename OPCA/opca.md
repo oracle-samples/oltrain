@@ -78,6 +78,8 @@ This section provides video training for administrator and user tasks performed 
 [![](../common/images/pca_resizing_block_volumes.png)](https://youtu.be/bO2kM9tSPU0)
 [![](../common/images/man_vol_grps.png)](https://youtu.be/YlwfUWbXsT8)
 [![](../common/images/pca_managing_backup_policies.png)](https://youtu.be/6R_61dHmCMY)
+[![](../common/images/pca_mgmt_mount_targets_thumbnail_scaled.png)](https://youtu.be/bTmckStW_wY)
+
 ---
 ## Oracle Private Cloud Appliance Foundations Training   
 For even more training on Oracle Private Cloud Appliance, use this link to access further foundation level training.   
