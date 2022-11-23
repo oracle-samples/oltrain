@@ -27,6 +27,23 @@ Oracle Linux Automation Manager provides features that allow your organization t
 [![](../common/images/quick_start_olam2_lab.png)](https://luna.oracle.com/lab/4a1dcd6e-231c-4724-ae52-8d56431a2888)
 [![](../common/images/upgdolam2_lab.png)](https://luna.oracle.com/lab/6c7124cc-474f-4dd4-89fa-9beb536c71f5)
 [![](../common/images/migrate_olam2_lab.png)](https://luna.oracle.com/lab/d1847f91-0cdc-41b8-afc4-eb6d0ccd40c2)
+<br>
+<br>
+
+---
+
+![](../common/images/OLAM-engine-section.png)
+
+### Working with Oracle Linux Automation Manager Engine Hands On Labs
+
+Practice your skills with Oracle Linux Automation Manager Engine with these free hands on labs.
+
+[![](../common/images/writpbolae_lab.png)](https://luna.oracle.com/lab/27118507-76a6-4116-8ae3-eecc5314531e)
+[![](../common/images/autosetolae_lab.png)](https://luna.oracle.com/lab/56b90194-88ab-421e-bc93-2ac708dce6ba)
+[![](../common/images/confpodolae_lab.png)](https://luna.oracle.com/lab/6154cf89-6a6e-45b3-98ad-635979b953e8)
+[![](../common/images/ocidiolae_lab.png)](https://luna.oracle.com/lab/95a9fc4b-56a4-4b89-b8f1-b90489df5340)
+<br>
+<br>
 
 ---
 
@@ -55,15 +72,8 @@ Learn how to add users, organizations, credentials, and permissions to prepare f
 [![](../common/images/jtolam_tmp.png)](https://youtu.be/-r9wGs4efYU)
 [![](../common/images/acolam_tmp.png)](https://youtu.be/gXSmPoY0BVs)
 [![](../common/images/diolam_tmp.png)](https://youtu.be/Fs3l5P-D_nk)
-
-### Administering Oracle Linux Automation Manager Hands On Labs
-
-Practice your adminstration skills with Oracle Linux Automation Manager version 1.0 with these free hands on labs.
-
-[![](../common/images/writpbolae_lab.png)](https://luna.oracle.com/lab/27118507-76a6-4116-8ae3-eecc5314531e)
-[![](../common/images/autosetolae_lab.png)](https://luna.oracle.com/lab/56b90194-88ab-421e-bc93-2ac708dce6ba)
-[![](../common/images/confpodolae_lab.png)](https://luna.oracle.com/lab/6154cf89-6a6e-45b3-98ad-635979b953e8)
-[![](../common/images/ocidiolae_lab.png)](https://luna.oracle.com/lab/95a9fc4b-56a4-4b89-b8f1-b90489df5340)
+<br>
+<br>
 
 ---
 
