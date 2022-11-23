@@ -13,7 +13,6 @@ Oracle Linux Automation Manager provides features that allow your organization t
 - Create an inventory which specifies the hosts where playbook tasks run
 - Create job templates that specify the projects and playbooks to run
 - Manually launch or schedule the launch of job templates
-<br>
 
 ---
 
