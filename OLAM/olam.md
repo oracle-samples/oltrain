@@ -14,7 +14,6 @@ Oracle Linux Automation Manager provides features that allow your organization t
 - Create job templates that specify the projects and playbooks to run
 - Manually launch or schedule the launch of job templates
 <br>
-
 ---
 
 ![](../common/images/OLAM-ver2-section2.png)
@@ -45,7 +44,7 @@ Practice your skills with Oracle Linux Automation Manager Engine with these free
 [![](../common/images/ocidiolae_lab.png)](https://luna.oracle.com/lab/95a9fc4b-56a4-4b89-b8f1-b90489df5340)
 <br>
 <br>
-   
+
 ---
 
 ![](../common/images/OLAM-ver1-section1.png)
