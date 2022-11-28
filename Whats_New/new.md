@@ -40,6 +40,7 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Install Verrazzano on Oracle Cloud Native Environment](https://luna.oracle.com/lab/8a6bf419-7ef9-4be1-a679-680b03191011)
 - [Scale a Kubernetes Cluster on Oracle Cloud Native Environment](https://luna.oracle.com/lab/6c9e4d88-27e7-43bd-9366-0693fb8e4d3a)
 - [Enable Istio Proxy Sidecar Injection in Oracle Cloud Native Environment](https://luna.oracle.com/lab/6e667326-fd72-4e65-a5b5-8398c5eef960)
+- [Use Quick Install to Deploy Oracle Cloud Native Environment](https://luna.oracle.com/lab/6e667326-fd72-4e65-a5b5-8398c5eef960)
 
 ---
    
