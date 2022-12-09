@@ -296,9 +296,9 @@ Learn about integrating Oracle VM VirtualBox virtualization with Oracle Cloud In
 </table>  
 <br>
    
-Go to the Oracle VM VirtualBox Training Track to watch all the free content:
-Oracle VM VirtualBox Training Track (../vbox/vbox.md)
-   
+Watch all the free content on the Oracle VM VirtualBox Training Track:
+#### [Oracle VM VirtualBox Training Track](../vbox/vbox.md)
+
 ---
 
 ![](../common/images/quiz1.png)
