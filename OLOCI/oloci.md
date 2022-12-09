@@ -290,7 +290,7 @@ Learn about integrating Oracle VM VirtualBox virtualization with Oracle Cloud In
                <li>Integrating VirtualBox with Oracle Cloud Oracle Infrastructure</li>
                <li>Create and manage cloud instances from VirtualBox</li>
                <li>Import and export virtual machines between VirtualBox and the cloud</li>
-               <li>Create cloud networks from VirtualBox</li>
+               <li>Create cloud infrastructure networks from VirtualBox</li>
             </ul>
          </td>
       </tr>
