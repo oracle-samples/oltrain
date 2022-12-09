@@ -274,6 +274,33 @@ Learn to implement KVM virtualization in Oracle Linux instances deployed on Orac
    
 ---
 
+![](../common/images/OLOCI-vbox-header.png)
+
+Learn about integrating Oracle VM VirtualBox virtualization with Oracle Cloud Infrastructure.
+
+<table width="1200">
+<colgroup>
+   <col width="600">
+   <col width="600">
+</colgroup>
+      <tr>   
+         <td valign="top"><b>Learn about these topics:</b>
+            <ul>
+               <li>Integrating VirtualBox with Oracle Cloud Oracle Infrastructure</li>
+               <li>Create and manage cloud instances from VirtualBox</li>
+               <li>Import and export virtual machines between VirtualBox and the cloud</li>
+               <li>Create cloud networks from VirtualBox</li>
+            </ul>
+         </td>
+      </tr>
+</table>  
+<br>
+   
+Go to the Oracle VM VirtualBox Training Track to watch all the free content:
+Oracle VM VirtualBox Training Track (../vbox/vbox.md)
+   
+---
+
 ![](../common/images/quiz1.png)
    
    
