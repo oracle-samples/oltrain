@@ -22,6 +22,7 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Mount an NFS Share Using a Rootful Podman Volume](https://luna.oracle.com/lab/556e1401-568f-447e-8c0b-c94a86b1114f)
 - [Install FreeIPA Server on Oracle Linux](https://luna.oracle.com/lab/19bfac85-6c1e-4775-8fc3-6f55022a8e47)
 - [Deploy Keycloak using Podman on Oracle Linux](https://luna.oracle.com/lab/752793ff-9f74-4bb0-b848-90c5bcae4388)
+- [Install Podman Desktop](https://luna.oracle.com/lab/55225d03-4fdb-42dd-bb3c-0382cb918963)
 
 ---
 
@@ -40,6 +41,7 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Install Verrazzano on Oracle Cloud Native Environment](https://luna.oracle.com/lab/8a6bf419-7ef9-4be1-a679-680b03191011)
 - [Scale a Kubernetes Cluster on Oracle Cloud Native Environment](https://luna.oracle.com/lab/6c9e4d88-27e7-43bd-9366-0693fb8e4d3a)
 - [Enable Istio Proxy Sidecar Injection in Oracle Cloud Native Environment](https://luna.oracle.com/lab/6e667326-fd72-4e65-a5b5-8398c5eef960)
+- [Use Quick Install to Deploy Oracle Cloud Native Environment](https://luna.oracle.com/lab/42f9b19b-e254-42cf-885d-a80127d9d751)
 
 ---
    
@@ -47,6 +49,7 @@ This page highlights the videos and hands on labs that have been added to the le
 
 ### New Videos
 
+- [OCI Utilities Overview](https://youtu.be/bnf9T-wljVU)
 - [Migrate Standalone Oracle Autonomous Linux Instances to use OS Management Service](https://youtu.be/vNY4jelIdgk)
 - [Managing Module Streams and Profiles with the OS Management Service](https://youtu.be/y-dnguUNr6Y)
 
@@ -87,6 +90,7 @@ This page highlights the videos and hands on labs that have been added to the le
 
 ### New Videos
 
+- [Importing Compute Images Provided with Oracle Private Cloud Appliance](https://youtu.be/fToYmmf6NFk)
 - [Managing Mount Targets on Oracle Private Cloud Appliance](https://youtu.be/bTmckStW_wY)
 - [Managing Boot Volumes on Oracle Private Cloud Appliance](https://youtu.be/Vo4119i8HsU)
 - [Compartment and Policy Administration on Oracle Private Cloud Appliance](https://youtu.be/KV4sQOWXab8)

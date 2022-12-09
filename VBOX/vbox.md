@@ -9,8 +9,8 @@ This track allows you to explore Oracle VM VirtualBox to help you grow your skil
 ![](../common/images/vbox-70-sect1.png)
 
 [![](../common/images/integrate-vbox7-oci.png)](https://youtu.be/3roYMw-D2ks)
-[![](../common/images/configure-networking-vbx7.png)](https://youtu.be/wi853qbgXh4)
-[![](../common/images/manage-oci-vbx7.png)](https://youtu.be/uFEN4Di-WDE)
+[![](../common/images/vbx7-config-cloud-network.png)](https://youtu.be/wi853qbgXh4)
+[![](../common/images/vbx7-manage-oci-intances.png)](https://youtu.be/uFEN4Di-WDE)
 [![](../common/images/import-oci-to-vbox7.png)](https://youtu.be/xGoE8X5NqkM)
 [![](../common/images/export-vms-to-oci-vbx7.png)](https://youtu.be/KZAw45DeIMw)
 <br>

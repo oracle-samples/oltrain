@@ -93,6 +93,7 @@ Learn to administer compute instances using a range of tools and solutions provi
    
 ### Videos
 
+[![](../common/images/oci-utilities-overview-ol-thumbnail.png)](https://youtu.be/bnf9T-wljVU)
 [![](../common/images/mod_streams_tmp.png)](https://youtu.be/y-dnguUNr6Y)
 [![](../common/images/enabociutil_tmp.png)](https://youtu.be/EV4ihmXZSUI)
 [![](../common/images/getstartosm_tmp.png)](https://youtu.be/7qmy5VusYKA)

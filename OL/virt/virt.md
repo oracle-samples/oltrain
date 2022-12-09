@@ -58,6 +58,7 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
 [![](../../common/images/stor_podman_lab2.png)](https://luna.oracle.com/lab/0dde3b49-0b91-423e-a126-5e718e05ca64)
 [![](../../common/images/usecont_lab2.png)](https://luna.oracle.com/lab/42ce804b-ce7c-4fc0-9baf-aaccc4d80495)
 [![](../../common/images/nfs_podman.png)](https://luna.oracle.com/lab/556e1401-568f-447e-8c0b-c94a86b1114f)
+[![](../../common/images/podman-desktop.png)](https://luna.oracle.com/lab/55225d03-4fdb-42dd-bb3c-0382cb918963)
 
 ### Container Tutorial
 
