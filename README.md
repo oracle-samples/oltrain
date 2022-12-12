@@ -50,7 +50,7 @@ Head to the Oracle Linux Training Station tracks below to learn about Linux and 
 
 ### Resources
 
-Following blog pages provide additional product training information:
+Following pages provide additional product information:
 
 - [Oracle Linux Documentation Home Page](https://docs.oracle.com/en/operating-systems/oracle-linux/)
 - [Oracle Linux Blog](https://blogs.oracle.com/linux/category/lnx-training)
