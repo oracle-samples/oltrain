@@ -31,11 +31,6 @@ The following videos will introduce you to the installation procedure and scalin
 [![](../common/images/depkubocne_tmp.png)](https://youtu.be/_dahVFaasAo)
 [![](../common/images/sclkubocne_tmp.png)](https://youtu.be/aVyqWh048yo)
 
-#### Release 1.2 Videos
-
-[![](../common/images/deployocne_tmp.png)](https://youtu.be/M1WyPPxEM1U)
-[![](../common/images/scaleocne_tmp.png)](https://youtu.be/AmAOBb-dk-4)
-
 ### Installation Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
