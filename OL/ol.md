@@ -352,6 +352,12 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 </table>    
 <br>  
 
+### Resources
+
+Following page provides additional product information:
+
+- [Oracle Linux Documentation Home Page](https://docs.oracle.com/en/operating-systems/oracle-linux/)
+
 ---
    
 #### [Return to Oracle Linux Training Station](../README.md)

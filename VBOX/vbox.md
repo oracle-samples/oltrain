@@ -43,6 +43,12 @@ Test your skills on what you have learned about VirtualBox on Oracle Linux with 
 </table>    
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
+### Resources
+
+Following page provides additional product information:
+
+- [Oracle VM VirtualBox Documentation](https://docs.oracle.com/en/virtualization/virtualbox/index.html)
+
 ---
 
 #### [Return to Oracle Linux Training Station](../README.md)
