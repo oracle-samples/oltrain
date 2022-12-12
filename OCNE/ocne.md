@@ -171,6 +171,12 @@ Test your skills on your knowledge of the Tech Preview content you have watched 
 </table>    
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
+### Resources
+
+Following page provides additional product information:
+
+- [Oracle Cloud Native Environment Documentation](https://docs.oracle.com/en/operating-systems/olcne/)
+
 ---
 
 #### [Return to Oracle Linux Training Station](../README.md)
