@@ -75,24 +75,7 @@ The following videos will introduce you to Kata Containers functionality and dem
 [![](../common/images/katadep_tmp.png)](https://youtu.be/iUbs38MKcdI)
 [![](../common/images/katadeplbls_tmp.png)](https://youtu.be/zsTuPQ88qxc)
 
-### Container Videos
-Podman provides a way to build, share and run containers conforming to the the Open Containers Initiative (OCI) format.
-
-The following videos will introduce you to Containers, and demonstrate using Podman to deploy and manage container images designed for Kubernetes, Oracle Container Runtime for Docker, and Oracle Linux Cloud Native Environment.
-
-[![](../common/images/contov_tmp.png)](https://youtu.be/V9sOZHfuvVM)
-[![](../common/images/arecontvm_tmp.png)](https://youtu.be/AvNDTpmHOMk)
-[![](../common/images/instpbs_tmp.png)](https://youtu.be/L9Arzr88p0M)
-[![](../common/images/pull_tmp.png)](https://youtu.be/QmZE-lFNzk4)
-[![](../common/images/usepr_tmp.png)](https://youtu.be/q57hNilpakk)
-[![](../common/images/createlr_tmp.png)](https://youtu.be/8wVmR_5YyCk)
-[![](../common/images/run_tmp.png)](https://youtu.be/PXeKEIdaTBs)
-[![](../common/images/imagelay_tmp.png)](https://youtu.be/i9KKMM0RiDI)
-[![](../common/images/bind_tmp.png)](https://youtu.be/Kw5vdNRRaZc)
-[![](../common/images/vol_tmp.png)](https://youtu.be/qIjTMOfGa_Y)
-[![](../common/images/dfile_tmp.png)](https://youtu.be/AkvluNPzGSY)
-
-### Microservices Traffic Management Videos
+### Istio Videos
 Operating as a service mesh for managing the interaction and operation of services in a microservices architecture. Istio coordinates communication between services, providing service discovery, load balancing, security, recovery, telemetry, and policy enforcement capabilities.
 
 The following videos will introduce you to the role of Istio in supporting the microservices framework. You will learn about the Istio architecture and its sidecar proxy capabilities implemented in a Kubernetes cluster.
@@ -122,49 +105,6 @@ Test your skills on what you have learned so far with this quiz.
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
 ---
-   
-   
-
-![](../common/images/OCNE-techprev-banner-V2.png)
----
-Oracle is actively investigating new microservices technologies permitting you to do research and development. The following videos describe configurations that leverage these technologies intended for pre-production systems.
-
-#### Helm Videos
-Operating as a package manager for Kubernetes, Helm manages the creation of complex, multi-container applications and web services in an existing Oracle Container Services for use with Kubernetes clusters.
-
-The following videos will introduce you to Helm, its components and features, as well as explaining its use of charts, chart repositories and plugins.
-
-[![](../common/images/introhelm_tmp.png)](https://youtu.be/mKNqFyub0mU)
-[![](../common/images/iiihelm_tmp.png)](https://youtu.be/zOrBVhxOvMU)
-
-#### Prometheus Video
-Operating as an open source monitoring and alerting system. Prometheus uses log collectors for monitoring and performance tuning. Prometheus can gather logs from various metrics and present the data in the form of basic graphs for analysis.
-
-The following video will introduce you to Prometheus, its time-series database and multi-dimensional data model for collecting metrics, as well as describing key steps to installing and running Prometheus.
-
-[![](../common/images/introprom_tmp.png)](https://youtu.be/E2123yZAJ0c)
-
-#### Grafana Video
-Implemented by Dev-Ops teams to collect metrics in their cloud native environments, Grafana operates as an open source analysis and visualization tool for time series data. Using a plugin architecture, it allows for data to be captured across different sources and visualized on dashboards.
-
-The following video will introduce Grafana, cover its installation, and demonstrate its configuration through the browser user interface.
-
-[![](../common/images/grafanaocne_tmp.png)](https://youtu.be/x6nloqYg-4w)
-
----
-
-![](../common/images/quiz1.png)
-   
-   
-Test your skills on your knowledge of the Tech Preview content you have watched with this quiz.   
- 
-<table>
-    <tr>
-    <td><img src="../common/images/quiz_v2.png" width="40" height="50"></td>
-    <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:31YKJS">Oracle Cloud Native Environment Tech Preview Quiz</a></td>
-  </tr>
-</table>    
-<b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
 ### Resources
 
