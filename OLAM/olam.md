@@ -76,6 +76,12 @@ Learn how to add users, organizations, credentials, and permissions to prepare f
 <br>
 <br>
 
+### Resources
+
+Following page provides additional product information:
+
+- [Oracle Linux Automation Manager Documentation](https://docs.oracle.com/en/operating-systems/oracle-linux-automation-manager/)
+
 ---
 
 #### [Return to Oracle Linux Training Station](../README.md)
