@@ -28,10 +28,6 @@ This page highlights the videos and hands on labs that have been added to the le
 
 ![](../common/images/OCNE-banner-v2.png)
 
-### New Video
-
-- [Oracle Cloud Native Environment 1.5.7 Update](https://youtu.be/zMjAfYUB3Qw)
-
 ### New Hands On Labs
 
 - [Use OCI Cloud Controller Manager on Oracle Cloud Native Environment](https://luna.oracle.com/lab/5571f277-3eb9-435f-b3b3-fe421fb9747e)
