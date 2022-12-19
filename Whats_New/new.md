@@ -81,6 +81,10 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Manage OCI instances directly from VirtualBox 7.0](https://youtu.be/uFEN4Di-WDE)
 - [Configure Cloud Networking for local VirtualBox VMs using VirtualBox 7.0](https://youtu.be/wi853qbgXh4)
 
+### New Hands On Labs
+
+- [Use Oracle VM VirtualBox on Oracle Cloud Infrastructure Instances](https://luna.oracle.com/lab/922eabed-e47c-4934-a4a5-dbacc02f4f3b)
+
 ---
 
 ![](../common/images/PCA-banner-v2.png)
