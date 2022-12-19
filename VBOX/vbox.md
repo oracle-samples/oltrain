@@ -19,7 +19,7 @@ This track allows you to explore Oracle VM VirtualBox to help you grow your skil
 ## VirtualBox 7.0 Hands On Labs
 Follow guided step-by-step procedures to complete specific tasks with VirtualBox in an Oracle-provided free lab environment. Alternatively, you can perform the lab steps on your own environment.
 
-[![](../common/images/vboc-oci-lab.png)](https://luna.oracle.com/team/418f9969-5e1c-4bbb-ae5f-b8b6acffc9f1)
+[![](../common/images/vbox-oci-lab.png)](https://luna.oracle.com/team/418f9969-5e1c-4bbb-ae5f-b8b6acffc9f1)
 
 ---
 
