@@ -91,6 +91,7 @@ This page highlights the videos and hands on labs that have been added to the le
 
 ### New Videos
 
+- Creating a Fiile System on Oracle Private Cloud Appliance(https://youtu.be/IB03H7YJP0Q)
 - [Importing Compute Images Provided with Oracle Private Cloud Appliance](https://youtu.be/fToYmmf6NFk)
 - [Managing Mount Targets on Oracle Private Cloud Appliance](https://youtu.be/bTmckStW_wY)
 - [Managing Boot Volumes on Oracle Private Cloud Appliance](https://youtu.be/Vo4119i8HsU)
