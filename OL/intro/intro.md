@@ -4,7 +4,7 @@ On this track you will learn technologies and components included in Oracle Linu
 [![](../../common/images/why_linux_300.png)](https://youtu.be/GzON3q8S00Y)
 [![](../../common/images/install_ol_300.png)](https://youtu.be/dvvP4wpsAQI)
 [![](../../common/images/shell_cli_300.png)](https://youtu.be/QQSI_901fUU)
-[![](../../common/images/files_dirs_300.png)](https://youtu.be/Eo6zhlFHDXE)
+[![](../../common/images/files_dirs_300_.png)](https://youtu.be/Eo6zhlFHDXE)
 [![](../../common/images/using_vim_300.png)](https://youtu.be/5xKldV3knzU)
 [![](../../common/images/user_groups_300.png)](https://youtu.be/rjY_Z9diSwE)
 [![](../../common/images/perm_over_300.png)](https://youtu.be/Ce5gXQlw_o4)
@@ -16,7 +16,7 @@ On this track you will learn technologies and components included in Oracle Linu
 [![](../../common/images/processes_300.png)](https://youtu.be/wMaWGV2yqtY)
 [![](../../common/images/oci_on_ol_300.png)](https://youtu.be/APTzx_7azmA)
 [![](../../common/images/work_env_300.png)](https://youtu.be/kdpfqiAp8BA)
-[![](../../common/images/use_tools_300.png)](https://youtu.be/ZXO4hqoO52o)
+[![](../../common/images/use_tools_300_.png)](https://youtu.be/ZXO4hqoO52o)
 [![](../../common/images/bash_script_300.png)](https://youtu.be/d6ktKrOOkZs)
 
 ## Introduction to Oracle Linux Tutorial
