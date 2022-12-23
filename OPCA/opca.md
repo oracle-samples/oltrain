@@ -74,6 +74,7 @@ This section provides video training for administrator and user tasks performed 
 
 ![](../common/images/pca-page-storage4.png)
 
+[![](../common/images/pca_creating_a_file_system_github_scaled_thumbnail.png)](https://youtu.be/lB03H7YJP0Q)
 [![](../common/images/blkvolpca_tmp.png)](https://youtu.be/s5N6mGxUNew)
 [![](../common/images/bootvolpca_tmp.png)](https://youtu.be/Vo4119i8HsU)
 [![](../common/images/pca_resizing_block_volumes.png)](https://youtu.be/bO2kM9tSPU0)
