@@ -6,7 +6,7 @@ On this track you will learn technologies and components included in Oracle Linu
 [![](../../common/images/shell_cli_300.png)](https://youtu.be/QQSI_901fUU)
 [![](../../common/images/files_dirs_300_.png)](https://youtu.be/Eo6zhlFHDXE)
 [![](../../common/images/using_vim_300.png)](https://youtu.be/5xKldV3knzU)
-[![](../../common/images/user_groups_300.png)](https://youtu.be/rjY_Z9diSwE)
+[![](../../common/images/users_groups_300.png)](https://youtu.be/rjY_Z9diSwE)
 [![](../../common/images/perm_over_300.png)](https://youtu.be/Ce5gXQlw_o4)
 [![](../../common/images/sw_mgmt_300.png)](https://youtu.be/QiiVUyUxIc8)
 [![](../../common/images/network_300.png)](https://youtu.be/V6HT5lXo4g0)
