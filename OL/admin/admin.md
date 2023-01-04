@@ -1,21 +1,21 @@
 ## Administration Videos
 These short videos go through some common administration tasks that you can perform on Oracle Linux. You can learn step-by-step how to configure the system date and time, automate tasks, dynamically load and unload kernel modules, configure users and groups, and explore the proc and sysfs file systems to view and configure system hardware and system processes. These tasks are applicable for on-premises systems or Oracle Cloud Infrastructure instances.
 
-[![](../../common/images/datetime_tmp.png)](https://youtu.be/q8VlYiF5sx8)
-[![](../../common/images/procfs_tmp.png)](https://youtu.be/1F51ZHAVfAk)
-[![](../../common/images/sysfs_tmp.png)](https://youtu.be/j9x2cuOE5_Y)
-[![](../../common/images/cron_tmp.png)](https://youtu.be/BpPGoRYTv9I)
-[![](../../common/images/anacron_tmp.png)](https://youtu.be/EIV3lpTeqXo)
-[![](../../common/images/kernelmod_tmp.png)](https://youtu.be/AeW42ZyzHrQ)
-[![](../../common/images/usergrp_tmp.png)](https://youtu.be/fag6aHNUkdQ)
-[![](../../common/images/passage_tmp.png)](https://youtu.be/WrcnDpj3axQ)
-[![](../../common/images/ftp_tmp.png)](https://youtu.be/xpBBUPLEkZg)
-[![](../../common/images/vim_tmp.png)](https://youtu.be/5xKldV3knzU)
-[![](../../common/images/leapp_tmp.png)](https://youtu.be/kxeBILa3YNc)
-[![](../../common/images/cgroups_tmp.png)](https://youtu.be/AiYK0VBW7e4)
-[![](../../common/images/selinux_tmp.png)](https://youtu.be/meKjLOxEu_o)
-[![](../../common/images/pam_tmp.png)](https://youtu.be/KRGC2lElVC8)
-[![](../../common/images/udev_tmp.png)](https://youtu.be/y3q8HAMTPDc)
+[![](../../common/images/date_time_300.png)](https://youtu.be/q8VlYiF5sx8)
+[![](../../common/images/proc_fs_300.png)](https://youtu.be/1F51ZHAVfAk)
+[![](../../common/images/sysfs_300.png)](https://youtu.be/j9x2cuOE5_Y)
+[![](../../common/images/cron_300.png)](https://youtu.be/BpPGoRYTv9I)
+[![](../../common/images/anacron_300.png)](https://youtu.be/EIV3lpTeqXo)
+[![](../../common/images/kernel_300.png)](https://youtu.be/AeW42ZyzHrQ)
+[![](../../common/images/uga_300.png)](https://youtu.be/fag6aHNUkdQ)
+[![](../../common/images/pass_ag_su_300.png)](https://youtu.be/WrcnDpj3axQ)
+[![](../../common/images/ftp_300.png)](https://youtu.be/xpBBUPLEkZg)
+[![](../../common/images/vim_admin_300.png)](https://youtu.be/5xKldV3knzU)
+[![](../../common/images/leapp_300.png)](https://youtu.be/kxeBILa3YNc)
+[![](../../common/images/cgroups_300.png)](https://youtu.be/AiYK0VBW7e4)
+[![](../../common/images/selinux_300.png)](https://youtu.be/meKjLOxEu_o)
+[![](../../common/images/pam_300.png)](https://youtu.be/KRGC2lElVC8)
+[![](../../common/images/udev_300.png)](https://youtu.be/y3q8HAMTPDc)
 
 ## Administration Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
