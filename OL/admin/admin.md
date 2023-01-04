@@ -15,7 +15,7 @@ These short videos go through some common administration tasks that you can perf
 [![](../../common/images/cgroups_300.png)](https://youtu.be/AiYK0VBW7e4)
 [![](../../common/images/selinux_300.png)](https://youtu.be/meKjLOxEu_o)
 [![](../../common/images/pam_300.png)](https://youtu.be/KRGC2lElVC8)
-[![](../../common/images/udev_300.png)](https://youtu.be/y3q8HAMTPDc)
+[![](../../common/images/udev_300_.png)](https://youtu.be/y3q8HAMTPDc)
 
 ## Administration Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
