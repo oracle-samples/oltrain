@@ -1,9 +1,9 @@
 ## Package Management Videos
 Software package management is an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes, and security patches. Oracle Linux 8 introduced DNF, which replaces YUM, and in this video series, we cover how to use DNF, install the Oracle UEK kernel and how to add repositories.
 
-[![](../../common/images/dnf_tmp.png)](https://youtu.be/YP_ovje5UuM)
-[![](../../common/images/uek6_tmp.png)](https://youtu.be/OeFTjC0mqLM)
-[![](../../common/images/epel_tmp.png)](https://youtu.be/R-hAYGEYWQ0)
+[![](../../common/images/dnf_300.png)](https://youtu.be/YP_ovje5UuM)
+[![](../../common/images/inst_uekr6_300.png)](https://youtu.be/OeFTjC0mqLM)
+[![](../../common/images/epel_300.png)](https://youtu.be/R-hAYGEYWQ0)
 
 ## Package Management Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
