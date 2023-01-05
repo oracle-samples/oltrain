@@ -1,16 +1,16 @@
 ## Monitoring and Logging Videos
 These videos go through typical monitoring and logging tasks performed on a Linux system. Learn how to monitor system performance and review system logs on Oracle Linux.
 
-[![](../../common/images/sos_tmp.png)](https://youtu.be/FD-wgH4xhJI)
-[![](../../common/images/iostat_tmp.png)](https://youtu.be/BCb1Il1hpgY)
-[![](../../common/images/mpstat_tmp.png)](https://youtu.be/ioAP964a_Q0)
-[![](../../common/images/vmstat_tmp.png)](https://youtu.be/WGOWGJGFlvU)
-[![](../../common/images/top_tmp.png)](https://youtu.be/t3JZ8Tcw7fo)
-[![](../../common/images/netstat_tmp.png)](https://youtu.be/ucWjQafk1fk)
-[![](../../common/images/rsyslog_tmp.png)](https://youtu.be/Xxk2bbiwr6M)
-[![](../../common/images/logwatch_tmp.png)](https://youtu.be/jfdcGZJIuLk)
-[![](../../common/images/journald_tmp.png)](https://youtu.be/YAMF3ewtfa4)
-[![](../../common/images/audit_tmp.png)](https://youtu.be/AKwV0DHt6oA)
+[![](../../common/images/sosreport_300.png)](https://youtu.be/FD-wgH4xhJI)
+[![](../../common/images/iostat_300.png)](https://youtu.be/BCb1Il1hpgY)
+[![](../../common/images/mpstat_300.png)](https://youtu.be/ioAP964a_Q0)
+[![](../../common/images/vmstat_300.png)](https://youtu.be/WGOWGJGFlvU)
+[![](../../common/images/top_300.png)](https://youtu.be/t3JZ8Tcw7fo)
+[![](../../common/images/netstat_300.png)](https://youtu.be/ucWjQafk1fk)
+[![](../../common/images/rsyslog_300.png)](https://youtu.be/Xxk2bbiwr6M)
+[![](../../common/images/logwatch_300.png)](https://youtu.be/jfdcGZJIuLk)
+[![](../../common/images/journald_300.png)](https://youtu.be/YAMF3ewtfa4)
+[![](../../common/images/audit_300.png)](https://youtu.be/AKwV0DHt6oA)
 
 ## Monitoring and Logging Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
