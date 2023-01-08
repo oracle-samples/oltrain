@@ -2,15 +2,15 @@
 
 ### KVM Management Videos
 
-[![](../../common/images/kvm_tmp.png)](https://youtu.be/ALtnopSysY4)
-[![](../../common/images/cockpit_tmp.png)](https://youtu.be/-Z3AwP2HPa4)
-[![](../../common/images/usingcockpit_tmp.png)](https://youtu.be/daHQeCY13s8)
-[![](../../common/images/nat_tmp.png)](https://youtu.be/2MEqDxOeuDw)
-[![](../../common/images/bridge_tmp.png)](https://youtu.be/OAfIb7gtang)
-[![](../../common/images/usingbridge_tmp.png)](https://youtu.be/CXBTBxFoSKI)
-[![](../../common/images/switch_tmp.png)](https://youtu.be/hMstMTqzP_Q)
-[![](../../common/images/convert_tmp.png)](https://youtu.be/7gZLiTa3150)
-[![](../../common/images/adddisk_tmp.png)](https://youtu.be/B3h_DWOMwrk)
+[![](../../common/images/enab_kvm_300.png)](https://youtu.be/ALtnopSysY4)
+[![](../../common/images/setup_cp_300.png)](https://youtu.be/-Z3AwP2HPa4)
+[![](../../common/images/using_cp_300.png)](https://youtu.be/daHQeCY13s8)
+[![](../../common/images/nat_based_300.png)](https://youtu.be/2MEqDxOeuDw)
+[![](../../common/images/create_net_bridge_300.png)](https://youtu.be/OAfIb7gtang)
+[![](../../common/images/use_net_bridge_300.png)](https://youtu.be/CXBTBxFoSKI)
+[![](../../common/images/switch_nat_bridge_300.png)](https://youtu.be/hMstMTqzP_Q)
+[![](../../common/images/vbox_kvm_300.png)](https://youtu.be/7gZLiTa3150)
+[![](../../common/images/add_disk_300.png)](https://youtu.be/B3h_DWOMwrk)
 
 ### KVM Hands On Lab
 
@@ -39,18 +39,18 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
 
 ### Container Videos
 
-[![](../../common/images/contov_tmp.png)](https://youtu.be/V9sOZHfuvVM)
-[![](../../common/images/arecontvm_tmp.png)](https://youtu.be/AvNDTpmHOMk)
-[![](../../common/images/instpbs_tmp.png)](https://youtu.be/L9Arzr88p0M)
-[![](../../common/images/pull_tmp.png)](https://youtu.be/QmZE-lFNzk4)
-[![](../../common/images/usepr_tmp.png)](https://youtu.be/q57hNilpakk)
-[![](../../common/images/createlr_tmp.png)](https://youtu.be/8wVmR_5YyCk)
-[![](../../common/images/run_tmp.png)](https://youtu.be/PXeKEIdaTBs)
-[![](../../common/images/imagelay_tmp.png)](https://youtu.be/i9KKMM0RiDI)
-[![](../../common/images/bind_tmp.png)](https://youtu.be/Kw5vdNRRaZc)
-[![](../../common/images/vol_tmp.png)](https://youtu.be/qIjTMOfGa_Y)
-[![](../../common/images/dfile_tmp.png)](https://youtu.be/AkvluNPzGSY)
-[![](../../common/images/chroot_tmp.png)](https://youtu.be/dxzwxvn621w)
+[![](../../common/images/overview_300.png)](https://youtu.be/V9sOZHfuvVM)
+[![](../../common/images/are_containers_vms_300.png)](https://youtu.be/AvNDTpmHOMk)
+[![](../../common/images/install_pbs_300.png)](https://youtu.be/L9Arzr88p0M)
+[![](../../common/images/pull_image_300.png)](https://youtu.be/QmZE-lFNzk4)
+[![](../../common/images/pub_reg_300.png)](https://youtu.be/q57hNilpakk)
+[![](../../common/images/loc_reg_300.png)](https://youtu.be/8wVmR_5YyCk)
+[![](../../common/images/run_cont_300.png)](https://youtu.be/PXeKEIdaTBs)
+[![](../../common/images/image_layers_300.png)](https://youtu.be/i9KKMM0RiDI)
+[![](../../common/images/bind_mounts_300.png)](https://youtu.be/Kw5vdNRRaZc)
+[![](../../common/images/use_vol_300.png)](https://youtu.be/qIjTMOfGa_Y)
+[![](../../common/images/dockerfile_300.png)](https://youtu.be/AkvluNPzGSY)
+[![](../../common/images/chroot_300.png)](https://youtu.be/dxzwxvn621w)
 
 ### Container Hands On Labs
 
@@ -86,9 +86,9 @@ Test your skills on what you have learned about working with containers on Oracl
 
 ### Kubernetes Videos
 
-[![](../../common/images/tour_tmp.png)](https://youtu.be/syBe1H-qe8U)
-[![](../../common/images/kubres_tmp.png)](https://youtu.be/e5m3TlvM4y4)
-[![](../../common/images/minikub_tmp.png)](https://youtu.be/u1qY8ax0U44)
+[![](../../common/images/tour_300.png)](https://youtu.be/syBe1H-qe8U)
+[![](../../common/images/resources_300.png)](https://youtu.be/e5m3TlvM4y4)
+[![](../../common/images/minikube_300.png)](https://youtu.be/u1qY8ax0U44)
 
 ### Kubernetes Hands On Labs
 
