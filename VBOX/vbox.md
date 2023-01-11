@@ -8,11 +8,11 @@ This track allows you to explore Oracle VM VirtualBox to help you grow your skil
 
 ![](../common/images/vbox-70-sect1.png)
 
-[![](../common/images/integrate-vbox7-oci.png)](https://youtu.be/3roYMw-D2ks)
-[![](../common/images/vbx7-config-cloud-network.png)](https://youtu.be/wi853qbgXh4)
-[![](../common/images/vbx7-manage-oci-intances.png)](https://youtu.be/uFEN4Di-WDE)
-[![](../common/images/import-oci-to-vbox7.png)](https://youtu.be/xGoE8X5NqkM)
-[![](../common/images/export-vms-to-oci-vbx7.png)](https://youtu.be/KZAw45DeIMw)
+[![](../common/images/vbx7oci_300.png)](https://youtu.be/3roYMw-D2ks)
+[![](../common/images/vbx7vcn_300.png)](https://youtu.be/wi853qbgXh4)
+[![](../common/images/vbx7manage_300.png)](https://youtu.be/uFEN4Di-WDE)
+[![](../common/images/vbx7import_300.png)](https://youtu.be/xGoE8X5NqkM)
+[![](../common/images/vbx7export_300.png)](https://youtu.be/KZAw45DeIMw)
 <br>
 <br>
 
@@ -25,11 +25,11 @@ Follow guided step-by-step procedures to complete specific tasks with VirtualBox
 
 ![](../common/images/vbox-61-sect1.png)
 
-[![](../common/images/instVB_tmp.png)](https://youtu.be/Dl2CxAoSC5o)
-[![](../common/images/instVBext_tmp.png)](https://youtu.be/wHOYAGQtOcM)
-[![](../common/images/createVM_tmp.png)](https://youtu.be/E5fGTh2XT10)
-[![](../common/images/instVBga_tmp.png)](https://youtu.be/NmFN7azdZzY)
-[![](../common/images/expVB_tmp.png)](https://youtu.be/jEDfsovNNyg)
+[![](../common/images/vboxinstall_300.png)](https://youtu.be/Dl2CxAoSC5o)
+[![](../common/images/vboxextpack_300.png)](https://youtu.be/wHOYAGQtOcM)
+[![](../common/images/vboxcreate_300.png)](https://youtu.be/E5fGTh2XT10)
+[![](../common/images/vboxga_300.png)](https://youtu.be/NmFN7azdZzY)
+[![](../common/images/vboxexport_300.png)](https://youtu.be/jEDfsovNNyg)
 <br>
 <br>
 
