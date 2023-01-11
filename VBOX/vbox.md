@@ -25,8 +25,8 @@ Follow guided step-by-step procedures to complete specific tasks with VirtualBox
 
 ![](../common/images/vbox-61-sect1.png)
 
-[![](../common/images/vboxinstall_300.png)](https://youtu.be/Dl2CxAoSC5o) 
-[![](../common/images/vboxextpack_300.png)](https://youtu.be/wHOYAGQtOcM) 
+[![](../common/images/vboxinstall_300.png)](https://youtu.be/Dl2CxAoSC5o)  
+[![](../common/images/vboxextpack_300.png)](https://youtu.be/wHOYAGQtOcM)  
 [![](../common/images/vboxcreate_300.png)](https://youtu.be/E5fGTh2XT10)
 [![](../common/images/vboxga_300.png)](https://youtu.be/NmFN7azdZzY)
 [![](../common/images/vboxexport_300.png)](https://youtu.be/jEDfsovNNyg)
