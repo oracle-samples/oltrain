@@ -8,7 +8,7 @@ This track allows you to explore Oracle VM VirtualBox to help you grow your skil
 
 ![](../common/images/vbox-70-sect1.png)
 
-[![](../common/images/integrate-vbox7-oci.png)](https://youtu.be/3roYMw-D2ks)
+[![](../common/images/vbx7oci_300.png)](https://youtu.be/3roYMw-D2ks)
 [![](../common/images/vbx7vcn_300.png)](https://youtu.be/wi853qbgXh4)
 [![](../common/images/vbx7manage_300.png)](https://youtu.be/uFEN4Di-WDE)
 [![](../common/images/vbx7import_300.png)](https://youtu.be/xGoE8X5NqkM)
