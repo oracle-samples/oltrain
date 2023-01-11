@@ -19,16 +19,16 @@ The following videos will introduce you to the installation procedure and scalin
 
 #### Release 1.4 and 1.5 Videos
 
-[![](../common/images/instwalk_tmp.png)](https://youtu.be/IuMKKWdDgc4)
-[![](../common/images/confile_tmp.png)](https://youtu.be/pfnfu8B3atI)
-[![](../common/images/confileov_tmp.png)](https://youtu.be/n7VhqiiYa1U)
+[![](../common/images/inst_walkthru_300.png)](https://youtu.be/IuMKKWdDgc4)
+[![](../common/images/using_config_file_300.png)](https://youtu.be/pfnfu8B3atI)
+[![](../common/images/over_config_file_300.png)](https://youtu.be/n7VhqiiYa1U)
 
 #### Release 1.3 Videos
 
-[![](../common/images/getstocne_tmp.png)](https://youtu.be/agoEHX0M7bk)
-[![](../common/images/instocne_tmp.png)](https://youtu.be/bN_SLTGdJJQ)
-[![](../common/images/depkubocne_tmp.png)](https://youtu.be/_dahVFaasAo)
-[![](../common/images/sclkubocne_tmp.png)](https://youtu.be/aVyqWh048yo)
+[![](../common/images/get_started_300.png)](https://youtu.be/agoEHX0M7bk)
+[![](../common/images/install_ocne_300.png)](https://youtu.be/bN_SLTGdJJQ)
+[![](../common/images/deploy_300.png)](https://youtu.be/_dahVFaasAo)
+[![](../common/images/scale_300.png)](https://youtu.be/aVyqWh048yo)
 
 ### Installation Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
@@ -54,11 +54,11 @@ An open-source system for automating the deployment, scaling and management of c
 
 The following videos will introduce you to the Kubernetes cluster technology and its components. They show how a Kubernetes cluster is built, and how container applications in pods are deployed on the cluster nodes.
 
-[![](../common/images/introkubocne_tmp.png)](https://youtu.be/q2j7jjuBbiM)
-[![](../common/images/kubarchocne_tmp.png)](https://youtu.be/H2rAeWkxp1Y)
-[![](../common/images/kubectlocne_tmp.png)](https://youtu.be/0pa4rlFbFdk)
-[![](../common/images/tour_tmp.png)](https://youtu.be/syBe1H-qe8U)
-[![](../common/images/kubres_tmp.png)](https://youtu.be/e5m3TlvM4y4)
+[![](../common/images/intro_k8_300.png)](https://youtu.be/q2j7jjuBbiM)
+[![](../common/images/arch_k8_300.png)](https://youtu.be/H2rAeWkxp1Y)
+[![](../common/images/kubectl_300.png)](https://youtu.be/0pa4rlFbFdk)
+[![](../common/images/tour_300.png)](https://youtu.be/syBe1H-qe8U)
+[![](../common/images/resources_300.png)](https://youtu.be/e5m3TlvM4y4)
 
 ### Kubernetes Hands On Lab
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
@@ -68,23 +68,21 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 ### Kata Container Videos
 Kata Container software delivers the framework for creating lightweight virtual machines (VMs) that easily plug into container ecosystems. Kata Containers offer similar virtual machine levels of security while maintaining the efficiencies gained from the deployment of traditional containers.
 
-The following videos will introduce you to Kata Containers functionality and demonstrate how Kata Containers are deployed in your Kubernetes cluster.
+The following video will introduce you to Kata Containers functionality and demonstrate how Kata Containers are deployed in your Kubernetes cluster.
 
-[![](../common/images/kataovr_tmp.png)](https://youtu.be/0P2kQMCssm4)
-[![](../common/images/katadep_tmp.png)](https://youtu.be/iUbs38MKcdI)
-[![](../common/images/katadeplbls_tmp.png)](https://youtu.be/zsTuPQ88qxc)
+[![](../common/images/kata_over_300.png)](https://youtu.be/0P2kQMCssm4)
 
 ### Istio Videos
 Operating as a service mesh for managing the interaction and operation of services in a microservices architecture. Istio coordinates communication between services, providing service discovery, load balancing, security, recovery, telemetry, and policy enforcement capabilities.
 
 The following videos will introduce you to the role of Istio in supporting the microservices framework. You will learn about the Istio architecture and its sidecar proxy capabilities implemented in a Kubernetes cluster.
 
-[![](../common/images/introistio_tmp.png)](https://youtu.be/yr3rgcR_jwU)
-[![](../common/images/istioarch_tmp.png)](https://youtu.be/67j5pKaezAk)
-[![](../common/images/istioocne_tmp.png)](https://youtu.be/0W5fQnlJppw)
-[![](../common/images/istioing_tmp.png)](https://youtu.be/Fkl7Zzn45X4)
-[![](../common/images/istioeg_tmp.png)](https://youtu.be/MHKc4hfszUI)
-[![](../common/images/istiort_tmp.png)](https://youtu.be/HDagk09TayQ)
+[![](../common/images/intro_istio_300.png)](https://youtu.be/yr3rgcR_jwU)
+[![](../common/images/arch_istio_300.png)](https://youtu.be/67j5pKaezAk)
+[![](../common/images/ocne_istio_300.png)](https://youtu.be/0W5fQnlJppw)
+[![](../common/images/ingress_istio_300.png)](https://youtu.be/Fkl7Zzn45X4)
+[![](../common/images/egress_istio_300.png)](https://youtu.be/MHKc4hfszUI)
+[![](../common/images/rout_istio_300.png)](https://youtu.be/HDagk09TayQ)
 
 ### Istio Hands On Lab
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
