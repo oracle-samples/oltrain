@@ -65,7 +65,7 @@ This section provides video training for administrator and user tasks performed 
 
 ![](../common/images/pca-page-compinst4.png)
 
-[![](../common/images/imp_img_pca_300.jpg)](https://youtu.be/fToYmmf6NFk)
+[![](../common/images/imp_img_pca_300.png)](https://youtu.be/fToYmmf6NFk)
 [![](../common/images/man_com_pca_300.png)](https://youtu.be/lxD2w1Chyxg)
 [![](../common/images/man_ins_con_pca_300.png)](https://youtu.be/B4aW0hzDfc4)
 [![](../common/images/man_ins_pool_pca_300.png)](https://youtu.be/VfSKX7WxNX8)
