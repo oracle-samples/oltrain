@@ -17,16 +17,16 @@ The Oracle Private Cloud Appliance runs its own specific and separate administra
 
 This section provides video training for Day 0 configuration and for administrator tasks performed from the Service Enclave. To access the Service Enclave, you use either the Service Web UI or Service CLI.
 
-[![](../common/images/day0pca_tmp.png)](https://youtu.be/pkeW3uqt11w)
-[![](../common/images/servclipca_tmp.png)](https://youtu.be/zgX87aB32qw)
-[![](../common/images/authgrppca_tmp.png)](https://youtu.be/QCsCyFWPea0)
-[![](../common/images/compnodpca_tmp.png)](https://youtu.be/aQlRAYuLMwo)
-[![](../common/images/tenancypca_tmp.png)](https://youtu.be/LBN5NHbpEnk)
-[![](../common/images/grafanapca_tmp.png)](https://youtu.be/humJ2jiovBs)
-[![](../common/images/lokipca_tmp.png)](https://youtu.be/HiGz8ruDtas)
-[![](../common/images/alertspca_tmp.png)](https://youtu.be/Qmj_V8TAQXs)
-[![](../common/images/pca_migrating_virtual_machs_video_thumbnail_.png)](https://youtu.be/_YjZMVApxaE)
-[![](../common/images/PCA_patching.png)](https://youtu.be/v_5ASLflVxU)
+[![](../common/images/day0_conf_300.png)](https://youtu.be/pkeW3uqt11w)
+[![](../common/images/use_serv_cli_300.png)](https://youtu.be/zgX87aB32qw)
+[![](../common/images/conf_auth_grps_300.png)](https://youtu.be/QCsCyFWPea0)
+[![](../common/images/prov_comp_nodes_300.png)](https://youtu.be/aQlRAYuLMwo)
+[![](../common/images/ten_creat_300.png)](https://youtu.be/LBN5NHbpEnk)
+[![](../common/images/graf_mon_300.png)](https://youtu.be/humJ2jiovBs)
+[![](../common/images/query_loki_300.png)](https://youtu.be/HiGz8ruDtas)
+[![](../common/images/alert_not_300.png)](https://youtu.be/Qmj_V8TAQXs)
+[![](../common/images/migrate_vms_300.png)](https://youtu.be/_YjZMVApxaE)
+[![](../common/images/patch_ind_com_300.png)](https://youtu.be/v_5ASLflVxU)
 <br>
 <br>
 
@@ -40,47 +40,47 @@ This section provides video training for administrator and user tasks performed 
 
 ![](../common/images/pca-page-oclcli4.png)
 
-[![](../common/images/instociclipca_tmp.png)](https://youtu.be/SNtGCBl_yZE)
-[![](../common/images/confociclipca_tmp.png)](https://youtu.be/x2iWGXIa-rQ)
+[![](../common/images/install_cli_300.png)](https://youtu.be/SNtGCBl_yZE)
+[![](../common/images/config_cli_300.png)](https://youtu.be/x2iWGXIa-rQ)
 <br>
 <br>
 
 ![](../common/images/pca-page-iam4x.png)
 
-[![](../common/images/usergrppca_tmp.png)](https://youtu.be/D0CxmJ6pn4U)
-[![](../common/images/pca_comp_pol_tmp.png)](https://youtu.be/KV4sQOWXab8)
-[![](../common/images/federatingpca_tmp.png)](https://youtu.be/tsBn5UQSJ24)
-[![](../common/images/trustedrelypca_tmp.png)](https://youtu.be/wWm4TrPoEtI)
-[![](../common/images/sscpca_tmp.png)](https://youtu.be/uZcQk0pUe3s)
+[![](../common/images/user_grp_pca_300.png)](https://youtu.be/D0CxmJ6pn4U)
+[![](../common/images/comp_pol_pca_300.png)](https://youtu.be/KV4sQOWXab8)
+[![](../common/images/fed_ip_pca_300.png)](https://youtu.be/tsBn5UQSJ24)
+[![](../common/images/add_pca_trust_300.png)](https://youtu.be/wWm4TrPoEtI)
+[![](../common/images/add_ip_certs_300.png)](https://youtu.be/uZcQk0pUe3s)
 <br>
 <br>
 
 ![](../common/images/pca-page-network4.png)
 
-[![](../common/images/createvcnpca_tmp.png)](https://youtu.be/OCasg_HQ3LI)
-[![](../common/images/PCA_IG.png)](https://youtu.be/H8GwY7i720A)
-[![](../common/images/PCA_LPG.png)](https://youtu.be/pxdkxjajhO0)
+[![](../common/images/create_vcn_pca_300.png)](https://youtu.be/OCasg_HQ3LI)
+[![](../common/images/ig_pca_300.png)](https://youtu.be/H8GwY7i720A)
+[![](../common/images/lpg_pca_300.png)](https://youtu.be/pxdkxjajhO0)
 <br>
 <br>
 
 ![](../common/images/pca-page-compinst4.png)
 
-[![](../common/images/PCA_import_images.jpg)](https://youtu.be/fToYmmf6NFk)
-[![](../common/images/compinstpca_tmp.png)](https://youtu.be/lxD2w1Chyxg)
-[![](../common/images/instconfpca_tmp.png)](https://youtu.be/B4aW0hzDfc4)
-[![](../common/images/instpoolpca_tmp.png)](https://youtu.be/VfSKX7WxNX8)
+[![](../common/images/imp_img_pca_300.jpg)](https://youtu.be/fToYmmf6NFk)
+[![](../common/images/man_com_pca_300.png)](https://youtu.be/lxD2w1Chyxg)
+[![](../common/images/man_ins_con_pca_300.png)](https://youtu.be/B4aW0hzDfc4)
+[![](../common/images/man_ins_pool_pca_300.png)](https://youtu.be/VfSKX7WxNX8)
 <br>
 <br>
 
 ![](../common/images/pca-page-storage4.png)
 
-[![](../common/images/pca_creating_a_file_system_github_scaled_thumbnail.png)](https://youtu.be/lB03H7YJP0Q)
-[![](../common/images/blkvolpca_tmp.png)](https://youtu.be/s5N6mGxUNew)
-[![](../common/images/bootvolpca_tmp.png)](https://youtu.be/Vo4119i8HsU)
-[![](../common/images/pca_resizing_block_volumes.png)](https://youtu.be/bO2kM9tSPU0)
-[![](../common/images/man_vol_grps.png)](https://youtu.be/YlwfUWbXsT8)
-[![](../common/images/pca_managing_backup_policies.png)](https://youtu.be/6R_61dHmCMY)
-[![](../common/images/pca_mgmt_mount_targets_thumbnail_scaled.png)](https://youtu.be/bTmckStW_wY)
+[![](../common/images/create_fs_pca_300.png)](https://youtu.be/lB03H7YJP0Q)
+[![](../common/images/blk_vol_pca_300.png)](https://youtu.be/s5N6mGxUNew)
+[![](../common/images/boot_vol_pca_300.png)](https://youtu.be/Vo4119i8HsU)
+[![](../common/images/res_blk_vol_pca_300.png)](https://youtu.be/bO2kM9tSPU0)
+[![](../common/images/vol_grp_pca_300.png)](https://youtu.be/YlwfUWbXsT8)
+[![](../common/images/bu_pol_pca_300.png)](https://youtu.be/6R_61dHmCMY)
+[![](../common/images/mt_tar_pca_300.png)](https://youtu.be/bTmckStW_wY)
 
 ---
 ## Oracle Private Cloud Appliance Foundations Training   
