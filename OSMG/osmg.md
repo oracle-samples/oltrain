@@ -25,7 +25,7 @@ These videos will provide information to get started and work with the OS Manage
 [![](../common/images/use-osmslinux-300.png)](https://youtu.be/txStsCT1onc)
 [![](../common/images/autonlinux-osms-300.png)](https://youtu.be/Mt_zmEJ1UtM)
 [![](../common/images/migrate-autonlinux-300.png)](https://youtu.be/vNY4jelIdgk)
-[![](../common/images/start-osmswin-300.png)](https://youtu.be/DpAE_RhmRWg)
+[![](../common/images/start-osmswind-300.png)](https://youtu.be/DpAE_RhmRWg)
 [![](../common/images/compliancereport-300.png)](https://youtu.be/_pKnAcA7GUs)
 [![](../common/images/module-streams-300.png)](https://youtu.be/y-dnguUNr6Y)
 
