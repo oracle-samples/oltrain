@@ -43,15 +43,15 @@ Learn to provision and launch compute instances with the cloud web console to su
    
 ### Videos
 
-[![](../common/images/createinst-1920.png)](https://youtu.be/tlwlLd4GvCc)
-[![](../common/images/create-autoninst-1920.png)](https://youtu.be/eKQ6h7Onr-8)
-[![](../common/images/create-winninst-1920.png)](https://youtu.be/8SgkZTUKwFg)
-[![](../common/images/cloud-init-1920.png)](https://youtu.be/P1sH3zevfHk)
-[![](../common/images/terminateinst-1920.png)](https://youtu.be/pRD_yUPuYjs)
-[![](../common/images/bootvolume-1920.png)](https://youtu.be/NAWAsx3cKxE)
-[![](../common/images/bootscale-1920.png)](https://youtu.be/4mbAxZBy_es)
-[![](../common/images/terraform-1920.png)](https://youtu.be/SeBhCRr21pg)
-[![](../common/images/cfg-terraform-1920.png)](https://youtu.be/Bb25PRJ3Ats)
+[![](../common/images/createinst-300.png)](https://youtu.be/tlwlLd4GvCc)
+[![](../common/images/create-autoninst-300.png)](https://youtu.be/eKQ6h7Onr-8)
+[![](../common/images/create-winninst-300.png)](https://youtu.be/8SgkZTUKwFg)
+[![](../common/images/cloud-init-300.png)](https://youtu.be/P1sH3zevfHk)
+[![](../common/images/terminateinst-300.png)](https://youtu.be/pRD_yUPuYjs)
+[![](../common/images/bootvolume-300.png)](https://youtu.be/NAWAsx3cKxE)
+[![](../common/images/bootscale-300.png)](https://youtu.be/4mbAxZBy_es)
+[![](../common/images/terraform-300.png)](https://youtu.be/SeBhCRr21pg)
+[![](../common/images/cfg-terraform-300.png)](https://youtu.be/Bb25PRJ3Ats)
 
 ### Tutorials
 
@@ -105,7 +105,6 @@ Learn to administer compute instances using a range of tools and solutions provi
 [![](../common/images/use-ksplice-300.png)](https://youtu.be/79OMXQwUhoE)
 [![](../common/images/gui-vncsrv-300.png)](https://youtu.be/B6et8JZFylA)
 [![](../common/images/access-wininst-300.png)](https://youtu.be/d1fgBuE1GMY)
-[![](../common/images/vboxinstall_300.png)](https://youtu.be/JFVlp5vS_3g)
 [![](../common/images/compliancereport-300.png)](https://youtu.be/_pKnAcA7GUs)
 
 ### Hands On Labs
