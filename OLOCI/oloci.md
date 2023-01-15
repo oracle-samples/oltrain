@@ -97,7 +97,7 @@ Learn to administer compute instances using a range of tools and solutions provi
 [![](../common/images/use-osmslinux-300.png)](https://youtu.be/txStsCT1onc)
 [![](../common/images/autonlinux-osms-300.png)](https://youtu.be/Mt_zmEJ1UtM)
 [![](../common/images/migrate-autonlinux-300.png)](https://youtu.be/vNY4jelIdgk)
-[![](../common/images/start-osmswin-300.png)](https://youtu.be/DpAE_RhmRWg)
+[![](../common/images/start-osmswind-300.png)](https://youtu.be/DpAE_RhmRWg)
 [![](../common/images/patch-osmswin-300.png)](https://youtu.be/4eDTl5fPNKA)
 [![](../common/images/oci-util-300.png)](https://youtu.be/bnf9T-wljVU)
 [![](../common/images/enable-ociutil-300.png)](https://youtu.be/EV4ihmXZSUI)
