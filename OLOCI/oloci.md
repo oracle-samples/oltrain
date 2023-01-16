@@ -101,7 +101,7 @@ Learn to administer compute instances using a range of tools and solutions provi
 [![](../common/images/patch-osmswin-300.png)](https://youtu.be/4eDTl5fPNKA)
 [![](../common/images/oci-util-300.png)](https://youtu.be/bnf9T-wljVU)
 [![](../common/images/enable-ociutil-300.png)](https://youtu.be/EV4ihmXZSUI)
-[![](../common/images/module-streams-300.png)](https://youtu.be/y-dnguUNr6Y)
+[![](../common/images/module-stream-300.png)](https://youtu.be/y-dnguUNr6Y)
 [![](../common/images/use-ksplice-300.png)](https://youtu.be/79OMXQwUhoE)
 [![](../common/images/gui-vncsrv-300.png)](https://youtu.be/B6et8JZFylA)
 [![](../common/images/access-wininst-300.png)](https://youtu.be/d1fgBuE1GMY)
