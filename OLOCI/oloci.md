@@ -43,15 +43,15 @@ Learn to provision and launch compute instances with the cloud web console to su
    
 ### Videos
 
-[![](../common/images/creatLinxInst_tmp.png)](https://youtu.be/tlwlLd4GvCc)
-[![](../common/images/creatAutoLinxInst_tmp.png)](https://youtu.be/eKQ6h7Onr-8)
-[![](../common/images/creatWinInst_tmp.png)](https://youtu.be/8SgkZTUKwFg)
-[![](../common/images/TermInst_tmp.png)](https://youtu.be/pRD_yUPuYjs)
-[![](../common/images/detatt_tmp.png)](https://youtu.be/NAWAsx3cKxE)
-[![](../common/images/usebv_tmp.png)](https://youtu.be/4mbAxZBy_es)
-[![](../common/images/cinit_tmp.png)](https://youtu.be/P1sH3zevfHk)
-[![](../common/images/terr_tmp.png)](https://youtu.be/SeBhCRr21pg)
-[![](../common/images/confterr_tmp.png)](https://youtu.be/Bb25PRJ3Ats)
+[![](../common/images/createinst-300.png)](https://youtu.be/tlwlLd4GvCc)
+[![](../common/images/create-autoninst-300.png)](https://youtu.be/eKQ6h7Onr-8)
+[![](../common/images/create-winninst-300.png)](https://youtu.be/8SgkZTUKwFg)
+[![](../common/images/cloud-init-300.png)](https://youtu.be/P1sH3zevfHk)
+[![](../common/images/terminateinst-300.png)](https://youtu.be/pRD_yUPuYjs)
+[![](../common/images/bootvolume-300.png)](https://youtu.be/NAWAsx3cKxE)
+[![](../common/images/bootscale-300.png)](https://youtu.be/4mbAxZBy_es)
+[![](../common/images/terraform-300.png)](https://youtu.be/SeBhCRr21pg)
+[![](../common/images/cfg-terraform-300.png)](https://youtu.be/Bb25PRJ3Ats)
 
 ### Tutorials
 
@@ -93,20 +93,19 @@ Learn to administer compute instances using a range of tools and solutions provi
    
 ### Videos
 
-[![](../common/images/oci-utilities-overview-ol-thumbnail.png)](https://youtu.be/bnf9T-wljVU)
-[![](../common/images/mod_streams_tmp.png)](https://youtu.be/y-dnguUNr6Y)
-[![](../common/images/enabociutil_tmp.png)](https://youtu.be/EV4ihmXZSUI)
-[![](../common/images/getstartosm_tmp.png)](https://youtu.be/7qmy5VusYKA)
-[![](../common/images/autolinosm_tmp.png)](https://youtu.be/Mt_zmEJ1UtM)
-[![](../common/images/migautolinosm_tmp.png)](https://youtu.be/vNY4jelIdgk)
-[![](../common/images/getstartosmwin_tmp.png)](https://youtu.be/DpAE_RhmRWg)
-[![](../common/images/useosm_tmp.png)](https://youtu.be/txStsCT1onc)
-[![](../common/images/comprpt_tmp.png)](https://youtu.be/_pKnAcA7GUs)
-[![](../common/images/instpatc_tmp.png)](https://youtu.be/4eDTl5fPNKA)
-[![](../common/images/kspliceoci_tmp.png)](https://youtu.be/79OMXQwUhoE)
-[![](../common/images/guivnc_tmp.png)](https://youtu.be/B6et8JZFylA)
-[![](../common/images/accwin_tmp.png)](https://youtu.be/d1fgBuE1GMY)
-[![](../common/images/instvboxoci_tmp.png)](https://youtu.be/JFVlp5vS_3g)
+[![](../common/images/start-osmslinux-300.png)](https://youtu.be/7qmy5VusYKA)
+[![](../common/images/use-osmslinux-300.png)](https://youtu.be/txStsCT1onc)
+[![](../common/images/autonlinux-osms-300.png)](https://youtu.be/Mt_zmEJ1UtM)
+[![](../common/images/migrate-autonlinux-300.png)](https://youtu.be/vNY4jelIdgk)
+[![](../common/images/start-osmswind-300.png)](https://youtu.be/DpAE_RhmRWg)
+[![](../common/images/patch-osmswin-300.png)](https://youtu.be/4eDTl5fPNKA)
+[![](../common/images/oci-util-300.png)](https://youtu.be/bnf9T-wljVU)
+[![](../common/images/enable-ociutil-300.png)](https://youtu.be/EV4ihmXZSUI)
+[![](../common/images/module-stream-300.png)](https://youtu.be/y-dnguUNr6Y)
+[![](../common/images/use-ksplice-300.png)](https://youtu.be/79OMXQwUhoE)
+[![](../common/images/gui-vncsrv-300.png)](https://youtu.be/B6et8JZFylA)
+[![](../common/images/access-wininst-300.png)](https://youtu.be/d1fgBuE1GMY)
+[![](../common/images/compliancereport-300.png)](https://youtu.be/_pKnAcA7GUs)
 
 ### Hands On Labs
 
@@ -139,9 +138,9 @@ Learn to secure access to instances and manage traffic between virtual networks 
    
 ### Videos
 
-[![](../common/images/genssh_tmp.png)](https://youtu.be/v5fGdgIrdd0)
-[![](../common/images/netsec_tmp.png)](https://youtu.be/2KBBRnuk-lc)
-[![](../common/images/seclst_tmp.png)](https://youtu.be/1AIXULHjabQ)<br>
+[![](../common/images/ssh-keys-300.png)](https://youtu.be/v5fGdgIrdd0)
+[![](../common/images/inst-netsecur-300.png)](https://youtu.be/2KBBRnuk-lc)
+[![](../common/images/security-lists-300.png)](https://youtu.be/1AIXULHjabQ)<br>
 <br>
    
 ---   
@@ -177,12 +176,12 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
    
 ### Videos
 
-[![](../common/images/intronet_tmp.png)](https://youtu.be/mrt2e7yiq5M)
-[![](../common/images/creavcn_tmp.png)](https://youtu.be/DICo2-eRPC4)
-[![](../common/images/confvcn_tmp.png)](https://youtu.be/MtFNdZz20M4)
-[![](../common/images/rmvcn_tmp.png)](https://youtu.be/uy7uVQXSJFc)
-[![](../common/images/add2vnic_tmp.png)](https://youtu.be/AHOx8NV3iYA)
-[![](../common/images/nmoci_tmp.png)](https://youtu.be/ZhbVYs1RBZ8)
+[![](../common/images/intro-ocinet-300.png)](https://youtu.be/mrt2e7yiq5M)
+[![](../common/images/create-vcns-300.png)](https://youtu.be/DICo2-eRPC4)
+[![](../common/images/remove-vcn-300.png)](https://youtu.be/uy7uVQXSJFc)
+[![](../common/images/second-vnic-300.png)](https://youtu.be/AHOx8NV3iYA)
+[![](../common/images/vcn-gateway-300.png)](https://youtu.be/MtFNdZz20M4)
+[![](../common/images/network-ociutil-300.png)](https://youtu.be/ZhbVYs1RBZ8)
 
 ### Hands On Labs
 
@@ -226,15 +225,15 @@ Learn to discover and administer block volume storage and create shared cluster 
    
 ### Videos
 
-[![](../common/images/bvs_tmp.png)](https://youtu.be/_W4TOj_g9bU)
-[![](../common/images/ociutilstor_tmp.png)](https://youtu.be/A0cis4ZohVo)
-[![](../common/images/confiscsi_tmp.png)](https://youtu.be/b2Go9QIrOFg)
-[![](../common/images/confocfs_tmp.png)](https://youtu.be/E3pneYLWDFY)
-[![](../common/images/creatlsa_tmp.png)](https://youtu.be/yN1sRMoWOFg)
-[![](../common/images/conflsa_tmp.png)](https://youtu.be/5XIA2EskuUA)
-[![](../common/images/worklsa_tmp.png)](https://youtu.be/vwQIAsU7cV4)
-[![](../common/images/fss_tmp.png)](https://youtu.be/JpC1wO-OFA8)
-[![](../common/images/objstor_tmp.png)](https://youtu.be/o5sb3u-Cb8s)
+[![](../common/images/block-vol-300.png)](https://youtu.be/_W4TOj_g9bU)
+[![](../common/images/ociutils-iscsi-300.png)](https://youtu.be/A0cis4ZohVo)
+[![](../common/images/linux-iscsitarget-300.png)](https://youtu.be/b2Go9QIrOFg)
+[![](../common/images/ocfs2-300.png)](https://youtu.be/E3pneYLWDFY)
+[![](../common/images/create-storappl-300.png)](https://youtu.be/yN1sRMoWOFg)
+[![](../common/images/config-storappl-300.png)](https://youtu.be/5XIA2EskuUA)
+[![](../common/images/work-storappl-300.png)](https://youtu.be/vwQIAsU7cV4)
+[![](../common/images/file-system-300.png)](https://youtu.be/JpC1wO-OFA8)
+[![](../common/images/object-stor-300.png)](https://youtu.be/o5sb3u-Cb8s)
 
 ### Hands On Labs
 
@@ -269,9 +268,9 @@ Learn to implement KVM virtualization in Oracle Linux instances deployed on Orac
    
 ### Videos
 
-[![](../common/images/kvmimg_tmp.png)](https://youtu.be/R-zJgRIfil4)
-[![](../common/images/kvmgst_tmp.png)](https://youtu.be/J3s8Myn7A2o)
-[![](../common/images/ocikvm_tmp.png)](https://youtu.be/IiSsC7EqZSE)
+[![](../common/images/use-kvm-300.png)](https://youtu.be/R-zJgRIfil4)
+[![](../common/images/create-kvmguest-300.png)](https://youtu.be/J3s8Myn7A2o)
+[![](../common/images/oci-kvmnet-300.png)](https://youtu.be/IiSsC7EqZSE)
    
 ---
 
