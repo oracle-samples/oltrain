@@ -226,7 +226,7 @@ Learn to discover and administer block volume storage and create shared cluster 
 ### Videos
 
 [![](../common/images/block-vol-300.png)](https://youtu.be/_W4TOj_g9bU)
-[![](../common/images/ociutil-iscsi-300.png)](https://youtu.be/A0cis4ZohVo)
+[![](../common/images/ociutils-iscsi-300.png)](https://youtu.be/A0cis4ZohVo)
 [![](../common/images/linux-iscsitarget-300.png)](https://youtu.be/b2Go9QIrOFg)
 [![](../common/images/ocfs2-300.png)](https://youtu.be/E3pneYLWDFY)
 [![](../common/images/create-storappl-300.png)](https://youtu.be/yN1sRMoWOFg)
