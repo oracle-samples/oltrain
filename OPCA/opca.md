@@ -74,13 +74,13 @@ This section provides video training for administrator and user tasks performed 
 
 ![](../common/images/pca-page-storage4.png)
 
-[![](../common/images/create_fs_pca_300.png)](https://youtu.be/lB03H7YJP0Q)
 [![](../common/images/blk_vol_pca_300.png)](https://youtu.be/s5N6mGxUNew)
 [![](../common/images/boot_vol_pca_300.png)](https://youtu.be/Vo4119i8HsU)
 [![](../common/images/res_blk_vol_pca_300.png)](https://youtu.be/bO2kM9tSPU0)
 [![](../common/images/vol_grp_pca_300.png)](https://youtu.be/YlwfUWbXsT8)
 [![](../common/images/bu_pol_pca_300.png)](https://youtu.be/6R_61dHmCMY)
 [![](../common/images/mt_tar_pca_300.png)](https://youtu.be/bTmckStW_wY)
+[![](../common/images/create_fs_pca_300.png)](https://youtu.be/lB03H7YJP0Q)
 
 ---
 ## Oracle Private Cloud Appliance Foundations Training   
