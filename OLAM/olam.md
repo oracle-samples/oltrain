@@ -28,6 +28,7 @@ Oracle Linux Automation Manager provides features that allow your organization t
 [![](../common/images/upgdolam2_lab.png)](https://luna.oracle.com/lab/6c7124cc-474f-4dd4-89fa-9beb536c71f5)
 [![](../common/images/migrate_olam2_lab.png)](https://luna.oracle.com/lab/d1847f91-0cdc-41b8-afc4-eb6d0ccd40c2)
 [![](../common/images/ldap_olam2_lab.png)](https://luna.oracle.com/lab/a03cfc90-4c3c-488d-9e66-ba514e00b619)
+[![](../common/images/oci_collection_olam2_lab.png)](https://luna.oracle.com/lab/b69c86cf-962a-40a9-8f3c-7a9018f4dc4b)
 <br>
 <br>
 
