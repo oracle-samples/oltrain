@@ -30,32 +30,32 @@ The following content will introduce you to the administration of the Oracle Lin
 ### Managing Virtual Machines Videos
 The following content will introduce you to Oracle Linux Virtualization Manager Virtual Machine implementation and demonstrates deployment of VMs through the Administration Portal and VM Portal graphical interfaces.
 
-[![](../common/images/createvmolvm_tmp.png)](https://youtu.be/clYVICSQ4MY)
-[![](../common/images/createtempolvm_tmp.png)](https://youtu.be/QbJV0VfXpg8)
-[![](../common/images/createvmtempolvm_tmp.png)](https://youtu.be/WikfPdtbwEs)
-[![](../common/images/expasovasolvm_tmp.png)](https://youtu.be/G-GfXxfCI-Q)
-[![](../common/images/createvmsnapolvm_tmp.png)](https://youtu.be/s9u5gRQPSjQ)
-[![](../common/images/restvmsnapolvm_tmp.png)](https://youtu.be/KV-1cCFg4NU)
+[![](../common/images/create_vm_olvm_300.png)](https://youtu.be/clYVICSQ4MY)
+[![](../common/images/create_temp_olvm_300.png)](https://youtu.be/QbJV0VfXpg8)
+[![](../common/images/create_vm_from_temp_olvm_300.png)](https://youtu.be/WikfPdtbwEs)
+[![](../common/images/export_vm_temp_olvm_300.png)](https://youtu.be/G-GfXxfCI-Q)
+[![](../common/images/create_vm_snap_olvm_300.png)](https://youtu.be/s9u5gRQPSjQ)
+[![](../common/images/rest_vm_snap_olvm_300.png)](https://youtu.be/KV-1cCFg4NU)
 
 ### Managing Storage Videos
 The following content will introduce you to storage concepts and how to create, attach and maintain various storage types in your Oracle Linux Virtualization Manager enterprise environment.
 
-[![](../common/images/iscsiolvm_tmp.png)](https://youtu.be/EeOL9wjwoMU)
-[![](../common/images/nfsolvm_tmp.png)](https://youtu.be/NRQ2KVaLHOw)
-[![](../common/images/upresdssolvm_tmp.png)](https://youtu.be/KE3uuQObJZw)
+[![](../common/images/iscsi_olvm_300.png)](https://youtu.be/EeOL9wjwoMU)
+[![](../common/images/nfs_olvm_300.png)](https://youtu.be/NRQ2KVaLHOw)
+[![](../common/images/upload_res_olvm_300.png)](https://youtu.be/KE3uuQObJZw)
 
 ### Backup and Recovery Videos
 The following content will introduce you to Oracle Linux Virtualization Manager backup and recovery solutions.
 
-[![](../common/images/drolvm_tmp.png)](https://youtu.be/0VSo7ZGIdo8)
+[![](../common/images/act_pas_dr_olvm_300.png)](https://youtu.be/0VSo7ZGIdo8)
 
 ### Oracle Enterprise manager for Oracle Linux Virtualization Manager Videos
 The following content will introduce you to Cloud Administration of the Oracle Linux Virtualization Manager with Oracle Enterprise Manager 13c Cloud Control.
 
-[![](../common/images/mon_olvm_oem_tut.png)](https://youtu.be/834PviF4kV0)
-[![](../common/images/reg_olvm_oem_tut.png)](https://youtu.be/nyMSJKFN4HU)
-[![](../common/images/con_met_ext_olvm_tut.png)](https://youtu.be/lyPtzCuEDcQ)
-[![](../common/images/crea_inc_rul_olvm_tut.png)](https://youtu.be/OMp6WoDxsqU)
+[![](../common/images/mon_olvm_oe_300.png)](https://youtu.be/834PviF4kV0)
+[![](../common/images/reg_olvm_oe_300.png)](https://youtu.be/nyMSJKFN4HU)
+[![](../common/images/conf_met_ext_olvm_300.png)](https://youtu.be/lyPtzCuEDcQ)
+[![](../common/images/creat_inc_rule_olvm_300.png)](https://youtu.be/OMp6WoDxsqU)
 
 ---
 
