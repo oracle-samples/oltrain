@@ -178,6 +178,7 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
 
 [![](../common/images/intro-ocinet-300.png)](https://youtu.be/mrt2e7yiq5M)
 [![](../common/images/create-vcns-300.png)](https://youtu.be/DICo2-eRPC4)
+[![](../common/images/oci-vcn-wizard-setup-small.png)](https://youtu.be/-6B5_5Qih98)
 [![](../common/images/remove-vcn-300.png)](https://youtu.be/uy7uVQXSJFc)
 [![](../common/images/second-vnic-300.png)](https://youtu.be/AHOx8NV3iYA)
 [![](../common/images/vcn-gateway-300.png)](https://youtu.be/MtFNdZz20M4)
