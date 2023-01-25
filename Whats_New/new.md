@@ -2,7 +2,7 @@
 
 ![](../common/images/whats-new-head2.png)
 ---
-This page highlights the videos and hands on labs that have been added to the learning tracks on the Oracle Linux Training Station in the period October 2022 - January 2023.
+This page highlights the videos and hands on labs that have been added to the learning tracks on the Oracle Linux Training Station in the period September 2022 - January 2023.
 
 ---
 
