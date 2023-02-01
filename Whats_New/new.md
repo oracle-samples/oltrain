@@ -84,6 +84,7 @@ This page highlights the videos and hands on labs that have been added to the le
 
 ### New Videos
 
+- [Managing Object Storage Buckets on Oracle Private Cloud Appliance](https://youtu.be/t6e_T0qJrNg)
 - [Creating a File System on Oracle Private Cloud Appliance](https://youtu.be/lB03H7YJP0Q)
 - [Importing Compute Images Provided with Oracle Private Cloud Appliance](https://youtu.be/fToYmmf6NFk)
 - [Managing Mount Targets on Oracle Private Cloud Appliance](https://youtu.be/bTmckStW_wY)
