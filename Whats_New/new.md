@@ -24,6 +24,14 @@ This page highlights the videos and hands on labs that have been added to the le
 
 ---
 
+![](common/images/OSM-OCI-banner-v2.png)
+
+### New Videos
+
+- [Working with Software Sources in OS Management](https://youtu.be/zPnfHO8cu-E)
+
+---
+
 ![](../common/images/OCNE-banner-v2.png)
 
 ### New Hands On Labs
