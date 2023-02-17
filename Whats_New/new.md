@@ -24,7 +24,7 @@ This page highlights the videos and hands on labs that have been added to the le
 
 ---
 
-![](common/images/OSM-OCI-banner-v2.png)
+![](../common/images/OSM-OCI-banner-v2.png)
 
 ### New Videos
 
