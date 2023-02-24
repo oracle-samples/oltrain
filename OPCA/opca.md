@@ -82,6 +82,7 @@ This section provides video training for administrator and user tasks performed 
 [![](../common/images/mt_tar_pca_300.png)](https://youtu.be/bTmckStW_wY)
 [![](../common/images/create_fs_pca_300.png)](https://youtu.be/lB03H7YJP0Q)
 [![](../common/images/pca_managing_buckets_300.png)](https://youtu.be/t6e_T0qJrNg)
+[![](../common/images/pca_mounting_file_systems_300.png)](https://youtu.be/RZoIqkCPSBQ)
 
 ---
 ## Oracle Private Cloud Appliance Foundations Training   
