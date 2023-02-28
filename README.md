@@ -34,7 +34,7 @@ Head to the Oracle Linux Training Station tracks below to learn about Linux and 
 ---
    
 ![](common/images/OSM-OCI-banner-v2.png)
-- [OS Management on Oracle Cloud Infrastructure](./OSMG/osmg.md): Learn how to use the OS Management service to manage updates and patches for your operating system environments on your Oracle Cloud Infrastructure instances.
+- [OS Management on Oracle Cloud Infrastructure](./OSMS/osms.md): Learn how to use the OS Management service to manage updates and patches for your operating system environments on your Oracle Cloud Infrastructure instances.
    
 ---
    
