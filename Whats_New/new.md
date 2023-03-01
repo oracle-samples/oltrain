@@ -46,6 +46,7 @@ This page highlights the videos and hands on labs that have been added to the le
 
 ### New Videos
 
+- [Connect Virtual Cloud Networks to On-Premises Networks using the Site-to-Site VPN Wizard](https://youtu.be/0_WpIxFyyck)
 - [Use the VCN Wizard to create a Virtual Cloud Network in the Oracle Cloud Infrastructure](https://youtu.be/-6B5_5Qih98)
 - [OCI Utilities Overview](https://youtu.be/bnf9T-wljVU)
 - [Managing Module Streams and Profiles with the OS Management Service](https://youtu.be/y-dnguUNr6Y)
