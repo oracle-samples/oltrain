@@ -38,7 +38,7 @@ This section provides video training for administrator and user tasks performed 
 <br>
 <br>
 
-![](../common/images/pca-page-oclcli4.png)
+![](../common/images/pca-page-ocicli.png)
 
 [![](../common/images/install_cli_300.png)](https://youtu.be/SNtGCBl_yZE)
 [![](../common/images/config_cli_300.png)](https://youtu.be/x2iWGXIa-rQ)
