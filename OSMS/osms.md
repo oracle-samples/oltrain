@@ -20,6 +20,14 @@ On these pages, you will find videos, documents, and other useful resources on t
 
 ![](../common/images/osms-header1.png)
 
+The Oracle Cloud Infrastructure OS Management service allows you to manage updates and patches for the operating system environment on your Oracle Cloud Infrastructure instances.
+
+On these pages, you will find videos, documents, and other useful resources on topics such as:
+- Getting Started with OS Management
+- Installing and Patching a Windows instance
+- Checking the status of the Oracle Cloud Agent
+
+
 ### Installation
 One of the first requirements to use the OS Management Service is to have a running instance of Linux or Windows.
 
