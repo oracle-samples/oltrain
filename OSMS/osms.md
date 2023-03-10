@@ -14,7 +14,7 @@ On these pages, you will find videos, documents, and other useful resources on t
 
 ![](../common/images/osmh-header1.png)
 
-## Coming Soon!
+### Coming Soon!
 
 ---
 
