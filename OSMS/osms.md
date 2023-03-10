@@ -4,7 +4,7 @@
 ![](../common/images/OSM-OCI-1200x200-banner.png)
 ---
 INTRO TEXT TO OSMH AND OSMS products
-The Oracle Cloud Infrastructure OS Management allows you to manage updates and patches for the operating system environment on your on premice systems and Oracle Cloud Infrastructure instances.
+The Oracle Cloud Infrastructure OS Management allows you to manage updates and patches for the operating system environment on your on premise systems and Oracle Cloud Infrastructure instances.
 
 On these pages, you will find videos, documents, and other useful resources on topics such as:
 - Getting Started with OS Management
