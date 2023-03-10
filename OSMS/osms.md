@@ -12,13 +12,13 @@ On these pages, you will find videos, documents, and other useful resources on t
 
 ---
 
-![](../common/images/osmh-header.png)
+![](../common/images/osmh-header1.png)
 
 ## Coming Soon!
 
 ---
 
-![](../common/images/osms-header.png)
+![](../common/images/osms-header1.png)
 
 ### Installation
 One of the first requirements to use the OS Management Service is to have a running instance of Linux or Windows.
