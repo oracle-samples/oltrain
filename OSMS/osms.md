@@ -3,7 +3,8 @@
 
 ![](../common/images/OSM-OCI-1200x200-banner.png)
 ---
-The Oracle Cloud Infrastructure OS Management service allows you to manage updates and patches for the operating system environment on your Oracle Cloud Infrastructure instances.
+INTRO TEXT TO OSMH AND OSMS products
+The Oracle Cloud Infrastructure OS Management allows you to manage updates and patches for the operating system environment on your on premice systems and Oracle Cloud Infrastructure instances.
 
 On these pages, you will find videos, documents, and other useful resources on topics such as:
 - Getting Started with OS Management
@@ -14,13 +15,15 @@ On these pages, you will find videos, documents, and other useful resources on t
 
 ![](../common/images/osmh-header1.png)
 
+Oracle OS Management Hub is used to manage and monitor updates and patches for the operating system environments in private data centers through a single management console. It simplifies the provisioning and maintaining of large deployments of physical servers and virtual machines that span public cloud and private data centers.
+
 ### Coming Soon!
 
 ---
 
 ![](../common/images/osms-header1.png)
 
-The Oracle Cloud Infrastructure OS Management service allows you to manage updates and patches for the operating system environment on your Oracle Cloud Infrastructure instances.
+The Oracle Cloud Infrastructure OS Management service allows you to manage updates and patches for the operating system environment on your Oracle Cloud Infrastructure instances. OS Management also provides options for discovering and monitoring resources on your instances.
 
 On these pages, you will find videos, documents, and other useful resources on topics such as:
 - Getting Started with OS Management
@@ -36,7 +39,7 @@ One of the first requirements to use the OS Management Service is to have a runn
 [![](../common/images/patch-osmswin-300.png)](https://youtu.be/4eDTl5fPNKA)
 [![](../common/images/access-wininst-300.png)](https://youtu.be/d1fgBuE1GMY)
 
-### Working with OS Management Videos
+### Working with the Oracle OS Management Service Videos
 These videos will provide information to get started and work with the OS Management Service on Linux and Windows instances.
 
 [![](../common/images/start-osmslinux-300.png)](https://youtu.be/7qmy5VusYKA)
@@ -49,7 +52,7 @@ These videos will provide information to get started and work with the OS Manage
 [![](../common/images/compliancereport-300.png)](https://youtu.be/_pKnAcA7GUs)
 
 
-### Working with OS Management Hands On Lab
+### Working with the Oracle OS Management Service Hands On Lab
 
 [![](../common/images/migratealx_lab.png)](https://luna.oracle.com/lab/8848ec22-81cd-46d5-aeab-dd2dae36118b)
 [![](../common/images/ol-streams-lab1.png)](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)
