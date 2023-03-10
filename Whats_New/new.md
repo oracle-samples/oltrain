@@ -21,6 +21,7 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Install Podman Desktop](https://luna.oracle.com/lab/55225d03-4fdb-42dd-bb3c-0382cb918963)
 - [Using Compose Files with Podman](https://luna.oracle.com/lab/0e800b97-2c1b-43a8-b0f0-003f1543d2ba)
 - [Learn to Install Project Quay on Podman](https://luna.oracle.com/lab/e3f488a9-20a8-49d8-ae08-818f8730568c)
+- [Deploy HAProxy using Podman](https://luna.oracle.com/lab/a9eb9ff9-b56d-4ddc-9283-b72467d78128)
 
 ---
 
