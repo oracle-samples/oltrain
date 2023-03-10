@@ -10,6 +10,16 @@ On these pages, you will find videos, documents, and other useful resources on t
 - Installing and Patching a Windows instance
 - Checking the status of the Oracle Cloud Agent
 
+---
+
+![](../common/images/osmh-header.png)
+
+## Coming Soon!
+
+---
+
+![](../common/images/osms-header.png)
+
 ### Installation
 One of the first requirements to use the OS Management Service is to have a running instance of Linux or Windows.
 
