@@ -8,7 +8,8 @@ Oracle Cloud Infrastructure OS Management allows you to manage updates and patch
 On these pages, you will find videos, documents, and other useful resources relating to:
 
 - Oracle OS Management Hub
-- Oracle OS Management Service
+- Oracle OS Management Service   
+
 
 ---
 
@@ -16,7 +17,8 @@ On these pages, you will find videos, documents, and other useful resources rela
 
 Oracle OS Management Hub is used to manage and monitor updates and patches for the operating system environments in private data centers through a single management console. It simplifies the provisioning and maintaining of large deployments of physical servers and virtual machines that span public cloud and private data centers.
 
-<h3 style="color:red;">Training videos and resources will be Coming Soon! Check back regularly for updates.</h3>
+### Training videos and resources will be Coming Soon! Check back regularly for updates.   
+  
 
 ---
 
