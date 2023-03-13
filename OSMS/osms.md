@@ -9,7 +9,8 @@ On these pages, you will find videos, documents, and other useful resources rela
 
 - Oracle OS Management Hub
 - Oracle OS Management Service   
-
+   
+   
 
 ---
 
@@ -19,6 +20,7 @@ Oracle OS Management Hub is used to manage and monitor updates and patches for t
 
 ### Training videos and resources will be Coming Soon! Check back regularly for updates.   
   
+     
 
 ---
 
