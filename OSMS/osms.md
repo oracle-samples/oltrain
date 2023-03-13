@@ -3,13 +3,12 @@
 
 ![](../common/images/OSM-OCI-1200x200-banner.png)
 ---
-INTRO TEXT TO OSMH AND OSMS products
-The Oracle Cloud Infrastructure OS Management allows you to manage updates and patches for the operating system environment on your on premise systems and Oracle Cloud Infrastructure instances.
+Oracle Cloud Infrastructure OS Management allows you to manage updates and patches for the operating system environment on your private data center and Oracle Cloud Infrastructure instances.
 
-On these pages, you will find videos, documents, and other useful resources on topics such as:
-- Getting Started with OS Management
-- Installing and Patching a Windows instance
-- Checking the status of the Oracle Cloud Agent
+On these pages, you will find videos, documents, and other useful resources relating to:
+
+- Oracle OS Management Hub
+- Oracle OS Management Service
 
 ---
 
@@ -17,7 +16,7 @@ On these pages, you will find videos, documents, and other useful resources on t
 
 Oracle OS Management Hub is used to manage and monitor updates and patches for the operating system environments in private data centers through a single management console. It simplifies the provisioning and maintaining of large deployments of physical servers and virtual machines that span public cloud and private data centers.
 
-### Coming Soon!
+<h3 style="color:red;">Training videos and resources will be Coming Soon! Check back regularly for updates.</h3>
 
 ---
 
