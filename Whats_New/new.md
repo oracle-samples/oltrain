@@ -109,6 +109,9 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Internet Gateway on Oracle Private Cloud Appliance](https://youtu.be/H8GwY7i720A)
 - [Managing Volume Groups on Oracle Private Cloud Appliance](https://youtu.be/YlwfUWbXsT8)
 - [Local Peering Gateways on Oracle Private Cloud Appliance](https://youtu.be/pxdkxjajhO0)
+- [Managing Object Versioning on Oracle Private Cloud Appliance](https://youtu.be/wS6jhUwK6Fk)
+
+
 
 ---
 #### [Return to Oracle Linux Training Station](../README.md)
