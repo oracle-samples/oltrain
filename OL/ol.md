@@ -282,7 +282,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
             <ul>
                <li>Disk partitioning with Fdisk</li>
                <li>Ext, XFS, BTRFS and GlusterFS filesystems</li>
-               <li>Logical volume management (LVM)</li>
                <li>Mounting filesystems</li>
                <li>/etc/fstab file</li>
                <li>Swap space</li>
