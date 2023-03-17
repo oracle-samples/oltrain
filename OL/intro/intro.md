@@ -40,7 +40,15 @@ Test your skills on what you have learned so far with this quiz.
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
 ---
-   
+
+### Resources
+
+Following page provides additional product information:
+
+- [Oracle Linux Documentation Home Page](https://docs.oracle.com/en/operating-systems/oracle-linux/)
+- [Introduction to Oracle Linux Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvZR0-OoTtScm2NNo68gWtq)
+
+---
 
 #### [Return to Oracle Linux Track](../ol.md)
 
