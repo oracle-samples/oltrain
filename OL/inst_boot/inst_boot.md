@@ -36,6 +36,16 @@ Test your skills on what you have learned about installation and the boot proces
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
 ---
+
+### Resources
+
+Following page provides additional product information:
+
+- [Oracle Linux Documentation Home Page](https://docs.oracle.com/en/operating-systems/oracle-linux/)
+- [Oracle Linux Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIztOLwiTOF0HOV5aiTjGNpLl)
+
+---
+
 #### [Return to Oracle Linux Track](../ol.md)
 
 #### [Return to Oracle Linux Training Station](../../README.md)
