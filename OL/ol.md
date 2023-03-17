@@ -21,18 +21,23 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
+               <li>Why Learn Linux?</li>
+               <li>Installing Oracle Linux</li>
                <li>Shell and Command Line</li>
                <li>Files and Directories</li>
+               <li>Using VIM</li>
+               <li>Users and Groups</li>               
                <li>Permissions</li>
-               <li>Linux architecture and kernel</li>
                <li>Software Management</li>
-               <li>Customizing the work environment</li>
-               <li>Bash shell scripting</li>
-               <li>Monitoring and managing processes</li>
-               <li>Useful Linux tools</li>
-               <li>Introducing VIM</li>
                <li>Networking</li>
                <li>Remote access using SSH</li>
+               <li>Advantages to Oracle Linux</li>
+               <li>Linux architecture and kernel</li>
+               <li>Monitoring and managing processes</li>
+               <li>Oracle Cloud Infrastructure</li>
+               <li>Customizing the work environment</li>
+               <li>Useful Linux tools</li>
+               <li>Bash shell scripting</li>
             </ul>
          </td>
          <td valign="top"><b>Practice the following with these tutorials:</b>
@@ -90,15 +95,18 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Configure the system date and time</li>
+               <li>Explore the proc and sysfs file systems</li>
                <li>Automate tasks with cron, anacron, at, and batch</li>
                <li>Dynamically load and unload kernel modules, Udev</li>
                <li>Configure users and groups</li>
-               <li>Explore the proc and sysfs file systems</li>
                <li>Password aging and su</li>
                <li>FTP configuration</li>
                <li>Using vim</li>
                <li>Leapp upgrades</li>
-               <li>Control groups, SELinux, pluggable authentication modules (PAM)</li>
+               <li>Control groups</li>
+               <li>SELinux</li>
+               <li>Pluggable Authentication Modules (PAM)</li>
+               <li>Udev</li>
             </ul>
          </td>
          <td valign="top"><b>Practice the following with real hands on labs:</b>
@@ -129,6 +137,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Monitor system performance</li>
+               <li>Sosreport</li>
                <li>Review system logs</li>
                <li>Iostat, mpstat, vmstat, top</li>
                <li>Netstat, rsyslog, logwatch, journald</li>
@@ -161,7 +170,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Network configuration files</li>
                <li>Firewalld</li>
                <li>Nftables</li>
-               <li>Network Manager CLI and IP utilities</li>
+               <li>Network Manager nmcli and ip utilities</li>
                <li>VLANs</li>
                <li>Network bonding</li>
             </ul>
@@ -192,10 +201,6 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Use DNF</li>
                <li>Install the Oracle Unbreakable Enterprise Kernel (UEK)</li>
                <li>Add extra packages for Enterprise Linux (EPEL) repository</li>
-               <li>Mounting filesystems</li>
-               <li>/etc/fstab file</li>
-               <li>Swap space</li>
-               <li>NFS server, export and shares</li>
             </ul>
          </td>
          <td valign="top"><b>Practice the following with real hands on labs:</b>
@@ -221,7 +226,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Enable Oracle Ksplice</li>
-               <li>Run Ksplice</li>
+               <li>Run Ksplice commands</li>
                <li>Run uptrack commands</li>
                <li>Uninstall Ksplice</li>
             </ul>
@@ -275,22 +280,26 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
-               <li>Fdisk</li>
+               <li>Disk partitioning with Fdisk</li>
                <li>Ext, XFS, BTRFS and GlusterFS filesystems</li>
                <li>Logical volume management (LVM)</li>
                <li>Mounting filesystems</li>
                <li>/etc/fstab file</li>
                <li>Swap space</li>
                <li>NFS server, export and shares</li>
+               <li>Snapper</li>
+               <li>Logical Volume Management (LVM)</li>
             </ul>
          </td>
          <td valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Fdisk, mkfs, mount, swapon, parted, autofs</li>
+               <li>Logical Volume Management (LVM)</li>
                <li>NFS</li>
                <li>Network-bound disk encryption</li>
-               <li>LVM, Gluster storage, BTRFS, RAID</li>
+               <li>Gluster storage, BTRFS, RAID</li>
                <li>ACLs</li>
+               <li>Volume groups</li>
                <li>LUKS encryption</li>
             </ul>
          </td>
@@ -357,6 +366,8 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 Following page provides additional product information:
 
 - [Oracle Linux Documentation Home Page](https://docs.oracle.com/en/operating-systems/oracle-linux/)
+- [Introduction to Oracle Linux Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvZR0-OoTtScm2NNo68gWtq)
+- [Oracle Linux Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIztOLwiTOF0HOV5aiTjGNpLl)
 
 ---
    
