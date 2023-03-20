@@ -64,5 +64,7 @@ These videos will provide information to get started and work with the OS Manage
 Following page provides additional product information:
 
 - [OS Management Documentation](https://docs.oracle.com/en-us/iaas/os-management/home.htm)
+- [OS Management Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzsn5mtWgjb_HS7GJoKa2rMn)
+
 
 #### [Return to Oracle Linux Training Station](../README.md)
