@@ -320,6 +320,7 @@ Test your skills on what you have learned with this quiz.
 Following page provides additional product information:
 
 - [Oracle Cloud Infrastructure Documentation](https://docs.oracle.com/en-us/iaas/Content/home.htm)
+- [Linux on Oracle Cloud Infrastructure Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzu51n3L6dxHgKRy8CayIBXI)
 
 ---
 #### [Return to Oracle Linux Training Station](../README.md)

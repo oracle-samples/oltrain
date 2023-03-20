@@ -54,6 +54,8 @@ Test your skills on what you have learned about VirtualBox on Oracle Linux with 
 Following page provides additional product information:
 
 - [Oracle VM VirtualBox Documentation](https://docs.oracle.com/en/virtualization/virtualbox/index.html)
+- [Oracle VM VirtualBox Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzsbt_qDAXLMF5oFUhEkgbUM)
+
 
 ---
 
