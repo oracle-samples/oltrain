@@ -100,6 +100,8 @@ For even more training on Oracle Private Cloud Appliance, use this link to acces
 Following page provides additional product information:
 
 - [Oracle Private Cloud Appliance Documentation](https://docs.oracle.com/en/engineered-systems/private-cloud-appliance/)
+- [Oracle Private Cloud Appliance Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzsnBlQvRh23rFgxMYFduQOo)
+
 
 ---
 #### [Return to Oracle Linux Training Station](../README.md)
