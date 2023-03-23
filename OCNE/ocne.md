@@ -43,6 +43,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/verrazzano_lab.png)](https://luna.oracle.com/lab/8a6bf419-7ef9-4be1-a679-680b03191011)
 [![](../common/images/ocne_scale_lab.png)](https://luna.oracle.com/lab/6c9e4d88-27e7-43bd-9366-0693fb8e4d3a)
 [![](../common/images/ocne_quick_install.png)](https://luna.oracle.com/lab/42f9b19b-e254-42cf-885d-a80127d9d751)
+[![](../common/images/ocne_pv_fss.png)](https://luna.oracle.com/lab/5d95fdca-c690-4ebf-8ac0-315ac095ac59)
 
 ### Installation Tutorial
 Each tutorial provides step-by-step procedures to complete specific tasks but does not provide an environment. Perform these tutorial steps on your own Oracle Linux environment.
