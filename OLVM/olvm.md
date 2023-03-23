@@ -77,6 +77,8 @@ Test your skills on what you have learned with this quiz.
 Following page provides additional product information:
 
 - [Oracle Linux Virtualization Manager Documentation](https://docs.oracle.com/en/virtualization/oracle-linux-virtualization-manager/)
+- [Oracle Linux Virtualization Manager Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzu_Cch2fK2K4yO57d6xT8dt)
+
 
 ---
 #### [Return to Oracle Linux Training Station](../README.md)

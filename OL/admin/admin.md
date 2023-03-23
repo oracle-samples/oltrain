@@ -24,7 +24,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/chrony_lab.png)](https://luna.oracle.com/lab/4946609e-41e4-4d26-8501-da948bb299ba)
 [![](../../common/images/crontab_lab.png)](https://luna.oracle.com/lab/d857ff70-1799-472e-b413-32ea7e356470)
 [![](../../common/images/tmux_lab.png)](https://luna.oracle.com/lab/4dda7413-1a31-47bf-96c1-8fa6c306dc6b)
-[![](../../common/images/postfix_lab.png)](https://luna.oracle.com/lab/4255c51c-4f52-45f3-a3e8-125b8cf1b40b)
+[![](../../common/images/postfix-lab2.png)](https://luna.oracle.com/lab/4255c51c-4f52-45f3-a3e8-125b8cf1b40b)
 [![](../../common/images/starttls_lab.png)](https://luna.oracle.com/lab/6c0d44b2-1247-4780-a1ae-09f283812ef8)
 [![](../../common/images/nginx_lab.png)](https://luna.oracle.com/lab/54fa9d88-4243-4b4f-bae2-d52ec8cfb688)
 [![](../../common/images/leapp_lab.png)](https://luna.oracle.com/lab/908d0e5b-4444-400a-87a7-2a9ec8c27550)
@@ -49,6 +49,16 @@ Test your skills on what you have learned about administration of Oracle Linux w
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
 
 ---
+
+### Resources
+
+Following page provides additional product information:
+
+- [Oracle Linux Documentation Home Page](https://docs.oracle.com/en/operating-systems/oracle-linux/)
+- [Oracle Linux Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIztOLwiTOF0HOV5aiTjGNpLl)
+
+---
+
 #### [Return to Oracle Linux Track](../ol.md)
 
 #### [Return to Oracle Linux Training Station](../../README.md)

@@ -2,7 +2,7 @@
 
 ![](../common/images/whats-new-head2.png)
 ---
-This page highlights the videos and hands on labs that have been added to the learning tracks on the Oracle Linux Training Station in the period September 2022 - January 2023.
+This page highlights the videos and hands on labs that have been added to the learning tracks on the Oracle Linux Training Station in the period October 2022 - March 2023.
 
 ---
 
@@ -15,7 +15,6 @@ This page highlights the videos and hands on labs that have been added to the le
 ### New Hands On Labs
 
 - [Switch from CentOS 7 to Oracle Linux 7](https://luna.oracle.com/lab/660a07d9-0580-4fae-973b-d5dfaebda1cb)
-- [Mount an NFS Share Using a Rootful Podman Volume](https://luna.oracle.com/lab/556e1401-568f-447e-8c0b-c94a86b1114f)
 - [Install FreeIPA Server on Oracle Linux](https://luna.oracle.com/lab/19bfac85-6c1e-4775-8fc3-6f55022a8e47)
 - [Deploy Keycloak using Podman on Oracle Linux](https://luna.oracle.com/lab/752793ff-9f74-4bb0-b848-90c5bcae4388)
 - [Install Podman Desktop](https://luna.oracle.com/lab/55225d03-4fdb-42dd-bb3c-0382cb918963)
@@ -37,8 +36,6 @@ This page highlights the videos and hands on labs that have been added to the le
 
 ### New Hands On Labs
 
-- [Scale a Kubernetes Cluster on Oracle Cloud Native Environment](https://luna.oracle.com/lab/6c9e4d88-27e7-43bd-9366-0693fb8e4d3a)
-- [Enable Istio Proxy Sidecar Injection in Oracle Cloud Native Environment](https://luna.oracle.com/lab/6e667326-fd72-4e65-a5b5-8398c5eef960)
 - [Use Quick Install to Deploy Oracle Cloud Native Environment](https://luna.oracle.com/lab/42f9b19b-e254-42cf-885d-a80127d9d751)
 
 ---
@@ -50,11 +47,6 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Connect Virtual Cloud Networks to On-Premises Networks using the Site-to-Site VPN Wizard](https://youtu.be/0_WpIxFyyck)
 - [Use the VCN Wizard to create a Virtual Cloud Network in the Oracle Cloud Infrastructure](https://youtu.be/-6B5_5Qih98)
 - [OCI Utilities Overview](https://youtu.be/bnf9T-wljVU)
-- [Managing Module Streams and Profiles with the OS Management Service](https://youtu.be/y-dnguUNr6Y)
-
-### New Hands On Labs
-
-- [Managing Oracle Linux Module Streams and Profiles with the OS Management service](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)
 
 ---
 
@@ -101,14 +93,15 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Creating a File System on Oracle Private Cloud Appliance](https://youtu.be/lB03H7YJP0Q)
 - [Importing Compute Images Provided with Oracle Private Cloud Appliance](https://youtu.be/fToYmmf6NFk)
 - [Managing Mount Targets on Oracle Private Cloud Appliance](https://youtu.be/bTmckStW_wY)
-- [Compartment and Policy Administration on Oracle Private Cloud Appliance](https://youtu.be/KV4sQOWXab8)
-- [Managing Volume Groups on Oracle Private Cloud Appliance](https://youtu.be/YlwfUWbXsT8)
 - [Migrating Virtual Machines on Oracle Private Cloud Appliance](https://youtu.be/_YjZMVApxaE)
 - [Patch Individual Components on Oracle Private Cloud Appliance](https://youtu.be/v_5ASLflVxU)
 - [Resizing Block Volumes on Oracle Private Cloud Appliance](https://youtu.be/bO2kM9tSPU0)
 - [Internet Gateway on Oracle Private Cloud Appliance](https://youtu.be/H8GwY7i720A)
 - [Managing Volume Groups on Oracle Private Cloud Appliance](https://youtu.be/YlwfUWbXsT8)
 - [Local Peering Gateways on Oracle Private Cloud Appliance](https://youtu.be/pxdkxjajhO0)
+- [Managing Object Versioning on Oracle Private Cloud Appliance](https://youtu.be/wS6jhUwK6Fk)
+
+
 
 ---
 #### [Return to Oracle Linux Training Station](../README.md)

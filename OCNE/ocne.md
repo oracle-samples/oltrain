@@ -109,6 +109,7 @@ Test your skills on what you have learned so far with this quiz.
 Following page provides additional product information:
 
 - [Oracle Cloud Native Environment Documentation](https://docs.oracle.com/en/operating-systems/olcne/)
+- [Oracle Cloud Native Environment Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzuwyOFQFhl_UyUoJPoseTN-)
 
 ---
 

@@ -83,6 +83,9 @@ This section provides video training for administrator and user tasks performed 
 [![](../common/images/create_fs_pca_300.png)](https://youtu.be/lB03H7YJP0Q)
 [![](../common/images/pca_managing_buckets_300.png)](https://youtu.be/t6e_T0qJrNg)
 [![](../common/images/pca_mounting_file_systems_300.png)](https://youtu.be/RZoIqkCPSBQ)
+[![](../common/images/pca_managing_object_versioning_300_thumbnail.png)](https://youtu.be/wS6jhUwK6Fk)
+
+
 
 ---
 ## Oracle Private Cloud Appliance Foundations Training   
@@ -97,6 +100,8 @@ For even more training on Oracle Private Cloud Appliance, use this link to acces
 Following page provides additional product information:
 
 - [Oracle Private Cloud Appliance Documentation](https://docs.oracle.com/en/engineered-systems/private-cloud-appliance/)
+- [Oracle Private Cloud Appliance Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzsnBlQvRh23rFgxMYFduQOo)
+
 
 ---
 #### [Return to Oracle Linux Training Station](../README.md)
