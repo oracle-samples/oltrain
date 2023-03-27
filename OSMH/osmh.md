@@ -12,12 +12,12 @@ Oracle OS Management Hub is used to manage and monitor updates and patches for t
 
 ---
 
-### Resources
+[### Resources]: #
 
-Following page provides additional product information:
+[Following page provides additional product information:]: #
 
-- [OS Management Documentation](https://docs.oracle.com/en-us/iaas/os-management/home.htm)
-- [OS Management Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzsn5mtWgjb_HS7GJoKa2rMn)
+[- [OS Management Documentation](https://docs.oracle.com/en-us/iaas/os-management/home.htm)]: #
+[- [OS Management Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzsn5mtWgjb_HS7GJoKa2rMn)]: #
 
 
 #### [Return to Oracle Linux Training Station](../README.md)
