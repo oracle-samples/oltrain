@@ -34,7 +34,7 @@ Head to the Oracle Linux Training Station tracks below to learn about Linux and 
 ---
    
 ![](common/images/osmh-banner1.png)
-- [OS Management Hub](./OSMS/osms.md): Learn how to use the OS Management Hub to manage and monitor updates and patches for the operating system environments in your private data center.
+- [OS Management Hub](./OSMS/osmh.md): Learn how to use the OS Management Hub to manage and monitor updates and patches for the operating system environments in your private data center.
    
 ---
    
