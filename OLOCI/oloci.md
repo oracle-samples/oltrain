@@ -88,7 +88,7 @@ Learn to administer compute instances using a range of tools and solutions provi
             </ul>
             <br>
             <br>
-            <p><a href="https://youtu.be/HOB5dhbcAyo">Learn about accessing and using the free hands on labs with this video</a></p> 
+            <p><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about accessing and using the free hands on labs</a></p> 
          </td>
      </tr>
 </table>  
