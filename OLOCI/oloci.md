@@ -81,11 +81,15 @@ Learn to administer compute instances using a range of tools and solutions provi
                <li>Oracle VM VirtualBox</li>
                </ul>
          </td>
-         <td valign="top"><b>Practice the following Tutorials:</b>
+         <td valign="top"><b>Practice the following in a free lab environment:</b>
             <ul>
                <li>Migrate Standalone Oracle Autonomous Linux Instances to use OS Management Service</li>
                <li>Managing Oracle Linux Module Streams and Profiles with the OS Management Service</li>
             </ul>
+            <br>
+            <br>
+            <br>
+            <p><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about accessing and using the free hands on labs</a></p> 
          </td>
      </tr>
 </table>  
@@ -165,10 +169,14 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
                <li>OCI Utilities network management</li>
             </ul>
          </td>
-         <td valign="top"><b>Practice the following Tutorials:</b>
+         <td valign="top"><b>Practice the following in a free lab environment:</b>
             <ul>
                <li>Create Virtual Cloud Networks in Oracle CLoud Infrastructure</li>
             </ul>
+            <br>
+            <br>
+            <br>
+            <p><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about accessing and using the free hands on labs</a></p>
          </td>
      </tr>
 </table>  
@@ -213,13 +221,15 @@ Learn to discover and administer block volume storage and create shared cluster 
                <li>Object storage</li>
             </ul>
          </td>
-         <td valign="top"><b>Practice the following Tutorials:</b>
+         <td valign="top"><b>Practice the following in a free lab environment:</b>
             <ul>
                <li>Use OCI iSCSI Utility on Oracle Cloud Infrastructure</li>
                <li>Configure iSCSI targets and initiators on Oracle Linux on Oracle Cloud Infrastructure</li>
                <li>Create an Oracle Linux Storage Appliance in Oracle Cloud Infrastructure</li>
                <li>Configure an Oracle Cluster File System on Oracle Cloud Infrastructure</li>
             </ul>
+            <br>
+            <p><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about accessing and using the free hands on labs</a></p>
          </td>
      </tr>
 </table>  
