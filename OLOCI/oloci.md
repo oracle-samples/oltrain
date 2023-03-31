@@ -174,7 +174,7 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
             </ul>
             <br>
             <br>
-            <p><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+            <p style="font-size:90%;text-align:right;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
          </td>
      </tr>
 </table>  
