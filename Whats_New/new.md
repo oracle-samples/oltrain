@@ -22,6 +22,7 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Learn to Install Project Quay on Podman](https://luna.oracle.com/lab/e3f488a9-20a8-49d8-ae08-818f8730568c)
 - [Deploy HAProxy using Podman](https://luna.oracle.com/lab/a9eb9ff9-b56d-4ddc-9283-b72467d78128)
 - [Introduction to Oracle Linux: Shell and Command Line](https://luna.oracle.com/lab/facec73e-8517-4314-877f-d4f8f429c5ab)
+- Deploy a High Availability Project Quay on Podman](https://luna.oracle.com/lab/a63c2548-c459-457f-b3d1-123c99d90d89)
 
 ---
 
