@@ -88,8 +88,7 @@ Learn to administer compute instances using a range of tools and solutions provi
             </ul>
             <br>
             <br>
-            <br>
-            <p><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about accessing and using the free hands on labs</a></p> 
+            <p style="font-size:80%;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p> 
          </td>
      </tr>
 </table>  
@@ -175,8 +174,7 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
             </ul>
             <br>
             <br>
-            <br>
-            <p><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about accessing and using the free hands on labs</a></p>
+            <p><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
          </td>
      </tr>
 </table>  
@@ -229,7 +227,7 @@ Learn to discover and administer block volume storage and create shared cluster 
                <li>Configure an Oracle Cluster File System on Oracle Cloud Infrastructure</li>
             </ul>
             <br>
-            <p><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about accessing and using the free hands on labs</a></p>
+            <p><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
          </td>
      </tr>
 </table>  
