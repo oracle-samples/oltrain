@@ -87,6 +87,7 @@ Learn to administer compute instances using a range of tools and solutions provi
                <li>Managing Oracle Linux Module Streams and Profiles with the OS Management Service</li>
             </ul>
             <br>
+            <br>
             <p><a href="https://youtu.be/HOB5dhbcAyo">Learn about accessing and using the free hands on labs with this video</a></p> 
          </td>
      </tr>
