@@ -15,6 +15,11 @@ These videos go through typical monitoring and logging tasks performed on a Linu
 ## Monitoring and Logging Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
+<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
+   <img src="../../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   </a></p> 
+
 [![](../../common/images/monitor_lab.png)](https://luna.oracle.com/lab/73bf7efa-53a1-4528-ad60-5f7b721fc3f8)
 [![](../../common/images/logging_lab.png)](https://luna.oracle.com/lab/3f0906f5-a80e-418b-a8b4-48c60103c55c)
 [![](../../common/images/audit_lab.png)](https://luna.oracle.com/lab/3a72b337-d8c0-41b9-9193-e1bf50ad2ac9)
