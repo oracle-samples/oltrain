@@ -19,10 +19,10 @@ On this track you will learn technologies and components included in Oracle Linu
 [![](../../common/images/use_tools_300_.png)](https://youtu.be/ZXO4hqoO52o)
 [![](../../common/images/bash_script_300.png)](https://youtu.be/d6ktKrOOkZs)
 
-## Introduction to Oracle Linux Tutorial
-This tutorial provides step-by-step procedures to complete specific tasks on your own Oracle Linux environment.
+## Introduction to Oracle Linux Hands-on Lab
+This hands-on lab provides step-by-step procedures to complete specific tasks on your own Oracle Linux environment.
 
-[![](../../common/images/Intro_tut.png)](https://docs.oracle.com/en/learn/shell-commands-intro-to-oracle-linux/index.html)
+[![](../../common/images/Intro_OL_lab.png)](https://luna.oracle.com/lab/facec73e-8517-4314-877f-d4f8f429c5ab)
 
 ---
 
