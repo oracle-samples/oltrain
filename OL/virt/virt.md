@@ -14,6 +14,11 @@
 
 ### KVM Hands On Lab
 
+<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
+   <img src="../../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   </a></p> 
+
 [![](../../common/images/createvmkvm_lab.png)](https://luna.oracle.com/lab/1671b073-895c-4800-bd60-cfe1f445074c)
    
    
@@ -53,6 +58,11 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
 [![](../../common/images/chroot_300.png)](https://youtu.be/dxzwxvn621w)
 
 ### Container Hands On Labs
+
+<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
+   <img src="../../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   </a></p> 
 
 [![](../../common/images/podman_lab2.png)](https://luna.oracle.com/lab/4fa11b26-6c31-4595-ac00-b6c6af97f417)
 [![](../../common/images/stor_podman_lab2.png)](https://luna.oracle.com/lab/0dde3b49-0b91-423e-a126-5e718e05ca64)
@@ -94,6 +104,11 @@ Test your skills on what you have learned about working with containers on Oracl
 [![](../../common/images/minikube_300.png)](https://youtu.be/u1qY8ax0U44)
 
 ### Kubernetes Hands On Labs
+
+<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
+   <img src="../../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   </a></p> 
 
 [![](../../common/images/mini_lab.png)](https://luna.oracle.com/lab/8b2f7860-3204-4cd3-8d55-3f6de9ca03c2)
 [![](../../common/images/runkub_lab.png)](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
