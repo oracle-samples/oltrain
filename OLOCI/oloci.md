@@ -88,7 +88,7 @@ Learn to administer compute instances using a range of tools and solutions provi
             </ul>
             <br>
             <br>
-            <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p> 
+            <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a><img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:100px;height:56px;"></p> 
          </td>
      </tr>
 </table>  
