@@ -28,7 +28,7 @@ Practice your skills with Oracle Linux Automation Manager with these free hands 
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
 <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
-   <img src="../../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
    </a></p> 
 
 [![](../common/images/quick_start_olam2_lab.png)](https://luna.oracle.com/lab/4a1dcd6e-231c-4724-ae52-8d56431a2888)
@@ -50,7 +50,7 @@ Practice your skills with Oracle Linux Automation Manager Engine with these free
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
 <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
-   <img src="../../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
    </a></p> 
 
 [![](../common/images/writpbolae_lab.png)](https://luna.oracle.com/lab/27118507-76a6-4116-8ae3-eecc5314531e)
@@ -77,7 +77,7 @@ Practice your skills with Oracle Linux Automation Manager version 1.0 with these
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
 <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
-   <img src="../../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
    </a></p> 
 
 [![](../common/images/instolam_lab.png)](https://luna.oracle.com/lab/ecf924b0-a2e1-49eb-8700-8c8bea5d7502)
