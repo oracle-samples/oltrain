@@ -175,10 +175,10 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
                <li>Create Virtual Cloud Networks in Oracle Cloud Infrastructure</li>
             </ul>
             <br>
-            <p style="font-size:90%;text-align:left;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+            <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
             <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
                <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
-               </a></p>
+               </a></p> 
          </td>
      </tr>
 </table>  
@@ -230,10 +230,10 @@ Learn to discover and administer block volume storage and create shared cluster 
                <li>Create an Oracle Linux Storage Appliance in Oracle Cloud Infrastructure</li>
                <li>Configure an Oracle Cluster File System on Oracle Cloud Infrastructure</li>
             </ul>
-            <p style="font-size:90%;text-align:left;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+            <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
             <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
                <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
-               </a></p>
+               </a></p> 
          </td>
      </tr>
 </table>  
