@@ -4,7 +4,7 @@
 ![](../common/images/osms-page-header-1200x200.png)
 ---
 
-The Oracle Cloud Infrastructure OS Management service allows you to manage updates and patches for the operating system environment on your Oracle Cloud Infrastructure instances. OS Management also provides options for discovering and monitoring resources on your instances.
+The OS Management Service allows you to manage updates and patches for the operating system environment on your Oracle Cloud Infrastructure instances. The OS Management Service also provides options for discovering and monitoring resources on your instances.
 
 On these pages, you will find videos, documents, and other useful resources on topics such as:
 - Getting Started with OS Management
