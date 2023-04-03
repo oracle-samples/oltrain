@@ -8,6 +8,11 @@ Software package management is an essential skill needed to keep your Oracle Lin
 ## Package Management Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
+<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
+   <img src="../../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   </a></p> 
+
 [![](../../common/images/usednf_lab.png)](https://luna.oracle.com/lab/609f19ec-b142-4fa9-81d1-ab6d1e97478c)
 [![](../../common/images/yumMirror_lab.png)](https://luna.oracle.com/lab/b3779123-c17c-4f89-bb93-8c343d891825)
 
