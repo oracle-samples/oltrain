@@ -35,7 +35,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
 <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
-   <img src="../../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
    </a></p> 
 
 [![](../common/images/deployocne_lab.png)](https://luna.oracle.com/lab/d18fe294-efb5-4498-9e7b-d5cc724d8619)
@@ -71,7 +71,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
 <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
-   <img src="../../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
    </a></p> 
 
 [![](../common/images/runkub_lab.png)](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
@@ -100,7 +100,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
 <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
-   <img src="../../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
    </a></p> 
 
 [![](../common/images/istio_sidecar.png)](https://luna.oracle.com/lab/6e667326-fd72-4e65-a5b5-8398c5eef960)
