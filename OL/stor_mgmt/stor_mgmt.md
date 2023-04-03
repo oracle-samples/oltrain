@@ -19,6 +19,11 @@ Whether manually partitioning your primary disk, adding additional disks for sto
 ## Storage Management Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
+<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
+   <img src="../../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   </a></p> 
+
 [![](../../common/images/filesystems_lab.png)](https://luna.oracle.com/lab/bbfe7177-f27a-42f5-97cf-95b7027efa26)
 [![](../../common/images/lvm_lab.png)](https://luna.oracle.com/lab/545675ec-9c52-42a5-b823-a7efb1ed237c)
 [![](../../common/images/autofs_lab.png)](https://luna.oracle.com/lab/5847ea10-bead-4dda-be13-72b55551f6a2)
