@@ -12,7 +12,7 @@ On these pages, you will find videos, documents, and other useful resources on t
 - Checking the status of the Oracle Cloud Agent
 
 
-### Installation
+## Installation
 One of the first requirements to use the OS Management Service is to have a running instance of Linux or Windows.
 
 [![](../common/images/createinst-300.png)](https://youtu.be/tlwlLd4GvCc)
@@ -20,7 +20,7 @@ One of the first requirements to use the OS Management Service is to have a runn
 [![](../common/images/patch-osmswin-300.png)](https://youtu.be/4eDTl5fPNKA)
 [![](../common/images/access-wininst-300.png)](https://youtu.be/d1fgBuE1GMY)
 
-### Working with the OS Management Service Videos
+## Working with the OS Management Service Videos
 These videos will provide information to get started and work with the OS Management Service on Linux and Windows instances.
 
 [![](../common/images/start-osmslinux-300.png)](https://youtu.be/7qmy5VusYKA)
@@ -33,7 +33,7 @@ These videos will provide information to get started and work with the OS Manage
 [![](../common/images/compliancereport-300.png)](https://youtu.be/_pKnAcA7GUs)
 
 
-### Working with the OS Management Service Hands On Lab
+## Working with the OS Management Service Hands On Lab
 
 Practice your skills with the OS Management Service with these free hands on labs.
 
