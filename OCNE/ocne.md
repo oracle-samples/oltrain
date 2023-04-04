@@ -14,24 +14,30 @@ On these pages you will find material such as videos, documents and useful resou
 
 Information and videos presented here cover Microservices technologies which are components of the Oracle Cloud Native Environment General Availability announcement, as well as additional technologies to help you expand your learning of microservices.
 
-### Environment Installation Videos
+---
+## Environment Installation Videos
 The following videos will introduce you to the installation procedure and scaling of the Oracle Cloud Native Environment.
 
-#### Release 1.4 and 1.5 Videos
+### Release 1.4 and 1.5 Videos
 
 [![](../common/images/inst_walkthru_300.png)](https://youtu.be/IuMKKWdDgc4)
 [![](../common/images/using_config_file_300.png)](https://youtu.be/pfnfu8B3atI)
 [![](../common/images/over_config_file_300.png)](https://youtu.be/n7VhqiiYa1U)
 
-#### Release 1.3 Videos
+### Release 1.3 Videos
 
 [![](../common/images/get_started_300.png)](https://youtu.be/agoEHX0M7bk)
 [![](../common/images/install_ocne_300.png)](https://youtu.be/bN_SLTGdJJQ)
 [![](../common/images/deploy_300.png)](https://youtu.be/_dahVFaasAo)
 [![](../common/images/scale_300.png)](https://youtu.be/aVyqWh048yo)
 
-### Installation Hands On Labs
+## Installation Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
+
+<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
+   <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   </a></p> 
 
 [![](../common/images/deployocne_lab.png)](https://luna.oracle.com/lab/d18fe294-efb5-4498-9e7b-d5cc724d8619)
 [![](../common/images/glusterocne_lab.png)](https://luna.oracle.com/lab/5455954d-142c-4801-9f34-5946ad19573d)
@@ -45,12 +51,13 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/ocne_quick_install.png)](https://luna.oracle.com/lab/42f9b19b-e254-42cf-885d-a80127d9d751)
 [![](../common/images/ocne-pv-fss.png)](https://luna.oracle.com/lab/5d95fdca-c690-4ebf-8ac0-315ac095ac59)
 
-### Installation Tutorial
+## Installation Tutorial
 Each tutorial provides step-by-step procedures to complete specific tasks but does not provide an environment. Perform these tutorial steps on your own Oracle Linux environment.
 
 [![](../common/images/operatorlcocne_tut.png)](https://docs.oracle.com/en/learn/ocne-olm/)
 
-### Kubernetes Videos
+---
+## Kubernetes Videos
 An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.
 
 The following videos will introduce you to the Kubernetes cluster technology and its components. They show how a Kubernetes cluster is built, and how container applications in pods are deployed on the cluster nodes.
@@ -61,19 +68,26 @@ The following videos will introduce you to the Kubernetes cluster technology and
 [![](../common/images/tour_300.png)](https://youtu.be/syBe1H-qe8U)
 [![](../common/images/resources_300.png)](https://youtu.be/e5m3TlvM4y4)
 
-### Kubernetes Hands On Lab
+## Kubernetes Hands On Lab
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
+
+<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
+   <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   </a></p> 
 
 [![](../common/images/runkub_lab.png)](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
 
-### Kata Container Videos
+---
+## Kata Container Videos
 Kata Container software delivers the framework for creating lightweight virtual machines (VMs) that easily plug into container ecosystems. Kata Containers offer similar virtual machine levels of security while maintaining the efficiencies gained from the deployment of traditional containers.
 
 The following video will introduce you to Kata Containers functionality and demonstrate how Kata Containers are deployed in your Kubernetes cluster.
 
 [![](../common/images/kata_over_300.png)](https://youtu.be/0P2kQMCssm4)
 
-### Istio Videos
+---
+## Istio Videos
 Operating as a service mesh for managing the interaction and operation of services in a microservices architecture. Istio coordinates communication between services, providing service discovery, load balancing, security, recovery, telemetry, and policy enforcement capabilities.
 
 The following videos will introduce you to the role of Istio in supporting the microservices framework. You will learn about the Istio architecture and its sidecar proxy capabilities implemented in a Kubernetes cluster.
@@ -85,8 +99,13 @@ The following videos will introduce you to the role of Istio in supporting the m
 [![](../common/images/egress_istio_300.png)](https://youtu.be/MHKc4hfszUI)
 [![](../common/images/rout_istio_300.png)](https://youtu.be/HDagk09TayQ)
 
-### Istio Hands On Lab
+## Istio Hands On Lab
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
+
+<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
+   <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   </a></p> 
 
 [![](../common/images/istio_sidecar.png)](https://luna.oracle.com/lab/6e667326-fd72-4e65-a5b5-8398c5eef960)
 

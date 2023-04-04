@@ -11,7 +11,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-intro.png)
    
-- [Introduction to Oracle Linux](./intro/intro.md): New to Linux, or have a little experience working with the Linux operating system? Grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.   
+- [Introduction to Oracle Linux](./intro/intro.md) : New to Linux, or have a little experience working with the Linux operating system? Grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.   
 
 <table width="1200">
 <colgroup>
@@ -51,7 +51,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-install.png)
    
-- [Installation and Boot Process](./inst_boot/inst_boot.md): This page focuses on the installation and boot process.
+- [Installation and Boot Process](./inst_boot/inst_boot.md) : This page focuses on the installation and boot process.
 
 <table width="1200">
 <colgroup>
@@ -84,7 +84,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-admin.png)
    
-- [Administration](./admin/admin.md): This page focuses on common administration tasks that you can perform on Oracle Linux. 
+- [Administration](./admin/admin.md) : This page focuses on common administration tasks that you can perform on Oracle Linux. 
 
 <table width="1200">
 <colgroup>
@@ -126,7 +126,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-monitor.png)
    
-- [Monitoring and Logging](./mon_log/mon_log.md): This page focuses on typical monitoring and logging tasks performed on a Linux system. 
+- [Monitoring and Logging](./mon_log/mon_log.md) : This page focuses on typical monitoring and logging tasks performed on a Linux system. 
 
 <table width="1200">
 <colgroup>
@@ -157,7 +157,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-network.png)
    
-- [Networking](./network/network.md): This page focuses on how to securely connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems.
+- [Networking](./network/network.md) : This page focuses on how to securely connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems.
 
 <table width="1200">
 <colgroup>
@@ -188,7 +188,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-package.png)
    
-- [Package Management](./pkg_mgmt/pkg_mgmt.md): This page focuses on software package management, an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes, and security patches. Oracle Linux 8 introduced DNF, which replaces YUM.
+- [Package Management](./pkg_mgmt/pkg_mgmt.md) : This page focuses on software package management, an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes, and security patches. Oracle Linux 8 introduced DNF, which replaces YUM.
 
 <table width="1200">
 <colgroup>
@@ -215,7 +215,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-ksplice.png)
    
-- [Oracle Ksplice](./ksplice/ksplice.md): This page focuses on installing, configuring and using Oracle Ksplice to provide rebootless kernel and critical user-space updates. Oracle Ksplice allows you to install the latest kernel and key user-space security and bug fix updates while the system is running.
+- [Oracle Ksplice](./ksplice/ksplice.md) : This page focuses on installing, configuring and using Oracle Ksplice to provide rebootless kernel and critical user-space updates. Oracle Ksplice allows you to install the latest kernel and key user-space security and bug fix updates while the system is running.
 
 <table width="1200">
 <colgroup>
@@ -242,7 +242,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-remote.png)
    
-- [Remote Management](./rem_mgmt/rem_mgmt.md): This page focuses on establishing secure connections to remote Oracle Linux systems. With secure connections, all  traffic transmitted over the wire is encrypted and protected from password sniffing attacks and other outside monitoring.
+- [Remote Management](./rem_mgmt/rem_mgmt.md) : This page focuses on establishing secure connections to remote Oracle Linux systems. With secure connections, all  traffic transmitted over the wire is encrypted and protected from password sniffing attacks and other outside monitoring.
 
 <table width="1200">
 <colgroup>
@@ -270,7 +270,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-storage.png)
    
-- [Storage Management](./stor_mgmt/stor_mgmt.md): This page focuses on partitioning disks, filesystems, file sharing, and disk encryption on Oracle Linux. Whether manually partitioning your primary disk, adding additional disks for storage, or creating shared storage, working with disks is a skill all Linux Administrators should know.
+- [Storage Management](./stor_mgmt/stor_mgmt.md) : This page focuses on partitioning disks, filesystems, file sharing, and disk encryption on Oracle Linux. Whether manually partitioning your primary disk, adding additional disks for storage, or creating shared storage, working with disks is a skill all Linux Administrators should know.
 
 <table width="1200">
 <colgroup>
@@ -308,7 +308,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-virtual.png)
    
-- [Virtualization](./virt/virt.md): This page focuses on Kernel-based Virtual Machine (KVM), Containers, Podman, chroot, and Kubernetes. It covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux.
+- [Virtualization](./virt/virt.md) : This page focuses on Kernel-based Virtual Machine (KVM), Containers, Podman, chroot, and Kubernetes. It covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux.
 
 <table width="1200">
 <colgroup>
@@ -339,7 +339,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
    
 ![](../common/images/OL-page-howto.png)
    
-- [Oracle Linux How-To](./howto/howto.md): This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
+- [Oracle Linux How-To](./howto/howto.md) : This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
    
 <table width="1200">
 <colgroup>

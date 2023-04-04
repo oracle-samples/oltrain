@@ -12,6 +12,11 @@ These videos go through the configuration files, firewalls, and command line uti
 ## Networking Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
+<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
+   <img src="../../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   </a></p> 
+
 [![](../../common/images/nwm_lab.png)](https://luna.oracle.com/lab/6cbaab1f-835c-445e-89eb-b42ba3e679bb/steps)
 [![](../../common/images/bond_lab.png)](https://luna.oracle.com/lab/fc37cd13-6a90-49df-adc1-6c3b40239265)
 [![](../../common/images/vlan_lab.png)](https://luna.oracle.com/lab/e8070728-d90b-41c9-8984-e4b1d98cee88)

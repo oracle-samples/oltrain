@@ -4,7 +4,7 @@
 ![](../common/images/osms-page-header-1200x200.png)
 ---
 
-The Oracle Cloud Infrastructure OS Management service allows you to manage updates and patches for the operating system environment on your Oracle Cloud Infrastructure instances. OS Management also provides options for discovering and monitoring resources on your instances.
+The OS Management Service allows you to manage updates and patches for the operating system environment on your Oracle Cloud Infrastructure instances. The OS Management Service also provides options for discovering and monitoring resources on your instances.
 
 On these pages, you will find videos, documents, and other useful resources on topics such as:
 - Getting Started with OS Management
@@ -12,7 +12,7 @@ On these pages, you will find videos, documents, and other useful resources on t
 - Checking the status of the Oracle Cloud Agent
 
 
-### Installation
+## Installation
 One of the first requirements to use the OS Management Service is to have a running instance of Linux or Windows.
 
 [![](../common/images/createinst-300.png)](https://youtu.be/tlwlLd4GvCc)
@@ -20,7 +20,7 @@ One of the first requirements to use the OS Management Service is to have a runn
 [![](../common/images/patch-osmswin-300.png)](https://youtu.be/4eDTl5fPNKA)
 [![](../common/images/access-wininst-300.png)](https://youtu.be/d1fgBuE1GMY)
 
-### Working with the Oracle OS Management Service Videos
+## Working with the OS Management Service Videos
 These videos will provide information to get started and work with the OS Management Service on Linux and Windows instances.
 
 [![](../common/images/start-osmslinux-300.png)](https://youtu.be/7qmy5VusYKA)
@@ -33,7 +33,14 @@ These videos will provide information to get started and work with the OS Manage
 [![](../common/images/compliancereport-300.png)](https://youtu.be/_pKnAcA7GUs)
 
 
-### Working with the Oracle OS Management Service Hands On Lab
+## Working with the OS Management Service Hands On Lab
+
+Practice your skills with the OS Management Service with these free hands on labs.
+
+<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
+   <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   </a></p> 
 
 [![](../common/images/migratealx_lab.png)](https://luna.oracle.com/lab/8848ec22-81cd-46d5-aeab-dd2dae36118b)
 [![](../common/images/ol-streams-lab1.png)](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)

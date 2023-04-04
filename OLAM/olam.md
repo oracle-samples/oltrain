@@ -24,6 +24,13 @@ Oracle Linux Automation Manager provides features that allow your organization t
 
 ### Oracle Linux Automation Manager Hands On Labs
 
+Practice your skills with Oracle Linux Automation Manager with these free hands on labs.
+
+<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
+   <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   </a></p> 
+
 [![](../common/images/quick_start_olam2_lab.png)](https://luna.oracle.com/lab/4a1dcd6e-231c-4724-ae52-8d56431a2888)
 [![](../common/images/upgdolam2_lab.png)](https://luna.oracle.com/lab/6c7124cc-474f-4dd4-89fa-9beb536c71f5)
 [![](../common/images/migrate_olam2_lab.png)](https://luna.oracle.com/lab/d1847f91-0cdc-41b8-afc4-eb6d0ccd40c2)
@@ -40,6 +47,11 @@ Oracle Linux Automation Manager provides features that allow your organization t
 ### Working with Oracle Linux Automation Manager Engine Hands On Labs
 
 Practice your skills with Oracle Linux Automation Manager Engine with these free hands on labs.
+
+<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
+   <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   </a></p> 
 
 [![](../common/images/writpbolae_lab.png)](https://luna.oracle.com/lab/27118507-76a6-4116-8ae3-eecc5314531e)
 [![](../common/images/autosetolae_lab.png)](https://luna.oracle.com/lab/56b90194-88ab-421e-bc93-2ac708dce6ba)
@@ -62,6 +74,11 @@ These videos will get you started with the installation and overview of Oracle L
 ### Installing Oracle Linux Automation Manager Hands On Lab
 
 Practice your skills with Oracle Linux Automation Manager version 1.0 with these free hands on labs.
+
+<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
+   <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   </a></p> 
 
 [![](../common/images/instolam_lab.png)](https://luna.oracle.com/lab/ecf924b0-a2e1-49eb-8700-8c8bea5d7502)
 
