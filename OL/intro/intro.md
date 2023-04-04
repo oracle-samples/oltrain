@@ -22,6 +22,11 @@ On this track you will learn technologies and components included in Oracle Linu
 ## Introduction to Oracle Linux Hands-on Lab
 This hands-on lab provides step-by-step procedures to complete specific tasks on your own Oracle Linux environment.
 
+<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
+<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
+   <img src="../../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
+   </a></p>
+   
 [![](../../common/images/Intro_OL_lab.png)](https://luna.oracle.com/lab/facec73e-8517-4314-877f-d4f8f429c5ab)
 
 ---
