@@ -9,17 +9,17 @@ Head to the Oracle Linux Training Station tracks below to learn about Linux and 
 ---
 
 ![](common/images/OL-banner-v2a.png)
-- [Oracle Linux](./OL/ol.md) : Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
+- [Oracle Linux](./OL/ol.md) - Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
    
 ---
    
 ![](common/images/OLCI-banner-v2.png)
-- [Linux on Oracle Cloud Infrastructure](./OLOCI/oloci.md) : See how to use Linux to deliver powerful compute and networking performance with a comprehensive portfolio of infrastructure and platform cloud services.
+- [Linux on Oracle Cloud Infrastructure](./OLOCI/oloci.md) - See how to use Linux to deliver powerful compute and networking performance with a comprehensive portfolio of infrastructure and platform cloud services.
    
 ---
    
 ![](common/images/OCNE-banner-v2.png)
-- [Oracle Cloud Native Environment](./OCNE/ocne.md) : Learn how you can deploy the software and tools to develop microservices-based applications in-line with open standards and specifications.
+- [Oracle Cloud Native Environment](./OCNE/ocne.md) - Learn how you can deploy the software and tools to develop microservices-based applications in-line with open standards and specifications.
    
 ---
    
