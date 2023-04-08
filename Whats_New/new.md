@@ -2,7 +2,7 @@
 
 ![](../common/images/whats-new-head2.png)
 ---
-This page highlights the videos and hands on labs that have been added to the learning tracks on the Oracle Linux Training Station in the period October 2022 - March 2023.
+This page highlights the videos and hands on labs that have been added to the learning tracks on the Oracle Linux Training Station in the period November 2022 - April 2023.
 
 ---
 
@@ -15,8 +15,6 @@ This page highlights the videos and hands on labs that have been added to the le
 ### New Hands On Labs
 
 - [Switch from CentOS 7 to Oracle Linux 7](https://luna.oracle.com/lab/660a07d9-0580-4fae-973b-d5dfaebda1cb)
-- [Install FreeIPA Server on Oracle Linux](https://luna.oracle.com/lab/19bfac85-6c1e-4775-8fc3-6f55022a8e47)
-- [Deploy Keycloak using Podman on Oracle Linux](https://luna.oracle.com/lab/752793ff-9f74-4bb0-b848-90c5bcae4388)
 - [Install Podman Desktop](https://luna.oracle.com/lab/55225d03-4fdb-42dd-bb3c-0382cb918963)
 - [Using Compose Files with Podman](https://luna.oracle.com/lab/0e800b97-2c1b-43a8-b0f0-003f1543d2ba)
 - [Learn to Install Project Quay on Podman](https://luna.oracle.com/lab/e3f488a9-20a8-49d8-ae08-818f8730568c)
@@ -75,10 +73,6 @@ This page highlights the videos and hands on labs that have been added to the le
 
 - [Use Oracle VM VirtualBox on Oracle Cloud Infrastructure Instances](https://youtu.be/QJ_z20kSxX4)
 - [Integrate VirtualBox 7.0 with Oracle Cloud Infrastructure](https://youtu.be/3roYMw-D2ks)
-- [Import Oracle Cloud Infrastructure instances into VirtualBox 7.0](https://youtu.be/xGoE8X5NqkM)
-- [Export local virtual machines to Oracle Cloud Infrastructure with VirtualBox 7.0](https://youtu.be/KZAw45DeIMw)
-- [Manage OCI instances directly from VirtualBox 7.0](https://youtu.be/uFEN4Di-WDE)
-- [Configure Cloud Networking for local VirtualBox VMs using VirtualBox 7.0](https://youtu.be/wi853qbgXh4)
 
 ### New Hands On Labs
 
@@ -90,16 +84,11 @@ This page highlights the videos and hands on labs that have been added to the le
 
 ### New Videos
 
-- [Managing File Systems on Oracle Private Cloud Appliance](https://youtu.be/RZoIqkCPSBQ)
+- [Mounting File Systems on Oracle Private Cloud Appliance](https://youtu.be/RZoIqkCPSBQ)
 - [Managing Object Storage Buckets on Oracle Private Cloud Appliance](https://youtu.be/t6e_T0qJrNg)
 - [Creating a File System on Oracle Private Cloud Appliance](https://youtu.be/lB03H7YJP0Q)
 - [Importing Compute Images Provided with Oracle Private Cloud Appliance](https://youtu.be/fToYmmf6NFk)
 - [Managing Mount Targets on Oracle Private Cloud Appliance](https://youtu.be/bTmckStW_wY)
-- [Migrating Virtual Machines on Oracle Private Cloud Appliance](https://youtu.be/_YjZMVApxaE)
-- [Patch Individual Components on Oracle Private Cloud Appliance](https://youtu.be/v_5ASLflVxU)
-- [Resizing Block Volumes on Oracle Private Cloud Appliance](https://youtu.be/bO2kM9tSPU0)
-- [Internet Gateway on Oracle Private Cloud Appliance](https://youtu.be/H8GwY7i720A)
-- [Managing Volume Groups on Oracle Private Cloud Appliance](https://youtu.be/YlwfUWbXsT8)
 - [Local Peering Gateways on Oracle Private Cloud Appliance](https://youtu.be/pxdkxjajhO0)
 - [Managing Object Versioning on Oracle Private Cloud Appliance](https://youtu.be/wS6jhUwK6Fk)
 
