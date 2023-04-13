@@ -21,7 +21,6 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Deploy HAProxy using Podman](https://luna.oracle.com/lab/a9eb9ff9-b56d-4ddc-9283-b72467d78128)
 - [Introduction to Oracle Linux: Shell and Command Line](https://luna.oracle.com/lab/facec73e-8517-4314-877f-d4f8f429c5ab)
 - [Deploy a High Availability Project Quay on Podman](https://luna.oracle.com/lab/a63c2548-c459-457f-b3d1-123c99d90d89)
-- [Upgrade to Oracle Cloud Native Environment 1.6](https://luna.oracle.com/lab/fa8fc61b-893c-4507-93a2-711540e9ace7)
 
 ---
 
@@ -38,6 +37,7 @@ This page highlights the videos and hands on labs that have been added to the le
 ### New Hands On Labs
 
 - [Use Quick Install to Deploy Oracle Cloud Native Environment](https://luna.oracle.com/lab/42f9b19b-e254-42cf-885d-a80127d9d751)
+- [Upgrade to Oracle Cloud Native Environment 1.6](https://luna.oracle.com/lab/fa8fc61b-893c-4507-93a2-711540e9ace7)
 
 ---
    
