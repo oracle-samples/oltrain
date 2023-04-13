@@ -64,6 +64,7 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Integrate LDAP User Management with Oracle Linux Automation Manager 2.0](https://luna.oracle.com/lab/a03cfc90-4c3c-488d-9e66-ba514e00b619)
 - [Use OCI Ansible Collection with Oracle Linux Automation Manager 2.0](https://luna.oracle.com/lab/b69c86cf-962a-40a9-8f3c-7a9018f4dc4b)
 - [Use Hop Nodes on Oracle Linux Automation Manager 2.0](https://luna.oracle.com/lab/c4780f15-bd17-468d-9133-3eba9bc0ff2a)
+- [Manage KVM Virtual Machines using Oracle Linux Automation Manager 2.0](https://luna.oracle.com/lab/3e869b97-6f71-46fa-a979-e0c8bf81d7d2)
 
 ---
 
