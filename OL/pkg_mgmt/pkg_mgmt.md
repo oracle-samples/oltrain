@@ -14,7 +14,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
    </a></p> 
 
 [![](../../common/images/usednf_lab.png)](https://luna.oracle.com/lab/609f19ec-b142-4fa9-81d1-ab6d1e97478c)
-[![](../../common/images/yumMirror_lab.png)](https://luna.oracle.com/lab/b3779123-c17c-4f89-bb93-8c343d891825)
+[![](../../common/images/yum_mirror.png)](https://luna.oracle.com/lab/b3779123-c17c-4f89-bb93-8c343d891825)
 
 ---
 
