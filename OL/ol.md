@@ -206,7 +206,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          <td valign="top"><b>Practice the following with real hands on labs:</b>
             <ul>
                <li>Use DNF</li>
-               <li>Configure a local Yum server mirror</li>
+               <li>Configure a yum mirror</li>
             </ul>
          </td>
      </tr>
