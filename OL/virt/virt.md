@@ -104,6 +104,10 @@ Test your skills on what you have learned about working with containers on Oracl
 [![](../../common/images/resources_300.png)](https://youtu.be/e5m3TlvM4y4)
 [![](../../common/images/minikube_300.png)](https://youtu.be/u1qY8ax0U44)
 
+
+You can find even more Kubernetes videos here: <a href="https://oracle-samples.github.io/oltrain/OCNE/ocne.html#kubernetes-videos">More Kubernetes videos</a>
+#### [More Kubernetes videos](../ocne/ocne.md#kubernetes-videos)
+
 ### Kubernetes Hands On Labs
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
