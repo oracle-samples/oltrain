@@ -108,6 +108,19 @@ Test your skills on what you have learned about working with containers on Oracl
 You can find even more Kubernetes videos here: [More Kubernetes videos](../../OCNE/ocne.md#kubernetes-videos)
 
 
+<table width="600">
+      <tr>   
+         <td valign="top"><b>You can find even more Kubernetes videos here:</b>
+         <a href="../../OCNE/ocne.md#kubernetes-videos">More Kubernetes videos</a>
+            <ul>
+               <li><a href="../../OCNE/ocne.md#kubernetes-videos">More Kubernetes videos</a></li>
+            </ul>
+         </td>
+      </tr>
+</table>  
+<br>
+   
+
 ### Kubernetes Hands On Labs
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
