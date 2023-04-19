@@ -110,7 +110,7 @@ You can find even more Kubernetes videos here: [More Kubernetes videos](../../OC
 
 <table width="600">
       <tr>   
-         <td valign="top"><b>You can find even more Kubernetes videos here:</b>
+         <td valign="top"><b>You can find even more Kubernetes videos here:</b></br>
          <a href="../../OCNE/ocne.md#kubernetes-videos">More Kubernetes videos</a>
             <ul>
                <li><a href="../../OCNE/ocne.md#kubernetes-videos">More Kubernetes videos</a></li>
