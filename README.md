@@ -24,8 +24,6 @@
       </tr>
 </table>  
    
-   
----
 
 ![](common/images/OL-banner-v2a.png)  
 
