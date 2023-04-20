@@ -11,13 +11,15 @@
 </colgroup>
       <tr>   
          <td><p>Head to the Oracle Linux Training Station tracks below to learn about Linux and Virtualization products. These tracks provide you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises.</p>
-             <p><a href="../../Whats_New/new.md"><img src="../../common/images/whats-new3.png" alt="Whats New page"/></a></p>
          </td>
-         <td valign="top"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</i></p>
+         <td rowspan="2" valign="top"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</i></p>
             <ul>
                <li><a href="../../OCNE/ocne.md#kubernetes-videos">Kubernetes content</a></li>
                <li><a href="../../OL/virt/virt.md#container-videos">Container content</a></li>
             </ul>
+         </td>
+      <tr>   
+         <td><p><a href="../../Whats_New/new.md"><img src="../../common/images/whats-new3.png" alt="Whats New page"/></a></p>
          </td>
       </tr>
 </table>  
