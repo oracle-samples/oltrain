@@ -15,7 +15,7 @@
          </td>
          <td valign="top"><b>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</b>
             <ul>
-               <li>Kubernetes</li>
+               <li><a href="../../OCNE/ocne.md#kubernetes-videos">Kubernetes content</a></li>
                <li>Containers</li>
             </ul>
          </td>
