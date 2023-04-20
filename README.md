@@ -4,7 +4,7 @@
 ![](common/images/ol-train4.png)
 ---
 
-<aside>
+<aside style="width 30%;float:right">
    <p>Quickly view our most popular topics. Click the links here to jump straight to the many free videos and hands on labs.</p>
    <ul>
       <li>Kubernetes</li>
