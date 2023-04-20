@@ -19,8 +19,7 @@
             </ul>
          </td>
       <tr>   
-         <td><img src="../common/images/whats-new3.png" alt=""></img>
-         </td>
+         <td><img src="common/images/whats-new3.png" alt="blah blah"></td>
       </tr>
 </table>  
    
