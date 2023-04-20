@@ -19,7 +19,7 @@
             </ul>
          </td>
       <tr>   
-         <td><p><a href="../../Whats_New/new.md"><img src="../../common/images/whats-new3.png" alt="Whats New page"/></a></p>
+         <td><img src="../../common/images/whats-new3.png" alt="Whats New page"/>
          </td>
       </tr>
 </table>  
