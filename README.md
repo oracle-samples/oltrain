@@ -19,7 +19,7 @@
             </ul>
          </td>
       <tr>   
-         <td><img src="../../common/images/whats-new3.png" alt=""></img>
+         <td><img src="../common/images/whats-new3.png" alt=""></img>
          </td>
       </tr>
 </table>  
