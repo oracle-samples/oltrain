@@ -4,7 +4,7 @@
 ![](common/images/ol-train4.png)
 ---
 
-<table width="1200">
+<table width="1200" style="background-color: yellow">
 <colgroup>
    <col width="900">
    <col width="300">
@@ -13,7 +13,7 @@
          <td><h4>Head to the Oracle Linux Training Station tracks below to learn about Linux and Virtualization products. These tracks provide you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises.</p>
 <p>WHats new graphic here</h4>
          </td>
-         <td style="background-color: red" valign="top"><b>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</b>
+         <td valign="top"><b>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</b>
             <ul>
                <li><a href="../../OCNE/ocne.md#kubernetes-videos">Kubernetes content</a></li>
                <li><a href="../../OL/virt/virt.md#container-videos">Container content</a></li>
