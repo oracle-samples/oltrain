@@ -10,7 +10,7 @@
    <col width="300">
 </colgroup>
       <tr>   
-         <td><p>Head to the Oracle Linux Training Station tracks below to learn about Linux and Virtualization products. These tracks provide you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises.</p>
+         <td><p style="color:DodgerBlue;">Head to the Oracle Linux Training Station tracks below to learn about Linux and Virtualization products. These tracks provide you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises.</p>
 <p>WHats new graphic here</p>
          </td>
          <td valign="top"><p>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</p>
