@@ -27,7 +27,7 @@
 
 ![](common/images/whats-new3.png)  
    
-<img src="common/images/whats-new3.png" alt="blah blah" width="460" height="345">      
+<img src="common/images/whats-new3.png" alt="blah blah">      
    
    
    
