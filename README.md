@@ -4,12 +4,24 @@
 ![](common/images/ol-train4.png)
 ---
 
-<aside style="width 30%;float:right;background-colour:lightgrey">
-   <p>Quickly view our most popular topics. Click the links here to jump straight to the many free videos and hands on labs.</p>
-   <ul>
-      <li>Kubernetes</li>
-      <li>Containers</li>
-</aside>
+table width="1200">
+<colgroup>
+   <col width="900">
+   <col width="300">
+</colgroup>
+      <tr>   
+         <td valign="top"><p>Head to the Oracle Linux Training Station tracks below to learn about Linux and Virtualization products. These tracks provide you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises.</p>
+<p>WHats new graphic here</p>
+         </td>
+         <td valign="top"><b>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</b>
+            <ul>
+               <li>Kubernetes</li>
+               <li>Containers</li>
+            </ul>
+         </td>
+      </tr>
+</table>  
+<br>
 
 Head to the Oracle Linux Training Station tracks below to learn about Linux and Virtualization products. These tracks provide you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises.
 [![whats new](common/images/whats-new2.png)](https://oracle-samples.github.io/oltrain/Whats_New/new.html)  
