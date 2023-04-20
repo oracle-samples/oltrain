@@ -3,6 +3,14 @@
 
 ![](common/images/ol-train4.png)
 ---
+
+<aside>
+   <p>Quickly view our most popular topics. Click the links here to jump straight to the many free videos and hands on labs.</p>
+   <ul>
+      <li>Kubernetes</li>
+      <li>Containers</li>
+</aside>
+
 Head to the Oracle Linux Training Station tracks below to learn about Linux and Virtualization products. These tracks provide you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises.
 [![whats new](common/images/whats-new2.png)](https://oracle-samples.github.io/oltrain/Whats_New/new.html)  
    
