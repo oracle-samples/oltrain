@@ -23,6 +23,7 @@
                	<li><a href="#oloci-quiz">Take the quiz</a></li>
             </ul>
          </td>
+	</tr>
       <tr>   
          <td>  </td>
       </tr>
