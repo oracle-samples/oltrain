@@ -11,7 +11,7 @@
    <col width="300">
 </colgroup>
       <tr>   
-         <td><p><b>This track provides a learning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.</b></p>
+         <td><h3><b>This track provides a learning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.</b></h3>
 	<p><b>As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.</b></p>
 	<p><b>Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.</b></p>
          </td>
@@ -81,7 +81,6 @@ Learn to provision and launch compute instances with the cloud web console to su
    
 ---
    
-![](../common/images/OLOCI-admin-header2.png)
 <p><img id="oloci-admin" src="../common/images/OLOCI-admin-header2.png"></p>
  
 
