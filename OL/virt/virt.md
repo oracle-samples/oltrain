@@ -113,7 +113,6 @@ An open-source system for automating the deployment, scaling and management of c
 </table>  
 <br>
    
-
 ### Kubernetes Hands On Labs
 
 <table width="500">
