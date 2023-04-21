@@ -106,7 +106,7 @@ An open-source system for automating the deployment, scaling and management of c
       <tr>   
          <td valign="top"><b>Use this link to get to all the available Kubernetes videos:</b>
             <ul>
-               <li><a href="../../OCNE/ocne.md#kubernetes-videos">Kubernetes videos</a></li>
+               <li><a href="https://oracle-samples.github.io/oltrain/OCNE/ocne.html#kubernetes-videos">Kubernetes videos</a></li>
             </ul>
          </td>
       </tr>
