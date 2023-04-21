@@ -2,14 +2,15 @@
 # Welcome to Linux on Oracle Cloud Infrastructure Track
 
 ![](../common/images/OLCI-1200x200-banner.png)
+   
 ---
 
 <table width="1200">
 <colgroup>
-   <col width="1000">
-   <col width="200">
+   <col width="900">
+   <col width="300">
 </colgroup>
-      <tr style="text-align:center;">   
+      <tr>   
          <td><p style="text-align:center;"><b>This track provides a learning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.</b></p>
 	<p><b>As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.</b></p>
 	<p><b>Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.</b></p>
@@ -26,7 +27,6 @@
          <td>&nbsp;</td>
       </tr>
 </table>    
-   
    
 ---
    
