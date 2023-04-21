@@ -2,31 +2,31 @@
 # Welcome to Linux on Oracle Cloud Infrastructure Track
 
 ![](../common/images/OLCI-1200x200-banner.png)
+   
 ---
-
+   
 <table width="1200">
 <colgroup>
-   <col width="1000">
-   <col width="200">
+   <col width="900">
+   <col width="300">
 </colgroup>
-      <tr style="text-align:center;">   
+      <tr>   
          <td><p style="text-align:center;"><b>This track provides a learning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.</b></p>
 	<p><b>As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.</b></p>
 	<p><b>Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.</b></p>
          </td>
          <td rowspan="2" valign="top"><p>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</p>
             <ul>
-               <li><a href="#oloci-security">Create SSH keys</a></li>
+               	<li><a href="#oloci-security">Create SSH keys</a></li>
 		<li><a href="#oloci-admin">Migrate Autonomous Linux to Cloud</a></li>
 		<li><a href="#oloci-vbox">Oracle VM VirtualBox</a></li>
-               <li><a href="#oloci-quiz">Take the quiz</a></li>
+               	<li><a href="#oloci-quiz">Take the quiz</a></li>
             </ul>
          </td>
       <tr>   
          <td>&nbsp;</td>
       </tr>
 </table>    
-   
    
 ---
    
@@ -80,7 +80,8 @@ Learn to provision and launch compute instances with the cloud web console to su
    
 ---
    
-<img id="oloci-admin" src="../common/images/OLOCI-admin-header2.png">
+![](../common/images/OLOCI-admin-header2.png)
+<p><img id="oloci-admin" src="../common/images/OLOCI-admin-header2.png"></p>
  
 
 Learn to administer compute instances using a range of tools and solutions provided to support your cloud solution in Oracle Cloud infrastructure.
@@ -141,7 +142,7 @@ Learn to administer compute instances using a range of tools and solutions provi
    
 ---
    
-<img id="oloci-security" src="../common/images/OLOCI-security-header2.png">
+<p><img id="oloci-security" src="../common/images/OLOCI-security-header2.png"></p>
 
 Learn to secure access to instances and manage traffic between virtual networks in Oracle Cloud Infrastructure.
 
@@ -311,7 +312,7 @@ Learn to implement KVM virtualization in Oracle Linux instances deployed on Orac
    
 ---
 
-<img id="oloci-vbox" src="../common/images/OLOCI-vbox-header.png">
+<p><img id="oloci-vbox" src="../common/images/OLOCI-vbox-header.png"></p>
 
 Learn about integrating Oracle VM VirtualBox virtualization with Oracle Cloud Infrastructure.
 
@@ -337,7 +338,7 @@ Watch all the free content here on the Oracle VM VirtualBox Training Track: **[O
 
 ---
 
-<img id="oloci-quiz" src="../common/images/quiz1.png">
+<p><img id="oloci-quiz" src="../common/images/quiz1.png"></p>
    
    
 Test your skills on what you have learned with this quiz.   
