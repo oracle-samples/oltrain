@@ -119,7 +119,7 @@ An open-source system for automating the deployment, scaling and management of c
       <tr>   
          <td valign="top"><b>Use this link to go to the full list of free Kubernetes labs:</b>
             <ul>
-               <li><a href="../../OCNE/ocne.md#kubernetes-hands-on-lab">Kubernetes labs</a></li>
+               <li><a href="https://oracle-samples.github.io/oltrain/OCNE/ocne.html#kubernetes-hands-on-lab">Kubernetes labs</a></li>
             </ul>
          </td>
       </tr>
