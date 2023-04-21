@@ -10,9 +10,9 @@
    <col width="300">
 </colgroup>
       <tr style="text-align:center;">   
-         <td><p style="text-align:center;">This track provides an elearning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.</p>
-	<p>As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.</p>
-	<p>Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.</p>
+         <td><p style="text-align:center;"><b>This track provides an elearning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.</b></p>
+	<p><b>As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.</b></p>
+	<p><b>Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.</b></p>
          </td>
          <td rowspan="2" valign="top"><p>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</p>
             <ul>
