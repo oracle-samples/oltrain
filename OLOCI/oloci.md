@@ -11,7 +11,7 @@
    <col width="300">
 </colgroup>
       <tr>   
-         <td><p style="text-align:center;"><b>This track provides a learning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.</b></p>
+         <td><p><b>This track provides a learning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.</b></p>
 	<p><b>As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.</b></p>
 	<p><b>Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.</b></p>
          </td>
@@ -24,7 +24,7 @@
             </ul>
          </td>
       <tr>   
-         <td>&nbsp;</td>
+         <td>  </td>
       </tr>
 </table>    
    
