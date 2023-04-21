@@ -6,8 +6,8 @@
 
 <table width="1200">
 <colgroup>
-   <col width="900">
-   <col width="300">
+   <col width="1000">
+   <col width="200">
 </colgroup>
       <tr style="text-align:center;">   
          <td><p style="text-align:center;"><b>This track provides a learning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.</b></p>
