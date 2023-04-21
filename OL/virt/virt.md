@@ -100,17 +100,11 @@ Test your skills on what you have learned about working with containers on Oracl
 
 ### Kubernetes Videos
 
-[![](../../common/images/tour_300.png)](https://youtu.be/syBe1H-qe8U)
-[![](../../common/images/resources_300.png)](https://youtu.be/e5m3TlvM4y4)
-[![](../../common/images/minikube_300.png)](https://youtu.be/u1qY8ax0U44)
-
-
-You can find even more Kubernetes videos here: [More Kubernetes videos](../../OCNE/ocne.md#kubernetes-videos)
-
+An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.
 
 <table width="600">
       <tr>   
-         <td valign="top"><b>You can find even more Kubernetes videos here:</b>
+         <td valign="top"><b>Use this link to get to all the Kubernetes videos:</b>
             <ul>
                <li><a href="../../OCNE/ocne.md#kubernetes-videos">More Kubernetes videos</a></li>
             </ul>
@@ -122,21 +116,9 @@ You can find even more Kubernetes videos here: [More Kubernetes videos](../../OC
 
 ### Kubernetes Hands On Labs
 
-<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
-<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
-   <img src="../../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
-   </a></p> 
-
-[![](../../common/images/mini_lab.png)](https://luna.oracle.com/lab/8b2f7860-3204-4cd3-8d55-3f6de9ca03c2)
-[![](../../common/images/runkub_lab.png)](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
-
-
-You can find even more Kubernetes videos here: [More Kubernetes videos](../../OCNE/ocne.md#kubernetes-videos)
-
-
 <table width="600">
       <tr>   
-         <td valign="top"><b>You can find even more Kubernetes labs here:</b>
+         <td valign="top"><b>Use this link to go to the full list of free Kubernetes labs:</b>
             <ul>
                <li><a href="../../OCNE/ocne.md#kubernetes-hands-on-labs">More Kubernetes labs</a></li>
             </ul>
