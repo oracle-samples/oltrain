@@ -2,7 +2,6 @@
 # Welcome to Linux on Oracle Cloud Infrastructure Track
 
 ![](../common/images/OLCI-1200x200-banner.png)
-   
 ---
    
 <table width="1200" cellpadding="10">
