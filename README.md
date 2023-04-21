@@ -4,7 +4,7 @@
 ![](common/images/ol-train4.png)
 ---
 
-<table width="1200" cellspacing="10" cellpadding="20">
+<table width="1200" cellspacing="50" cellpadding="50">
 <colgroup>
    <col width="900">
    <col width="300">
