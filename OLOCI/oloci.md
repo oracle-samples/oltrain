@@ -5,17 +5,17 @@
    
 ---
    
-<table width="1200">
+<table width="1200" cellpadding="10">
 <colgroup>
    <col width="900">
    <col width="300">
 </colgroup>
       <tr>   
          <td><h3><b>This track provides a learning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.</b></h3>
-	<p><b>As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.</b></p>
-	<p><b>Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.</b></p>
+	<p><h3>As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.</b></h3>
+	<h3><b>Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.</b></h3>
          </td>
-         <td rowspan="2" valign="top"><p>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</p>
+         <td rowspan="2"><p>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</p>
             <ul>
                	<li><a href="#oloci-security">Create SSH keys</a></li>
 		<li><a href="#oloci-admin">Migrate Autonomous Linux to Cloud</a></li>
