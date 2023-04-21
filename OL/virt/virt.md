@@ -104,9 +104,9 @@ An open-source system for automating the deployment, scaling and management of c
 
 <table width="600">
       <tr>   
-         <td valign="top"><b>Use this link to get to all the Kubernetes videos:</b>
+         <td valign="top"><b>Use this link to get to all the available Kubernetes videos:</b>
             <ul>
-               <li><a href="../../OCNE/ocne.md#kubernetes-videos">More Kubernetes videos</a></li>
+               <li><a href="../../OCNE/ocne.md#kubernetes-videos">Kubernetes videos</a></li>
             </ul>
          </td>
       </tr>
@@ -120,7 +120,7 @@ An open-source system for automating the deployment, scaling and management of c
       <tr>   
          <td valign="top"><b>Use this link to go to the full list of free Kubernetes labs:</b>
             <ul>
-               <li><a href="../../OCNE/ocne.md#kubernetes-hands-on-labs">More Kubernetes labs</a></li>
+               <li><a href="../../OCNE/ocne.md#kubernetes-hands-on-labs">Kubernetes labs</a></li>
             </ul>
          </td>
       </tr>
