@@ -5,6 +5,7 @@ Oracle Ksplice allows you to install the latest kernel and key user-space securi
 [![](../../common/images/runn_ksp_300.png)](https://youtu.be/pl4lJOY5iw4)
 [![](../../common/images/runn_upt_300.png)](https://youtu.be/-4morE8SQK4)
 [![](../../common/images/unin_ksp_300.png)](https://youtu.be/G0j1XYNkomY)
+[![](../../common/images/ked_ksp_300.png)](https://youtu.be/13R21lfYy74)
 
 ## Oracle Ksplice Hands On Lab
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
