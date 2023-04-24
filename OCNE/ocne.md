@@ -100,7 +100,7 @@ The following videos will show how you can use Podman to pull container images a
 </table>  
 <br>   
    
-### Podman Hands On Labs
+## Podman Hands On Labs
 
 These hands-on lab provides step-by-step procedures to complete specific Podman tasks in an Oracle-provided free lab environment. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
