@@ -2,7 +2,7 @@
 # Welcome to Oracle Linux Training Station <a name="top"></a>
 
 ![](common/images/ol-train4.png)
----
+   
 <table width="1200">
 <colgroup>
    <col width="900">
@@ -22,7 +22,7 @@
          </td>
 		 </tr>
       <tr>   
-         <td align="center"><a href="Whats_New/new.md"><img src="common/images/whats-new3.png" alt="New content"></a></td>
+         <td align="center"><a href="https://oracle-samples.github.io/oltrain/Whats_New/new.html"><img src="common/images/whats-new3.png" alt="New content"></a></td>
       </tr>
 </table>
    
