@@ -2,7 +2,7 @@
 # Welcome to Oracle Linux Training Station <a name="top"></a>
 
 ![](common/images/ol-train4.png)
----
+   
 <table width="1200">
 <colgroup>
    <col width="900">
