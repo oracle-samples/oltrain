@@ -106,7 +106,7 @@ These hands-on lab provides step-by-step procedures to complete specific Podman 
 
 <table width="500">
       <tr>   
-         <td valign="top"><b>Use this link to go to the full list of free POdman labs:</b>
+         <td valign="top"><b>Use this link to go to the full list of free Podman labs:</b>
             <ul>
                <li><a href="https://oracle-samples.github.io/oltrain/OL/virt/virt.html#container-hands-on-labs">Podman labs</a></li>
             </ul>
