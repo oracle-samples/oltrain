@@ -82,6 +82,39 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/mini_lab.png)](https://luna.oracle.com/lab/8b2f7860-3204-4cd3-8d55-3f6de9ca03c2)
 
 ---
+## POdman
+
+### Podman Videos
+
+ Podman provides a lightweight utility to run and manage Open Container Initiative (OCI) compatible containers. A Podman deployment can re-use existing container images that are designed for Kubernetes, Oracle Container Runtime for Docker, and Oracle Cloud Native Environment.
+
+<table width="500">
+      <tr>   
+         <td valign="top"><b>Use this link to get to all the available Kubernetes videos:</b>
+            <ul>
+               <li><a href="https://oracle-samples.github.io/oltrain/OL/virt/virt.html#container-videos">Podman videos</a></li>
+            </ul>
+         </td>
+      </tr>
+</table>  
+<br>   
+   
+### Podman Hands On Labs
+
+<table width="500">
+      <tr>   
+         <td valign="top"><b>Use this link to go to the full list of free Kubernetes labs:</b>
+            <ul>
+               <li><a href="https://oracle-samples.github.io/oltrain/OL/virt/virt.html#container-hands-on-labs">Podman labs</a></li>
+            </ul>
+         </td>
+      </tr>
+</table>  
+<br>
+
+
+---
+
 ## Kata Container Videos
 Kata Container software delivers the framework for creating lightweight virtual machines (VMs) that easily plug into container ecosystems. Kata Containers offer similar virtual machine levels of security while maintaining the efficiencies gained from the deployment of traditional containers.
 
