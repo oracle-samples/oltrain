@@ -4,8 +4,28 @@
 ![](common/images/ol-train4.png)
 ---
 
-Head to the Oracle Linux Training Station tracks below to learn about Linux and Virtualization products. These tracks provide you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises.
-[![whats new](common/images/whats-new2.png)](https://oracle-samples.github.io/oltrain/Whats_New/new.html)  
+<table width="1200" cellpadding="50">
+<colgroup>
+   <col width="900">
+   <col width="300">
+</colgroup>
+      <tr>   
+         <td><h3>Head to the Oracle Linux Training Station tracks below to learn about Linux and Virtualization products.</h3>		    
+		 <h3>hese tracks provide you with immediate learning opportunities consisting of hundreds of short video demonstrations and guided exercises in free real hands-on lab environments.</h3>
+         </td>
+         <td rowspan="2" valign="top"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</i></p>
+            <ul>
+               <li><a href="https://oracle-samples.github.io/oltrain/OCNE/ocne.md#kubernetes-videos">Kubernetes</a></li>
+               <li><a href="https://oracle-samples.github.io/oltrain/OL/virt/virt.md#container-videos">Containers</a></li>
+               <li><a href="https://oracle-samples.github.io/oltrain/VBOX/vbox.html">Oracle VM VirtualBox</a></li>
+               <li><a href="https://oracle-samples.github.io/oltrain/OLVM/olvm.html">Oracle Linux Virtualization Manager</a></li>
+            </ul>
+         </td>
+		 </tr>
+      <tr>   
+         <td><a href="Whats_New/new.md"><img src="common/images/whats-new3.png" alt="New content"></a></td>
+      </tr>
+</table>
    
 ---
 
