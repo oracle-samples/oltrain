@@ -82,11 +82,11 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/mini_lab.png)](https://luna.oracle.com/lab/8b2f7860-3204-4cd3-8d55-3f6de9ca03c2)
 
 ---
-## POdman
+## Podman
 
 ### Podman Videos
 
- Podman provides a lightweight utility to run and manage Open Container Initiative (OCI) compatible containers. A Podman deployment can re-use existing container images that are designed for Kubernetes, Oracle Container Runtime for Docker, and Oracle Cloud Native Environment.
+Podman provides a lightweight utility to run and manage Open Container Initiative (OCI) compatible containers. A Podman deployment can re-use existing container images that are designed for Kubernetes, Oracle Container Runtime for Docker, and Oracle Cloud Native Environment.
 
 <table width="500">
       <tr>   
