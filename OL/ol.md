@@ -229,6 +229,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Run Ksplice commands</li>
                <li>Run uptrack commands</li>
                <li>Uninstall Ksplice</li>
+               <li>Ksplice Known Exploit Detection</li>
             </ul>
          </td>
          <td valign="top"><b>Practice the following with real hands on labs:</b>
