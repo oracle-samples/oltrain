@@ -3,6 +3,39 @@
 
 ![](../common/images/OCNE-banner.jpg)
 ---
+   
+<table width="1200">
+<colgroup>
+   <col width="900">
+   <col width="300">
+</colgroup>
+   <tr>   
+      <td>
+	 <h3><b>This track contains videos to facilitate your usage of the technologies, software and tools used by Oracle to develop microservices-based applications that can be deployed in environments that support open standards and specifications.</b></h3>
+	 <p>On these pages you will find material such as videos, documents and useful resource links covering areas including the following:</p>
+    <ul>
+       <li>Container Runtime</li>
+	    <li>Orchestration and Deployment</li>
+	    <li>Microservices Traffic Management</li>
+       <li>Management Operations</li>
+       <li>Monitoring</li>
+     </ul>
+	  <p>Information and videos presented here cover Microservices technologies which are components of the Oracle Cloud Native Environment General Availability announcement, as well as additional technologies to help you expand your learning of microservices.</p>
+      </td>
+      <td rowspan="2"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</i></p>
+         <ul>
+            <li><a href="#kubernetes-videos">Kubernetes</a></li>
+	    <li><a href="#podman-videos">Podman</a></li>
+	    <li><a href="#installation-hands-on-labs">Free Installation labs</a></li>
+            <li><a href="#quiz">Take the quiz</a></li>
+         </ul>
+      </td>
+   </tr>
+   <tr>   
+      <td>  </td>
+   </tr>
+</table>   
+   
 This track contains videos to facilitate your usage of the technologies, software and tools used by Oracle to develop microservices-based applications that can be deployed in environments that support open standards and specifications.
 
 On these pages you will find material such as videos, documents and useful resource links covering areas including the following:
