@@ -13,11 +13,11 @@
 	 <h3><b>This track contains videos to facilitate your usage of the technologies, software and tools used by Oracle to develop microservices-based applications that can be deployed in environments that support open standards and specifications.</b></h3>
 	 <p>On these pages you will find material such as videos, documents and useful resource links covering areas including the following:</p>
     <ul>
-       <li>Container Runtime</li>
-	    <li>Orchestration and Deployment</li>
-	    <li>Microservices Traffic Management</li>
-       <li>Management Operations</li>
-       <li>Monitoring</li>
+        <li>Container Runtime</li>
+	<li>Orchestration and Deployment</li>
+	<li>Microservices Traffic Management</li>
+        <li>Management Operations</li>
+        <li>Monitoring</li>
      </ul>
 	  <p>Information and videos presented here cover Microservices technologies which are components of the Oracle Cloud Native Environment General Availability announcement, as well as additional technologies to help you expand your learning of microservices.</p>
       </td>
