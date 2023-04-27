@@ -22,7 +22,7 @@
      </ul>
 	  <p>Information and videos presented here cover Microservices technologies which are components of the Oracle Cloud Native Environment General Availability announcement, as well as additional technologies to help you expand your learning of microservices.</p>
       </td>
-      <td rowspan="2"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</i></p>
+      <td rowspan="2" valign="top"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos, hands on labs and more:</i></p>
          <ul>
             <li><a href="#kubernetes-videos">Kubernetes</a></li>
 	    <li><a href="#podman-videos">Podman</a></li>
