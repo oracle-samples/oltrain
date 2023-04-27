@@ -2,7 +2,6 @@
 # Welcome to Oracle Cloud Native Environment Track <a name="ocne"></a>
 
 ![](../common/images/OCNE-banner.jpg)
----
    
 <table width="1200">
 <colgroup>
