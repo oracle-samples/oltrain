@@ -41,6 +41,7 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Use Quick Install to Deploy Oracle Cloud Native Environment](https://luna.oracle.com/lab/42f9b19b-e254-42cf-885d-a80127d9d751)
 - [Provision PersistentVolumes Using File Storage Service on Oracle Cloud Native Environment](https://luna.oracle.com/lab/5d95fdca-c690-4ebf-8ac0-315ac095ac59)
 - [Upgrade to Oracle Cloud Native Environment 1.6](https://luna.oracle.com/lab/fa8fc61b-893c-4507-93a2-711540e9ace7)
+- [Introducing Kubectl with Oracle Cloud Native Environment](https://luna.oracle.com/lab/6c65a513-b161-47d2-b45c-92ca02e38dc0)
 
 ---
    
