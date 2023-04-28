@@ -2,14 +2,38 @@
 # Welcome to Oracle Linux Virtualization Manager Track
 
 ![](../common/images/OLVM-1200x200-banner.png)
----
-This track contains videos to facilitate your usage of the technologies and tools used by Oracle Linux Virtualization Manager. Oracle Linux Virtualization Manager is an open-source distributed server virtualization solution, easily deployed to configure, monitor, and manage an Oracle Linux Kernel-based Virtual Machine (KVM) environment with enterprise-grade performance and support from Oracle.
 
-On these pages you will find material such as videos, documents and useful resource links covering areas including the following:
-- Implementing and administering the system as a large scale, centralized management for server virtualization.
-- Building infrastructure and adding Virtual Machines and resources using fully featured software targeted to enterprise systems and deployments.
 
-Information and videos presented here cover technologies and components to help you expand your learning of the Oracle Linux Virtualization Manager system.
+<table width="1200">
+<colgroup>
+   <col width="900">
+   <col width="300">
+</colgroup>
+   <tr>   
+      <td>
+	 <h3><b>This track contains videos to facilitate your usage of the technologies and tools used by Oracle Linux Virtualization Manager. Oracle Linux Virtualization Manager is an open-source distributed server virtualization solution, easily deployed to configure, monitor, and manage an Oracle Linux Kernel-based Virtual Machine (KVM) environment with enterprise-grade performance and support from Oracle.</b></h3>
+	 <p>On these pages you will find material such as videos, documents and useful resource links covering areas including the following:</p>
+    <ul>
+       <li>Implementing and administering the system as a large scale, centralized management for server virtualization</li>
+	    <li>Building infrastructure and adding Virtual Machines and resources using fully featured software targeted to enterprise systems and deployments</li>
+     </ul>
+	  <p>Information and videos presented here cover technologies and components to help you expand your learning of the Oracle Linux Virtualization Manager system.</p>
+      </td>
+      <td rowspan="2" valign="top"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos, hands on labs and more:</i></p>
+         <ul>
+            <li><a href="#administration-and-deployment-videos">Deploying Hyper-Converged Architecture</a></li>
+	         <li><a href="#managing-virtual-machines-videos">Creating a Virtual Machine</a></li>
+            <li><a href="#backup-and-recovery-videos">Disaster Recovery</a></li>
+            <li><a href="#olvm-quiz">Take the quiz</a></li>
+         </ul>
+      </td>
+   </tr>
+   <tr>   
+      <td>  </td>
+   </tr>
+</table> 
+
+
 
 ## Administration and Deployment Videos
 The following content will introduce you to the administration of the Oracle Linux Virtualization Manager environment as well as the deployment of hosts and architectural resources.
@@ -59,7 +83,7 @@ The following content will introduce you to Cloud Administration of the Oracle L
 
 ---
 
-![](../common/images/quiz1.png)
+<p><img id="olvm-quiz" src="../common/images/quiz1.png"></p>
    
   
 Test your skills on what you have learned with this quiz.   
