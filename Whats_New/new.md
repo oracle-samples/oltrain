@@ -11,6 +11,7 @@ This page highlights the videos and hands on labs that have been added to the le
 ### New Videos
 
 - [Install Oracle Linux 9](https://youtu.be/BDmBtP4Y7Wg)
+- [Ksplice Known Exploit Detection](https://youtu.be/13R21lfYy74)
 
 ### New Hands On Labs
 

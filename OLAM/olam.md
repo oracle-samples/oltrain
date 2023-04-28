@@ -31,6 +31,7 @@ Practice your skills with Oracle Linux Automation Manager with these free hands 
    <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
    </a></p> 
 
+[![](../common/images/instolam_lab.png)](https://luna.oracle.com/lab/ecf924b0-a2e1-49eb-8700-8c8bea5d7502)
 [![](../common/images/quick_start_olam2_lab.png)](https://luna.oracle.com/lab/4a1dcd6e-231c-4724-ae52-8d56431a2888)
 [![](../common/images/upgdolam2_lab.png)](https://luna.oracle.com/lab/6c7124cc-474f-4dd4-89fa-9beb536c71f5)
 [![](../common/images/migrate_olam2_lab.png)](https://luna.oracle.com/lab/d1847f91-0cdc-41b8-afc4-eb6d0ccd40c2)
@@ -71,17 +72,6 @@ These videos will get you started with the installation and overview of Oracle L
 
 [![](../common/images/install_olam_300.png)](https://youtu.be/-RCqGHhweo0)
 [![](../common/images/get_started_olam_300.png)](https://youtu.be/EEWdxROy-nM)
-
-### Installing Oracle Linux Automation Manager Hands On Lab
-
-Practice your skills with Oracle Linux Automation Manager version 1.0 with these free hands on labs.
-
-<p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
-<p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
-   <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
-   </a></p> 
-
-[![](../common/images/instolam_lab.png)](https://luna.oracle.com/lab/ecf924b0-a2e1-49eb-8700-8c8bea5d7502)
 
 ### Administering Oracle Linux Automation Manager Videos
 
