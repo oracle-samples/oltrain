@@ -24,6 +24,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/systemd_lab.png)](https://luna.oracle.com/lab/8a060473-bff3-4c04-9799-eb944951007c)
 [![](../../common/images/centos7.png)](https://luna.oracle.com/lab/660a07d9-0580-4fae-973b-d5dfaebda1cb)
 [![](../../common/images/centos.png)](https://docs.oracle.com/en/learn/switch_centos8_linux8/index.html)
+[![](../../common/images/disable_kernel_module.png)](https://luna.oracle.com/lab/00aafe17-39b9-43e0-8b53-087b84003c15)
 
 ---
 
