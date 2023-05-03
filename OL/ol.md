@@ -118,6 +118,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>Leapp</li>
                <li>Control groups and SELinux</li>
                <li>FreeIPA and Keycloak</li>
+               <li>Disable a Kernel Module</li>
             </ul>
          </td>
      </tr>
