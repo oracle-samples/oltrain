@@ -31,6 +31,7 @@ This section provides video training for Day 0 configuration and for administrat
 <br>
 
 ![](../common/images/pca-page-compencl2.png)
+<p><img id="opca-compencl" src="../common/images/pca-page-compencl2.png"></p>
 
 The Compute Enclave offers functionality to users of the cloud environment, and are very similar in operation to the corresponding Oracle Cloud Infrastructure services. Users of the Compute Enclave have certain permissions to enable the deployment of customer workloads through compute instances and associated resources. Cloud services include the compute and storage services, identity and access management, and networking.
 
@@ -39,6 +40,7 @@ This section provides video training for administrator and user tasks performed 
 <br>
 
 ![](../common/images/pca-page-ocicli.png)
+<p><img id="opca-ocicli" src="../common/images/pca-page-ocicli.png"></p>
 
 [![](../common/images/install_cli_300.png)](https://youtu.be/SNtGCBl_yZE)
 [![](../common/images/config_cli_300.png)](https://youtu.be/x2iWGXIa-rQ)
@@ -46,6 +48,7 @@ This section provides video training for administrator and user tasks performed 
 <br>
 
 ![](../common/images/pca-page-iam4x.png)
+<p><img id="opca-iam" src="../common/images/pca-page-iam4x.png"></p>
 
 [![](../common/images/user_grp_pca_300.png)](https://youtu.be/D0CxmJ6pn4U)
 [![](../common/images/comp_pol_pca_300.png)](https://youtu.be/KV4sQOWXab8)
@@ -56,6 +59,7 @@ This section provides video training for administrator and user tasks performed 
 <br>
 
 ![](../common/images/pca-page-network4.png)
+<p><img id="opca-network" src="../common/images/pca-page-network4.png"></p>
 
 [![](../common/images/create_vcn_pca_300.png)](https://youtu.be/OCasg_HQ3LI)
 [![](../common/images/ig_pca_300.png)](https://youtu.be/H8GwY7i720A)
@@ -64,6 +68,7 @@ This section provides video training for administrator and user tasks performed 
 <br>
 
 ![](../common/images/pca-page-compinst4.png)
+<p><img id="opca-compinst" src="../common/images/pca-page-compinst4.png"></p>
 
 [![](../common/images/imp_img_pca_300.png)](https://youtu.be/fToYmmf6NFk)
 [![](../common/images/man_com_pca_300.png)](https://youtu.be/lxD2w1Chyxg)
@@ -73,6 +78,7 @@ This section provides video training for administrator and user tasks performed 
 <br>
 
 ![](../common/images/pca-page-storage4.png)
+<p><img id="opca-storage" src="../common/images/pca-page-storage4.png"></p>
 
 [![](../common/images/blk_vol_pca_300.png)](https://youtu.be/s5N6mGxUNew)
 [![](../common/images/boot_vol_pca_300.png)](https://youtu.be/Vo4119i8HsU)
