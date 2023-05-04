@@ -17,6 +17,7 @@ Oracle Linux Automation Manager provides features that allow your organization t
 ---
 
 ![](../common/images/OLAM-ver2-section2.png)
+<p><img id="olam-ver2" src="../common/images/OLAM-ver2-section2.png"></p>
 
 ### Oracle Linux Automation Manager Videos
 
@@ -45,6 +46,7 @@ Practice your skills with Oracle Linux Automation Manager with these free hands 
 ---
 
 ![](../common/images/OLAM-engine-section.png)
+<p><img id="olam-engine" src="../common/images/OLAM-engine-section.png"></p>
 
 ### Working with Oracle Linux Automation Manager Engine Hands On Labs
 
@@ -65,6 +67,7 @@ Practice your skills with Oracle Linux Automation Manager Engine with these free
 ---
 
 ![](../common/images/OLAM-ver1-section1.png)
+<p><img id="olam-ver1" src="../common/images/OLAM-ver1-section1.png"></p>
 
 ### Installing Oracle Linux Automation Manager Videos
 
