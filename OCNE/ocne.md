@@ -99,8 +99,9 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
    <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
    </a></p> 
 
-[![](../common/images/runkub_lab.png)](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
-[![](../common/images/mini_lab.png)](https://luna.oracle.com/lab/8b2f7860-3204-4cd3-8d55-3f6de9ca03c2)
+[![](../common/images/runkub_lab_new.png)](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
+[![](../common/images/mini_lab_new.png)](https://luna.oracle.com/lab/8b2f7860-3204-4cd3-8d55-3f6de9ca03c2)
+[![](../common/images/ocne-intro-kubectl.png)](https://luna.oracle.com/lab/6c65a513-b161-47d2-b45c-92ca02e38dc0)
 
 ---
 
