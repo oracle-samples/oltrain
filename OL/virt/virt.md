@@ -44,7 +44,7 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
 <br>
 
 <p><img id="containers" src="../../common/images/OL-virt-containers.png"></p>
-<h2 id="containers-videos">Videos</h2>
+<h2 id="ol-containers-videos">Videos</h2>
 <br>
 
 [![](../../common/images/overview_300.png)](https://youtu.be/V9sOZHfuvVM)
@@ -60,7 +60,7 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
 [![](../../common/images/dockerfile_300.png)](https://youtu.be/AkvluNPzGSY)
 [![](../../common/images/chroot_300.png)](https://youtu.be/dxzwxvn621w)
 
-<h2 id="containers-hands-on-labs">Hands On Labs</h2>
+<h2 id="ol-containers-hands-on-labs">Hands On Labs</h2>
 <br>
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
@@ -107,28 +107,25 @@ Test your skills on what you have learned about working with containers on Oracl
 
 <p><img src="../../common/images/OL-virt-kubern.png"></p>
 <h2>Videos</h2>
-<br>
-
-An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.
+<p>An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.</p>
 
 <table width="500">
       <tr>   
          <td valign="top"><b>Use this link to get to all the available Kubernetes videos:</b>
             <ul>
-               <li><a href="https://oracle-samples.github.io/oltrain/OCNE/ocne.html#kubernetes-videos">Kubernetes videos</a></li>
+               <li><a href="https://oracle-samples.github.io/oltrain/OCNE/ocne.html#ocne-kubernetes-videos">Kubernetes videos</a></li>
             </ul>
          </td>
       </tr>
-</table>  
+</table>     
 <br>   
-   
-<h2>Videos</h2>
+<h2>Hands On Labs</h2>
 
 <table width="500">
       <tr>   
          <td valign="top"><b>Use this link to go to the full list of free Kubernetes labs:</b>
             <ul>
-               <li><a href="https://oracle-samples.github.io/oltrain/OCNE/ocne.html#kubernetes-hands-on-lab">Kubernetes labs</a></li>
+               <li><a href="https://oracle-samples.github.io/oltrain/OCNE/ocne.html#ocne-kubernetes-hands-on-lab">Kubernetes labs</a></li>
             </ul>
          </td>
       </tr>
