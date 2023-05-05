@@ -118,7 +118,7 @@ Test your skills on what you have learned about working with containers on Oracl
          </td>
       </tr>
 </table>     
-   
+<br>   
 <h2>Hands On Labs</h2>
 
 <table width="500">
