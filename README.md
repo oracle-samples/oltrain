@@ -33,43 +33,43 @@
 - [Oracle Linux](./OL/ol.md) - Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
    
 ---
-<br>
+
 <p><img id="oloci" src="common/images/OLCI-banner-v2.png"></p>   
    
 - [Linux on Oracle Cloud Infrastructure](./OLOCI/oloci.md) - See how to use Linux to deliver powerful compute and networking performance with a comprehensive portfolio of infrastructure and platform cloud services.
    
 ---
-<br>
+
 <p><img id="ocne" src="common/images/OCNE-banner-v2.png"></p>   
    
 - [Oracle Cloud Native Environment](./OCNE/ocne.md) - Learn how you can deploy the software and tools to develop microservices-based applications in-line with open standards and specifications.
    
 ---
-<br>
+
 <p><img id="olam" src="common/images/OLAM-banner-v2.png"></p>   
    
 - [Oracle Linux Automation Manager](./OLAM/olam.md) - Learn how to use Oracle Linux Automation Engine as an automation tool for deploying software, configuring systems, and orchestrating tasks such as upgrades and updates, in the form of playbooks.
    
 ---
-<br>
+
 <p><img id="olvm" src="common/images/OLVM-banner-v2.png"></p>   
    
 - [Oracle Linux Virtualization Manager](./OLVM/olvm.md) - Use resources available to adopt this open-source distributed server virtualization solution. Gain proficiency in deploying, configuring, monitoring, and managing an Oracle Linux Kernel-based Virtual Machine (KVM) environment with enterprise-grade performance.
    
 ---
-<br>
+
 <p><img id="osms" src="common/images/osms-banner3.png"></p>   
    
 - [OS Management Service](./OSMS/osms.md) - Learn how to use the OS Management service to manage updates and patches for your operating system environments on your Oracle Cloud Infrastructure instances.
    
 ---
-<br>
+
 <p><img id="opca" src="common/images/PCA-banner-v23.png"></p>   
    
 - [Oracle Private Cloud Appliance](./OPCA/opca.md) - Learn to perform various user and administrative tasks from the Compute Enclave and from the Service Enclave.
    
 ---
-<br>
+
 <p><img id="vbox" src="common/images/vbox-banner.png"></p>   
    
 - [Oracle VM VirtualBox](./VBOX/vbox.md) - Learn to use Oracle VM VirtualBox virtualization software to run and test multiple operating systems concurrently on a single system, reducing operational costs and shortening the time needed to securely deploy applications on-premises and to the cloud.   
