@@ -26,7 +26,7 @@
             <li><a href="#ocne-kubernetes">Kubernetes</a></li>
 	    <li><a href="https://oracle-samples.github.io/oltrain/OL/virt/virt.html#containers">Podman</a></li>
 	    <li><a href="#install-hands-on-labs">Free Installation labs</a></li>
-            <li><a href="#olvm-quiz">Take the quiz</a></li>
+            <li><a href="#ocne-quiz">Take the quiz</a></li>
          </ul>
       </td>
    </tr>
