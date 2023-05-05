@@ -57,7 +57,7 @@
 <br>
 <br>
    
-<h2 id="install-hands-on-labs">Hands On Labs</h2>
+<h2>Hands On Labs</h2>
 <p>Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.</p>
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
