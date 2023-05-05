@@ -161,7 +161,7 @@ The following video will introduce you to Kata Containers functionality and demo
 <br>
 
 <p><img id="ocne-istio" src="../common/images/OCNE-istio-section.png"></p>
-<h2>Videos</h2>s
+<h2>Videos</h2>
 Operating as a service mesh for managing the interaction and operation of services in a microservices architecture. Istio coordinates communication between services, providing service discovery, load balancing, security, recovery, telemetry, and policy enforcement capabilities.
 
 The following videos will introduce you to the role of Istio in supporting the microservices framework. You will learn about the Istio architecture and its sidecar proxy capabilities implemented in a Kubernetes cluster.
