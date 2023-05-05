@@ -24,7 +24,7 @@
       <td rowspan="2" valign="top"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos, hands on labs and more:</i></p>
          <ul>
             <li><a href="#ocne-kubernetes">Kubernetes</a></li>
-	    <li><a href="#ol-podman">Podman</a></li>
+	    <li><a href="https://oracle-samples.github.io/oltrain/OL/virt/virt.html#ol-containers">Podman</a></li>
 	    <li><a href="#install-hands-on-labs">Free Installation labs</a></li>
             <li><a href="#olvm-quiz">Take the quiz</a></li>
          </ul>
