@@ -27,7 +27,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 
 ---
 
-<p><img id="ol-instboot-quiz" src="../../common/images/quiz1.png"></p>
+<p><img id="installation-quiz" src="../../common/images/quiz1.png"></p>
    
    
 Test your skills on what you have learned about installation and the boot process with this quiz.   
