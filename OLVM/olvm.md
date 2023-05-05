@@ -54,7 +54,7 @@
 ---
 <br>
 <p><img id="olvm-vm" src="../common/images/OLVM-vm-section.png"></p>
-<h3>Videos</h3>
+<h2>Videos</h2>
 <p>The following content will introduce you to Oracle Linux Virtualization Manager Virtual Machine implementation and demonstrates deployment of VMs through the Administration Portal and VM Portal graphical interfaces.</p>
    
 [![](../common/images/create_vm_olvm_300.png)](https://youtu.be/clYVICSQ4MY)
@@ -67,7 +67,7 @@
 ---
 <br>
 <p><img id="olvm-storage" src="../common/images/OLVM-storage-section.png"></p>
-<h3>Videos</h3>
+<h2>Videos</h2>
 <p>The following content will introduce you to storage concepts and how to create, attach and maintain various storage types in your Oracle Linux Virtualization Manager enterprise environment.</p>
    
 [![](../common/images/iscsi_olvm_300.png)](https://youtu.be/EeOL9wjwoMU)
@@ -77,7 +77,7 @@
 ---
 <br>
 <p><img id="olvm-backup" src="../common/images/OLVM-backup-section.png"></p>
-<h3>Videos</h3>
+<h2>Videos</h2>
 <p>The following content will introduce you to Oracle Linux Virtualization Manager backup and recovery solutions.</p>
    
 [![](../common/images/act_pas_dr_olvm_300.png)](https://youtu.be/0VSo7ZGIdo8)
@@ -85,7 +85,7 @@
 ---
 <br>
 <p><img id="olvm-oem" src="../common/images/OLVM-oem-section.png"></p>
-<h3>Videos</h3>
+<h2>Videos</h2>
 <p>The following content will introduce you to Cloud Administration of the Oracle Linux Virtualization Manager with Oracle Enterprise Manager 13c Cloud Control.</p>
    
 [![](../common/images/mon_olvm_oe_300.png)](https://youtu.be/834PviF4kV0)
