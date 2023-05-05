@@ -11,12 +11,11 @@ On these pages, you will find videos, documents, and other useful resources on t
 - Installing and Patching a Windows instance
 - Checking the status of the Oracle Cloud Agent
 
-
 <br>
 ---
-<br>
+   
 <p><img id="osms-install" src="../common/images/osms-install-section.png"></p>
-<h3>Videos</h3>
+<h2>Videos</h2>
 One of the first requirements to use the OS Management Service is to have a running instance of Linux or Windows.
 
 [![](../common/images/createinst-300.png)](https://youtu.be/tlwlLd4GvCc)
@@ -26,9 +25,9 @@ One of the first requirements to use the OS Management Service is to have a runn
 
 <br>
 ---
-<br>
+   
 <p><img id="osms-work" src="../common/images/osms-work-section.png"></p>
-<h3>Videos</h3>
+<h2>Videos</h2>
 These videos will provide information to get started and work with the OS Management Service on Linux and Windows instances.
 
 [![](../common/images/start-osmslinux-300.png)](https://youtu.be/7qmy5VusYKA)
@@ -41,7 +40,7 @@ These videos will provide information to get started and work with the OS Manage
 [![](../common/images/compliancereport-300.png)](https://youtu.be/_pKnAcA7GUs)
 
 
-## Hands On Lab
+<h2>Hands On Lab</h2>
 
 Practice your skills with the OS Management Service with these free hands on labs.
 
