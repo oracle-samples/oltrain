@@ -97,7 +97,7 @@ The following videos will introduce you to the Kubernetes cluster technology and
 [![](../common/images/resources_300.png)](https://youtu.be/e5m3TlvM4y4)
 [![](../common/images/minikube_300.png)](https://youtu.be/u1qY8ax0U44)
 
-## Kubernetes Hands On Lab
+<h2>Hands On Lab</h2>
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
@@ -110,8 +110,10 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/ocne-intro-kubectl.png)](https://luna.oracle.com/lab/6c65a513-b161-47d2-b45c-92ca02e38dc0)
 
 ---
+<br>
 
-## Podman Videos
+<p><img id="ocne-podman" src="../common/images/OCNE-podman-section.png"></p>
+<h2>Videos</h2>
 
 Podman provides a lightweight utility to run and manage Open Container Initiative (OCI) compatible containers. A Podman deployment can re-use existing container images that are designed for Kubernetes, Oracle Container Runtime for Docker, and Oracle Cloud Native Environment.
 
@@ -128,7 +130,7 @@ The following videos will show how you can use Podman to pull container images a
 </table>  
 <br>   
    
-## Podman Hands On Labs
+<h2>Hands On Labs</h2>
 
 These hands-on lab provides step-by-step procedures to complete specific Podman tasks in an Oracle-provided free lab environment. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
@@ -145,8 +147,10 @@ These hands-on lab provides step-by-step procedures to complete specific Podman 
 
 
 ---
+<br>
 
-## Kata Container Videos
+<p><img id="ocne-kata" src="../common/images/OCNE-kata-section.png"></p>
+<h2>Videos</h2>
 Kata Container software delivers the framework for creating lightweight virtual machines (VMs) that easily plug into container ecosystems. Kata Containers offer similar virtual machine levels of security while maintaining the efficiencies gained from the deployment of traditional containers.
 
 The following video will introduce you to Kata Containers functionality and demonstrate how Kata Containers are deployed in your Kubernetes cluster.
@@ -154,7 +158,10 @@ The following video will introduce you to Kata Containers functionality and demo
 [![](../common/images/kata_over_300.png)](https://youtu.be/0P2kQMCssm4)
 
 ---
-## Istio Videos
+<br>
+
+<p><img id="ocne-istio" src="../common/images/OCNE-istio-section.png"></p>
+<h2>Videos</h2>s
 Operating as a service mesh for managing the interaction and operation of services in a microservices architecture. Istio coordinates communication between services, providing service discovery, load balancing, security, recovery, telemetry, and policy enforcement capabilities.
 
 The following videos will introduce you to the role of Istio in supporting the microservices framework. You will learn about the Istio architecture and its sidecar proxy capabilities implemented in a Kubernetes cluster.
@@ -166,7 +173,7 @@ The following videos will introduce you to the role of Istio in supporting the m
 [![](../common/images/egress_istio_300.png)](https://youtu.be/MHKc4hfszUI)
 [![](../common/images/rout_istio_300.png)](https://youtu.be/HDagk09TayQ)
 
-## Istio Hands On Lab
+<h2>Hands On Lab</h2>
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
