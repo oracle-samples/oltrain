@@ -35,6 +35,7 @@
 
 
 <p><img id="olvm-admin" src="../common/images/OLVM-admin-section.png"></p>
+   
 ## Administration and Deployment Videos
 The following content will introduce you to the administration of the Oracle Linux Virtualization Manager environment as well as the deployment of hosts and architectural resources.
 
