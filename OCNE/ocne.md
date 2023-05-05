@@ -77,7 +77,9 @@
 [![](../common/images/ocne_quick_install.png)](https://luna.oracle.com/lab/42f9b19b-e254-42cf-885d-a80127d9d751)
 [![](../common/images/ocne-pv-fss.png)](https://luna.oracle.com/lab/5d95fdca-c690-4ebf-8ac0-315ac095ac59)
 [![](../common/images/ocne-upgrade-16.png)](https://luna.oracle.com/lab/fa8fc61b-893c-4507-93a2-711540e9ace7)
-
+<br>
+<br>
+   
 <h2>Tutorials</h2>
 <p>Each tutorial provides step-by-step procedures to complete specific tasks but does not provide an environment. Perform these tutorial steps on your own Oracle Linux environment.</p>
 
@@ -98,7 +100,9 @@
 [![](../common/images/tour_300.png)](https://youtu.be/syBe1H-qe8U)
 [![](../common/images/resources_300.png)](https://youtu.be/e5m3TlvM4y4)
 [![](../common/images/minikube_300.png)](https://youtu.be/u1qY8ax0U44)
-
+<br>
+<br>
+   
 <h2>Hands On Labs</h2>
 <p>Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.</p>
 
@@ -129,7 +133,8 @@
          </td>
       </tr>
 </table>  
-<br>   
+<br>
+<br>
    
 <h2>Hands On Labs</h2>
 <p>These hands-on lab provides step-by-step procedures to complete specific Podman tasks in an Oracle-provided free lab environment. Alternatively, you can perform the lab steps on your own Oracle Linux environment.</p>
@@ -172,7 +177,9 @@
 [![](../common/images/ingress_istio_300.png)](https://youtu.be/Fkl7Zzn45X4)
 [![](../common/images/egress_istio_300.png)](https://youtu.be/MHKc4hfszUI)
 [![](../common/images/rout_istio_300.png)](https://youtu.be/HDagk09TayQ)
-
+<br>
+<br>
+   
 <h2>Hands On Labs</h2>
 <p>Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.</p>
 
