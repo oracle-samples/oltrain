@@ -60,8 +60,10 @@ The following content will introduce you to Oracle Linux Virtualization Manager 
 [![](../common/images/export_vm_temp_olvm_300.png)](https://youtu.be/G-GfXxfCI-Q)
 [![](../common/images/create_vm_snap_olvm_300.png)](https://youtu.be/s9u5gRQPSjQ)
 [![](../common/images/rest_vm_snap_olvm_300.png)](https://youtu.be/KV-1cCFg4NU)
+<br>
 
-## Managing Storage Videos
+<p><img id="olvm-vm" src="../common/images/OLVM-vm-section.png"></p>
+<h3>Videos</h3>
 The following content will introduce you to storage concepts and how to create, attach and maintain various storage types in your Oracle Linux Virtualization Manager enterprise environment.
 
 [![](../common/images/iscsi_olvm_300.png)](https://youtu.be/EeOL9wjwoMU)
