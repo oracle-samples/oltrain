@@ -37,7 +37,7 @@
    
 <br>
 
-<p><img id="ocne-environ" src="../common/images/OCNE-environ-section.png"></p>
+<p><img id="ocne-environment" src="../common/images/OCNE-environ-section.png"></p>
 <h2>Videos</h2>
    
 <p>The following videos will introduce you to the installation procedure and scaling of the Oracle Cloud Native Environment.</p>
@@ -192,7 +192,7 @@
 
 ---
 
-<p><img id="olvm-quiz" src="../common/images/quiz1.png"></p>
+<p><img id="ocne-quiz" src="../common/images/quiz1.png"></p>
    
    
 Test your skills on what you have learned so far with this quiz.   
