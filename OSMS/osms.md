@@ -10,7 +10,6 @@ On these pages, you will find videos, documents, and other useful resources on t
 - Getting Started with OS Management
 - Installing and Patching a Windows instance
 - Checking the status of the Oracle Cloud Agent
-
 <br>
 ---
    
@@ -22,7 +21,6 @@ One of the first requirements to use the OS Management Service is to have a runn
 [![](../common/images/create-winninst-300.png)](https://youtu.be/8SgkZTUKwFg)
 [![](../common/images/patch-osmswin-300.png)](https://youtu.be/4eDTl5fPNKA)
 [![](../common/images/access-wininst-300.png)](https://youtu.be/d1fgBuE1GMY)
-
 <br>
 ---
    
@@ -52,7 +50,7 @@ Practice your skills with the OS Management Service with these free hands on lab
 [![](../common/images/migratealx_lab.png)](https://luna.oracle.com/lab/8848ec22-81cd-46d5-aeab-dd2dae36118b)
 [![](../common/images/ol-streams-lab1.png)](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)
 
-### Resources
+## Resources
 
 Following page provides additional product information:
 
