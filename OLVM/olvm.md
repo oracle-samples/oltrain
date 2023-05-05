@@ -21,9 +21,9 @@
       </td>
       <td rowspan="2" valign="top"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos, hands on labs and more:</i></p>
          <ul>
-            <li><a href="#administration-and-deployment-videos">Deploying Hyper-Converged Architecture</a></li>
-	         <li><a href="#managing-virtual-machines-videos">Creating a Virtual Machine</a></li>
-            <li><a href="#backup-and-recovery-videos">Disaster Recovery</a></li>
+            <li><a href="#olvm-admin">Deploying Hyper-Converged Architecture</a></li>
+	    <li><a href="#olvm-vm">Creating a Virtual Machine</a></li>
+            <li><a href="#olvm-backup">Disaster Recovery</a></li>
             <li><a href="#olvm-quiz">Take the quiz</a></li>
          </ul>
       </td>
