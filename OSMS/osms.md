@@ -28,7 +28,7 @@ On these pages, you will find videos, documents, and other useful resources on t
 <p><img id="osms-work" src="../common/images/osms-work-section.png"></p>
 <h2>Videos</h2>
 <p>These videos will provide information to get started and work with the OS Management Service on Linux and Windows instances.</p>
-   
+<br>
    
 [![](../common/images/start-osmslinux-300.png)](https://youtu.be/7qmy5VusYKA)
 [![](../common/images/use-osmslinux-300.png)](https://youtu.be/txStsCT1onc)
