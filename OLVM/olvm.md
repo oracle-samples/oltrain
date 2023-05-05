@@ -51,7 +51,7 @@ The following content will introduce you to the administration of the Oracle Lin
 [![](../common/images/migrate_olvm_kvm_300.png)](https://youtu.be/DqUi9dOInts)
 [![](../common/images/migrate_from_ovirt_300.png)](https://youtu.be/Gs7qKGd4iTM)
 <br>
-   
+---
 <p><img id="olvm-vm" src="../common/images/OLVM-vm-section.png"></p>
 <h3>Videos</h3>
 The following content will introduce you to Oracle Linux Virtualization Manager Virtual Machine implementation and demonstrates deployment of VMs through the Administration Portal and VM Portal graphical interfaces.
