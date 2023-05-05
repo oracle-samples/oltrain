@@ -23,10 +23,10 @@
       </td>
       <td rowspan="2" valign="top"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos, hands on labs and more:</i></p>
          <ul>
-            <li><a href="#kubernetes-videos">Kubernetes</a></li>
-	    <li><a href="#podman-videos">Podman</a></li>
-	    <li><a href="#installation-hands-on-labs">Free Installation labs</a></li>
-            <li><a href="#quiz">Take the quiz</a></li>
+            <li><a href="#ocne-kubernetes">Kubernetes</a></li>
+	    <li><a href="#ol-podman">Podman</a></li>
+	    <li><a href="#install-hands-on-labs">Free Installation labs</a></li>
+            <li><a href="#olvm-quiz">Take the quiz</a></li>
          </ul>
       </td>
    </tr>
@@ -57,7 +57,7 @@
 <br>
 <br>
    
-<h2>Hands On Labs</h2>
+<h2 id="install-hands-on-labs">Hands On Labs</h2>
 <p>Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.</p>
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
