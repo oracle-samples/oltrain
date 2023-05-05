@@ -15,7 +15,7 @@ On these pages, you will find videos, documents, and other useful resources on t
 <p><img id="osms-install" src="../common/images/osms-install-section.png"></p>
 <h2>Videos</h2>
 <p>One of the first requirements to use the OS Management Service is to have a running instance of Linux or Windows.</p>
-   
+<br>
    
 [![](../common/images/createinst-300.png)](https://youtu.be/tlwlLd4GvCc)
 [![](../common/images/create-winninst-300.png)](https://youtu.be/8SgkZTUKwFg)
@@ -42,7 +42,7 @@ On these pages, you will find videos, documents, and other useful resources on t
 
 <h2>Hands On Lab</h2>
 
-Practice your skills with the OS Management Service with these free hands on labs.
+<p>Practice your skills with the OS Management Service with these free hands on labs.</p>
 <br>
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
 <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
@@ -54,9 +54,9 @@ Practice your skills with the OS Management Service with these free hands on lab
 
 ---
 <h2>Resources</h2>
-
-Following page provides additional product information:
-
+<p>Following page provides additional product information:</p>
+<br>
+   
 - [OS Management Documentation](https://docs.oracle.com/en-us/iaas/os-management/home.htm)
 - [OS Management Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzsn5mtWgjb_HS7GJoKa2rMn)
 
