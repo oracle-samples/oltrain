@@ -50,8 +50,10 @@ The following content will introduce you to the administration of the Oracle Lin
 [![](../common/images/hyper_conv_arch_olvm_300.png)](https://youtu.be/FPHRC5mCxgQ)
 [![](../common/images/migrate_olvm_kvm_300.png)](https://youtu.be/DqUi9dOInts)
 [![](../common/images/migrate_from_ovirt_300.png)](https://youtu.be/Gs7qKGd4iTM)
+<br>
 
-## Managing Virtual Machines Videos
+<p><img id="olvm-vm" src="../common/images/OLVM-vm-section.png"></p>
+<h3>Videos</h3>
 The following content will introduce you to Oracle Linux Virtualization Manager Virtual Machine implementation and demonstrates deployment of VMs through the Administration Portal and VM Portal graphical interfaces.
 
 [![](../common/images/create_vm_olvm_300.png)](https://youtu.be/clYVICSQ4MY)
@@ -62,7 +64,7 @@ The following content will introduce you to Oracle Linux Virtualization Manager 
 [![](../common/images/rest_vm_snap_olvm_300.png)](https://youtu.be/KV-1cCFg4NU)
 <br>
 
-<p><img id="olvm-vm" src="../common/images/OLVM-vm-section.png"></p>
+<p><img id="olvm-storage" src="../common/images/OLVM-storage-section.png"></p>
 <h3>Videos</h3>
 The following content will introduce you to storage concepts and how to create, attach and maintain various storage types in your Oracle Linux Virtualization Manager enterprise environment.
 
