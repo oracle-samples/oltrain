@@ -85,7 +85,7 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
    
    
 
-<p><img id="containers-quiz" src="../../common/images/quiz1.png"></p>
+<p><img id="container-quiz" src="../../common/images/quiz1.png"></p>
    
   
 Test your skills on what you have learned about working with containers on Oracle Linux with this quiz.   
