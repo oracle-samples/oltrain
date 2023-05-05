@@ -40,7 +40,7 @@
 <p><img id="ocne-environ" src="../common/images/OCNE-environ-section.png"></p>
 <h2>Videos</h2>
    
-The following videos will introduce you to the installation procedure and scaling of the Oracle Cloud Native Environment.
+<p>The following videos will introduce you to the installation procedure and scaling of the Oracle Cloud Native Environment.</p>
 
 ### Release 1.4 and 1.5 Videos
 
@@ -56,7 +56,7 @@ The following videos will introduce you to the installation procedure and scalin
 [![](../common/images/scale_300.png)](https://youtu.be/aVyqWh048yo)
 
 <h2>Hands On Labs</h2>
-Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
+<p>Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.</p>
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
 <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
@@ -77,7 +77,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/ocne-upgrade-16.png)](https://luna.oracle.com/lab/fa8fc61b-893c-4507-93a2-711540e9ace7)
 
 <h2>Tutorials</h2>
-Each tutorial provides step-by-step procedures to complete specific tasks but does not provide an environment. Perform these tutorial steps on your own Oracle Linux environment.
+<p>Each tutorial provides step-by-step procedures to complete specific tasks but does not provide an environment. Perform these tutorial steps on your own Oracle Linux environment.</p>
 
 [![](../common/images/operatorlcocne_tut.png)](https://docs.oracle.com/en/learn/ocne-olm/)
 
@@ -86,9 +86,9 @@ Each tutorial provides step-by-step procedures to complete specific tasks but do
 
 <p><img id="ocne-kubernetes" src="../common/images/OCNE-kubernetes-section.png"></p>
 <h2>Videos</h2>
-An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.
+<p>An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.</p>
 
-The following videos will introduce you to the Kubernetes cluster technology and its components. They show how a Kubernetes cluster is built, and how container applications in pods are deployed on the cluster nodes.
+<p>The following videos will introduce you to the Kubernetes cluster technology and its components. They show how a Kubernetes cluster is built, and how container applications in pods are deployed on the cluster nodes.</p>
 
 [![](../common/images/intro_k8_300.png)](https://youtu.be/q2j7jjuBbiM)
 [![](../common/images/arch_k8_300.png)](https://youtu.be/H2rAeWkxp1Y)
@@ -98,7 +98,7 @@ The following videos will introduce you to the Kubernetes cluster technology and
 [![](../common/images/minikube_300.png)](https://youtu.be/u1qY8ax0U44)
 
 <h2>Hands On Labs</h2>
-Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
+<p>Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.</p>
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
 <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
@@ -114,10 +114,9 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 
 <p><img id="ocne-podman" src="../common/images/OCNE-podman-section.png"></p>
 <h2>Videos</h2>
+<p>Podman provides a lightweight utility to run and manage Open Container Initiative (OCI) compatible containers. A Podman deployment can re-use existing container images that are designed for Kubernetes, Oracle Container Runtime for Docker, and Oracle Cloud Native Environment.</p>
 
-Podman provides a lightweight utility to run and manage Open Container Initiative (OCI) compatible containers. A Podman deployment can re-use existing container images that are designed for Kubernetes, Oracle Container Runtime for Docker, and Oracle Cloud Native Environment.
-
-The following videos will show how you can use Podman to pull container images and work with registries and storage. How you can manage container images, run containers and use Dockerfiles with Podman.  
+<p>The following videos will show how you can use Podman to pull container images and work with registries and storage. How you can manage container images, run containers and use Dockerfiles with Podman.</p>
 
 <table width="500">
       <tr>   
@@ -131,8 +130,7 @@ The following videos will show how you can use Podman to pull container images a
 <br>   
    
 <h2>Hands On Labs</h2>
-
-These hands-on lab provides step-by-step procedures to complete specific Podman tasks in an Oracle-provided free lab environment. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
+<p>These hands-on lab provides step-by-step procedures to complete specific Podman tasks in an Oracle-provided free lab environment. Alternatively, you can perform the lab steps on your own Oracle Linux environment.</p>
 
 <table width="500">
       <tr>   
@@ -151,9 +149,9 @@ These hands-on lab provides step-by-step procedures to complete specific Podman 
 
 <p><img id="ocne-kata" src="../common/images/OCNE-kata-section.png"></p>
 <h2>Videos</h2>
-Kata Container software delivers the framework for creating lightweight virtual machines (VMs) that easily plug into container ecosystems. Kata Containers offer similar virtual machine levels of security while maintaining the efficiencies gained from the deployment of traditional containers.
+<p>Kata Container software delivers the framework for creating lightweight virtual machines (VMs) that easily plug into container ecosystems. Kata Containers offer similar virtual machine levels of security while maintaining the efficiencies gained from the deployment of traditional containers.</p>
 
-The following video will introduce you to Kata Containers functionality and demonstrate how Kata Containers are deployed in your Kubernetes cluster.
+<p>The following videos will introduce you to Kata Containers functionality and demonstrate how Kata Containers are deployed in your Kubernetes cluster.</p>
 
 [![](../common/images/kata_over_300.png)](https://youtu.be/0P2kQMCssm4)
 
@@ -162,9 +160,9 @@ The following video will introduce you to Kata Containers functionality and demo
 
 <p><img id="ocne-istio" src="../common/images/OCNE-istio-section.png"></p>
 <h2>Videos</h2>
-Operating as a service mesh for managing the interaction and operation of services in a microservices architecture. Istio coordinates communication between services, providing service discovery, load balancing, security, recovery, telemetry, and policy enforcement capabilities.
+<p>Operating as a service mesh for managing the interaction and operation of services in a microservices architecture. Istio coordinates communication between services, providing service discovery, load balancing, security, recovery, telemetry, and policy enforcement capabilities.</p>
 
-The following videos will introduce you to the role of Istio in supporting the microservices framework. You will learn about the Istio architecture and its sidecar proxy capabilities implemented in a Kubernetes cluster.
+<p>The following videos will introduce you to the role of Istio in supporting the microservices framework. You will learn about the Istio architecture and its sidecar proxy capabilities implemented in a Kubernetes cluster.</p>
 
 [![](../common/images/intro_istio_300.png)](https://youtu.be/yr3rgcR_jwU)
 [![](../common/images/arch_istio_300.png)](https://youtu.be/67j5pKaezAk)
@@ -174,7 +172,7 @@ The following videos will introduce you to the role of Istio in supporting the m
 [![](../common/images/rout_istio_300.png)](https://youtu.be/HDagk09TayQ)
 
 <h2>Hands On Labs</h2>
-Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
+<p>Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.</p>
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
 <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
