@@ -89,7 +89,7 @@
 <br>
 
 <p><img id="ocne-kubernetes" src="../common/images/OCNE-kubernetes-section.png"></p>
-<h2>Videos</h2>
+<h2 id="kubernetes-videos">Videos</h2>
 <p>An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.</p>
 
 <p>The following videos will introduce you to the Kubernetes cluster technology and its components. They show how a Kubernetes cluster is built, and how container applications in pods are deployed on the cluster nodes.</p>
@@ -103,7 +103,7 @@
 <br>
 <br>
    
-<h2>Hands On Labs</h2>
+<h2 id="kubernetes-hands-on-labs">Hands On Labs</h2>
 <p>Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.</p>
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
