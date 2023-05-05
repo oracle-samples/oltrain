@@ -37,7 +37,6 @@
 <p><img id="olvm-admin" src="../common/images/OLVM-admin-section.png"></p>
 <h2>Videos</h2>
 <p>The following content will introduce you to the administration of the Oracle Linux Virtualization Manager environment as well as the deployment of hosts and architectural resources.</p>
-<br>
    
 [![](../common/images/users_groups_olvm_300.png)](https://youtu.be/oAfSLvIsUac)
 [![](../common/images/roles_perms_olvm_300.png)](https://youtu.be/zjXX8EYIBzA)
@@ -57,7 +56,6 @@
 <p><img id="olvm-vm" src="../common/images/OLVM-vm-section.png"></p>
 <h3>Videos</h3>
 <p>The following content will introduce you to Oracle Linux Virtualization Manager Virtual Machine implementation and demonstrates deployment of VMs through the Administration Portal and VM Portal graphical interfaces.</p>
-<br>
    
 [![](../common/images/create_vm_olvm_300.png)](https://youtu.be/clYVICSQ4MY)
 [![](../common/images/create_temp_olvm_300.png)](https://youtu.be/QbJV0VfXpg8)
@@ -71,7 +69,6 @@
 <p><img id="olvm-storage" src="../common/images/OLVM-storage-section.png"></p>
 <h3>Videos</h3>
 <p>The following content will introduce you to storage concepts and how to create, attach and maintain various storage types in your Oracle Linux Virtualization Manager enterprise environment.</p>
-<br>
    
 [![](../common/images/iscsi_olvm_300.png)](https://youtu.be/EeOL9wjwoMU)
 [![](../common/images/nfs_olvm_300.png)](https://youtu.be/NRQ2KVaLHOw)
@@ -89,8 +86,7 @@
 <br>
 <p><img id="olvm-oem" src="../common/images/OLVM-oem-section.png"></p>
 <h3>Videos</h3>
-<>pThe following content will introduce you to Cloud Administration of the Oracle Linux Virtualization Manager with Oracle Enterprise Manager 13c Cloud Control.</p>
-<br>
+<p>The following content will introduce you to Cloud Administration of the Oracle Linux Virtualization Manager with Oracle Enterprise Manager 13c Cloud Control.</p>
    
 [![](../common/images/mon_olvm_oe_300.png)](https://youtu.be/834PviF4kV0)
 [![](../common/images/reg_olvm_oe_300.png)](https://youtu.be/nyMSJKFN4HU)
@@ -111,7 +107,8 @@ Test your skills on what you have learned with this quiz.
   </tr>
 </table>    
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
-
+<br>
+   
 <h2>Resources</h2>
 <p>Following page provides additional product information:</p>
 <br>
