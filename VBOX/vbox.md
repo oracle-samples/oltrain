@@ -6,7 +6,7 @@ This track allows you to explore Oracle VM VirtualBox to help you grow your skil
 
 ---
 
-![](../common/images/vbox-70-sect1.png)
+<p><img id="vbox-70" src="../common/images/vbox-70-sect1.png"></p>
 
 [![](../common/images/vbx7oci_300.png)](https://youtu.be/3roYMw-D2ks)
 [![](../common/images/vbx7oci_install_300.png)](https://youtu.be/QJ_z20kSxX4)
@@ -29,7 +29,7 @@ Follow guided step-by-step procedures to complete specific tasks with VirtualBox
 
 ---
 
-![](../common/images/vbox-61-sect1.png)
+<p><img id="vbox-61" src="../common/images/vbox-61-sect1.png"></p>
 
 [![](../common/images/vboxinstall_300.png)](https://youtu.be/Dl2CxAoSC5o)
 [![](../common/images/vboxextpack_300.png)](https://youtu.be/wHOYAGQtOcM)
@@ -41,7 +41,7 @@ Follow guided step-by-step procedures to complete specific tasks with VirtualBox
 
 ---
 
-![](../common/images/quiz1.png)
+<p><img id="vbox-quiz" src="../common/images/quiz1.png"></p>
    
    
 Test your skills on what you have learned about VirtualBox on Oracle Linux with this quiz.   

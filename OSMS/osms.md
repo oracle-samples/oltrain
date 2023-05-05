@@ -10,19 +10,26 @@ On these pages, you will find videos, documents, and other useful resources on t
 - Getting Started with OS Management
 - Installing and Patching a Windows instance
 - Checking the status of the Oracle Cloud Agent
-
-
-## Installation
-One of the first requirements to use the OS Management Service is to have a running instance of Linux or Windows.
-
+<br>
+      
+<p><img id="osms-install" src="../common/images/osms-install-section.png"></p>
+<h2>Videos</h2>
+<p>One of the first requirements to use the OS Management Service is to have a running instance of Linux or Windows.</p>
+<br>
+   
 [![](../common/images/createinst-300.png)](https://youtu.be/tlwlLd4GvCc)
 [![](../common/images/create-winninst-300.png)](https://youtu.be/8SgkZTUKwFg)
 [![](../common/images/patch-osmswin-300.png)](https://youtu.be/4eDTl5fPNKA)
 [![](../common/images/access-wininst-300.png)](https://youtu.be/d1fgBuE1GMY)
 
-## Working with the OS Management Service Videos
-These videos will provide information to get started and work with the OS Management Service on Linux and Windows instances.
-
+---
+<br>
+   
+<p><img id="osms-work" src="../common/images/osms-work-section.png"></p>
+<h2>Videos</h2>
+<p>These videos will provide information to get started and work with the OS Management Service on Linux and Windows instances.</p>
+<br>
+   
 [![](../common/images/start-osmslinux-300.png)](https://youtu.be/7qmy5VusYKA)
 [![](../common/images/use-osmslinux-300.png)](https://youtu.be/txStsCT1onc)
 [![](../common/images/osms-sw-source-300.png)](https://youtu.be/zPnfHO8cu-E)
@@ -33,10 +40,10 @@ These videos will provide information to get started and work with the OS Manage
 [![](../common/images/compliancereport-300.png)](https://youtu.be/_pKnAcA7GUs)
 
 
-## Working with the OS Management Service Hands On Lab
+<h2>Hands On Lab</h2>
 
-Practice your skills with the OS Management Service with these free hands on labs.
-
+<p>Practice your skills with the OS Management Service with these free hands on labs.</p>
+<br>
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
 <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
    <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
@@ -45,10 +52,11 @@ Practice your skills with the OS Management Service with these free hands on lab
 [![](../common/images/migratealx_lab.png)](https://luna.oracle.com/lab/8848ec22-81cd-46d5-aeab-dd2dae36118b)
 [![](../common/images/ol-streams-lab1.png)](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)
 
-### Resources
-
-Following page provides additional product information:
-
+---
+<h2>Resources</h2>
+<p>Following pages provide additional product information:</p>
+<br>
+   
 - [OS Management Documentation](https://docs.oracle.com/en-us/iaas/os-management/home.htm)
 - [OS Management Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzsn5mtWgjb_HS7GJoKa2rMn)
 

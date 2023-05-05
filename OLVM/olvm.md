@@ -32,12 +32,12 @@
       <td>  </td>
    </tr>
 </table> 
+<br>
 
-
-
-## Administration and Deployment Videos
-The following content will introduce you to the administration of the Oracle Linux Virtualization Manager environment as well as the deployment of hosts and architectural resources.
-
+<p><img id="olvm-admin" src="../common/images/OLVM-admin-section2.png"></p>
+<h2>Videos</h2>
+<p>The following content will introduce you to the administration of the Oracle Linux Virtualization Manager environment as well as the deployment of hosts and architectural resources.</p>
+   
 [![](../common/images/users_groups_olvm_300.png)](https://youtu.be/oAfSLvIsUac)
 [![](../common/images/roles_perms_olvm_300.png)](https://youtu.be/zjXX8EYIBzA)
 [![](../common/images/add_kvm_host_olvm_300.png)](https://youtu.be/qMbUVnCbW7g)
@@ -50,32 +50,44 @@ The following content will introduce you to the administration of the Oracle Lin
 [![](../common/images/hyper_conv_arch_olvm_300.png)](https://youtu.be/FPHRC5mCxgQ)
 [![](../common/images/migrate_olvm_kvm_300.png)](https://youtu.be/DqUi9dOInts)
 [![](../common/images/migrate_from_ovirt_300.png)](https://youtu.be/Gs7qKGd4iTM)
-
-## Managing Virtual Machines Videos
-The following content will introduce you to Oracle Linux Virtualization Manager Virtual Machine implementation and demonstrates deployment of VMs through the Administration Portal and VM Portal graphical interfaces.
-
+<br>
+---
+<br>
+<p><img id="olvm-vm" src="../common/images/OLVM-vm-section2.png"></p>
+<h2>Videos</h2>
+<p>The following content will introduce you to Oracle Linux Virtualization Manager Virtual Machine implementation and demonstrates deployment of VMs through the Administration Portal and VM Portal graphical interfaces.</p>
+   
 [![](../common/images/create_vm_olvm_300.png)](https://youtu.be/clYVICSQ4MY)
 [![](../common/images/create_temp_olvm_300.png)](https://youtu.be/QbJV0VfXpg8)
 [![](../common/images/create_vm_from_temp_olvm_300.png)](https://youtu.be/WikfPdtbwEs)
 [![](../common/images/export_vm_temp_olvm_300.png)](https://youtu.be/G-GfXxfCI-Q)
 [![](../common/images/create_vm_snap_olvm_300.png)](https://youtu.be/s9u5gRQPSjQ)
 [![](../common/images/rest_vm_snap_olvm_300.png)](https://youtu.be/KV-1cCFg4NU)
-
-## Managing Storage Videos
-The following content will introduce you to storage concepts and how to create, attach and maintain various storage types in your Oracle Linux Virtualization Manager enterprise environment.
-
+<br>
+---
+<br>
+<p><img id="olvm-storage" src="../common/images/OLVM-storage-section2.png"></p>
+<h2>Videos</h2>
+<p>The following content will introduce you to storage concepts and how to create, attach and maintain various storage types in your Oracle Linux Virtualization Manager enterprise environment.</p>
+   
 [![](../common/images/iscsi_olvm_300.png)](https://youtu.be/EeOL9wjwoMU)
 [![](../common/images/nfs_olvm_300.png)](https://youtu.be/NRQ2KVaLHOw)
 [![](../common/images/upload_res_olvm_300.png)](https://youtu.be/KE3uuQObJZw)
-
-## Backup and Recovery Videos
-The following content will introduce you to Oracle Linux Virtualization Manager backup and recovery solutions.
-
+<br>
+---
+<br>
+<p><img id="olvm-backup" src="../common/images/OLVM-backup-section2.png"></p>
+<h2>Videos</h2>
+<p>The following content will introduce you to Oracle Linux Virtualization Manager backup and recovery solutions.</p>
+   
 [![](../common/images/act_pas_dr_olvm_300.png)](https://youtu.be/0VSo7ZGIdo8)
-
-## Oracle Enterprise manager for Oracle Linux Virtualization Manager Videos
-The following content will introduce you to Cloud Administration of the Oracle Linux Virtualization Manager with Oracle Enterprise Manager 13c Cloud Control.
-
+<br>
+---
+<br>
+<p><img id="olvm-oem" src="../common/images/OLVM-oem-section2.png"></p>
+<h2>Videos</h2>
+<p>The following content will introduce you to Cloud Administration of the Oracle Linux Virtualization Manager with Oracle Enterprise Manager 13c Cloud Control.</p>
+   
 [![](../common/images/mon_olvm_oe_300.png)](https://youtu.be/834PviF4kV0)
 [![](../common/images/reg_olvm_oe_300.png)](https://youtu.be/nyMSJKFN4HU)
 [![](../common/images/conf_met_ext_olvm_300.png)](https://youtu.be/lyPtzCuEDcQ)
@@ -95,11 +107,12 @@ Test your skills on what you have learned with this quiz.
   </tr>
 </table>    
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
-
-### Resources
-
-Following page provides additional product information:
-
+<br>
+   
+<h2>Resources</h2>
+<p>Following page provides additional product information:</p>
+<br>
+   
 - [Oracle Linux Virtualization Manager Documentation](https://docs.oracle.com/en/virtualization/oracle-linux-virtualization-manager/)
 - [Oracle Linux Virtualization Manager Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzu_Cch2fK2K4yO57d6xT8dt)
 

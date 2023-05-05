@@ -32,7 +32,7 @@
    
 ---
    
-![](../common/images/OLOCI-deploy-header2.png)
+<p><img id="oloci-deploy" src="../common/images/OLOCI-deploy-header2.png"></p>
 
 Learn to provision and launch compute instances with the cloud web console to support your cloud solution in Oracle Cloud infrastructure.
 
@@ -173,7 +173,7 @@ Learn to secure access to instances and manage traffic between virtual networks 
    
 ---   
    
-![](../common/images/OLOCI-network-header2.png)
+<p><img id="oloci-network" src="../common/images/OLOCI-network-header2.png"></p>
 
 Learn to build and administer virtual networks and gateways in Oracle Cloud Infrastructure. Manage instance networking and interfaces.
 
@@ -225,7 +225,7 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
 
 ---
 
-![](../common/images/OLOCI-storage-header2.png)
+<p><img id="oloci-storage" src="../common/images/OLOCI-storage-header2.png"></p>
 
 Learn to discover and administer block volume storage and create shared cluster storage for instances.
 
@@ -284,7 +284,7 @@ Learn to discover and administer block volume storage and create shared cluster 
 
 ---
 
-![](../common/images/OLOCI-kvm-header2.png)
+<p><img id="oloci-kvm" src="../common/images/OLOCI-kvm-header2.png"></p>
 
 Learn to implement KVM virtualization in Oracle Linux instances deployed on Oracle Cloud Infrastructure.
 
