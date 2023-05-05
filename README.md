@@ -64,7 +64,7 @@
    
 ---
 
-<p><img id="opca" src="common/images/PCA-banner-v23.png"></p>   
+<p><img id="opca" src="common/images/PCA-banner-v2.png"></p>   
    
 - [Oracle Private Cloud Appliance](./OPCA/opca.md) - Learn to perform various user and administrative tasks from the Compute Enclave and from the Service Enclave.
    
