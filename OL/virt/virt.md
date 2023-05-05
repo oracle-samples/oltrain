@@ -125,7 +125,7 @@ Test your skills on what you have learned about working with containers on Oracl
       <tr>   
          <td valign="top"><b>Use this link to go to the full list of free Kubernetes labs:</b>
             <ul>
-               <li><a href="https://oracle-samples.github.io/oltrain/OCNE/ocne.html#ocne-kubernetes-hands-on-lab">Kubernetes labs</a></li>
+               <li><a href="https://oracle-samples.github.io/oltrain/OCNE/ocne.html#ocne-kubernetes-hands-on-labs">Kubernetes labs</a></li>
             </ul>
          </td>
       </tr>
