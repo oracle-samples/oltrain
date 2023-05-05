@@ -107,9 +107,7 @@ Test your skills on what you have learned about working with containers on Oracl
 
 <p><img src="../../common/images/OL-virt-kubern.png"></p>
 <h2>Videos</h2>
-<br>
-
-An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.
+<p>An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.</p>
 
 <table width="500">
       <tr>   
@@ -122,7 +120,7 @@ An open-source system for automating the deployment, scaling and management of c
 </table>  
 <br>   
    
-<h2>Videos</h2>
+<h2>Hands On Labs</h2>
 
 <table width="500">
       <tr>   
