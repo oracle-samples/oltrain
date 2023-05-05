@@ -14,8 +14,8 @@
          </td>
          <td rowspan="2" valign="top"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</i></p>
             <ul>
-               <li><a href="https://oracle-samples.github.io/oltrain/OCNE/ocne.html#kubernetes-videos">Kubernetes</a></li>
-               <li><a href="https://oracle-samples.github.io/oltrain/OL/virt/virt.html#container-videos">Containers</a></li>
+               <li><a href="https://oracle-samples.github.io/oltrain/OCNE/ocne.html#ocne-kubernetes">Kubernetes</a></li>
+               <li><a href="https://oracle-samples.github.io/oltrain/OL/virt/virt.html#ol-containers">Containers</a></li>
                <li><a href="https://oracle-samples.github.io/oltrain/VBOX/vbox.html">Oracle VM VirtualBox</a></li>
                <li><a href="https://oracle-samples.github.io/oltrain/OLVM/olvm.html">Oracle Linux Virtualization Manager</a></li>
             </ul>
