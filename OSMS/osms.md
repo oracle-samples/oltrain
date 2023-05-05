@@ -14,10 +14,9 @@ On these pages, you will find videos, documents, and other useful resources on t
       
 <p><img id="osms-install" src="../common/images/osms-install-section.png"></p>
 <h2>Videos</h2>
-   
 <br>
 One of the first requirements to use the OS Management Service is to have a running instance of Linux or Windows.
-
+<br>
 [![](../common/images/createinst-300.png)](https://youtu.be/tlwlLd4GvCc)
 [![](../common/images/create-winninst-300.png)](https://youtu.be/8SgkZTUKwFg)
 [![](../common/images/patch-osmswin-300.png)](https://youtu.be/4eDTl5fPNKA)
@@ -30,7 +29,7 @@ One of the first requirements to use the OS Management Service is to have a runn
 <h2>Videos</h2>
    
 These videos will provide information to get started and work with the OS Management Service on Linux and Windows instances.
-
+<br>
 [![](../common/images/start-osmslinux-300.png)](https://youtu.be/7qmy5VusYKA)
 [![](../common/images/use-osmslinux-300.png)](https://youtu.be/txStsCT1onc)
 [![](../common/images/osms-sw-source-300.png)](https://youtu.be/zPnfHO8cu-E)
