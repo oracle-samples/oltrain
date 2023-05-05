@@ -15,6 +15,7 @@ On these pages, you will find videos, documents, and other useful resources on t
 <p><img id="osms-install" src="../common/images/osms-install-section.png"></p>
 <h2>Videos</h2>
    
+<br>
 One of the first requirements to use the OS Management Service is to have a running instance of Linux or Windows.
 
 [![](../common/images/createinst-300.png)](https://youtu.be/tlwlLd4GvCc)
@@ -53,7 +54,6 @@ Practice your skills with the OS Management Service with these free hands on lab
 [![](../common/images/ol-streams-lab1.png)](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)
 
 ---
-<br>
 <h2>Resources</h2>
 
 Following page provides additional product information:
