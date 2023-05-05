@@ -184,7 +184,10 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/istio_sidecar.png)](https://luna.oracle.com/lab/6e667326-fd72-4e65-a5b5-8398c5eef960)
 
 ---
-## Quiz
+
+<p><img id="olvm-quiz" src="../common/images/quiz1.png"></p>
+   
+   
 Test your skills on what you have learned so far with this quiz.   
  
 <table>
