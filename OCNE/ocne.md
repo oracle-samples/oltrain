@@ -128,7 +128,7 @@
       <tr>   
          <td valign="top"><b>Use this link to get to all the available Podman videos:</b>
             <ul>
-               <li><a href="https://oracle-samples.github.io/oltrain/OL/virt/virt.html#container-videos">Podman videos</a></li>
+               <li><a href="https://oracle-samples.github.io/oltrain/OL/virt/virt.html#containers-videos">Podman videos</a></li>
             </ul>
          </td>
       </tr>
@@ -143,7 +143,7 @@
       <tr>   
          <td valign="top"><b>Use this link to go to the full list of free Podman labs:</b>
             <ul>
-               <li><a href="https://oracle-samples.github.io/oltrain/OL/virt/virt.html#container-hands-on-labs">Podman labs</a></li>
+               <li><a href="https://oracle-samples.github.io/oltrain/OL/virt/virt.html#containers-hands-on-labs">Podman labs</a></li>
             </ul>
          </td>
       </tr>
