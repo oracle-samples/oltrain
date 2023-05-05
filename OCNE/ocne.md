@@ -39,6 +39,7 @@
 ---
 <p><img id="ocne-environ" src="../common/images/OCNE-environ-section.png"></p>
 <h3>Videos</h3>
+---
 The following videos will introduce you to the installation procedure and scaling of the Oracle Cloud Native Environment.
 
 ### Release 1.4 and 1.5 Videos
