@@ -76,13 +76,16 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/ocne-pv-fss.png)](https://luna.oracle.com/lab/5d95fdca-c690-4ebf-8ac0-315ac095ac59)
 [![](../common/images/ocne-upgrade-16.png)](https://luna.oracle.com/lab/fa8fc61b-893c-4507-93a2-711540e9ace7)
 
-## Installation Tutorial
+<h2>Tutorials</h2>
 Each tutorial provides step-by-step procedures to complete specific tasks but does not provide an environment. Perform these tutorial steps on your own Oracle Linux environment.
 
 [![](../common/images/operatorlcocne_tut.png)](https://docs.oracle.com/en/learn/ocne-olm/)
 
 ---
-## Kubernetes Videos
+<br>
+
+<p><img id="ocne-kubernetes" src="../common/images/OCNE-kubernetes-section.png"></p>
+<h2>Videos</h2>
 An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.
 
 The following videos will introduce you to the Kubernetes cluster technology and its components. They show how a Kubernetes cluster is built, and how container applications in pods are deployed on the cluster nodes.
