@@ -14,6 +14,7 @@ On these pages, you will find videos, documents, and other useful resources on t
       
 <p><img id="osms-install" src="../common/images/osms-install-section.png"></p>
 <h2>Videos</h2>
+   
 One of the first requirements to use the OS Management Service is to have a running instance of Linux or Windows.
 
 [![](../common/images/createinst-300.png)](https://youtu.be/tlwlLd4GvCc)
@@ -26,6 +27,7 @@ One of the first requirements to use the OS Management Service is to have a runn
    
 <p><img id="osms-work" src="../common/images/osms-work-section.png"></p>
 <h2>Videos</h2>
+   
 These videos will provide information to get started and work with the OS Management Service on Linux and Windows instances.
 
 [![](../common/images/start-osmslinux-300.png)](https://youtu.be/7qmy5VusYKA)
@@ -41,7 +43,7 @@ These videos will provide information to get started and work with the OS Manage
 <h2>Hands On Lab</h2>
 
 Practice your skills with the OS Management Service with these free hands on labs.
-
+<br>
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
 <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
    <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
@@ -52,7 +54,6 @@ Practice your skills with the OS Management Service with these free hands on lab
 
 ---
 <br>
-
 <h2>Resources</h2>
 
 Following page provides additional product information:
