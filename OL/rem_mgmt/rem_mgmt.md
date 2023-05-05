@@ -20,7 +20,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 
 ---
 
-<p><img id="ol-remmgmt-quiz" src="../../common/images/quiz1.png"></p>
+<p><img id="remote-quiz" src="../../common/images/quiz1.png"></p>
    
   
 Test your skills on what you have learned about remote management of Oracle Linux with this quiz.   
