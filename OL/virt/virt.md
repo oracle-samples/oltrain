@@ -1,6 +1,6 @@
-![](../../common/images/OL-virt-kvm.png)
-
-### KVM Management Videos
+<p><img id="kvm" src="../../common/images/OL-virt-kvm.png"></p>
+<h2>Videos</h2>
+<br>
 
 [![](../../common/images/enab_kvm_300.png)](https://youtu.be/ALtnopSysY4)
 [![](../../common/images/setup_cp_300.png)](https://youtu.be/-Z3AwP2HPa4)
@@ -12,7 +12,8 @@
 [![](../../common/images/vbox_kvm_300.png)](https://youtu.be/7gZLiTa3150)
 [![](../../common/images/add_disk_300.png)](https://youtu.be/B3h_DWOMwrk)
 
-### KVM Hands On Lab
+<h2>Hands On Labs</h2>
+<br>
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
 <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
@@ -22,7 +23,7 @@
 [![](../../common/images/createvmkvm_lab.png)](https://luna.oracle.com/lab/1671b073-895c-4800-bd60-cfe1f445074c)
    
    
-<p><img id="ol-virt-quiz" src="../../common/images/quiz1.png"></p>
+<p><img id="kvm-quiz" src="../../common/images/quiz1.png"></p>
    
       
 Test your skills on what you have learned about KVM virtualization on Oracle Linux with this quiz.   
@@ -40,9 +41,11 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
 
 --- 
 
-![](../../common/images/OL-virt-containers.png)
+<br>
 
-### Container Videos
+<p><img id="containers" src="../../common/images/OL-virt-containers.png"></p>
+<h2>Videos</h2>
+<br>
 
 [![](../../common/images/overview_300.png)](https://youtu.be/V9sOZHfuvVM)
 [![](../../common/images/are_containers_vms_300.png)](https://youtu.be/AvNDTpmHOMk)
@@ -57,7 +60,8 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
 [![](../../common/images/dockerfile_300.png)](https://youtu.be/AkvluNPzGSY)
 [![](../../common/images/chroot_300.png)](https://youtu.be/dxzwxvn621w)
 
-### Container Hands On Labs
+<h2>Hands On Labs</h2>
+<br>
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
 <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
@@ -74,12 +78,14 @@ Test your skills on what you have learned about KVM virtualization on Oracle Lin
 [![](../../common/images/podman-haproxy-new.png)](https://luna.oracle.com/lab/a9eb9ff9-b56d-4ddc-9283-b72467d78128)
 [![](../../common/images/podman-ha-quay-new.png)](https://luna.oracle.com/lab/a63c2548-c459-457f-b3d1-123c99d90d89)
 
-### Container Tutorial
+<h2>Tutorial</h2>
+<br>
 
 [![](../../common/images/multi_lab.png)](https://docs.oracle.com/en/learn/oracle-linux-platform-images/index.html)
    
    
-![](../../common/images/quiz1.png)
+
+<p><img id="containers-quiz" src="../../common/images/quiz1.png"></p>
    
   
 Test your skills on what you have learned about working with containers on Oracle Linux with this quiz.   
@@ -96,9 +102,12 @@ Test your skills on what you have learned about working with containers on Oracl
 <br>
 
 ---
-![](../../common/images/OL-virt-kubern.png)
 
-### Kubernetes Videos
+<br>
+
+<p><img src="../../common/images/OL-virt-kubern.png"></p>
+<h2>Videos</h2>
+<br>
 
 An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.
 
@@ -113,7 +122,7 @@ An open-source system for automating the deployment, scaling and management of c
 </table>  
 <br>   
    
-### Kubernetes Hands On Labs
+<h2>Videos</h2>
 
 <table width="500">
       <tr>   
@@ -129,7 +138,8 @@ An open-source system for automating the deployment, scaling and management of c
 
 ---
 
-![](../../common/images/quiz1.png)
+
+<p><img id="kubernetes-quiz" src="../../common/images/quiz1.png"></p>
    
   
 Test your skills on what you have learned about Kubernetes on Oracle Linux with this quiz.   
