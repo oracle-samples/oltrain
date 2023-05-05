@@ -26,7 +26,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 
 ---
 
-<p><img id="ol-monlog-quiz" src="../../common/images/quiz1.png"></p>
+<p><img id="monitoring-quiz" src="../../common/images/quiz1.png"></p>
    
    
 Test your skills on what you have learned about monitoring and logging in Oracle Linux with this quiz.   

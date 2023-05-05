@@ -308,7 +308,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
 </table>    
 <br>
    
-<p><img id="ol-virtual" src="../common/images/OL-page-virtual.png"></p>
+<p><img id="ol-virt" src="../common/images/OL-page-virtual.png"></p>
    
 - [Virtualization](./virt/virt.md) : This page focuses on Kernel-based Virtual Machine (KVM), Containers, Podman, chroot, and Kubernetes. It covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux.
 

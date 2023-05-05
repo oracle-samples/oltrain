@@ -23,10 +23,10 @@
       </td>
       <td rowspan="2" valign="top"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos, hands on labs and more:</i></p>
          <ul>
-            <li><a href="#kubernetes-videos">Kubernetes</a></li>
-	    <li><a href="#podman-videos">Podman</a></li>
-	    <li><a href="#installation-hands-on-labs">Free Installation labs</a></li>
-            <li><a href="#quiz">Take the quiz</a></li>
+            <li><a href="#ocne-kubernetes">Kubernetes</a></li>
+	    <li><a href="https://oracle-samples.github.io/oltrain/OL/virt/virt.html#containers">Podman</a></li>
+	    <li><a href="#install-hands-on-labs">Free Installation labs</a></li>
+            <li><a href="#ocne-quiz">Take the quiz</a></li>
          </ul>
       </td>
    </tr>
@@ -37,7 +37,7 @@
    
 <br>
 
-<p><img id="ocne-environ" src="../common/images/OCNE-environ-section.png"></p>
+<p><img id="ocne-environment" src="../common/images/OCNE-environ-section.png"></p>
 <h2>Videos</h2>
    
 <p>The following videos will introduce you to the installation procedure and scaling of the Oracle Cloud Native Environment.</p>
@@ -57,7 +57,7 @@
 <br>
 <br>
    
-<h2>Hands On Labs</h2>
+<h2 id="install-hands-on-labs">Hands On Labs</h2>
 <p>Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.</p>
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
@@ -192,7 +192,7 @@
 
 ---
 
-<p><img id="olvm-quiz" src="../common/images/quiz1.png"></p>
+<p><img id="ocne-quiz" src="../common/images/quiz1.png"></p>
    
    
 Test your skills on what you have learned so far with this quiz.   
