@@ -97,7 +97,7 @@ The following videos will introduce you to the Kubernetes cluster technology and
 [![](../common/images/resources_300.png)](https://youtu.be/e5m3TlvM4y4)
 [![](../common/images/minikube_300.png)](https://youtu.be/u1qY8ax0U44)
 
-<h2>Hands On Lab</h2>
+<h2>Hands On Labs</h2>
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
@@ -173,7 +173,7 @@ The following videos will introduce you to the role of Istio in supporting the m
 [![](../common/images/egress_istio_300.png)](https://youtu.be/MHKc4hfszUI)
 [![](../common/images/rout_istio_300.png)](https://youtu.be/HDagk09TayQ)
 
-<h2>Hands On Lab</h2>
+<h2>Hands On Labs</h2>
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
 <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
