@@ -135,10 +135,6 @@ An open-source system for automating the deployment, scaling and management of c
 </table>  
 <br>
 
-
----
-
-
 <p><img id="kubernetes-quiz" src="../../common/images/quiz1.png"></p>
    
   
