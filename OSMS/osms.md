@@ -54,7 +54,7 @@ On these pages, you will find videos, documents, and other useful resources on t
 
 ---
 <h2>Resources</h2>
-<p>Following page provides additional product information:</p>
+<p>Following pages provide additional product information:</p>
 <br>
    
 - [OS Management Documentation](https://docs.oracle.com/en-us/iaas/os-management/home.htm)
