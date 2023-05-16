@@ -1,6 +1,7 @@
 ## Monitoring and Logging Videos
 These videos go through typical monitoring and logging tasks performed on a Linux system. Learn how to monitor system performance and review system logs on Oracle Linux.
 
+[![](../../common/images/ol-gprofng-300.png)](https://youtu.be/TRZNoL_7xro)
 [![](../../common/images/sosreport_300.png)](https://youtu.be/FD-wgH4xhJI)
 [![](../../common/images/iostat_300.png)](https://youtu.be/BCb1Il1hpgY)
 [![](../../common/images/mpstat_300.png)](https://youtu.be/ioAP964a_Q0)
