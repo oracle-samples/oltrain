@@ -138,6 +138,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Monitor system performance</li>
+               <li> Binutils Gprofng</li>
                <li>Sosreport</li>
                <li>Review system logs</li>
                <li>Iostat, mpstat, vmstat, top</li>
