@@ -2,7 +2,40 @@
 # Welcome to Oracle Private Cloud Appliance Track
 
 ![](../common/images/PCA_header4.png)
+   
 ---
+   
+<table width="1200">
+<colgroup>
+   <col width="900">
+   <col width="300">
+</colgroup>
+   <tr>   
+      <td>
+	 <h3><b>This track contains videos to facilitate your learning of the administrative and user tasks performed with the technologies and tools of the Oracle Private Cloud Appliance.</b></h3>
+	 <h3><b>On these pages you will find material such as videos, documents and useful resource links covering areas including the following:</b></h3>
+         <ul>
+            <li>Tasks performed from the Service Enclave</li>
+	          <li>Tasks performed from the Compute Enclave</li>
+         </ul> 
+    <p>Information and videos presented here cover technologies and components to help you expand your learning of the Oracle Private Cloud Appliance.</p>
+      </td>
+      <td rowspan="2"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</i></p>
+         <ul>
+            <li><a href="#opca-storage">Mounting File Systems</a></li>
+	    <li><a href="#opca-srvencl">Day 0 Configuration</a></li>
+	    <li><a href="#opca-ocicli">Using the OCI CLI</a></li>
+            <li><a href="#opca-network">Create a Virtual CLoud Network</a></li>
+         </ul>
+      </td>
+   </tr>
+   <tr>   
+      <td>  </td>
+   </tr>
+</table>    
+   
+---
+  
 This track contains videos to facilitate your learning of the administrative and user tasks performed with the technologies and tools of the Oracle Private Cloud Appliance.
 
 On these pages you will find material such as videos, documents and useful resource links covering areas including the following:
@@ -10,6 +43,8 @@ On these pages you will find material such as videos, documents and useful resou
 - Tasks performed from the Compute Enclave.
 
 Information and videos presented here cover technologies and components to help you expand your learning of the Oracle Private Cloud Appliance.
+
+
 
 <p><img id="opca-srvencl" src="../common/images/pca-page-srvencl2.png"></p>
 
