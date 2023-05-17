@@ -35,17 +35,7 @@
 </table>    
    
 ---
-  
-This track contains videos to facilitate your learning of the administrative and user tasks performed with the technologies and tools of the Oracle Private Cloud Appliance.
-
-On these pages you will find material such as videos, documents and useful resource links covering areas including the following:
-- Tasks performed from the Service Enclave.
-- Tasks performed from the Compute Enclave.
-
-Information and videos presented here cover technologies and components to help you expand your learning of the Oracle Private Cloud Appliance.
-
-
-
+   
 <p><img id="opca-srvencl" src="../common/images/pca-page-srvencl2.png"></p>
 
 The Oracle Private Cloud Appliance runs its own specific and separate administration area known as the Service Enclave. The Service Enclave is the part of the system where the appliance infrastructure is controlled. Access is closely monitored and restricted to privileged administrators. Functionality provided by the Service Enclave includes hardware and capacity management, tenancy management, system and component upgrade, system backup and restore, monitoring and tools for service and support, and so on.
