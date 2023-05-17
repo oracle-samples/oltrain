@@ -34,7 +34,7 @@ Test your skills on what you have learned about monitoring and logging in Oracle
  
 <table>
     <tr>
-    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td valign="center"><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:CF0JMU5"><img src="../common/images/quiz_person4.png" width="120" height="110" alt="Oracle Linux Monitoring and Logging Quiz"></a></td>
     <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:CF0JMU5">Oracle Linux Monitoring and Logging Quiz</a></td>
   </tr>
 </table>    
