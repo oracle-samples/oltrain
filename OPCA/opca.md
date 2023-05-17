@@ -18,7 +18,7 @@
             <li>Tasks performed from the Service Enclave</li>
 	    <li>Tasks performed from the Compute Enclave</li>
          </ul> 
-    <p>Information and videos presented here cover technologies and components to help you expand your learning of the Oracle Private Cloud Appliance.</p>
+    <p>Information and videos presented here cover technologies and components to help you expand your learning of the Oracle Private Cloud Appliance.</p><br>
       </td>
       <td rowspan="2"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</i></p>
          <ul>
