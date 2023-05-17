@@ -12,11 +12,11 @@
 </colgroup>
    <tr>   
       <td>
-	 <h3><b>This track contains videos to facilitate your learning of the administrative and user tasks performed with the technologies and tools of the Oracle Private Cloud Appliance.</b></h3>
-	 <h3><b>On these pages you will find material such as videos, documents and useful resource links covering areas including the following:</b></h3>
+	 <h3><b>This track contains videos to facilitate your learning of the administrative and user tasks performed with the technologies and tools of the Oracle Private Cloud Appliance.</p>
+	 <p>On these pages you will find material such as videos, documents and useful resource links covering areas including the following:</b></h3>
          <ul>
             <li>Tasks performed from the Service Enclave</li>
-	          <li>Tasks performed from the Compute Enclave</li>
+	    <li>Tasks performed from the Compute Enclave</li>
          </ul> 
     <p>Information and videos presented here cover technologies and components to help you expand your learning of the Oracle Private Cloud Appliance.</p>
       </td>
