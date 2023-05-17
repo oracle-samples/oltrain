@@ -26,7 +26,7 @@ Test your skills on what you have learned about Oracle Linux Ksplice with this q
  
 <table>
     <tr>
-    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td valign="center"><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:DEQTW7M"><img src="../common/images/quiz_person4.png" width="120" height="110" alt="Oracle Linux Ksplice Quiz"></a></td>
     <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:DEQTW7M">Oracle Linux Ksplice Quiz</a></td>
   </tr>
 </table>    
