@@ -49,7 +49,7 @@ Test your skills on what you have learned about administration of Oracle Linux w
 
 <table>
     <tr>
-    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td valign="center"><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:IJY13J"><img src="../../common/images/quiz_person4.png" width="120" height="110" alt="Oracle Linux Administration Quiz"></a></td>
     <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:IJY13J">Oracle Linux Administration Quiz</a></td>
   </tr>
 </table>

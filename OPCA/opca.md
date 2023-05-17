@@ -2,15 +2,41 @@
 # Welcome to Oracle Private Cloud Appliance Track
 
 ![](../common/images/PCA_header4.png)
+   
 ---
-This track contains videos to facilitate your learning of the administrative and user tasks performed with the technologies and tools of the Oracle Private Cloud Appliance.
-
-On these pages you will find material such as videos, documents and useful resource links covering areas including the following:
-- Tasks performed from the Service Enclave.
-- Tasks performed from the Compute Enclave.
-
-Information and videos presented here cover technologies and components to help you expand your learning of the Oracle Private Cloud Appliance.
-
+   
+<table width="1200">
+<colgroup>
+   <col width="900">
+   <col width="300">
+</colgroup>
+   <tr>   
+      <td>
+	 <h3><b>This track contains videos to facilitate your learning of the administrative and user tasks performed with the technologies and tools of the Oracle Private Cloud Appliance.</b></h3><br>
+	 <p>On these pages you will find material such as videos, documents and useful resource links covering areas including the following:</p>
+         <ul>
+            <li>Tasks performed from the Service Enclave</li>
+	    <li>Tasks performed from the Compute Enclave</li>
+         </ul> 
+    <p>Information and videos presented here cover technologies and components to help you expand your learning of the Oracle Private Cloud Appliance.</p><br>
+      </td>
+      <td rowspan="2" valign="top">
+	      <br><p><i>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</i></p>
+         <ul>
+            <li><a href="#opca-storage">Mounting File Systems</a></li>
+	    <li><a href="#opca-srvencl">Day 0 Configuration</a></li>
+	    <li><a href="#opca-ocicli">Using the OCI CLI</a></li>
+            <li><a href="#opca-network">Create a Virtual CLoud Network</a></li>
+         </ul>
+      </td>
+   </tr>
+   <tr>   
+      <td>  </td>
+   </tr>
+</table>    
+   
+---
+   
 <p><img id="opca-srvencl" src="../common/images/pca-page-srvencl2.png"></p>
 
 The Oracle Private Cloud Appliance runs its own specific and separate administration area known as the Service Enclave. The Service Enclave is the part of the system where the appliance infrastructure is controlled. Access is closely monitored and restricted to privileged administrators. Functionality provided by the Service Enclave includes hardware and capacity management, tenancy management, system and component upgrade, system backup and restore, monitoring and tools for service and support, and so on.
