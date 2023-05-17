@@ -34,7 +34,7 @@ Test your skills on what you have learned about installation and the boot proces
  
 <table>
     <tr>
-    <td><img src="../../common/images/quiz_v2.png" width="40" height="50"></td>
+    <td valign="center"><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:DLCZA6M"><img src="../../common/images/quiz_person4.png" width="120" height="110" alt="Oracle Linux Installation Quiz"></a></td>
     <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:DLCZA6M">Oracle Linux Installation Quiz</a></td>
   </tr>
 </table>    
