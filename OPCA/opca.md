@@ -20,7 +20,8 @@
          </ul> 
     <p>Information and videos presented here cover technologies and components to help you expand your learning of the Oracle Private Cloud Appliance.</p><br>
       </td>
-      <td rowspan="2" valign="top"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</i></p>
+      <td rowspan="2" valign="top">
+	      <br><p><i>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</i></p>
          <ul>
             <li><a href="#opca-storage">Mounting File Systems</a></li>
 	    <li><a href="#opca-srvencl">Day 0 Configuration</a></li>
