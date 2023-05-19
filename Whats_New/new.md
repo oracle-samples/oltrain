@@ -65,13 +65,13 @@ This page highlights the videos and hands on labs that have been added to the le
 
 ### New Hands On Labs
 
-- [Upgrade to Oracle Linux Automation Manager 2.0](https://luna.oracle.com/lab/6c7124cc-474f-4dd4-89fa-9beb536c71f5)
-- [Migrate Oracle Linux Automation Manager 2.0 to a Clustered Deployment](https://luna.oracle.com/lab/d1847f91-0cdc-41b8-afc4-eb6d0ccd40c2)
-- [Get Started with Oracle Linux Automation Manager 2.0](https://luna.oracle.com/lab/4a1dcd6e-231c-4724-ae52-8d56431a2888)
-- [Integrate LDAP User Management with Oracle Linux Automation Manager 2.0](https://luna.oracle.com/lab/a03cfc90-4c3c-488d-9e66-ba514e00b619)
-- [Use OCI Ansible Collection with Oracle Linux Automation Manager 2.0](https://luna.oracle.com/lab/b69c86cf-962a-40a9-8f3c-7a9018f4dc4b)
-- [Use Hop Nodes on Oracle Linux Automation Manager 2.0](https://luna.oracle.com/lab/c4780f15-bd17-468d-9133-3eba9bc0ff2a)
-- [Manage KVM Virtual Machines using Oracle Linux Automation Manager 2.0](https://luna.oracle.com/lab/3e869b97-6f71-46fa-a979-e0c8bf81d7d2)
+- [Upgrade to Oracle Linux Automation Manager](https://luna.oracle.com/lab/6c7124cc-474f-4dd4-89fa-9beb536c71f5)
+- [Migrate Oracle Linux Automation Manager to a Clustered Deployment](https://luna.oracle.com/lab/d1847f91-0cdc-41b8-afc4-eb6d0ccd40c2)
+- [Get Started with Oracle Linux Automation Manager](https://luna.oracle.com/lab/4a1dcd6e-231c-4724-ae52-8d56431a2888)
+- [Integrate LDAP User Management with Oracle Linux Automation Manager](https://luna.oracle.com/lab/a03cfc90-4c3c-488d-9e66-ba514e00b619)
+- [Use OCI Ansible Collection with Oracle Linux Automation Manager](https://luna.oracle.com/lab/b69c86cf-962a-40a9-8f3c-7a9018f4dc4b)
+- [Use Hop Nodes on Oracle Linux Automation Manager](https://luna.oracle.com/lab/c4780f15-bd17-468d-9133-3eba9bc0ff2a)
+- [Manage KVM Virtual Machines using Oracle Linux Automation Manager](https://luna.oracle.com/lab/3e869b97-6f71-46fa-a979-e0c8bf81d7d2)
 - [etup HAProxy to Load Balance an Oracle Linux Automation Manager Cluster](https://luna.oracle.com/lab/1d19c310-b6d6-40a9-aa2b-44dee29a8f31)
 
 ---
