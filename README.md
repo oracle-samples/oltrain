@@ -28,7 +28,7 @@
    
 ---
 
-<p><img id="ol" src="common/images/OL-banner-v2a.png"></p>
+<p><a href="https://oracle-samples.github.io/oltrain/OL/ol.html"><img id="ol" src="common/images/OL-banner-v2a.png"></p>
    
 - [Oracle Linux](./OL/ol.md) - Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
    
