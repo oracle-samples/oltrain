@@ -39,6 +39,7 @@ Practice your skills with Oracle Linux Automation Manager with these free hands 
 [![](../common/images/oci_collection_olam2_lab.png)](https://luna.oracle.com/lab/b69c86cf-962a-40a9-8f3c-7a9018f4dc4b)
 [![](../common/images/hop_nodes_olam2_lab.png)](https://luna.oracle.com/lab/c4780f15-bd17-468d-9133-3eba9bc0ff2a)
 [![](../common/images/libvirt_collection_olam2_lab.png)](https://luna.oracle.com/lab/3e869b97-6f71-46fa-a979-e0c8bf81d7d2)
+[![](../common/images/haproxy_olam2_lab.png)](https://luna.oracle.com/lab/1d19c310-b6d6-40a9-aa2b-44dee29a8f31)
 <br>
 <br>
 
