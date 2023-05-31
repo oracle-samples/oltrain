@@ -114,6 +114,7 @@
 [![](../common/images/runkub_lab_new.png)](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
 [![](../common/images/mini_lab_new.png)](https://luna.oracle.com/lab/8b2f7860-3204-4cd3-8d55-3f6de9ca03c2)
 [![](../common/images/ocne-intro-kubectl.png)](https://luna.oracle.com/lab/6c65a513-b161-47d2-b45c-92ca02e38dc0)
+[![](../common/images/ocne-kubectl-cluster-nodes.png)](https://luna.oracle.com/lab/4b16d141-4825-4d54-98f3-ce7babbea45c)
 
 ---
 <br>
