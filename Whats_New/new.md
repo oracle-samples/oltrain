@@ -25,6 +25,7 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Deploy a High Availability Project Quay on Podman](https://luna.oracle.com/lab/a63c2548-c459-457f-b3d1-123c99d90d89)
 - [Get Started with Oracle Database Free on Oracle Linux](https://luna.oracle.com/lab/8dd46cea-3e27-4774-bb12-fc97a4babe06)
 - [Disable a Kernel Module on Oracle Linux](https://luna.oracle.com/lab/00aafe17-39b9-43e0-8b53-087b84003c15)
+- [Use ReaR to Perform an Oracle Linux Backup](https://luna.oracle.com/lab/30023183-ca96-48dc-8497-af04ca1eada4)
 
 ---
 

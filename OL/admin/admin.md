@@ -39,6 +39,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/ol_keycloak_lab.png)](https://luna.oracle.com/lab/752793ff-9f74-4bb0-b848-90c5bcae4388)
 [![](../../common/images/ol_dbfree_lab.png)](https://luna.oracle.com/lab/8dd46cea-3e27-4774-bb12-fc97a4babe06)
 [![](../../common/images/disable_kernel_module.png)](https://luna.oracle.com/lab/00aafe17-39b9-43e0-8b53-087b84003c15)
+[![](../../common/images/ol-backup-rear.png)](https://luna.oracle.com/lab/30023183-ca96-48dc-8497-af04ca1eada4)
 
 ---
 
