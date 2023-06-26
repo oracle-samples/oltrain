@@ -55,7 +55,7 @@ Get up and running fast and start working with OS Management Hub service with th
          </td>
          <td valign="top"><b>Practice the following Tutorials and Hands on labs:</b>
             <ul>
-               <li>Coming soon - Check back regularly for new tutorials and free practice labs</li>
+               <li><b>Coming soon - Check back regularly for new tutorials and free practice labs</b></li>
             </ul>
          </td>
      </tr>
