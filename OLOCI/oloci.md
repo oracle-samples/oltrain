@@ -351,11 +351,13 @@ Test your skills on what you have learned with this quiz.
   </tr>
 </table>    
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
-
-### Resources
-
-Following page provides additional product information:
-
+   
+---
+   
+<h2>Resources</h2>
+<p>Following pages provide additional product information:</p>
+<br>
+   
 - [Oracle Cloud Infrastructure Documentation](https://docs.oracle.com/en-us/iaas/Content/home.htm)
 - [Linux on Oracle Cloud Infrastructure Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzu51n3L6dxHgKRy8CayIBXI)
 
