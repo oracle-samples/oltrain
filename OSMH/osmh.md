@@ -53,7 +53,7 @@ Get up and running fast and start working with OS Management Hub service with th
                <li>Software Sources</li>
             </ul>
          </td>
-         <td valign="top">
+         <td valign="top">&nbsp;
          </td>
      </tr>
 </table>  
