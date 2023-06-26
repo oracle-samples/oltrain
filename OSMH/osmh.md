@@ -64,6 +64,7 @@ Get up and running fast and start working with OS Management Hub service with th
    
 ### Videos
 
+[![](../common/images/xx-osmh-overview.png)]([https://youtu.be/xxxxxxxxxxx](https://youtu.be/zBDX5VmurZM))  
 [![](../common/images/xx-gettingstarted.png)](https://youtu.be/xxxxxxxxxxx)   
 [![](../common/images/xx-registerstation.png)](https://youtu.be/xxxxxxxxxxx)  
 [![](../common/images/xx-registerinstance.png)](https://youtu.be/xxxxxxxxxxx)  
@@ -71,7 +72,7 @@ Get up and running fast and start working with OS Management Hub service with th
 ### Resources:
 
 [- documentation link here]: #
-[- YouTube playlist link here]: #
+- [OS Management Hub Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvL2cIZri305uCRIo1TmMZW)
 
 
 #### [Return to Oracle Linux Training Station](../README.md)
