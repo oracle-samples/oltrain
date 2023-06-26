@@ -18,8 +18,8 @@ Oracle OS Management Hub is used to manage and monitor updates and patches for t
 </colgroup>
    <tr>   
       <td>
-	 <h3><b>OS Management Hub is the next generation management solution for Oracle Linux. This track provides a learning path with step-by-step instructions and guidance for using the service.</b></h3>
-	 <h3><b>Oracle OS Management Hub is used to manage and monitor updates and patches for the operating system environments in private data centers through a single management console. It simplifies the provisioning and maintaining of large deployments of physical servers and virtual machines that span public cloud and private data centers.</b></h3>
+	 <h4><b>OS Management Hub is the next generation management solution for Oracle Linux. This track provides a learning path with step-by-step instructions and guidance for using the service.</b></h4>
+	 <h4><b>Oracle OS Management Hub is used to manage and monitor updates and patches for the operating system environments in private data centers through a single management console. It simplifies the provisioning and maintaining of large deployments of physical servers and virtual machines that span public cloud and private data centers.</b></h4>
 	 <p>Learn to use the OS Management Hub service to perform actions, such as:
 	 <ul>
             <li>Configure the service</li>
