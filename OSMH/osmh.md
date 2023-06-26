@@ -48,9 +48,9 @@ Get up and running fast and start working with OS Management Hub service with th
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
-               <li>osmh topic1</li>
-               <li>osmh topic2</li>
-               <li>osmh topic3</li>
+               <li>Identify and Access Management</li>
+               <li>Management Agent Key</li>
+               <li>Software Sources</li>
             </ul>
          </td>
          <td valign="top"><b>Practice the following Tutorials and Hands on labs:</b>
