@@ -53,10 +53,7 @@ Get up and running fast and start working with OS Management Hub service with th
                <li>Software Sources</li>
             </ul>
          </td>
-         <td valign="top"><b>Practice the following Tutorials and Hands on labs:</b>
-            <ul>
-               <li><b>Coming soon - Check back regularly for new tutorials and free practice labs</b></li>
-            </ul>
+         <td valign="top">
          </td>
      </tr>
 </table>  
