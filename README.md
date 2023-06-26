@@ -57,12 +57,12 @@
 - [Oracle Linux Virtualization Manager](./OLVM/olvm.md) - Use resources available to adopt this open-source distributed server virtualization solution. Gain proficiency in deploying, configuring, monitoring, and managing an Oracle Linux Kernel-based Virtual Machine (KVM) environment with enterprise-grade performance.
 
 ---
-[   ]: #
-[<p><a href="https://oracle-samples.github.io/oltrain/OSMS/osmh.html"><img id="osms" src="common/images/osmh-banner-v2.png"></a></p>   ]: #
-[   ]: #
-[- [OS Management Hub](./OSMS/osms.md) - Learn how to use OS Management Hub to manage and monitor updates and patches for the operating system environments in private data centers.]: #
-[   ]: #
-[---]: #
+   
+<p><a href="https://oracle-samples.github.io/oltrain/OSMS/osmh.html"><img id="osms" src="common/images/osmh-banner-v2.png"></a></p>   ]: #
+   
+- [OS Management Hub](./OSMS/osms.md) - Learn how to use OS Management Hub to manage and monitor updates and patches for the operating system environments in private data centers.
+   
+---
    
 <p><a href="https://oracle-samples.github.io/oltrain/OSMS/osms.html"><img id="osms" src="common/images/osms-banner3.png"></a></p>   
    
