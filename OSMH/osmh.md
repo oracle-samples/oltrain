@@ -75,7 +75,7 @@ Get up and running fast and start working with OS Management Hub service with th
 <p>Following pages provide additional product information:</p>
 <br>
    
-[- documentation link here]: #
+- [OS Management Hub Documentation](https://docs.oracle.com/iaas/osmh/doc/home.htm)
 - [OS Management Hub Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvL2cIZri305uCRIo1TmMZW)
 
 
