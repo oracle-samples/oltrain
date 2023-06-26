@@ -60,7 +60,7 @@
    
 <p><a href="https://oracle-samples.github.io/oltrain/OSMS/osmh.html"><img id="osms" src="common/images/osmh-banner-v2.png"></a></p>   
    
-- [OS Management Hub](./OSMS/osms.md) - Learn how to use OS Management Hub to manage and monitor updates and patches for the operating system environments in private data centers.
+- [OS Management Hub](./OSMH/osmh.md) - Learn how to use OS Management Hub to manage and monitor updates and patches for the operating system environments in private data centers.
    
 ---
    
