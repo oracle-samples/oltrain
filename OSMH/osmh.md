@@ -68,9 +68,13 @@ Get up and running fast and start working with OS Management Hub service with th
 [![](../common/images/xx-gettingstarted.png)](https://youtu.be/xxxxxxxxxxx)   
 [![](../common/images/xx-registerstation.png)](https://youtu.be/xxxxxxxxxxx)  
 [![](../common/images/xx-registerinstance.png)](https://youtu.be/xxxxxxxxxxx)  
-   
-### Resources:
 
+---
+   
+<h2>Resources</h2>
+<p>Following pages provide additional product information:</p>
+<br>
+   
 [- documentation link here]: #
 - [OS Management Hub Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvL2cIZri305uCRIo1TmMZW)
 
