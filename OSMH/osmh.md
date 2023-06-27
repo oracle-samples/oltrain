@@ -48,9 +48,10 @@ Get up and running fast and start working with OS Management Hub service with th
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
-               <li>Identify and Access Management</li>
+               <li>Identity and Access Management</li>
                <li>Management Agent Key</li>
                <li>Software Sources</li>
+	       <li>Management Station</li>
             </ul>
          </td>
      </tr>
