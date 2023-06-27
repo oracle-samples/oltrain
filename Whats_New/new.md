@@ -11,9 +11,8 @@ This page highlights the videos and hands on labs that have been added to the le
 ### New Videos
 
 - [OS Management Hub Service: Overview](https://youtu.be/zBDX5VmurZM)
-- [Preparing Oracle Cloud Infrastructure for OS Management Hub](https://xxxxxxxxxxx)
-- [Creating and Registering a Management Station in OS Management Hub](https://xxxxxxxxxxx)
-- [Registering Instances with OS Management Hub](https://xxxxxxxxxxx)
+- [Preparing Oracle Cloud Infrastructure for OS Management Hub](https://youtu.be/LMxfUj93ozc)
+- [Creating and Registering a Management Station in OS Management Hub](https://youtu.be/PEwGJlX6PqU)
 
 ---
 
