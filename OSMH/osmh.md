@@ -83,21 +83,10 @@ Get up and running fast and start working with OS Management Hub service with th
 	       <a href="https://youtu.be/zBDX5VmurZM"><img src="../common/images/osmh_service_overview_300.png"></a>
 	  </td>
       <td>
-	       <a href="https://youtu.be/xxxxxxxxxx"><img src="../common/images/osmh_preparing_oci_300.png"></a>
+	       <a href="https://youtu.be/LMxfUj93ozc"><img src="../common/images/osmh_preparing_oci_300.png"></a>
       </td>
 	  <td>
 	       <a href="https://youtu.be/PEwGJlX6PqU"><img src="../common/images/osmh_setting_mgmt_station_300.png"></a>
-      </td>
-   </tr>
-   <tr>   
-      <td>
-	  	   <a href="https://youtu.be/xxxxxxxxxx"><img src="/img/ol/xxxxxxxxxx.png"></a>
-	  </td>
-      <td>
-	  	    <a href="https://youtu.be/xxxxxxxxxx"><img src="/img/ol/xxxxxxxxxx.png"></a>
-      </td>
-	  <td>
-	  	    <a href="https://youtu.be/xxxxxxxxxx"><img src="/img/ol/xxxxxxxxxx.png"></a>
       </td>
    </tr>
 </table>
