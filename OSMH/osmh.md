@@ -23,14 +23,14 @@
       </td>
       <td rowspan="2"><p><i>Go straight to our most popular topics. Click these links to jump to the free videos and hands on labs:</i></p>
          <ul>
-            <li><a href="#osmh-deploy">Getting Started in Oracle Cloud Infrastructure with OS Management Hub</a></li>
-			<li><a href="#osmh-deploy">Registering Instances with OS Management Hub</a></li>
+            <li><a href="#osmh-deploy">OS Management Hub Service: Overview</a></li>
+	    <li><a href="#osmh-deploy">Registering Instances with OS Management Hub</a></li>
          </ul>
       </td>
    </tr>
    <tr>   
       <td>
-	  </td>
+      </td>
    </tr>
 </table>    
    
@@ -59,8 +59,8 @@ Get up and running fast and start working with OS Management Hub service with th
    
 ### Videos
 
-[![](../common/images/xx-osmh-overview.png)]([https://youtu.be/xxxxxxxxxxx](https://youtu.be/zBDX5VmurZM))  
-[![](../common/images/xx-gettingstarted.png)](https://youtu.be/xxxxxxxxxxx)   
+[![](../common/images/osmh_service_overview_300.png)](https://youtu.be/zBDX5VmurZM)  
+[![](../common/images/osmh_preparing_oci_300.png)](https://youtu.be/xxxxxxxxxxx)   
 [![](../common/images/xx-registerstation.png)](https://youtu.be/xxxxxxxxxxx)  
 [![](../common/images/xx-registerinstance.png)](https://youtu.be/xxxxxxxxxxx)  
 
