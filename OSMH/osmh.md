@@ -40,11 +40,7 @@
 
 Get up and running fast and start working with OS Management Hub service with the following videos.
 
-<table width="1200">
-<colgroup>
-   <col width="600">
-   <col width="600">
-</colgroup>
+<table width="600">
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
@@ -52,11 +48,6 @@ Get up and running fast and start working with OS Management Hub service with th
                <li>Management Agent Key</li>
                <li>Software Sources</li>
 	       <li>Management Station</li>
-            </ul>
-         </td>
-	 <td valign="top"><b>Practice the following Tutorials:</b>
-            <ul>
-               <li>Introduction to Terraform with Oracle Linux</li>
             </ul>
          </td>
      </tr>
