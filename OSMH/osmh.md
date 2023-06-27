@@ -40,10 +40,10 @@
 
 Get up and running fast and start working with OS Management Hub service with the following videos.
 
-<table width="1200">
+<table width="600">
 <colgroup>
-   <col width="600">
-   <col width="600">
+   <col width="300">
+   <col width="300">
 </colgroup>
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
