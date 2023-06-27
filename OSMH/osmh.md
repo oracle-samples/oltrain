@@ -54,7 +54,7 @@ Get up and running fast and start working with OS Management Hub service with th
 	       <li>Management Station</li>
             </ul>
          </td>
-	 <td valign="top"><b>Learn about these topics:</b>
+	 <td valign="top">   
             <ul>
                <li>Management Hub</li>
                <li>Proxy and Mirror Configuration</li>
