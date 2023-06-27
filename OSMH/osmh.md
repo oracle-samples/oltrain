@@ -40,7 +40,7 @@
 
 Get up and running fast and start working with OS Management Hub service with the following videos.
 
-<table width="600">
+<table width="1200">
       <tr>   
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
