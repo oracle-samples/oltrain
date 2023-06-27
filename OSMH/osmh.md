@@ -49,9 +49,16 @@ Get up and running fast and start working with OS Management Hub service with th
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Identity and Access Management</li>
-               <li>Management Agent Key</li>
+               <li>Management Agent Key (MACS)</li>
                <li>Software Sources</li>
 	       <li>Management Station</li>
+            </ul>
+         </td>
+	 <td valign="top"><b>Learn about these topics:</b>
+            <ul>
+               <li>Management Hub</li>
+               <li>Proxy and Mirror Configuration</li>
+               <li>Management Agent Software</li>
             </ul>
          </td>
      </tr>
