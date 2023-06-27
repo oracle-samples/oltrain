@@ -16,6 +16,7 @@
             <ul>
                <li><a href="https://oracle-samples.github.io/oltrain/OCNE/ocne.html#ocne-kubernetes">Kubernetes</a></li>
                <li><a href="https://oracle-samples.github.io/oltrain/OL/virt/virt.html#containers">Containers</a></li>
+	       <li><a href="https://oracle-samples.github.io/oltrain/OSMH/osmh.html">OS Management Hub</a></li>
                <li><a href="https://oracle-samples.github.io/oltrain/VBOX/vbox.html">Oracle VM VirtualBox</a></li>
                <li><a href="https://oracle-samples.github.io/oltrain/OLVM/olvm.html">Oracle Linux Virtualization Manager</a></li>
             </ul>
@@ -55,6 +56,12 @@
 <p><a href="https://oracle-samples.github.io/oltrain/OLVM/olvm.html"><img id="olvm" src="common/images/OLVM-banner-v2.png"></a></p>   
    
 - [Oracle Linux Virtualization Manager](./OLVM/olvm.md) - Use resources available to adopt this open-source distributed server virtualization solution. Gain proficiency in deploying, configuring, monitoring, and managing an Oracle Linux Kernel-based Virtual Machine (KVM) environment with enterprise-grade performance.
+
+---
+   
+<p><a href="https://oracle-samples.github.io/oltrain/OSMH/osmh.html"><img id="osms" src="common/images/osmh-banner-v2.png"></a></p>   
+   
+- [OS Management Hub](./OSMH/osmh.md) - Learn how to use OS Management Hub to manage and monitor updates and patches for the operating system environments in private data centers.
    
 ---
    

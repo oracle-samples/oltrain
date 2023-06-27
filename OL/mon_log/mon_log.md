@@ -46,6 +46,7 @@ Test your skills on what you have learned about monitoring and logging in Oracle
 
 Following page provides additional product information:
 
+- [Blog: Learn to profile and analyze application performance with gprofng](https://blogs.oracle.com/linux/post/learn-to-profile-and-analyze-application-performance-with-gprofng)
 - [Oracle Linux Documentation Home Page](https://docs.oracle.com/en/operating-systems/oracle-linux/)
 - [Oracle Linux Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIztOLwiTOF0HOV5aiTjGNpLl)
 
