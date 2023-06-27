@@ -70,8 +70,8 @@ Get up and running fast and start working with OS Management Hub service with th
 
 These videos will get you started with the installation and overview of Oracle Linux Automation Manager version 1.0.
 
-[![](../common/images/install_olam_300.png)](https://youtu.be/-RCqGHhweo0)
-[![](../common/images/get_started_olam_300.png)](https://youtu.be/EEWdxROy-nM)
+[![](../common/images/osmh_service_overview_300.png)](https://youtu.be/zBDX5VmurZM)
+[![](../common/images/osmh_preparing_oci_300.png)](https://youtu.be/LMxfUj93ozc)
 
 
 <!--
