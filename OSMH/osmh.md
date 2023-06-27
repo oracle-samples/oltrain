@@ -76,6 +76,9 @@ These videos will get you started with the installation and overview of Oracle L
 [![](../common/images/osmh_preparing_oci_300.png)](https://youtu.be/LMxfUj93ozc)
 [![](../common/images/osmh_setting_mgmt_station_300.png)](https://youtu.be/cYN_ZWkLzCc)
 
+[![](../common/images/osmh_service_overview_300.png)](https://youtu.be/zBDX5VmurZM)  
+[![](../common/images/osmh_preparing_oci_300.png)](https://youtu.be/LMxfUj93ozc)   
+[![](../common/images/osmh_setting_mgmt_station_300.png)](https://youtu.be/cYN_ZWkLzCc) 
 
 <!--
 <table width="1200">
