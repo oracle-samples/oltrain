@@ -52,11 +52,7 @@ Get up and running fast and start working with OS Management Hub service with th
                <li>Management Agent Key (MACS)</li>
                <li>Software Sources</li>
 	       <li>Management Station</li>
-            </ul>
-         </td>
-	 <td valign="top">&nbsp
-            <ul>
-               <li>Management Hub</li>
+	       <li>Management Hub</li>
                <li>Proxy and Mirror Configuration</li>
                <li>Management Agent Software</li>
             </ul>
