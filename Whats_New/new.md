@@ -6,7 +6,7 @@ This page highlights the videos and hands on labs that have been added to the le
 
 ---
 
-![](../common/images/OL-banner-v2a.png)
+![](../common/images/osmh-banner-v2.png)
 
 ### New Videos
 
