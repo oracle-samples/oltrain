@@ -59,12 +59,12 @@ Get up and running fast and start working with OS Management Hub service with th
 <br>
    
 ### Videos
-
+   
 [![](../common/images/osmh_service_overview_300.png)](https://youtu.be/zBDX5VmurZM)  
 [![](../common/images/osmh_preparing_oci_300.png)](https://youtu.be/xxxxxxxxxxx)   
 [![](../common/images/osmh_setting_mgmt_station_300.png)](https://youtu.be/PEwGJlX6PqU)  
 [![](../common/images/xx-registerinstance.png)](https://youtu.be/xxxxxxxxxxx)  
-
+   
 ---
    
 <h2>Resources</h2>
