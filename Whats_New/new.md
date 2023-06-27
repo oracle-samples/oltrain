@@ -14,6 +14,13 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Preparing Oracle Cloud Infrastructure for OS Management Hub](https://xxxxxxxxxxx)
 - [Creating and Registering a Management Station in OS Management Hub](https://xxxxxxxxxxx)
 - [Registering Instances with OS Management Hub](https://xxxxxxxxxxx)
+
+---
+
+![](../common/images/OL-banner-v2a.png)
+
+### New Videos
+
 - [Use Gprofng for Performance Profiling Applications](https://youtu.be/TRZNoL_7xro)
 - [Install Oracle Linux 9](https://youtu.be/BDmBtP4Y7Wg)
 - [Ksplice Known Exploit Detection](https://youtu.be/13R21lfYy74)
