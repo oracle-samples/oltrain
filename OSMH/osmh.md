@@ -65,6 +65,7 @@ Get up and running fast and start working with OS Management Hub service with th
 [![](../common/images/osmh_setting_mgmt_station_300.png)](https://youtu.be/PEwGJlX6PqU)  
 [![](../common/images/xx-registerinstance.png)](https://youtu.be/xxxxxxxxxxx)  
 
+<!--
 <table width="1200">
 <colgroup>
    <col width="400">
@@ -94,6 +95,7 @@ Get up and running fast and start working with OS Management Hub service with th
       </td>
    </tr>
 </table>
+-->
 
 ---
    
