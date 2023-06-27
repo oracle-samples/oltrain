@@ -1,4 +1,3 @@
-
 # Welcome to OS Management Hub Track
 
 ![](../common/images/osmh-page-header-1200x200.png)
