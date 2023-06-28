@@ -1,4 +1,4 @@
-# Welcome to OS Management Hub Track
+# Welcome to the Oracle OS Management Hub Track
 
 ![](../common/images/osmh-page-header-1200x200.png)
 ---
@@ -10,9 +10,9 @@
 </colgroup>
    <tr>   
       <td>
-	 <h4><b>OS Management Hub is the next generation management solution for Oracle Linux. This track provides a learning path with step-by-step instructions and guidance for using the service.</b></h4>
+	 <h4><b>Oracle OS Management Hub is the next generation management solution for Oracle Linux. This track provides a learning path with step-by-step instructions and guidance for using the service.</b></h4>
 	 <h4><b>Oracle OS Management Hub is used to manage and monitor updates and patches for the operating system environments in private data centers through a single management console. It simplifies the provisioning and maintaining of large deployments of physical servers and virtual machines that span public cloud and private data centers.</b></h4>
-	 <p>Learn to use the OS Management Hub service to perform actions, such as: </p>
+	 <p>Learn to use the Oracle Oracle OS Management Hub service to perform actions, such as: </p>
 	 <ul>
             <li>Configure the service</li>
 	    <li>Create a Management Station</li>
@@ -95,8 +95,8 @@ Get up and running fast and start working with OS Management Hub service with th
 <p>Following pages provide additional product information:</p>
 <br>
    
-- [OS Management Hub Documentation](https://docs.oracle.com/iaas/osmh/doc/home.htm)
-- [OS Management Hub Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvL2cIZri305uCRIo1TmMZW)
+- [Oracle OS Management Hub Documentation](https://docs.oracle.com/iaas/osmh/doc/home.htm)
+- [Oracle OS Management Hub Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzvL2cIZri305uCRIo1TmMZW)
 
 
 #### [Return to Oracle Linux Training Station](../README.md)
