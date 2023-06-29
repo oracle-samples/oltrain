@@ -16,7 +16,7 @@
             <ul>
                <li><a href="https://oracle-samples.github.io/oltrain/OCNE/ocne.html#ocne-kubernetes">Kubernetes</a></li>
                <li><a href="https://oracle-samples.github.io/oltrain/OL/virt/virt.html#containers">Containers</a></li>
-	       <li><a href="https://oracle-samples.github.io/oltrain/OSMH/osmh.html">OS Management Hub</a></li>
+	       <li><a href="https://oracle-samples.github.io/oltrain/OSMH/osmh.html">Oracle OS Management Hub</a></li>
                <li><a href="https://oracle-samples.github.io/oltrain/VBOX/vbox.html">Oracle VM VirtualBox</a></li>
                <li><a href="https://oracle-samples.github.io/oltrain/OLVM/olvm.html">Oracle Linux Virtualization Manager</a></li>
             </ul>
@@ -61,13 +61,13 @@
    
 <p><a href="https://oracle-samples.github.io/oltrain/OSMH/osmh.html"><img id="osms" src="common/images/osmh-banner-v2.png"></a></p>   
    
-- [OS Management Hub](./OSMH/osmh.md) - Learn how to use OS Management Hub to manage and monitor updates and patches for the operating system environments in private data centers.
+- [Oracle OS Management Hub](./OSMH/osmh.md) - Learn how to use Oracle OS Management Hub to manage and monitor updates and patches for the operating system environments in private data centers.
    
 ---
    
 <p><a href="https://oracle-samples.github.io/oltrain/OSMS/osms.html"><img id="osms" src="common/images/osms-banner3.png"></a></p>   
    
-- [OS Management Service](./OSMS/osms.md) - Learn how to use the OS Management service to manage updates and patches for your operating system environments on your Oracle Cloud Infrastructure instances.
+- [Oracle OS Management Service](./OSMS/osms.md) - Learn how to use the Oracle OS Management service to manage updates and patches for your operating system environments on your Oracle Cloud Infrastructure instances.
    
 ---
    
