@@ -63,6 +63,7 @@ This page highlights the videos and hands on labs that have been added to the le
 
 ### New Videos
 
+- [Oracle Cloud Infrastructure Secure Desktops Overview](https://youtu.be/pwElvYIZzaM)
 - [Connect Virtual Cloud Networks to On-Premises Networks using the Site-to-Site VPN Wizard](https://youtu.be/0_WpIxFyyck)
 - [Use the VCN Wizard to create a Virtual Cloud Network in the Oracle Cloud Infrastructure](https://youtu.be/-6B5_5Qih98)
 - [OCI Utilities Overview](https://youtu.be/bnf9T-wljVU)
