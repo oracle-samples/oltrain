@@ -121,6 +121,7 @@ Learn to administer compute instances using a range of tools and solutions provi
    
 ### Videos
 
+[![](../common/images/secure-dtop-300.png)](https://youtu.be/pwElvYIZzaM)
 [![](../common/images/start-osmslinux-300.png)](https://youtu.be/7qmy5VusYKA)
 [![](../common/images/use-osmslinux-300.png)](https://youtu.be/txStsCT1onc)
 [![](../common/images/autonlinux-osms-300.png)](https://youtu.be/Mt_zmEJ1UtM)
