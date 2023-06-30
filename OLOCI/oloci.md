@@ -135,6 +135,7 @@ Learn to administer compute instances using a range of tools and solutions provi
 [![](../common/images/gui-vncsrv-300.png)](https://youtu.be/B6et8JZFylA)
 [![](../common/images/access-wininst-300.png)](https://youtu.be/d1fgBuE1GMY)
 [![](../common/images/compliancereport-300.png)](https://youtu.be/_pKnAcA7GUs)
+[![](../common/images/sd_over_300.png)](https://youtu.be/pwElvYIZzaM)
 
 ### Hands On Labs
 
