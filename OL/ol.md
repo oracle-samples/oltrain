@@ -120,6 +120,7 @@ This track is the place to explore Oracle Linux to help you grow your skillset u
                <li>FreeIPA and Keycloak</li>
                <li>Disable a Kernel Module</li>
                <li>Backup with ReaR</li>
+               <li>Install JavaSE</li>
             </ul>
          </td>
      </tr>
