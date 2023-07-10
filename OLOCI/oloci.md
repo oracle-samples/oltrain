@@ -2,15 +2,15 @@
 # Welcome to Linux on Oracle Cloud Infrastructure Track
 
 ![](../common/images/OLCI-1200x200-banner.png)
-   
+
 ---
-   
+
 <table width="1200">
 <colgroup>
    <col width="900">
    <col width="300">
 </colgroup>
-   <tr>   
+   <tr>
       <td>
 	 <h3><b>This track provides a learning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.</b></h3>
 	 <h3><b>As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.</b></h3>
@@ -25,13 +25,13 @@
          </ul>
       </td>
    </tr>
-   <tr>   
+   <tr>
       <td>  </td>
    </tr>
-</table>    
-   
+</table>
+
 ---
-   
+
 <p><img id="oloci-deploy" src="../common/images/OLOCI-deploy-header2.png"></p>
 
 Learn to provision and launch compute instances with the cloud web console to support your cloud solution in Oracle Cloud infrastructure.
@@ -41,7 +41,7 @@ Learn to provision and launch compute instances with the cloud web console to su
    <col width="600">
    <col width="600">
 </colgroup>
-      <tr>   
+      <tr>
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Create Oracle Linux instance</li>
@@ -60,9 +60,9 @@ Learn to provision and launch compute instances with the cloud web console to su
             </ul>
          </td>
      </tr>
-</table>  
+</table>
 <br>
-   
+
 ### Videos
 
 [![](../common/images/createinst-300.png)](https://youtu.be/tlwlLd4GvCc)
@@ -79,11 +79,11 @@ Learn to provision and launch compute instances with the cloud web console to su
 
 [![](../common/images/terr_lab.png)](https://docs.oracle.com/en/learn/intro_terraform_linux/index.html)<br>
 <br>
-   
+
 ---
-   
+
 <p><img id="oloci-admin" src="../common/images/OLOCI-admin-header2.png"></p>
- 
+
 
 Learn to administer compute instances using a range of tools and solutions provided to support your cloud solution in Oracle Cloud infrastructure.
 
@@ -92,7 +92,7 @@ Learn to administer compute instances using a range of tools and solutions provi
    <col width="600">
    <col width="600">
 </colgroup>
-      <tr>   
+      <tr>
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>OCI Utilities</li>
@@ -113,15 +113,14 @@ Learn to administer compute instances using a range of tools and solutions provi
             <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
             <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
                <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
-               </a></p> 
+               </a></p>
          </td>
      </tr>
-</table>  
+</table>
 <br>
-   
+
 ### Videos
 
-[![](../common/images/secure-dtop-300.png)](https://youtu.be/pwElvYIZzaM)
 [![](../common/images/start-osmslinux-300.png)](https://youtu.be/7qmy5VusYKA)
 [![](../common/images/use-osmslinux-300.png)](https://youtu.be/txStsCT1onc)
 [![](../common/images/autonlinux-osms-300.png)](https://youtu.be/Mt_zmEJ1UtM)
@@ -142,9 +141,9 @@ Learn to administer compute instances using a range of tools and solutions provi
 [![](../common/images/migratealx_lab.png)](https://luna.oracle.com/lab/8848ec22-81cd-46d5-aeab-dd2dae36118b)
 [![](../common/images/ol-streams-lab1.png)](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)<br>
 <br>
-   
+
 ---
-   
+
 <p><img id="oloci-security" src="../common/images/OLOCI-security-header2.png"></p>
 
 Learn to secure access to instances and manage traffic between virtual networks in Oracle Cloud Infrastructure.
@@ -154,7 +153,7 @@ Learn to secure access to instances and manage traffic between virtual networks 
    <col width="600">
    <col width="600">
 </colgroup>
-      <tr>   
+      <tr>
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>SSH keys</li>
@@ -163,18 +162,18 @@ Learn to secure access to instances and manage traffic between virtual networks 
             </ul>
          </td>
       </tr>
-</table>  
+</table>
 <br>
-   
+
 ### Videos
 
 [![](../common/images/ssh-keys-300.png)](https://youtu.be/v5fGdgIrdd0)
 [![](../common/images/inst-netsecur-300.png)](https://youtu.be/2KBBRnuk-lc)
 [![](../common/images/security-lists-300.png)](https://youtu.be/1AIXULHjabQ)<br>
 <br>
-   
----   
-   
+
+---
+
 <p><img id="oloci-network" src="../common/images/OLOCI-network-header2.png"></p>
 
 Learn to build and administer virtual networks and gateways in Oracle Cloud Infrastructure. Manage instance networking and interfaces.
@@ -184,7 +183,7 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
    <col width="600">
    <col width="600">
 </colgroup>
-      <tr>   
+      <tr>
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Oracle Cloud Infrastructure networks</li>
@@ -203,12 +202,12 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
             <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
             <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
                <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
-               </a></p> 
+               </a></p>
          </td>
      </tr>
-</table>  
+</table>
 <br>
-   
+
 ### Videos
 
 [![](../common/images/add-vpn-to-vcn-wizard-300.png)](https://youtu.be/0_WpIxFyyck)
@@ -236,7 +235,7 @@ Learn to discover and administer block volume storage and create shared cluster 
    <col width="600">
    <col width="600">
 </colgroup>
-      <tr>   
+      <tr>
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Block volumes</li>
@@ -258,12 +257,12 @@ Learn to discover and administer block volume storage and create shared cluster 
             <p style="font-size:90%;text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">Click here to learn about using the free hands on labs</a></p>
             <p style="text-align:center;"><a href="https://youtu.be/HOB5dhbcAyo">
                <img src="../common/images/lunalab-300px.png" alt="Using Free Hands on Luna Labs" style="width:150px;height:80px;">
-               </a></p> 
+               </a></p>
          </td>
      </tr>
-</table>  
+</table>
 <br>
-   
+
 ### Videos
 
 [![](../common/images/block-vol-300.png)](https://youtu.be/_W4TOj_g9bU)
@@ -295,7 +294,7 @@ Learn to implement KVM virtualization in Oracle Linux instances deployed on Orac
    <col width="600">
    <col width="600">
 </colgroup>
-      <tr>   
+      <tr>
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Use Oracle KVM image</li>
@@ -304,15 +303,15 @@ Learn to implement KVM virtualization in Oracle Linux instances deployed on Orac
             </ul>
          </td>
       </tr>
-</table>  
+</table>
 <br>
-   
+
 ### Videos
 
 [![](../common/images/use-kvm-300.png)](https://youtu.be/R-zJgRIfil4)
 [![](../common/images/create-kvmguest-300.png)](https://youtu.be/J3s8Myn7A2o)
 [![](../common/images/oci-kvmnet-300.png)](https://youtu.be/IiSsC7EqZSE)
-   
+
 ---
 
 <p><img id="oloci-vbox" src="../common/images/OLOCI-vbox-header.png"></p>
@@ -324,7 +323,7 @@ Learn about integrating Oracle VM VirtualBox virtualization with Oracle Cloud In
    <col width="600">
    <col width="600">
 </colgroup>
-      <tr>   
+      <tr>
          <td valign="top"><b>Learn about these topics:</b>
             <ul>
                <li>Integrating VirtualBox with Oracle Cloud Oracle Infrastructure</li>
@@ -334,32 +333,32 @@ Learn about integrating Oracle VM VirtualBox virtualization with Oracle Cloud In
             </ul>
          </td>
       </tr>
-</table>  
+</table>
 <br>
-   
+
 Watch all the free content here on the Oracle VM VirtualBox Training Track: **[Oracle VM VirtualBox Training Track](../VBOX/vbox.md)**
 
 ---
 
 <p><img id="oloci-quiz" src="../common/images/quiz1.png"></p>
-   
-   
-Test your skills on what you have learned with this quiz.   
- 
+
+
+Test your skills on what you have learned with this quiz.
+
 <table>
     <tr>
     <td valign="center"><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:2EE71Y"><img src="../common/images/quiz_person4.png" width="120" height="110" alt="Linux on Oracle Cloud Infrastructure Quiz"></a></td>
     <td><a href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:2EE71Y">Cloud Deployment with Linux on Oracle Cloud Infrastructure Track Quiz</a></td>
   </tr>
-</table>    
+</table>
 <b>Note:</b> To access the quiz you will need to create a Single Sign On account if you do not already have one.
-   
+
 ---
-   
+
 <h2>Resources</h2>
 <p>Following pages provide additional product information:</p>
 <br>
-   
+
 - [Oracle Cloud Infrastructure Documentation](https://docs.oracle.com/en-us/iaas/Content/home.htm)
 - [Linux on Oracle Cloud Infrastructure Training YouTube Playlist](https://www.youtube.com/playlist?list=PLKCk3OyNwIzu51n3L6dxHgKRy8CayIBXI)
 

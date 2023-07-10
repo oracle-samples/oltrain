@@ -2,3 +2,5 @@
 .vagrant
 *.pem
 *.vm
+
+themes/
