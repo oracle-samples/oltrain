@@ -1,8 +1,8 @@
 ---
-title: "Ksplice"
+title: "Oracle Ksplice"
 date: 2020-08-03
 draft: false
-description: "Ksplice"
+description: "Oracle Ksplice"
 summary: "This track focusses on Oracle Ksplice which allows you to install the latest kernel and key user-space security and bug fix updates while the system is running. Learn to install, configure and use Oracle Ksplice to provide rebootless kernel and critical user-space updates."
 tags: [ "Ksplice" ]
 slug: "ksplice"

@@ -4,7 +4,7 @@ The OLTrain project provides a place to explore Oracle Linux and Virtualization 
 
 ## Getting Started
 
-1. Clone this repository `git git clone --recurse-submodules git@linux-git.oraclecorp.com:docs/training/hugo.git`. The `--recurse-submodules` will clone the blowfish theme from the authors GitHub project.
+1. Clone this repository. Use the `--recurse-submodules` to clone the blowfish theme from the original authors GitHub project.
 
    If you have already cloned the project without using `--recurse-submodules`, then run `git submodule init` followed by `git submodule update` to pull in the theme.
 
@@ -21,6 +21,7 @@ The OLTrain project provides a place to explore Oracle Linux and Virtualization 
 
 ## Deploy Site to GitHub
 
+This site deploys using GitHub Actions configured in `Settings` > `Pages`.
 
 ## Support or Contact
 
