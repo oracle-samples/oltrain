@@ -1,0 +1,285 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+#
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+  name = "Tracks"
+  identifier = "t"
+  pageRef = "Welcome to Oracle Linux Training Station"
+  weight = 10
+
+[[main]]
+  name = "Oracle Linux"
+  identifier = "t1"
+  parent = "t"
+  pageRef = "ol/ol"
+  weight = 10
+
+[[main]]
+  name = "Linux on Oracle Cloud Infrastructure"
+  identifier = "t2"
+  parent = "t"
+  pageRef = "oloci/oloci"
+  weight = 20
+
+[[main]]
+  name = "Oracle Cloud Native Environment"
+  identifier = "t3"
+  parent = "t"
+  pageRef = "ocne/ocne"
+  weight = 30
+
+[[main]]
+  name = "Oracle Linux Automation Manager"
+  identifier = "t4"
+  parent = "t"
+  pageRef = "olam/olam"
+  weight = 40
+
+[[main]]
+  name = "Oracle Linux Virtualization Manager"
+  identifier = "t5"
+  parent = "t"
+  pageRef = "olvm/olvm"
+  weight = 50
+
+[[main]]
+  name = "Oracle OS Management Service"
+  identifier = "t6"
+  parent = "t"
+  pageRef = "osms/osms"
+  weight = 60
+
+[[main]]
+  name = "Oracle OS Management Hub"
+  identifier = "t7"
+  parent = "t"
+  pageRef = "osmh/osmh"
+  weight = 70
+
+[[main]]
+  name = "Oracle Private Cloud Appliance"
+  identifier = "t8"
+  parent = "t"
+  pageRef = "opca/opca"
+  weight = 80
+
+[[main]]
+  name = "Oracle VM VirtualBox"
+  identifier = "t9"
+  parent = "t"
+  pageRef = "vbox/vbox"
+  weight = 90
+
+[[main]]
+  name = "Blogs"
+  #pageRef = "tags"
+  weight = 20
+
+[[main]]
+  name = "Oracle Linux Blog"
+  parent = "Blogs"
+  url = "https://blogs.oracle.com/linux/"
+  weight = 21
+
+[[main]]
+  name = "Oracle Cloud Infrastructure Blog"
+  parent = "Blogs"
+  url = "https://blogs.oracle.com/cloud-infrastructure/"
+  weight = 22
+
+[[main]]
+  name = "Oracle Virtualization Blog"
+  parent = "Blogs"
+  url = "https://blogs.oracle.com/virtualization/"
+  weight = 23
+
+[[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 30
+
+[[main]]
+  name = "Docs"
+  identifier = "doc"
+  weight = 100
+
+[[main]]
+  name = "Oracle Linux"
+  identifier = "doc1"
+  parent = "doc"
+  url = "https://docs.oracle.com/en/operating-systems/oracle-linux/index.html"
+  weight = 100
+
+[[main]]
+  name = "Oracle Cloud Infrastructure"
+  identifier = "doc2"
+  parent = "doc"
+  url = "https://docs.oracle.com/en-us/iaas/Content/home.htm"
+  weight = 120
+
+[[main]]
+  name = "Oracle Cloud Native Environment"
+  identifier = "doc3"
+  parent = "doc"
+  url = "https://docs.oracle.com/en/operating-systems/olcne/"
+  weight = 130
+
+[[main]]
+  name = "Oracle Linux Automation Manager"
+  identifier = "doc4"
+  parent = "doc"
+  url = "https://docs.oracle.com/en/operating-systems/oracle-linux-automation-manager/"
+  weight = 140
+
+[[main]]
+  name = "Oracle Linux Virtualization Manager"
+  identifier = "doc5"
+  parent = "doc"
+  url = "https://docs.oracle.com/en/virtualization/oracle-linux-virtualization-manager/"
+  weight = 150
+
+[[main]]
+  name = "Oracle OS Management Service"
+  identifier = "doc6"
+  parent = "doc"
+  url = "https://docs.oracle.com/en-us/iaas/os-management/home.htm"
+  weight = 160
+
+[[main]]
+  name = "Oracle OS Management Hub"
+  identifier = "doc7"
+  parent = "doc"
+  url = "https://docs.oracle.com/iaas/osmh/doc/home.htm"
+  weight = 170
+
+[[main]]
+  name = "Oracle Private Cloud Appliance"
+  identifier = "doc8"
+  parent = "doc"
+  url = "https://docs.oracle.com/en/engineered-systems/private-cloud-appliance/"
+  weight = 180
+
+[[main]]
+  name = "Oracle VM VirtualBox"
+  identifier = "doc9"
+  parent = "doc"
+  url = "https://docs.oracle.com/en/virtualization/virtualbox/index.html"
+  weight = 190
+
+[[main]]
+  name = "Playlists"
+  identifier = "pl"
+  #pageRef = "tags"
+  weight = 200
+
+[[main]]
+  name = "Introduction to Oracle Linux"
+  identifier = "pl1"
+  parent = "pl"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzvZR0-OoTtScm2NNo68gWtq"
+  weight = 200
+
+[[main]]
+  name = "Oracle Linux"
+  identifier = "pl2"
+  parent = "pl"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIztOLwiTOF0HOV5aiTjGNpLl"
+  weight = 210
+
+[[main]]
+  name = "Oracle Cloud Infrastructure"
+  identifier = "pl3"
+  parent = "pl"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzu51n3L6dxHgKRy8CayIBXI"
+  weight = 220
+
+[[main]]
+  name = "Oracle Cloud Native Environment"
+  identifier = "pl4"
+  parent = "pl"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzuwyOFQFhl_UyUoJPoseTN-"
+  weight = 230
+
+[[main]]
+  name = "Oracle Linux Automation Manager"
+  identifier = "pl5"
+  parent = "pl"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsGuAWaMCiVrNCdU-2Y0ujg"
+  weight = 240
+
+[[main]]
+  name = "Oracle Linux Virtualization Manager"
+  identifier = "pl6"
+  parent = "pl"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzu_Cch2fK2K4yO57d6xT8dt"
+  weight = 250
+
+[[main]]
+  name = "Oracle OS Management Service"
+  identifier = "pl7"
+  parent = "pl"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsn5mtWgjb_HS7GJoKa2rMn"
+  weight = 260
+
+[[main]]
+  name = "Oracle OS Management Hub"
+  identifier = "pl8"
+  parent = "pl"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzvL2cIZri305uCRIo1TmMZW"
+  weight = 270
+
+[[main]]
+  name = "Oracle Private Cloud Appliance"
+  identifier = "pl9"
+  parent = "pl"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsnBlQvRh23rFgxMYFduQOo"
+  weight = 280
+
+[[main]]
+  name = "Oracle VM VirtualBox"
+  identifier = "pl10"
+  parent = "pl"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsbt_qDAXLMF5oFUhEkgbUM"
+  weight = 290
+
+[[main]]
+  identifier = "web"
+  pre = "link"
+  url = "https://developer.oracle.com/"
+  weight = 225
+
+[[main]]
+  identifier = "youtube"
+  pre = "youtube"
+  url = "https://www.youtube.com/oraclelinuxchannel"
+  weight = 250
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/oracle-samples/oltrain"
+  weight = 400
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+ [[footer]]
+   name = "Tags"
+   pageRef = "tags"
+   weight = 10
+
+# [[footer]]
+#   name = "Authors"
+#   pageRef = "authors"
+#   weight = 20

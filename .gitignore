@@ -1,4 +1,48 @@
+#  Local .terraform directories
+**/.terraform/*
+
+# .terraform.lock files
+*.terraform.lock.*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+
+# planfiles
+*plan*
+*out.terraform*
+*tfdestroy*
+
+# provider file for testing - should be manually added
+provider.tf
+
+generated/**
+scripts/tesseract.sh
+
+# visual code
+**/.vscode/*
+
+# ansible code
+*hosts*
+
+# macOS
 .DS_Store
-.vagrant
-*.pem
-*.vm
+
+# hugo
+/public/
+/resources/
+/assets/jsconfig.json
+hugo_stats.json
+
+hugo.exe
+hugo.linux
+hugo.darwin
+
+node_modules
+dist
+tmp
+
+*.hugo_build.lock*

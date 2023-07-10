@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Oracle Linux Training Station"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/oltrain-logo-transparent.png"
+  #secondaryLogo = "PATH"
+  description = "Head to the Oracle Linux Training Station tracks below to learn about Linux and Virtualization products."
+  #copyright = "Copy, _right?_ :thinking_face:"
+
+# [author]
+#   name = "Oracle Linux Training Station"
+#   image = "ol-train4.png"
+#   image = "img/blowfish_logo.png"
+#   headline = "Head to the Oracle Linux Training Station tracks below to learn about Linux and Virtualization products."
+#   bio = "Oracle Linux Training Station"
+#   links = [
+#     { youtube = "https://www.youtube.com" },
+#     { github = "https://github.com/nunocoracao/blowfish" },
+#   ]
