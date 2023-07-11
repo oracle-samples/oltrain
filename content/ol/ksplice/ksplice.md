@@ -19,6 +19,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+aliases:
+- /OL/ksplice/ksplice.html
 ---
 
 ## Videos

@@ -19,6 +19,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+aliases:
+- /OCNE/ocne.html
 ---
 
 {{< figure src="/img/ocne/OCNE-banner.jpg" alt="Oracle Cloud Native Environment Track" >}}

@@ -19,6 +19,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+aliases:
+- /OL/mon_log/mon_log.html
 ---
 
 ## Videos

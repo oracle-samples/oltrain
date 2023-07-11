@@ -19,6 +19,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+aliases:
+- /OL/rem_mgmt/rem_mgmt.html
 ---
 
 ## Videos

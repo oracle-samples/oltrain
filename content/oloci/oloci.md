@@ -20,6 +20,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+aliases:
+- /OLOCI/oloci.html
 ---
 
 {{< figure src="/img/oloci/OLCI-1200x200-banner.png" alt="Oracle Linux on Oracle Cloud Infrastructure Track" >}}

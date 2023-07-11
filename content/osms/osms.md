@@ -19,6 +19,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+aliases:
+- /OSMS/osms.html
 ---
 
 {{< figure src="/img/osms/osms-page-header-1200x200.png" alt="OS Management on Oracle Cloud Infrastructure Track" >}}

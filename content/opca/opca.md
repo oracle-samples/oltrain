@@ -19,6 +19,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+aliases:
+- /OPCA/opca.html
 ---
 
 {{< figure src="/img/opca/PCA_header4.png" alt="Oracle Cloud Native Environment Track" >}}

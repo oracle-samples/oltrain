@@ -19,6 +19,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+aliases:
+- /Whats_New/new.html
 ---
 
 {{< figure src="/img/whats-new-head2.png" alt="What's New page banner" >}}
