@@ -4,3 +4,5 @@
 *.vm
 
 themes/
+resources/
+.hugo_build.lock
