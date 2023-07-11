@@ -153,6 +153,27 @@ On earlier Oracle Linux versions, the NGINX web server was provided as part of a
 
 ---
 
+### [Upgrade Oracle Linux with Leapp](https://luna.oracle.com/lab/908d0e5b-4444-400a-87a7-2a9ec8c27550)
+
+Learn how to use the Leapp utility to upgrade an Oracle Linux 7 system to Oracle Linux 8.
+
+The Leapp utility is a framework for updating and upgrading operating systems as well as applications. The utility's component packages enable the creation of different workflows into profiles for updating software.
+
+Leapp operations consist of two phases:
+
+- Preupgrade - a process that examines many aspects of the system and runs checks to determine if the OS software can be upgraded.
+- Upgrade - updates the system based on configuration files that map packages between previous and current versions of the software.
+
+---
+
+### [Run Control Groups Version 2 on Oracle Linux](https://luna.oracle.com/lab/14d89b6d-627b-4f1f-b859-4761e3ed352c)
+
+Learn how to enable control groups (cgroups) v2 and limit the CPU time for user slices.
+
+Control Groups (cgroups) is a Linux kernel feature for limiting, prioritizing, and allocating resources such as CPU time, memory, and network bandwidth for running processes.
+
+---
+
 ### [Use SELinux on Oracle Linux](https://luna.oracle.com/lab/89a09fdd-47c2-4755-b98e-35863bdf7bc0)
 
 Learn how to use SELinux on Oracle Linux.
