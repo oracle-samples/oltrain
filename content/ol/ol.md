@@ -17,6 +17,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+aliases:
+- /OL/ol.html
 ---
 
 {{< figure src="/img/ol/OL-1200x200-banner.png" alt="Oracle Linux Banner graphic" >}}

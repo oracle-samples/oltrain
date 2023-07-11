@@ -19,6 +19,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+aliases:
+- /OLVM/olvm.html
 ---
 
 {{< figure src="/img/olvm/OLVM-1200x200-banner.png" alt="Oracle Linux Automation Manager Track" >}}

@@ -19,6 +19,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+aliases:
+- /VBOX/vbox.html
 ---
 
 {{< figure src="/img/vbox/vbox-1200x200-banner.png" alt="Oracle VM VirtualBox Track" >}}

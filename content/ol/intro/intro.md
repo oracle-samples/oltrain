@@ -17,6 +17,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: false
+aliases:
+- /OL/intro/intro.html
 ---
 
 ## Videos

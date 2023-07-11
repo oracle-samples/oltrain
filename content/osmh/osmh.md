@@ -19,6 +19,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+aliases:
+- /OSMH/osmh.html
 ---
 
 {{< figure src="/img/osmh/osmh-page-header-1200x200.png" alt="OS Management Hub Track Banner" >}}

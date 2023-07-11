@@ -19,6 +19,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+aliases:
+- /OL/virt/virt.html
 ---
 
 {{< figure src="/img/ol/virt/OL-virt-kvm.png" alt="virt-kvm" >}}

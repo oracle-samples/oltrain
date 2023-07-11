@@ -1,9 +1,23 @@
 ---
 title: Tags
+draft: false
+showRecent: false
+showDate: false
+showLikes: false
+showViews: false
+showEdit: false
+showReadingTime: false
+showAuthor: false
+showDateUpdated : false
+sharingLinks : false
+cascade:
+  showDate: false
+  showAuthor: false
+  invertPagination: true
 ---
 
-Blowfish has full support for Hugo taxonomies and will adapt to any taxonomy set up. Taxonomy listings like this one also support custom content to be displayed above the list of terms.
+This site includes support for user-defined groupings of content called taxonomies. Taxonomies are classifications of logical relationships between content.
 
-This area could be used to add some extra decriptive text to each taxonomy. Check out the [advanced tag]({{< ref "advanced" >}}) below to see how to take this concept even further.
+The site automatically creates taxonomies for `tags` and `categories` as a default. The items below show the single page listing the terms within the `tags` taxonomy, and clicking each term shows a page listing all pages marked as part of that taxonomy.
 
 ---

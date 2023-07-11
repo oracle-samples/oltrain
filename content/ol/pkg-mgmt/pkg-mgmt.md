@@ -19,6 +19,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+aliases:
+- /OL/pkg_mgmt/pkg_mgmt.html
 ---
 
 ## Videos

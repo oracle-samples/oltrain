@@ -19,6 +19,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+aliases:
+- /OLAM/olam.html
 ---
 
 {{< figure src="/img/olam/OLAM-banner.jpg" alt="Oracle Linux Automation Manager Track" >}}
