@@ -1,6 +1,7 @@
 ---
 title: "Virtualization"
 date: 2020-08-03
+weight: 02
 draft: false
 description: "Virtualization"
 summary: "This page focuses on Kernel-based Virtual Machine (KVM), Containers, Podman, chroot, and Kubernetes. It covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux."

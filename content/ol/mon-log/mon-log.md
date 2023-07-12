@@ -1,6 +1,7 @@
 ---
 title: "Monitoring and Logging"
 date: 2020-08-03
+weight: 08
 draft: false
 description: "Monitoring and Logging"
 summary: "This track focusses on typical monitoring and logging tasks performed on a Linux system. Learn how to monitor system performance and review system logs on Oracle Linux."

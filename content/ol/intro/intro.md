@@ -1,6 +1,7 @@
 ---
 title: "Introduction to Oracle Linux"
 date: 2020-08-03
+weight: 11
 draft: false
 description: "Learn how to use Oracle Linux and its features."
 summary: "On this track you will learn technologies and components included in Oracle Linux and common tools and features of Linux."

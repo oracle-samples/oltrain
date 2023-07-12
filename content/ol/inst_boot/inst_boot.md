@@ -1,6 +1,7 @@
 ---
 title: "Installation and Boot Process"
 date: 2020-08-03
+weight: 10
 draft: false
 description: "Installation and Boot Process."
 summary: "This track focusses on the installation and boot process. You can learn step-by-step how to complete an Oracle Linux installation for on-premises deployment and how to create an Oracle Linux instance on Oracle Cloud Infrastructure. You can also learn about the boot process and how to configure different services to start at boot time."
