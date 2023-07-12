@@ -1,6 +1,7 @@
 ---
 title: "Oracle Linux How-To"
 date: 2020-08-03
+weight: 01
 draft: false
 description: "Oracle Linux How-To"
 summary: "This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator."
