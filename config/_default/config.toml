@@ -63,3 +63,9 @@ googleAnalytics = "G-PEDMYR1V0K"
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.87.0"
+    max = "0.116.0"
