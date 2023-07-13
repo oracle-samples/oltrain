@@ -31,7 +31,7 @@ aliases:
 
 ---
 
-{{< figure src="/img/osms/osms-install-section.png" alt="OS Management on Oracle Cloud Infrastructure Track" >}}
+{{< figure src="/img/osms/osms-install-section.png" alt="Graphic showing Install section" >}}
 
 ## OS Management Installation
 
@@ -51,13 +51,9 @@ One of the first requirements to use the OS Management Service is to have a runn
 
 - {{< youtube 4eDTl5fPNKA >}}
 
-#### Accessing Windows Instance in Oracle Cloud Infrastructure
-
-- {{< youtube d1fgBuE1GMY >}}
-
 ---
 
-{{< figure src="/img/osms/osms-work-section.png" alt="OS Management on Oracle Cloud Infrastructure Track" >}}
+{{< figure src="/img/osms/osms-work-section.png" alt="Graphic showing the working with OS Management Service section" >}}
 
 ## OS Management Usage and Configuration
 
