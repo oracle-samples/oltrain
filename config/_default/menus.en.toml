@@ -103,11 +103,6 @@
   weight = 23
 
 [[main]]
-  name = "Tags"
-  pageRef = "tags"
-  weight = 30
-
-[[main]]
   name = "Docs"
   identifier = "doc"
   weight = 100
@@ -269,6 +264,10 @@
   url = "https://github.com/oracle-samples/oltrain"
   weight = 400
 
+[[main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 500
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
