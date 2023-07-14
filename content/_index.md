@@ -17,7 +17,7 @@ These tracks provide you with immediate learning opportunities consisting of hun
 
 ---
 
-{{< figure src="img/ol/OL-banner-v2a.png" alt="Oracle Linux" href="ol/oracle-linux" >}}
+{{< figure src="img/ol/OL-banner-v2a.png" alt="Oracle Linux separator graphic" href="ol/oracle-linux" >}}
 
 ## [Oracle Linux](ol/oracle-linux)
 
@@ -25,7 +25,7 @@ These tracks provide you with immediate learning opportunities consisting of hun
 
 ---
 
-{{< figure src="img/oloci/OLCI-banner-v2.png" alt="OLOCI Banner" href="oloci/oloci" >}}
+{{< figure src="img/oloci/OLCI-banner-v2.png" alt="Linux on Oracle Cloud Infrastructure separator graphic" href="oloci/oloci" >}}
 
 ## [Linux on Oracle Cloud Infrastructure](oloci/oloci)
   
@@ -33,7 +33,7 @@ These tracks provide you with immediate learning opportunities consisting of hun
 
 ---
 
-{{< figure src="img/ocne/OCNE-banner-v2.png" alt="OCNE Banner" href="ocne/ocne" >}}
+{{< figure src="img/ocne/OCNE-banner-v2.png" alt="Oracle Cloud Native Environment separator graphic" href="ocne/ocne" >}}
 
 ## [Oracle Cloud Native Environment](ocne/ocne)
   
@@ -41,7 +41,7 @@ These tracks provide you with immediate learning opportunities consisting of hun
 
 ---
 
-{{< figure src="img/olam/OLAM-banner-v2.png" alt="OLAM Banner" href="olam/olam" >}}
+{{< figure src="img/olam/OLAM-banner-v2.png" alt="Oracle Linux Automation Manager separator graphic" href="olam/olam" >}}
 
 ## [Oracle Linux Automation Manager](olam/olam)
 
@@ -49,7 +49,7 @@ These tracks provide you with immediate learning opportunities consisting of hun
 
 ---
 
-{{< figure src="img/olvm/OLVM-banner-v2.png" alt="OSMH Banner" href="olvm/olvm" >}}
+{{< figure src="img/olvm/OLVM-banner-v2.png" alt="Oracle Linux Virtualization Manager separator graphic" href="olvm/olvm" >}}
 
 ## [Oracle Linux Virtualization Manager](olvm/olvm)
 
@@ -57,7 +57,7 @@ These tracks provide you with immediate learning opportunities consisting of hun
 
 ---
 
-{{< figure src="img/osmh/osmh-banner-v2.png" alt="OLVM Banner" href="osmh/osmh" >}}
+{{< figure src="img/osmh/osmh-banner-v2.png" alt="Oracle OS Management Hub separator graphic" href="osmh/osmh" >}}
 
 ## [Oracle OS Management Hub](osmh/osmh)
 
@@ -65,7 +65,7 @@ These tracks provide you with immediate learning opportunities consisting of hun
 
 ---
 
-{{< figure src="img/osms/osms-banner3.png" alt="OS Management Service Banner" href="osms/osms" >}}
+{{< figure src="img/osms/osms-banner3.png" alt="OS Management Service separator graphic" href="osms/osms" >}}
 
 ## [Oracle OS Management Service](osms/osms)
   
@@ -73,7 +73,7 @@ These tracks provide you with immediate learning opportunities consisting of hun
 
 ---
 
-{{< figure src="img/opca/pca-banner-v2.png" alt="Oracle Private Cloud Appliance Banner" href="opca/opca" >}}
+{{< figure src="img/opca/pca-banner-v2.png" alt="Oracle Private Cloud Appliance separator graphic" href="opca/opca" >}}
 
 ## [Oracle Private Cloud Appliance](opca/opca)
 
@@ -81,7 +81,7 @@ These tracks provide you with immediate learning opportunities consisting of hun
 
 ---
 
-{{< figure src="img/vbox/vbox-banner.png" alt="VirtualBox Banner" href="vbox/vbox" >}}
+{{< figure src="img/vbox/vbox-banner.png" alt="VirtualBox separator graphic" href="vbox/vbox" >}}
 
 ## [Oracle VM VirtualBox](vbox/vbox)
 

@@ -32,7 +32,7 @@ aliases:
 
 ---
 
-{{< figure src="/img/oloci/OLOCI-deploy-header2.png" alt="Oracle Linux Intro Page" >}}
+{{< figure src="/img/oloci/OLOCI-deploy-header2.png" alt="Deploying Cloud Components with the Web Console section banner" >}}
 
 ## Deploying Cloud Components with the Web Console
 
@@ -42,39 +42,39 @@ Learn to provision and launch compute instances with the cloud web console to su
 
 #### Create a Linux Instance on Oracle Cloud Infrastructure
 
-- {{< youtube tlwlLd4GvCc >}}
+- {{< youtube id="tlwlLd4GvCc" title="Create a Linux Instance on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Create an Oracle Autonomous Linux Instance in Oracle Cloud Infrastructure
 
-- {{< youtube eKQ6h7Onr-8 >}}
+- {{< youtube id="eKQ6h7Onr-8" title="Create an Oracle Autonomous Linux Instance in Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Create a Windows Instance on Oracle Cloud Infrastructure
 
-- {{< youtube 8SgkZTUKwFg >}}
+- {{< youtube id="8SgkZTUKwFg" title="Create a Windows Instance on Oracle Cloud Infrastructure Youtube video" >}}
 
 #### Use cloud-init to Launch a Linux Instance on Oracle Cloud Infrastructure
 
-- {{< youtube P1sH3zevfHk >}}
+- {{< youtube id="P1sH3zevfHk" title="Use cloud-init to Launch a Linux Instance on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Terminate a Compute Instance on Oracle Cloud Infrastructure
 
-- {{< youtube pRD_yUPuYjs >}}
+- {{< youtube id="pRD_yUPuYjs" title="Terminate a Compute Instance on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Detaching and Attaching Boot Volumes on Oracle Cloud Infrastructure
 
-- {{< youtube NAWAsx3cKxE >}}
+- {{< youtube id="NAWAsx3cKxE" title="Detaching and Attaching Boot Volumes on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Using Boot Volumes to Scale Oracle Cloud Infrastructure Instances
 
-- {{< youtube 4mbAxZBy_es >}}
+- {{< youtube id="4mbAxZBy_es" title="Using Boot Volumes to Scale Oracle Cloud Infrastructure Instances YouTube video" >}}
 
 #### Introduction to Terraform - Deploying Oracle Linux on Oracle Cloud Infrastructure
 
-- {{< youtube SeBhCRr21pg >}}
+- {{< youtube id="SeBhCRr21pg" title="Introduction to Terraform, Deploying Oracle Linux on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Configuring Oracle Linux with Terraform - Deploying Oracle Linux on Oracle Cloud Infrastructure
 
-- {{< youtube Bb25PRJ3Ats >}}
+- {{< youtube id="Bb25PRJ3Ats" title="Configuring Oracle Linux with Terraform - Deploying Oracle Linux on Oracle Cloud Infrastructure YouTube video" >}}
 
 ### Tutorials
 
@@ -84,7 +84,7 @@ This lab exercise introduces you to Terraform in Oracle Cloud Infrastructure, an
 
 ---
 
-{{< figure src="/img/oloci/OLOCI-admin-header2.png" alt="Oracle Linux Intro Page" >}}
+{{< figure src="/img/oloci/OLOCI-admin-header2.png" alt="Administering Instances in Oracle Cloud Infrastructure section banner" >}}
 
 ## Administering Instances in Oracle Cloud Infrastructure
 
@@ -94,7 +94,7 @@ Learn to administer compute instances using a range of tools and solutions provi
 
 #### Oracle Cloud Infrastructure Secure Desktops: Overview
 
-- {{< youtube pwElvYIZzaM >}}
+- {{< youtube id="pwElvYIZzaM" title="Oracle Cloud Infrastructure Secure Desktops Overview YouTube video" >}}
 - 
 <!-- #### Getting Started with OS Management for Linux on Oracle Cloud Infrastructure
 
@@ -122,11 +122,11 @@ Learn to administer compute instances using a range of tools and solutions provi
 
 #### OCI Utilities Overview
 
-- {{< youtube bnf9T-wljVU >}}
+- {{< youtube id="bnf9T-wljVU" title="OCI Utilities Overview YouTube video" >}}
 
 #### Enabling OCI Utilities in Oracle Cloud Infrastructure
 
-- {{< youtube EV4ihmXZSUI >}}
+- {{< youtube id="EV4ihmXZSUI" title="Enabling OCI Utilities in Oracle Cloud Infrastructure YouTube video" >}}
 
 <!-- #### Managing Oracle Linux Module Streams and Profiles with the OS Management Service
 
@@ -134,15 +134,15 @@ Learn to administer compute instances using a range of tools and solutions provi
 
 #### Using Ksplice in Oracle Cloud Infrastructure
 
-- {{< youtube 79OMXQwUhoE >}}
+- {{< youtube id="79OMXQwUhoE" title="Using Ksplice in Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Configuring the GUI and VNC Service for Oracle Linux on Oracle Cloud Infrastructure
 
-- {{< youtube B6et8JZFylA >}}
+- {{< youtube id="B6et8JZFylA" title="Configuring the GUI and VNC Service for Oracle Linux on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Accessing a Windows Instance on Oracle Cloud Infrastructure
 
-- {{< youtube d1fgBuE1GMY >}}
+- {{< youtube id="d1fgBuE1GMY" title="Accessing a Windows Instance on Oracle Cloud Infrastructure YouTube video" >}}
 
 <!-- #### Creating a Compliance Report with OS Management for Linux for Oracle Cloud Infrastructure
 
@@ -160,7 +160,7 @@ Oracle Linux AppStreams introduced the concept of modules, streams and profiles 
 
 ---
 
-{{< figure src="/img/oloci/OLOCI-security-header2.png" alt="Oracle Linux Intro Page" >}}
+{{< figure src="/img/oloci/OLOCI-security-header2.png" alt="Managing Security and Access section banner" >}}
 
 ## Managing Security and Access
 
@@ -170,19 +170,19 @@ Learn to secure access to instances and manage traffic between virtual networks 
 
 #### Generate SSH Key Pairs to Access Linux Instances in the Oracle Cloud Infrastructure
 
-- {{< youtube v5fGdgIrdd0 >}}
+- {{< youtube id="v5fGdgIrdd0" title="Generate SSH Key Pairs to Access Linux Instances in the Oracle Cloud Infrastructure Youtube video" >}}
 
 #### Instance Level Network Security for Oracle Linux on Oracle Cloud Infrastructure
 
-- {{< youtube 2KBBRnuk-lc >}}
+- {{< youtube id="2KBBRnuk-lc" title="Instance Level Network Security for Oracle Linux on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Introducing Security Lists for Oracle Cloud Infrastructure VCNs
 
-- {{< youtube 1AIXULHjabQ >}}
+- {{< youtube id="1AIXULHjabQ" title="Introducing Security Lists for Oracle Cloud Infrastructure VCNs YouTube video" >}}
 
 ---
 
-{{< figure src="/img/oloci/OLOCI-network-header2.png" alt="OLOCI Network" >}}
+{{< figure src="/img/oloci/OLOCI-network-header2.png" alt="Networking your Oracle Cloud Infrastructure section banner" >}}
 
 ## Networking your Oracle Cloud Infrastructure
 
@@ -192,35 +192,35 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
 
 #### Connect a Virtual cloud Network to an On-Premises Network using the Site-to-Site VPN Wizard
 
-- {{< youtube 0_WpIxFyyck >}}
+- {{< youtube id="0_WpIxFyyck" title="Connect a Virtual cloud Network to an On-Premises Network using the Site-to-Site VPN Wizard YouTube video" >}}
 
 #### Introducing Oracle Cloud Infrastructure Networks
 
-- {{< youtube mrt2e7yiq5M >}}
+- {{< youtube id="mrt2e7yiq5M" title="Introducing Oracle Cloud Infrastructure Networks YouTube video" >}}
 
 #### Create a Virtual Cloud Network in the Oracle Cloud Infrastructure
 
-- {{< youtube DICo2-eRPC4 >}}
+- {{< youtube id="DICo2-eRPC4" title="Create a Virtual Cloud Network in the Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Use the VCN wizard to create a Virtual Cloud Network on the Oracle Cloud Infrastructure
 
-- {{< youtube -6B5_5Qih98 >}}
+- {{< youtube id="-6B5_5Qih98" title="Use the VCN wizard to create a Virtual Cloud Network on the Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Remove a Virtual Cloud Network in Oracle Cloud Infrastructure
 
-- {{< youtube uy7uVQXSJFc >}}
+- {{< youtube id="uy7uVQXSJFc" title="Remove a Virtual Cloud Network in Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Adding a Secondary VNIC to a Linux Instance in Oracle Cloud Infrastructure
 
-- {{< youtube AHOx8NV3iYA >}}
+- {{< youtube id="AHOx8NV3iYA" title="Adding a Secondary VNIC to a Linux Instance in Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Configuring the VCN Internet Gateway in Oracle Cloud Infrastructure
 
-- {{< youtube MtFNdZz20M4 >}}
+- {{< youtube id="MtFNdZz20M4" title="Configuring the VCN Internet Gateway in Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Network Interface Management using OCI Utilities on Oracle Cloud Instances
 
-- {{< youtube ZhbVYs1RBZ8 >}}
+- {{< youtube id="ZhbVYs1RBZ8" title="Network Interface Management using OCI Utilities on Oracle Cloud Instances YouTube video" >}}
 
 ### Labs
 
@@ -230,7 +230,7 @@ This lab provides the environment and instruction to manually create (non wizard
 
 ---
 
-{{< figure src="/img/oloci/OLOCI-storage-header2.png" alt="Oracle Linux Intro Page" >}}
+{{< figure src="/img/oloci/OLOCI-storage-header2.png" alt="Using Storage on Oracle Cloud Infrastructure section banner" >}}
 
 ## Using Storage on Oracle Cloud Infrastructure
 
@@ -240,39 +240,39 @@ Learn to discover and administer block volume storage and create shared cluster 
 
 #### Block Volume Storage for Oracle Linux on Oracle Cloud Infrastructure
 
-- {{< youtube _W4TOj_g9bU >}}
+- {{< youtube id="_W4TOj_g9bU" title="Block Volume Storage for Oracle Linux on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Using OCI Utilities for Managing iSCSI Storage for Oracle Cloud Infrastructure Instances
 
-- {{< youtube A0cis4ZohVo >}}
+- {{< youtube id="A0cis4ZohVo" title="Using OCI Utilities for Managing iSCSI Storage for Oracle Cloud Infrastructure Instances YouTube video" >}}
 
 #### Configure a Linux iSCSI Target and Initiator on Oracle Cloud Infrastructure
 
-- {{< youtube b2Go9QIrOFg >}}
+- {{< youtube id="b2Go9QIrOFg" title="Configure a Linux iSCSI Target and Initiator on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Configure and Test an OCFS2 cluster with Oracle Linux on Oracle Cloud Infrastructure
 
-- {{< youtube E3pneYLWDFY >}}
+- {{< youtube id="E3pneYLWDFY" title="Configure and Test an OCFS2 cluster with Oracle Linux on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Create an Oracle Linux Storage Appliance Instance on Oracle Cloud Infrastructure
 
-- {{< youtube yN1sRMoWOFg >}}
+- {{< youtube id="yN1sRMoWOFg" title="Create an Oracle Linux Storage Appliance Instance on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Configure an Oracle Linux Storage Appliance Instance on Oracle Cloud Infrastructure
 
-- {{< youtube 5XIA2EskuUA >}}
+- {{< youtube id="5XIA2EskuUA" title="Configure an Oracle Linux Storage Appliance Instance on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Working with the Oracle Lihux Storage Appliance on Oracle Cloud Infrastructure
 
-- {{< youtube vwQIAsU7cV4 >}}
+- {{< youtube id="vwQIAsU7cV4" title="Working with the Oracle Lihux Storage Appliance on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Using the Oracle Cloud Infrastructure File System Service
 
-- {{< youtube JpC1wO-OFA8 >}}
+- {{< youtube id="JpC1wO-OFA8" title="Using the Oracle Cloud Infrastructure File System Service YouTube video" >}}
 
 #### Object Storage in Oracle Cloud Infrastructure
 
-- {{< youtube o5sb3u-Cb8s >}}
+- {{< youtube id="o5sb3u-Cb8s" title="Object Storage in Oracle Cloud Infrastructure YouTube video" >}}
 
 ### Labs
 
@@ -300,7 +300,7 @@ Learn how to configure an Oracle Cluster File System (OCFS2) on Oracle Cloud Inf
 
 ---
 
-{{< figure src="/img/oloci/OLOCI-kvm-header2.png" alt="OLOCI KVM Section" >}}
+{{< figure src="/img/oloci/OLOCI-kvm-header2.png" alt="KVM Virtualization for Instance section banner" >}}
 
 ## KVM Virtualization for Instances
 
@@ -310,19 +310,19 @@ Learn to implement KVM virtualization in Oracle Linux instances deployed on Orac
 
 #### Use Oracle Linux KVM Image for Oracle cloud Infrastructure
 
-- {{< youtube R-zJgRIfil4 >}}
+- {{< youtube id="R-zJgRIfil4" title="Use Oracle Linux KVM Image for Oracle cloud Infrastructure YouTube video" >}}
 
 #### Create KVM Guest from Oracle Linux KVM Host for Oracle Cloud Infrastructure
 
-- {{< youtube J3s8Myn7A2o >}}
+- {{< youtube id="J3s8Myn7A2o" title="Create KVM Guest from Oracle Linux KVM Host for Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Using oci-kvm Network and Storage Commands for Oracle Cloud Infrastructure
 
-- {{< youtube IiSsC7EqZSE >}}
+- {{< youtube id="IiSsC7EqZSE" title="Using oci-kvm Network and Storage Commands for Oracle Cloud Infrastructure YouTube video" >}}
 
 ---
 
-{{< figure src="/img/quiz1.png" alt="oloci-quiz" >}}
+{{< figure src="/img/quiz1.png" alt="Oracle Cloud Infrastructure section quiz banner" >}}
 
 Test your skills on what you have learned so far with this quiz.
 

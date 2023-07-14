@@ -49,7 +49,7 @@ One of the first requirements to use the OS Management Service is to have a runn
 
 #### Installing Patches with OS Management for Windows in Oracle Cloud Infrastructure
 
-- {{< youtube 4eDTl5fPNKA >}}
+- {{< youtube id="4eDTl5fPNKA" title="Installing Patches with OS Management for Windows in Oracle Cloud Infrastructure YouTube video" >}}
 
 ---
 
@@ -63,35 +63,35 @@ These videos will provide information to get started and work with the OS Manage
 
 #### Getting started with OS Management for Linux on Oracle Cloud Infrastructure
 
-- {{< youtube 7qmy5VusYKA >}}
+- {{< youtube id="7qmy5VusYKA" title="Getting started with OS Management for Linux on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Using OS Management for Linux on Oracle Cloud Infrastructure
 
-- {{< youtube txStsCT1onc >}}
+- {{< youtube id="txStsCT1onc" title="Using OS Management for Linux on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Working with Software Sources in OS Management
 
-- {{< youtube zPnfHO8cu-E >}}
+- {{< youtube id="zPnfHO8cu-E" title="Working with Software Sources in OS Management YouTube video" >}}
 
 #### Oracle Autonomous Linux with OS Management in Oracle Cloud Infrastructure
 
-- {{< youtube Mt_zmEJ1UtM >}}
+- {{< youtube id="Mt_zmEJ1UtM" title="Oracle Autonomous Linux with OS Management in Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Migrate Standalone Oracle Autonomous Linux Instances to OS Management Service
 
-- {{< youtube vNY4jelIdgk >}}
+- {{< youtube id="vNY4jelIdgk" title="Migrate Standalone Oracle Autonomous Linux Instances to OS Management Service YouTube video" >}}
 
 #### Getting Started with OS Management for Windows in in Oracle Cloud Infrastructure
 
-- {{< youtube DpAE_RhmRWg >}}
+- {{< youtube id="DpAE_RhmRWg" title="Getting Started with OS Management for Windows in in Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Managing Oracle Linux Module Streams and Profiles with the OS Management Service
 
-- {{< youtube y-dnguUNr6Y >}}
+- {{< youtube id="y-dnguUNr6Y" title="Managing Oracle Linux Module Streams and Profiles with the OS Management Service YouTube video" >}}
 
 #### Creating a Compliance Report with OS Management for Linux for Oracle Cloud Infrastructure
 
-- {{< youtube _pKnAcA7GUs >}}
+- {{< youtube id="_pKnAcA7GUs" title="Creating a Compliance Report with OS Management for Linux for Oracle Cloud Infrastructure YouTube video" >}}
 
 ---
 

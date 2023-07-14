@@ -50,12 +50,12 @@ Get up and running fast and start working with OS Management Hub service with th
 
 #### Oracle OS Management Hub Service: Overview
 
-- {{< youtube id="zBDX5VmurZM" title="Oracle OS Management Hub Service: Overview" >}}
+- {{< youtube id="zBDX5VmurZM" title="Oracle OS Management Hub Service: Overview YouTube video" >}}
 
 #### Preparing Oracle Cloud Infrastructure for OS Management Hub
 
-- {{< youtube id="LMxfUj93ozc" title="Preparing Oracle Cloud Infrastructure for OS Management Hub" >}}
+- {{< youtube id="LMxfUj93ozc" title="Preparing Oracle Cloud Infrastructure for OS Management Hub YouTube video" >}}
 
 #### Creating and Registering a Management Station in OS Management Hub
 
-- {{< youtube id="2ENDebdcf3g" title="Creating and Registering a Management Station in OS Management Hub" >}}
+- {{< youtube id="2ENDebdcf3g" title="Creating and Registering a Management Station in OS Management Hub YouTube video" >}}

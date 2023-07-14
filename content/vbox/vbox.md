@@ -23,7 +23,7 @@ aliases:
 - /VBOX/vbox.html
 ---
 
-{{< figure src="/img/vbox/vbox-1200x200-banner.png" alt="Oracle VM VirtualBox Track" >}}
+{{< figure src="/img/vbox/vbox-1200x200-banner.png" alt="Oracle VM VirtualBox Track Graphic" >}}
 
 ---
 
@@ -31,34 +31,35 @@ aliases:
 
 ---
 
-{{< figure src="/img/vbox/vbox-70-sect1.png" alt="Oracle VM VirtualBox 7" >}}
+{{< figure src="/img/vbox/vbox-70-sect1.png" alt="Oracle VM VirtualBox 7 separator banner" >}}
 
-## Oracle VM VirtualBox 7 
+## Oracle VM VirtualBox 7
+
 ### Videos
 
 #### Integrate VirtualBox 7 with Oracle Cloud Infrastructure
 
-- {{< youtube 3roYMw-D2ks >}}
+- {{< youtube id="3roYMw-D2ks" title="Integrate VirtualBox 7 with Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Use Oracle VM VirtualBox on Oracle Cloud Infrastructure Instances
 
-- {{< youtube QJ_z20kSxX4 >}}
+- {{< youtube id="QJ_z20kSxX4" title="Use Oracle VM VirtualBox on Oracle Cloud Infrastructure Instances Youtube video" >}}
 
 #### Configure a Cloud Network for local VirtualBox VMs using VirtualBox 7
 
-- {{< youtube wi853qbgXh4 >}}
+- {{< youtube id="wi853qbgXh4" text="Configure a Cloud Network for local VirtualBox VMs using VirtualBox 7 Youtube video" >}}
 
 #### Managing OCI Instances directly from VirtualBox 7
 
-- {{< youtube uFEN4Di-WDE >}}
+- {{< youtube id="uFEN4Di-WDE" text="Managing OCI Instances directly from VirtualBox 7 Youtube video" >}}
 
 #### Import Oracle Cloud Infrastructure Instances into VirtualBox 7
 
-- {{< youtube xGoE8X5NqkM >}}
+- {{< youtube id="xGoE8X5NqkM" text="Import Oracle Cloud Infrastructure Instances in VirtualBox 7 Youtube video" >}}
 
 #### Export local virtual machines to Oracle Cloud Infrastructure with VirtualBox 7
 
-- {{< youtube KZAw45DeIMw >}}
+- {{< youtube id="KZAw45DeIMw" text="Export local virtual machines to Oracle Cloud Infrastructure with VirtualBox 7 YouTube video" >}}
 
 ---
 
@@ -74,33 +75,34 @@ Oracle VM VirtualBox allows the simple and fast creation of virtual machines (VM
 
 ---
 
-{{< figure src="/img/vbox/vbox-61-sect1.png" alt="Oracle VM VirtualBox 6" >}}
-## Oracle VM VirtualBox 6 
+{{< figure src="/img/vbox/vbox-61-sect1.png" alt="Oracle VM VirtualBox 6 separator banner" >}}
+## Oracle VM VirtualBox 6
+
 ### Videos
 
 #### Install VirtualBox 6 on Oracle Linux 8
 
-- {{< youtube Dl2CxAoSC5o >}}
+- {{< youtube id="Dl2CxAoSC5o" title="Install VirtualBox 8 on Oracle Linux 8 YouTube video" >}}
 
 #### Install VirtualBox 6 Extension Pack on Oracle Linux 8
 
-- {{< youtube wHOYAGQtOcM >}}
+- {{< youtube id="wHOYAGQtOcM" title="Install VirtualBox 6 Extension Pack on Oracle Linux 8 Youtube video" >}}
 
 #### Create a Linux VM using VirtualBox 6 on Oracle Linux 8
 
-- {{< youtube E5fGTh2XT10 >}}
+- {{< youtube id="E5fGTh2XT10" title="Create a Linux VM using VirtualBox 6 on Oracle Linux 8 Youtube video" >}}
 
 #### Install VirtualBox 6 Guest Additions (Linux VM) on Oracle Linux 8
 
-- {{< youtube NmFN7azdZzY >}}
+- {{< youtube id="NmFN7azdZzY" title="Install VirtualBox 6 Guest Additions (Linux VM) on Oracle Linux 8 Youtube video" >}}
 
 #### Export a Linux VM guest using VirtualBox 6 on Oracle Linux 8
 
-- {{< youtube jEDfsovNNyg >}}
+- {{< youtube id="jEDfsovNNyg" title="Export a Linux VM guest using VirtualBox 6 on Oracle Linux 8 YouTube video" >}}
 
 ---
 
-{{< figure src="/img/quiz1.png" alt="virtualbox-quiz" >}}
+{{< figure src="/img/quiz1.png" alt="Virtualbox Track quiz graphic" >}}
 
 Test your skills on what you have learned so far with this quiz.
 

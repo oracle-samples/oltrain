@@ -31,7 +31,7 @@ aliases:
 
 ---
 
-{{< figure src="/img/olvm/OLVM-admin-section2.png" alt="Administration and Deployment" >}}
+{{< figure src="/img/olvm/OLVM-admin-section2.png" alt="Administration and Deployment section banner" >}}
 
 ## Administration and Deployment
 
@@ -41,55 +41,55 @@ The following content will introduce you to the administration of the Oracle Lin
 
 #### Managing Local Users and Groups with Command Line for Oracle Linux Virtualization Manager
 
-- {{< youtube oAfSLvIsUac >}}
+- {{< youtube id="oAfSLvIsUac" title="Managing Local Users and Groups with Command Line for Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Managing Roles and Permissions with Oracle Linux Virtualization Manager
 
-- {{< youtube zjXX8EYIBzA >}}
+- {{< youtube id="zjXX8EYIBzA" title="Managing Roles and Permissions with Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Adding a KVM Compute hHost with Oracle Linux Virtualization Manager
 
-- {{< youtube qMbUVnCbW7g >}}
+- {{< youtube id="qMbUVnCbW7g" title="Adding a KVM Compute hHost with Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Creating a Virtual Machine Network in Oracle Linux Virtualization Manager
 
-- {{< youtube RV6BSBOyjDU >}}
+- {{< youtube id="RV6BSBOyjDU" title="Creating a Virtual Machine Network in Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Backing Up and Restoring an Oracle Linux Virtualization Manager
 
-- {{< youtube j-BWLlD2yfI >}}
+- {{< youtube id="j-BWLlD2yfI" title="Backing Up and Restoring an Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Upgrade the Oracle Linux Virtualization Manager KVM Host
 
-- {{< youtube T07HSTrODRw >}}
+- {{< youtube id="T07HSTrODRw" title="Upgrade the Oracle Linux Virtualization Manager KVM Host YouTube video" >}}
 
 #### Configure VLANS in Oracle Linux Virtualization Manager
 
-- {{< youtube K-l7siJcDwI >}}
+- {{< youtube id="K-l7siJcDwI" title="Configure VLANS in Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Getting Started with REST API in Oracle Linux Virtualization Manager
 
-- {{< youtube lk2kIUE-QU4 >}}
+- {{< youtube id="lk2kIUE-QU4" title="Getting Started with REST API in Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Backing Up Virtual Machines Using the Backup API in Oracle Linux Virtualization Manager
 
-- {{< youtube aLvNcNd5r50 >}}
+- {{< youtube id="aLvNcNd5r50" title="Backing Up Virtual Machines Using the Backup API in Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Deploying a Hyper-Converged Architecture in Oracle Linux Virtualization Manager
 
-- {{< youtube FPHRC5mCxgQ >}}
+- {{< youtube id="FPHRC5mCxgQ" title="Deploying a Hyper-Converged Architecture in Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### How to Migrate Oracle VM to Oracle Linux KVM
 
-- {{< youtube DqUi9dOInts >}}
+- {{< youtube id="DqUi9dOInts" title="How to Migrate Oracle VM to Oracle Linux KVM YouTube video" >}}
 
 #### How to Migrate oVirt to Oracle Linux Virtualization Manager
 
-- {{< youtube Gs7qKGd4iTM >}}
+- {{< youtube id="Gs7qKGd4iTM" title="How to Migrate oVirt to Oracle Linux Virtualization Manager YouTube video" >}}
 
 ---
 
-{{< figure src="/img/olvm/OLVM-vm-section2.png" alt="Managing Virtual Machines" >}}
+{{< figure src="/img/olvm/OLVM-vm-section2.png" alt="Managing Virtual Machines section banner" >}}
 
 ## Managing Virtual Machines
 
@@ -99,31 +99,31 @@ The following content will introduce you to Oracle Linux Virtualization Manager 
 
 #### Creating a Virtual Machine in Oracle Linux Virtualization Manager
 
-- {{< youtube clYVICSQ4MY >}}
+- {{< youtube id="clYVICSQ4MY" title="Creating a Virtual Machine in Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Creating a Template from a Virtual Machine in Oracle Linux Virtualization Manager
 
-- {{< youtube QbJV0VfXpg8 >}}
+- {{< youtube id="bJV0VfXpg8" title="Creating a Template from a Virtual Machine in Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Creating a Virtual Machine from a Template in Oracle Linux Virtualization Manager
 
-- {{< youtube WikfPdtbwEs >}}
+- {{< youtube id="WikfPdtbwEs" title="Creating a Virtual Machine from a Template in Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Export VMs and templates as OVAs in Oracle Linux Virtualization Manager
 
-- {{< youtube G-GfXxfCI-Q >}}
+- {{< youtube id="G-GfXxfCI-Q" title="Export VMs and templates as OVAs in Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Create VM Snapshot in Oracle Linux Virtualization Manager
 
-- {{< youtube s9u5gRQPSjQ >}}
+- {{< youtube id="s9u5gRQPSjQ" title="Create VM Snapshot in Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Restore a VM from a Snapshot in  Oracle Linux Virtualization Manager
 
-- {{< youtube KV-1cCFg4NU >}}
+- {{< youtube id="KV-1cCFg4NU" title="Restore a VM from a Snapshot in  Oracle Linux Virtualization Manager YouTube video" >}}
 
 ---
 
-{{< figure src="/img/olvm/OLVM-storage-section2.png" alt="Managing Virtual Storage" >}}
+{{< figure src="/img/olvm/OLVM-storage-section2.png" alt="Managing Virtual Storage section banner" >}}
 
 ## Managing Storage
 
@@ -133,19 +133,19 @@ The following content will introduce you to storage concepts and how to create, 
 
 #### Managing iSCSI Storage with Oracle Linux Virtualization Manager
 
-- {{< youtube EeOL9wjwoMU >}}
+- {{< youtube id="EeOL9wjwoMU" title="Managing iSCSI Storage with Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Managing NFS Storage with Oracle Linux Virtualization Manager
 
-- {{< youtube NRQ2KVaLHOw >}}
+- {{< youtube id="NRQ2KVaLHOw" title="Managing NFS Storage with Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Uploading Resources to a Data Storage Domain with Oracle Linux Virtualization Manager
 
-- {{< youtube KE3uuQObJZw >}}
+- {{< youtube id="KE3uuQObJZw" title="Uploading Resources to a Data Storage Domain with Oracle Linux Virtualization Manager YouTube video" >}}
 
 ---
 
-{{< figure src="/img/olvm/OLVM-backup-section2.png" alt="Backup and Recovery" >}}
+{{< figure src="/img/olvm/OLVM-backup-section2.png" alt="Backup and Recovery section banner" >}}
 
 ## Backup and Recovery
 
@@ -155,11 +155,11 @@ The following content will introduce you to Oracle Linux Virtualization Manager 
 
 #### Active-Passive Disaster Recovery on Oracle Linux Virtualization Manager
 
-- {{< youtube 0VSo7ZGIdo8 >}}
+- {{< youtube id="0VSo7ZGIdo8" title="Active-Passive Disaster Recovery on Oracle Linux Virtualization Manager YouTube video" >}}
 
 ---
 
-{{< figure src="/img/olvm/OLVM-oem-section2.png" alt="Oracle Enterprise Manager for Oracle Linux Virtualization Manager" >}}
+{{< figure src="/img/olvm/OLVM-oem-section2.png" alt="Oracle Enterprise Manager for Oracle Linux Virtualization Manager section banner" >}}
 
 ## Oracle Enterprise Manager for Oracle Linux Virtualization Manager
 
@@ -169,23 +169,23 @@ The following content will introduce you to Cloud Administration of the Oracle L
 
 #### Introduction to Monitoring Oracle Linux Virtualization Manager for Oracle Enterprise Manager
 
-- {{< youtube 834PviF4kV0 >}}
+- {{< youtube id="834PviF4kV0" title="Introduction to Monitoring Oracle Linux Virtualization Manager for Oracle Enterprise Manager YouTube video" >}}
 
 #### Registering Oracle Linux Virtualization Manager with Oracle Enterprise Manager
 
-- {{< youtube nyMSJKFN4HU >}}
+- {{< youtube id="nyMSJKFN4HU" title="Registering Oracle Linux Virtualization Manager with Oracle Enterprise Manager YouTube video" >}}
 
 #### Configuring a Metric Extension for  Oracle Linux Virtualization Manager
 
-- {{< youtube lyPtzCuEDcQ >}}
+- {{< youtube id="lyPtzCuEDcQ" title="Configuring a Metric Extension for  Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Creating an Incident Rule to Report an Oracle Linux Virtualization Manager Failure
 
-- {{< youtube OMp6WoDxsqU >}}
+- {{< youtube id="OMp6WoDxsqU" title="Creating an Incident Rule to Report an Oracle Linux Virtualization Manager Failure YouTube video" >}}
 
 ---
 
-{{< figure src="/img/quiz1.png" alt="olvm-quiz" >}}
+{{< figure src="/img/quiz1.png" alt="Oracle Linux Virtualization Manager quiz section banner" >}}
 
 Test your skills on what you have learned so far with this quiz.
 

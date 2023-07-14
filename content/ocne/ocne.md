@@ -35,7 +35,7 @@ Oracle Cloud Native Environment delivers a simplified framework for installation
 
 ---
 
-{{< figure src="/img/ocne/OCNE-environ-section.png" alt="ocne-environment" >}}
+{{< figure src="/img/ocne/OCNE-environ-section.png" alt="Oracle Cloud Native Environment Installation section banner" >}}
 
 ## Environment Installation
 
@@ -47,33 +47,33 @@ The following videos will introduce you to the installation procedure and scalin
 
 #### Installation Walkthrough of Oracle Cloud Native Environment
 
-- {{< youtube id="IuMKKWdDgc4" title="Installation Walkthrough of Oracle Cloud Native Environment" >}}
+- {{< youtube id="IuMKKWdDgc4" title="Installation Walkthrough of Oracle Cloud Native Environment YouTube video" >}}
 
 #### Using the Configuration File with Oracle Cloud Native Environment
 
-- {{< youtube pfnfu8B3atI >}}
+- {{< youtube id="pfnfu8B3atI" title="Using the Configuration File with Oracle Cloud Native Environment YouTube video" >}}
 
 #### An Overview of the Configuration File with Oracle Cloud Native Environment
 
-- {{< youtube n7VhqiiYa1U >}}
+- {{< youtube id="n7VhqiiYa1U" title="An Overview of the Configuration File with Oracle Cloud Native Environment YouTube video" >}}
 
 #### Release 1.3 Videos
 
 #### Getting Started with Oracle Cloud Native Environment
 
-- {{< youtube agoEHX0M7bk >}}
+- {{< youtube id="agoEHX0M7bk" title="Getting Started with Oracle Cloud Native Environment YouTube video" >}}
 
 #### Installing Oracle Cloud Native Environment
 
-- {{< youtube bN_SLTGdJJQ>}}
+- {{< youtube id="bN_SLTGdJJQ" title="Installing Oracle Cloud Native Environment YouTube video" >}}
 
 #### Deploy Kubernetes and other Modules on Oracle Cloud Native Environment
 
-- {{< youtube _dahVFaasAo >}}
+- {{< youtube id="_dahVFaasAo" title="Deploy Kubernetes and other Modules on Oracle Cloud Native Environment YouTube video" >}}
 
 #### Scaling Kubernetes on Oracle Cloud Native Environment
 
-- {{< youtube aVyqWh048yo >}}
+- {{< youtube id="aVyqWh048yo" title="Scaling Kubernetes on Oracle Cloud Native Environment YouTube video" >}}
 
 ### Installation Labs
 
@@ -205,7 +205,7 @@ This tutorial shows you how install the Operator Lifecycle Manager module for Or
 
 ---
 
-{{< figure src="/img/ocne/OCNE-kubernetes-section.png" alt="ocne-kubernetes" >}}
+{{< figure src="/img/ocne/OCNE-kubernetes-section.png" alt="Kubernetes section banner" >}}
 
 ## Kubernetes
 
@@ -215,27 +215,27 @@ An open-source system for automating the deployment, scaling and management of c
 
 #### Introduction to Kubernetes in Oracle Cloud Native Environment
 
-- {{< youtube q2j7jjuBbiM >}}
+- {{< youtube id="q2j7jjuBbiM" title="Introduction to Kubernetes in Oracle Cloud Native Environment YouTube video" >}}
 
 #### Kubernetes Architecture in Oracle Cloud Native Environment
 
-- {{< youtube H2rAeWkxp1Y >}}
+- {{< youtube id="H2rAeWkxp1Y" title="Kubernetes Architecture in Oracle Cloud Native Environment YouTube video" >}}
 
 #### Kubernetes kubectl Command in Oracle Cloud Native Environment
 
-- {{< youtube 0pa4rlFbFdk >}}
+- {{< youtube id="0pa4rlFbFdk" title="Kubernetes kubectl Command in Oracle Cloud Native Environment YouTube video" >}}
 
 #### A Quick Tour of Kubernetes on Oracle Linux
 
-- {{< youtube syBe1H-qe8U >}}
+- {{< youtube id="syBe1H-qe8U" title="A Quick Tour of Kubernetes on Oracle Linux YouTube video" >}}
 
 #### Introducing Kubernetes Resources on Oracle Linux
 
-- {{< youtube e5m3TlvM4y4 >}}
+- {{< youtube id="e5m3TlvM4y4" title="Introducing Kubernetes Resources on Oracle LinuxYouTube video" >}}
 
 #### Install Minikube on Oracle Linux
 
-- {{< youtube u1qY8ax0U44 >}}
+- {{< youtube id="u1qY8ax0U44" title="Install Minikube on Oracle Linux YouTube video" >}}
 
 ### Kubernetes Labs
 
@@ -304,7 +304,7 @@ Take the quiz
 
 ---
 
-{{< figure src="/img/ocne/OCNE-kata-section.png" alt="ocne-kata" >}}
+{{< figure src="/img/ocne/OCNE-kata-section.png" alt="KATA Containers section banner" >}}
 
 ## Kata Containers
 
@@ -316,11 +316,11 @@ The following videos will introduce you to Kata Containers functionality and dem
 
 #### Kata Containers Overview
 
-- {{< youtube 0P2kQMCssm4 >}}
+- {{< youtube id="0P2kQMCssm4" title="Kata Containers Overview YouTube video" >}}
 
 ---
 
-{{< figure src="/img/ocne/OCNE-istio-section.png" alt="ocne-istio" >}}
+{{< figure src="/img/ocne/OCNE-istio-section.png" alt="ISTIO section banner" >}}
 
 ## Istio
 
@@ -332,27 +332,27 @@ The following videos will introduce you to the role of Istio in supporting the m
 
 #### Introduction to Istio
 
-- {{< youtube yr3rgcR_jwU >}}
+- {{< youtube id="yr3rgcR_jwU" title="Introduction to Istio YouTube video" >}}
 
 #### Istio Architecture
 
-- {{< youtube 67j5pKaezAk >}}
+- {{< youtube id="67j5pKaezAk" title="Istio Architecture YouTube video" >}}
 
 #### Istio in Oracle Cloud Native Environment
 
-- {{< youtube 0W5fQnlJppw >}}
+- {{< youtube id="0W5fQnlJppw" title="Istio in Oracle Cloud Native Environment YouTube video" >}}
 
 #### Istio Ingress
 
-- {{< youtube Fkl7Zzn45X4 >}}
+- {{< youtube id="Fkl7Zzn45X4" title="Instio Ingress YouTube video" >}}
   
 #### Istio Egress
 
-- {{< youtube MHKc4hfszUI >}}
+- {{< youtube id="MHKc4hfszUI" title="Istio Egress YouTube video" >}}
 
 #### Istio Routing
 
-- {{< youtube HDagk09TayQ >}}
+- {{< youtube id="HDagk09TayQ" title="Istio Routing YouTube video" >}}
 
 ### Istio Lab
 
@@ -364,7 +364,7 @@ Learn how to enable Istio Proxy Sidecar Injection in Oracle Cloud Native Environ
 
 ---
 
-{{< figure src="/img/quiz1.png" alt="ocne-quiz" >}}
+{{< figure src="/img/quiz1.png" alt="Oracle Cloud Native Environment Quiz section banner" >}}
 
 Test your skills on what you have learned so far with this quiz.
 
