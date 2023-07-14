@@ -31,7 +31,7 @@ aliases:
 
 ---
 
-{{< figure src="/img/olam/OLAM-banner-v2.png" alt="Oracle Linux Automation Manager Version 2" >}}
+{{< figure src="/img/olam/OLAM-banner-v2.png" alt="Oracle Linux Automation Manager Version 2 section banner" >}}
 
 ## Oracle Linux Automation Manager Release 2
 
@@ -39,7 +39,7 @@ aliases:
 
 #### Release Features of Oracle Linux Automation Manager 2
 
-- {{< youtube 2UwUXngKsDY >}}
+- {{< youtube id="2UwUXngKsDY" title="Release Features of Oracle Linux Automation Manager 2 YouTube video" >}}
 
 ### Labs
 
@@ -111,7 +111,7 @@ In the free lab environment, the below inventory defines the cluster deployment.
 
 ---
 
-{{< figure src="/img/olam/OLAM-engine-section.png" alt="Oracle Linux Automation Engine" >}}
+{{< figure src="/img/olam/OLAM-engine-section.png" alt="Oracle Linux Automation Engine section banner" >}}
 
 ## Oracle Linux Automation Engine
 
@@ -147,7 +147,7 @@ A static inventory file works well if your infrastructure hardly changes.  Howev
 
 ---
 
-{{< figure src="/img/olam/OLAM-ver1-section1.png" alt="Oracle Linux Automation Manager Version 1" >}}
+{{< figure src="/img/olam/OLAM-ver1-section1.png" alt="Oracle Linux Automation Manager Version 1 section banner" >}}
 
 ## Oracle Linux Automation Manager Release 1
 
@@ -157,32 +157,32 @@ These videos will get you started with the installation and overview of Oracle L
 
 #### Installing Oracle Linux Automation Manager on Oracle Linux
 
-- {{< youtube -RCqGHhweo0 >}}
+- {{< youtube id="-RCqGHhweo0" title="Installing Oracle Linux Automation Manager on Oracle Linux YouTube video" >}}
 
 #### Getting Started with Oracle Linux Automation Manager
 
-- {{< youtube EEWdxROy-nM >}}
+- {{< youtube id="EEWdxROy-nM" title="Getting Started with Oracle Linux Automation Manager YouTube video" >}}
 
 #### Users and Credentials on Oracle Linux Automation Manager
 
-- {{< youtube AQk9vJZ2R0Y >}}
+- {{< youtube id="AQk9vJZ2R0Y" title="Users and Credentials on Oracle Linux Automation Manager YouTube video" >}}
 
 #### Setting Permissions in Oracle Linux Automation Manager
 
-- {{< youtube oDMFXm3HjmA >}}
+- {{< youtube id="oDMFXm3HjmA" title="Setting Permissions in Oracle Linux Automation Manager YouTube video" >}}
 
 #### Projects and Inventories in Oracle Linux Automation Manager
 
-- {{< youtube rgvPfRXBaAI >}}
+- {{< youtube id="rgvPfRXBaAI" title="Projects and Inventories in Oracle Linux Automation Manager YouTube video" >}}
 
 #### Creating Job Templates in Oracle Linux Automation Manager
 
-- {{< youtube -r9wGs4efYU >}}
+- {{< youtube id="-r9wGs4efYU" title="Creating Job Templates in Oracle Linux Automation Manager YouTube video" >}}
 
 #### Using Oracle Cloud Infrastructure Ansible Collection in Oracle Linux Automation Manager
 
-- {{< youtube gXSmPoY0BVs >}}
+- {{< youtube id="gXSmPoY0BVs" title="Using Oracle Cloud Infrastructure Ansible Collection in Oracle Linux Automation Manager YouTube video" >}}
 
 #### Create a Dynamic Inventory in Oracle Linux Automation Manager
 
-- {{< youtube Fs3l5P-D_nk >}}
+- {{< youtube id="Fs3l5P-D_nk" title="Create a Dynamic Inventory in Oracle Linux Automation Manager YouTube video" >}}
