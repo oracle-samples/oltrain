@@ -2,7 +2,7 @@
 title: "Welcome to Oracle Linux Training Station"
 description: "This is the Oracle Linux Training Station homepage."
 summary: "Head to the Oracle Linux Training Station tracks below to learn about Linux and Virtualization products.  These tracks provide you with immediate learning opportunities consisting of hundreds of short video demonstrations and guided exercises in free, real-world, hands-on lab environments"
-tags: ["Administration", "Boot process", "Monitoring", "Logging", "Networking", "Package management", "Ksplice", Remote management", "Storage management", "Virtualization", "Introduction"]
+tags: ["Administration", "Boot process", "Monitoring", "Logging", "Networking", "Package Management", "Ksplice", "Remote Management", "Storage Management", "Virtualization", "Introduction"]
 ---
 
 ![OLTRAIN](/img/ol-train4.png)
