@@ -27,7 +27,7 @@ aliases:
 
 ---
 
-This page highlights the videos and hands on labs that have been added to the learning tracks on the Oracle Linux Training Station in the period November 2022 - June 2023.
+This page highlights the videos and hands on labs that have been added to the learning tracks on the Oracle Linux Training Station in the period November 2022 - July 2023.
 
 ---
 
@@ -39,6 +39,7 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Oracle OS Management Hub: Overview](https://youtu.be/zBDX5VmurZM)
 - [Preparing Oracle Cloud Infrastructure for Oracle OS Management Hub](https://youtu.be/LMxfUj93ozc)
 - [Creating and Registering a Management Station in Oracle OS Management Hub](https://youtu.be/2ENDebdcf3g)
+- [Registering Instances to Oracle OS Management Hub](https://youtu.be/q_hzQnDfF2g)
 
 ---
 
