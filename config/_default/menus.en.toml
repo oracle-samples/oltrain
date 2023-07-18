@@ -103,6 +103,12 @@
   weight = 23
 
 [[main]]
+  name = "Simon Coter - Oracle Blog"
+  parent = "Blogs"
+  url = "https://blogs.oracle.com/scoter/"
+  weight = 24
+
+[[main]]
   name = "Docs"
   identifier = "doc"
   weight = 100

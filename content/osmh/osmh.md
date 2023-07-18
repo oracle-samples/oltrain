@@ -64,3 +64,7 @@ Get up and running fast and start working with OS Management Hub service with th
 
 - {{< youtube id="q_hzQnDfF2g" title="Registering Instances to Oracle OS Management Hub YouTube video" >}}
 
+#### Creating and Managing Profiles in Oracle OS Management Hub
+
+- {{< youtube id="vGTTxRFe-L0" title="Creating and Managing Profiles in Oracle OS Management Hub YouTube video" >}}
+
