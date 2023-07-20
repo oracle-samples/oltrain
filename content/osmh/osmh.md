@@ -42,7 +42,7 @@ OS Management Hub provides:
 
 {{< figure src="/img/osmh/osmh-deploy-header.png" alt="osmh-deploy" >}}
 
-## OS Management Hub 
+## Deploying OS Management Hub 
 
 Get up and running fast and start working with OS Management Hub service with the following videos.
 

@@ -14,6 +14,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+  showLikes: false
+  showViews: false  
 ---
 
 This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing. :rocket:
