@@ -14,6 +14,8 @@ cascade:
   showDate: false
   showAuthor: false
   invertPagination: true
+  showLikes: false
+  showViews: false
 ---
 
 This site includes support for user-defined groupings of content called taxonomies. Taxonomies are classifications of logical relationships between content.
