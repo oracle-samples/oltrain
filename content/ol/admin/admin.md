@@ -247,6 +247,14 @@ Beyond these great features, Oracle provides the Oracle JDK free for commercial 
 
 ---
 
+### [Run Oracle Database on Oracle Linux Arm](https://luna.oracle.com/lab/2a32f4bb-2cd1-4f9f-a900-db8f147c0b14)
+
+Oracle Database 19c Enterprise Edition, the current long-term support release of Oracle Database, is now certified and available on the popular Arm architecture for cloud and on-premises deployments.
+
+The Oracle Cloud Infrastructure (OCI) Ampere A1 compute platform provides deterministic performance, linear scalability, and an energy-efficient, sustainable, eco-friendly design for Oracle Database customers. Building applications is free to try, easy to learn, and fast to explore.
+
+---
+
 {{< figure src="/img/quiz1.png" alt="ol-admin-quiz" >}}
 
 Test your skills on what you have learned so far with this quiz.
