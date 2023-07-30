@@ -67,6 +67,7 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Disable a Kernel Module on Oracle Linux](https://luna.oracle.com/lab/00aafe17-39b9-43e0-8b53-087b84003c15)
 - [Use ReaR to Perform an Oracle Linux Backup](https://luna.oracle.com/lab/30023183-ca96-48dc-8497-af04ca1eada4)
 - [Install Oracle Java SE on Oracle Linux](https://luna.oracle.com/lab/00f34840-f6d0-47dc-9a83-0cc6abd5d051)
+- [Run Oracle Database on Oracle Linux Arm](https://luna.oracle.com/lab/2a32f4bb-2cd1-4f9f-a900-db8f147c0b14)
 
 ---
 
