@@ -41,6 +41,7 @@ This page highlights the videos and hands on labs that have been added to the le
 - [Creating and Registering a Management Station in Oracle OS Management Hub](https://youtu.be/2ENDebdcf3g)
 - [Registering Instances to Oracle OS Management Hub](https://youtu.be/q_hzQnDfF2g)
 - [Creating and Managing Profiles in Oracle OS Management Hub](https://youtu.be/vGTTxRFe-L0)
+- [Selecting Software Sources for Oracle OS Management Hub](https://youtu.be/cPzHiOtLWUo)
 
 ---
 

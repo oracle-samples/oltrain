@@ -68,3 +68,6 @@ Get up and running fast and start working with OS Management Hub service with th
 
 - {{< youtube id="vGTTxRFe-L0" title="Creating and Managing Profiles in Oracle OS Management Hub YouTube video" >}}
 
+#### Selecting Software Sources for Oracle OS Management Hub
+
+- {{< youtube id="cPzHiOtLWUo" title="Selecting Software Sources for Oracle OS Management Hub YouTube video" >}}
