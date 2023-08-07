@@ -208,13 +208,21 @@ It can be deployed on either a Kubernetes cluster using an Operator, or as a sta
 
 Learn to setup and use a HAProxy container on Podman.
 
-HAProxy is a well known, and widely used, open source solution delivering load balancing and proxy services for both HTTP (Layer 7) and TCP (Layer 4) which is achieved by spreading incoming request across multiple servers. For more details of the services that HAProxy does and does not provide please refer to the [upstream documentation] (https://docs.haproxy.org/#xd_co_f=NjUzNDIzODAtMTcwNy00YzFlLTgxMDItNTM2YjIwZjBkMmQ0~). HAProxy can be installed locally on Oracle Linux , or run as a container using Podman. This lab describes how to use HAProxy with Podman.
+HAProxy is a well known, and widely used, open source solution delivering load balancing and proxy services for both HTTP (Layer 7) and TCP (Layer 4) which is achieved by spreading incoming request across multiple servers. For more details of the services that HAProxy does and does not provide please refer to the [upstream documentation](https://docs.haproxy.org/). HAProxy can be installed locally on Oracle Linux , or run as a container using Podman. This lab describes how to use HAProxy with Podman.
 
 ---
 
 ### [Deploy a High Availability Project Quay using Podman](https://luna.oracle.com/lab/a63c2548-c459-457f-b3d1-123c99d90d89)
 
 Learn to setup and use a high availability deployment of Project Quay Registry on Podman.
+
+---
+
+### [Install kind Using Rootless Podman on Oracle Linux](https://luna.oracle.com/lab/30610e81-95e7-4c54-85bc-efcb5e757e04)
+
+Learn how to install _kind_ using rootless Podman on Oracle Linux.
+
+[kind](https://kind.sigs.k8s.io/) is an open source tool for running a locally hosted Kubernetes cluster using Podman containers as the cluster nodes.  It is specifically designed to provide both Developers and DevOps administrators to quickly create a Kubernetes cluster on a single machine without requiring the complicated and lengthy process of bootstrapping and then configuring the cluster, etc.  Instead kind maintains all the components for both control plane and worker nodes.
 
 ---
 
