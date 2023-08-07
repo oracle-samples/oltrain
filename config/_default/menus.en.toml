@@ -197,7 +197,7 @@
   weight = 210
 
 [[main]]
-  name = "Oracle Cloud Infrastructure"
+  name = "Linux on Oracle Cloud Infrastructure"
   identifier = "pl3"
   parent = "pl"
   url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzu51n3L6dxHgKRy8CayIBXI"
