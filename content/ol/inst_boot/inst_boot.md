@@ -52,11 +52,11 @@ aliases:
 
 - {{< youtube OVeso8h5HZA >}}
 
-### sytemd System and Service Manager on Oracle Linux
+### systemd System and Service Manager on Oracle Linux
 
 - {{< youtube 9uDvnZKhU8A >}}
 
-### sytemd Target Units on Oracle Linux
+### systemd Target Units on Oracle Linux
 
 - {{< youtube Tkxs-wfZrnw >}}
 
