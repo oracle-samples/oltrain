@@ -92,33 +92,13 @@ Learn to administer compute instances using a range of tools and solutions provi
 
 ### Videos
 
+#### Oracle Compute Cloud@Customer Service Overview
+
+- {{< youtube id="ZzmsCP-dAZE" title="Oracle Compute Cloud@Customer Service Overview YouTube video" >}}
+
 #### Oracle Cloud Infrastructure Secure Desktops: Overview
 
 - {{< youtube id="pwElvYIZzaM" title="Oracle Cloud Infrastructure Secure Desktops Overview YouTube video" >}}
-- 
-<!-- #### Getting Started with OS Management for Linux on Oracle Cloud Infrastructure
-
-- {{< youtube 7qmy5VusYKA >}} -->
-
-<!-- #### Using OS Management for Linux on Oracle Cloud Infrastructure
-
-- {{< youtube txStsCT1onc >}} -->
-
-<!-- #### Oracle Autonomous Linux with OS Management in Oracle Cloud Infrastructure
-
-- {{< youtube Mt_zmEJ1UtM >}} -->
-
-<!-- #### Migrate Standalone Oracle Autonomous Linux Instances to use OS Management Service
-
-- {{< youtube vNY4jelIdgk >}} -->
-
-<!-- #### Getting Started with OS Management for Windows in Oracle Cloud Infrastructure
-
-- {{< youtube DpAE_RhmRWg >}} -->
-
-<!-- #### Installing Patches with OS Management for Windows in Oracle Cloud Infrastructure
-
-- {{< youtube 4eDTl5fPNKA >}} -->
 
 #### OCI Utilities Overview
 
@@ -127,10 +107,6 @@ Learn to administer compute instances using a range of tools and solutions provi
 #### Enabling OCI Utilities in Oracle Cloud Infrastructure
 
 - {{< youtube id="EV4ihmXZSUI" title="Enabling OCI Utilities in Oracle Cloud Infrastructure YouTube video" >}}
-
-<!-- #### Managing Oracle Linux Module Streams and Profiles with the OS Management Service
-
-- {{< youtube y-dnguUNr6Y >}} -->
 
 #### Using Ksplice in Oracle Cloud Infrastructure
 
@@ -143,20 +119,6 @@ Learn to administer compute instances using a range of tools and solutions provi
 #### Accessing a Windows Instance on Oracle Cloud Infrastructure
 
 - {{< youtube id="d1fgBuE1GMY" title="Accessing a Windows Instance on Oracle Cloud Infrastructure YouTube video" >}}
-
-<!-- #### Creating a Compliance Report with OS Management for Linux for Oracle Cloud Infrastructure
-
-- {{< youtube _pKnAcA7GUs >}} -->
-
-<!-- ### Labs
-
-#### [Migrate Standalone Oracle Autonomous Linux Instances to use OS Management Service](https://luna.oracle.com/lab/8848ec22-81cd-46d5-aeab-dd2dae36118b)
-
-Practice using a migration script to migrate older Oracle Autonomous Linux instances to integrate with the OS Management service in Oracle Cloud Infrastructure.
-
-#### [Managing Oracle Linux Module Streams and Profiles with the OS Management Service](https://luna.oracle.com/lab/6abfafd9-749e-4b28-93ea-830b6046501d)
-
-Oracle Linux AppStreams introduced the concept of modules, streams and profiles that allow for the management of different versions of software applications within a single OS release. From the Oracle Cloud Infrastructure console the OS Management service can manage instance modules and AppStreams, including viewing module information and updating modules, streams, and profiles. Similarly, from the command line, AppStreams on a single instance can also be installed and managed. -->
 
 ---
 
