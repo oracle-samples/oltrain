@@ -164,9 +164,9 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
 
 - {{< youtube id="DICo2-eRPC4" title="Create a Virtual Cloud Network in the Oracle Cloud Infrastructure YouTube video" >}}
 
-#### Use the VCN wizard to create a Virtual Cloud Network on the Oracle Cloud Infrastructure
+#### Use the VCN Wizard to Create a Virtual Cloud Network in the Oracle Cloud Infrastructure
 
-- {{< youtube id="-6B5_5Qih98" title="Use the VCN wizard to create a Virtual Cloud Network on the Oracle Cloud Infrastructure YouTube video" >}}
+- {{< youtube id="-6B5_5Qih98" title="Use the VCN Wizard to Create a Virtual Cloud Network in the Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Remove a Virtual Cloud Network in Oracle Cloud Infrastructure
 
@@ -176,9 +176,9 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
 
 - {{< youtube id="AHOx8NV3iYA" title="Adding a Secondary VNIC to a Linux Instance in Oracle Cloud Infrastructure YouTube video" >}}
 
-#### Configuring the VCN Internet Gateway in Oracle Cloud Infrastructure
+#### Configure the VCN Internet Gateway in Oracle Cloud Infrastructure
 
-- {{< youtube id="MtFNdZz20M4" title="Configuring the VCN Internet Gateway in Oracle Cloud Infrastructure YouTube video" >}}
+- {{< youtube id="MtFNdZz20M4" title="Configure the VCN Internet Gateway in Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Network Interface Management using OCI Utilities on Oracle Cloud Instances
 
