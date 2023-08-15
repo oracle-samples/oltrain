@@ -224,9 +224,9 @@ Learn to discover and administer block volume storage and create shared cluster 
 
 - {{< youtube id="5XIA2EskuUA" title="Configure an Oracle Linux Storage Appliance Instance on Oracle Cloud Infrastructure YouTube video" >}}
 
-#### Working with the Oracle Lihux Storage Appliance on Oracle Cloud Infrastructure
+#### Working with the Oracle Linux Storage Appliance on Oracle Cloud Infrastructure
 
-- {{< youtube id="vwQIAsU7cV4" title="Working with the Oracle Lihux Storage Appliance on Oracle Cloud Infrastructure YouTube video" >}}
+- {{< youtube id="vwQIAsU7cV4" title="Working with the Oracle Linux Storage Appliance on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Using the Oracle Cloud Infrastructure File System Service
 
