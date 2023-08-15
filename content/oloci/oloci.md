@@ -212,9 +212,9 @@ Learn to discover and administer block volume storage and create shared cluster 
 
 - {{< youtube id="b2Go9QIrOFg" title="Configure a Linux iSCSI Target and Initiator on Oracle Cloud Infrastructure YouTube video" >}}
 
-#### Configure and Test an OCFS2 cluster with Oracle Linux on Oracle Cloud Infrastructure
+#### Configure and Test an OCFS2 Cluster with Oracle Linux on Oracle Cloud Infrastructure
 
-- {{< youtube id="E3pneYLWDFY" title="Configure and Test an OCFS2 cluster with Oracle Linux on Oracle Cloud Infrastructure YouTube video" >}}
+- {{< youtube id="E3pneYLWDFY" title="Configure and Test an OCFS2 Cluster with Oracle Linux on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Create an Oracle Linux Storage Appliance Instance on Oracle Cloud Infrastructure
 
