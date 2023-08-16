@@ -270,7 +270,7 @@ Learn to implement KVM virtualization in Oracle Linux instances deployed on Orac
 
 ### Videos
 
-#### Use Oracle Linux KVM Image for Oracle cloud Infrastructure
+#### Use Oracle Linux KVM Image for Oracle Cloud Infrastructure
 
 - {{< youtube id="R-zJgRIfil4" title="Use Oracle Linux KVM Image for Oracle cloud Infrastructure YouTube video" >}}
 
