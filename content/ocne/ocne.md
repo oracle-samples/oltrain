@@ -4,7 +4,7 @@ date: 2020-08-03
 draft: false
 description: "Welcome to Oracle Cloud Native Environment Track"
 summary: "This track contains videos to facilitate your usage of the technologies, software and tools used by Oracle to develop microservices-based applications that can be deployed in environments that support open standards and specifications.  Information and videos presented here cover Microservices technologies which are components of the Oracle Cloud Native Environment General Availability announcement, as well as additional technologies to help you expand your learning of microservices."
-tags: ["OCNE", "Oracle Cloud Native Environment", "Kubernetes", "Istio", "Kata Containers" ]
+tags: ["OCNE", "Oracle Cloud Native Environment", "Kubernetes", "Istio" ]
 slug: "ocne"
 showRecent: false
 showDate: false
@@ -38,42 +38,6 @@ Oracle Cloud Native Environment delivers a simplified framework for installation
 {{< figure src="/img/ocne/OCNE-environ-section.png" alt="Oracle Cloud Native Environment Installation section banner" >}}
 
 ## Environment Installation
-
-### Installation Videos
-
-The following videos will introduce you to the installation procedure and scaling of the Oracle Cloud Native Environment.
-
-#### Release 1.4 and 1.5 Videos
-
-#### Installation Walkthrough of Oracle Cloud Native Environment
-
-- {{< youtube id="IuMKKWdDgc4" title="Installation Walkthrough of Oracle Cloud Native Environment YouTube video" >}}
-
-#### Using the Configuration File with Oracle Cloud Native Environment
-
-- {{< youtube id="pfnfu8B3atI" title="Using the Configuration File with Oracle Cloud Native Environment YouTube video" >}}
-
-#### An Overview of the Configuration File with Oracle Cloud Native Environment
-
-- {{< youtube id="n7VhqiiYa1U" title="An Overview of the Configuration File with Oracle Cloud Native Environment YouTube video" >}}
-
-#### Release 1.3 Videos
-
-#### Getting Started with Oracle Cloud Native Environment
-
-- {{< youtube id="agoEHX0M7bk" title="Getting Started with Oracle Cloud Native Environment YouTube video" >}}
-
-#### Installing Oracle Cloud Native Environment
-
-- {{< youtube id="bN_SLTGdJJQ" title="Installing Oracle Cloud Native Environment YouTube video" >}}
-
-#### Deploy Kubernetes and other Modules on Oracle Cloud Native Environment
-
-- {{< youtube id="_dahVFaasAo" title="Deploy Kubernetes and other Modules on Oracle Cloud Native Environment YouTube video" >}}
-
-#### Scaling Kubernetes on Oracle Cloud Native Environment
-
-- {{< youtube id="aVyqWh048yo" title="Scaling Kubernetes on Oracle Cloud Native Environment YouTube video" >}}
 
 ### Installation Labs
 
@@ -211,19 +175,7 @@ This tutorial shows you how install the Operator Lifecycle Manager module for Or
 
 ### Kubernetes Videos
 
-An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.   The following videos will introduce you to the Kubernetes cluster technology and its components. They show how a Kubernetes cluster is built, and how container applications in pods are deployed on the cluster nodes.
-
-#### Introduction to Kubernetes in Oracle Cloud Native Environment
-
-- {{< youtube id="q2j7jjuBbiM" title="Introduction to Kubernetes in Oracle Cloud Native Environment YouTube video" >}}
-
-#### Kubernetes Architecture in Oracle Cloud Native Environment
-
-- {{< youtube id="H2rAeWkxp1Y" title="Kubernetes Architecture in Oracle Cloud Native Environment YouTube video" >}}
-
-#### Kubernetes kubectl Command in Oracle Cloud Native Environment
-
-- {{< youtube id="0pa4rlFbFdk" title="Kubernetes kubectl Command in Oracle Cloud Native Environment YouTube video" >}}
+An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.  
 
 #### A Quick Tour of Kubernetes on Oracle Linux
 
@@ -304,55 +256,11 @@ Take the quiz
 
 ---
 
-{{< figure src="/img/ocne/OCNE-kata-section.png" alt="KATA Containers section banner" >}}
-
-## Kata Containers
-
-### Kata Videos
-
-Kata Container software delivers the framework for creating lightweight virtual machines (VMs) that easily plug into container ecosystems. Kata Containers offer similar virtual machine levels of security while maintaining the efficiencies gained from the deployment of traditional containers.
-
-The following videos will introduce you to Kata Containers functionality and demonstrate how Kata Containers are deployed in your Kubernetes cluster.
-
-#### Kata Containers Overview
-
-- {{< youtube id="0P2kQMCssm4" title="Kata Containers Overview YouTube video" >}}
-
----
-
 {{< figure src="/img/ocne/OCNE-istio-section.png" alt="ISTIO section banner" >}}
 
 ## Istio
 
-### Istio Videos
-
 Operating as a service mesh for managing the interaction and operation of services in a microservices architecture. Istio coordinates communication between services, providing service discovery, load balancing, security, recovery, telemetry, and policy enforcement capabilities.
-
-The following videos will introduce you to the role of Istio in supporting the microservices framework. You will learn about the Istio architecture and its sidecar proxy capabilities implemented in a Kubernetes cluster.
-
-#### Introduction to Istio
-
-- {{< youtube id="yr3rgcR_jwU" title="Introduction to Istio YouTube video" >}}
-
-#### Istio Architecture
-
-- {{< youtube id="67j5pKaezAk" title="Istio Architecture YouTube video" >}}
-
-#### Istio in Oracle Cloud Native Environment
-
-- {{< youtube id="0W5fQnlJppw" title="Istio in Oracle Cloud Native Environment YouTube video" >}}
-
-#### Istio Ingress
-
-- {{< youtube id="Fkl7Zzn45X4" title="Instio Ingress YouTube video" >}}
-  
-#### Istio Egress
-
-- {{< youtube id="MHKc4hfszUI" title="Istio Egress YouTube video" >}}
-
-#### Istio Routing
-
-- {{< youtube id="HDagk09TayQ" title="Istio Routing YouTube video" >}}
 
 ### Istio Lab
 
