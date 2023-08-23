@@ -77,13 +77,13 @@ These videos will provide information to get started and work with the OS Manage
 
 - {{< youtube id="Mt_zmEJ1UtM" title="Oracle Autonomous Linux with OS Management in Oracle Cloud Infrastructure YouTube video" >}}
 
-#### Migrate Standalone Oracle Autonomous Linux Instances to OS Management Service
+#### Migrate Standalone Oracle Autonomous Linux Instances to use OS Management Service
 
-- {{< youtube id="vNY4jelIdgk" title="Migrate Standalone Oracle Autonomous Linux Instances to OS Management Service YouTube video" >}}
+- {{< youtube id="vNY4jelIdgk" title="Migrate Standalone Oracle Autonomous Linux Instances to use OS Management Service YouTube video" >}}
 
-#### Getting Started with OS Management for Windows in in Oracle Cloud Infrastructure
+#### Getting Started with OS Management for Windows in Oracle Cloud Infrastructure
 
-- {{< youtube id="DpAE_RhmRWg" title="Getting Started with OS Management for Windows in in Oracle Cloud Infrastructure YouTube video" >}}
+- {{< youtube id="DpAE_RhmRWg" title="Getting Started with OS Management for Windows in Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Managing Oracle Linux Module Streams and Profiles with the OS Management Service
 
