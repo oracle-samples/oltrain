@@ -1,5 +1,5 @@
 ---
-title: "Package Menagement"
+title: "Package Management"
 date: 2020-08-03
 weight: 06
 draft: false
