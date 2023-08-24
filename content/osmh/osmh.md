@@ -71,3 +71,7 @@ Get up and running fast and start working with OS Management Hub service with th
 #### Selecting Software Sources for Oracle OS Management Hub
 
 - {{< youtube id="cPzHiOtLWUo" title="Selecting Software Sources for Oracle OS Management Hub YouTube video" >}}
+
+### Creating Groups in Oracle OS Management Hub
+
+- {{< youtube id="4JiabsfKFJ4" title="Creating Groups in Oracle OS Management Hub Youtube video" >}}
