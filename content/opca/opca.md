@@ -23,7 +23,7 @@ aliases:
 - /OPCA/opca.html
 ---
 
-{{< figure src="/img/opca/PCA_header4.png" alt="Oracle Cloud Native Environment Track" >}}
+{{< figure src="/img/opca/pca-header4.png" alt="Oracle Cloud Native Environment Track" >}}
 
 ---
 
