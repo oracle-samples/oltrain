@@ -109,6 +109,12 @@
   weight = 24
 
 [[main]]
+  name = "Oracle Verrazzano Enterprise Container Platform Blog"
+  parent = "Blogs"
+  url = "https://medium.com/verrazzano"
+  weight = 25
+
+[[main]]
   name = "Docs"
   identifier = "doc"
   weight = 100
@@ -175,6 +181,13 @@
   parent = "doc"
   url = "https://docs.oracle.com/en/virtualization/virtualbox/index.html"
   weight = 190
+
+[[main]]
+  name = "Oracle Verrazzano Enterprise Container Platform"
+  identifier = "doc10"
+  parent = "doc"
+  url = "https://docs.oracle.com/en/cloud/iaas/verrazzano/"
+  weight = 195
 
 [[main]]
   name = "Playlists"
@@ -251,6 +264,13 @@
   parent = "pl"
   url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsbt_qDAXLMF5oFUhEkgbUM"
   weight = 290
+
+[[main]]
+  name = "Oracle Verrazzano Enterprise Container Platform"
+  identifier = "pl11"
+  parent = "pl"
+  url = "https://www.youtube.com/@verrazzano_io"
+  weight = 295
 
 [[main]]
   identifier = "web"
