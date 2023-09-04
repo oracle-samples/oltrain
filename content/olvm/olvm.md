@@ -103,7 +103,7 @@ The following content will introduce you to Oracle Linux Virtualization Manager 
 
 #### Creating a Template from a Virtual Machine in Oracle Linux Virtualization Manager
 
-- {{< youtube id="bJV0VfXpg8" title="Creating a Template from a Virtual Machine in Oracle Linux Virtualization Manager YouTube video" >}}
+- {{< youtube id="QbJV0VfXpg8" title="Creating a Template from a Virtual Machine in Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Creating a Virtual Machine from a Template in Oracle Linux Virtualization Manager
 

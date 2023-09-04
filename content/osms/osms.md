@@ -61,9 +61,9 @@ These videos will provide information to get started and work with the OS Manage
 
 ### Videos
 
-#### Getting started with OS Management for Linux on Oracle Cloud Infrastructure
+#### Getting Started with OS Management for Linux on Oracle Cloud Infrastructure
 
-- {{< youtube id="7qmy5VusYKA" title="Getting started with OS Management for Linux on Oracle Cloud Infrastructure YouTube video" >}}
+- {{< youtube id="_YfQxqa0cbQ" title="Getting Started with OS Management for Linux on Oracle Cloud Infrastructure YouTube video" >}}
 
 #### Using OS Management for Linux on Oracle Cloud Infrastructure
 
