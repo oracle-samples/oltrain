@@ -49,6 +49,11 @@ aliases:
 Learn how to work with DNF repositories. list package information, install, download, and reinstall packages, upgrade and remove packages, use the DNF history feature, and manage package groups.
 
 ---
+### [Use DNF to Maintain Security on Oracle Linux](https://luna.oracle.com/lab/b48151dc-20d9-4c52-b868-840978f4a514)
+
+Learn to use DNF for security package maintenance on Oracle Linux.
+
+---
 
 ### [Mirror a Yum Repository on Oracle Linux](https://luna.oracle.com/lab/b3779123-c17c-4f89-bb93-8c343d891825)
 
