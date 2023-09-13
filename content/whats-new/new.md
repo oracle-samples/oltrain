@@ -63,6 +63,7 @@ This page highlights the videos and hands on labs that have been recently added 
 - [Install Oracle Java SE on Oracle Linux](https://luna.oracle.com/lab/00f34840-f6d0-47dc-9a83-0cc6abd5d051)
 - [Run Oracle Database on Oracle Linux for Arm](https://luna.oracle.com/lab/2a32f4bb-2cd1-4f9f-a900-db8f147c0b14)
 - [Install kind Using Rootless Podman on Oracle Linux](https://luna.oracle.com/lab/30610e81-95e7-4c54-85bc-efcb5e757e04)
+- [Use DNF to Maintain Security on Oracle Linux](https://luna.oracle.com/lab/b48151dc-20d9-4c52-b868-840978f4a514)
 
 ---
 
