@@ -80,6 +80,13 @@
   weight = 90
 
 [[main]]
+  name = "Oracle Verrazzano Enterprise Container Platform"
+  identifier = "t10"
+  parent = "t"
+  pageRef = "vz/vz"
+  weight = 100
+
+[[main]]
   name = "Blogs"
   #pageRef = "tags"
   weight = 20
