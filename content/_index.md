@@ -89,6 +89,14 @@ These tracks provide you with immediate learning opportunities consisting of hun
 
 ---
 
+{{< figure src="img/vz/vz-banner-v2.png" alt="Oracle Verrazzano Enterprise Container Platform separator graphic" href="vbox/vbox" >}}
+
+## [Oracle Verrazzano Enterprise Container Platform](vz/vz)
+
+{{< lead >}} Learn to use Oracle Verrazzano Enterprise Container Platform, the open source, easy-to-adopt container platform for managing applications and Kubernetes clusters across clouds. {{< /lead >}}
+
+---
+
 <!-- <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
     {{< icon "triangle-exclamation" >}}
