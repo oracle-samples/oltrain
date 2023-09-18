@@ -23,13 +23,13 @@ aliases:
 - /vz/vz.html
 ---
 
-{{< figure src="/img/vz/vz-1200x1200-banner.png" alt="Oracle Oracle Verrazzano Enterprise Container Platform Track" >}}
+{{< figure src="/img/vz/vz-1200x1200-banner.png" alt="Oracle Verrazzano Enterprise Container Platform Track" >}}
 
 ---
 
 {{< lead >}} Oracle Verrazzano Enterprise Container Platform is a fully integrated suite for the development and management of cloud-native applications.
 
-Oracle Verrazzano Enterprise Container Platform is an end-to-end enterprise container platform for deploying cloud native and traditional applications in multi-cloud environments. It is made up of a curated set of open source components – many that you may already use and trust, and some that were written specifically to pull together all of the pieces that make Oracle Verrazzano Enterprise Container Platform a cohesive and easy to use platform. {{< /lead >}}
+Oracle Verrazzano Enterprise Container Platform is an end-to-end enterprise container platform for deploying cloud native and traditional applications in multi-cloud environments. It is made up of a curated set of open source components – many that you may already use and trust, and some that were written specifically to pull together all of the pieces that make Verrazzano a cohesive and easy to use platform. {{< /lead >}}
 
 ---
 
@@ -41,28 +41,28 @@ Each Oracle LiveLabs workshop provides step-by-step procedures to complete speci
 
 ### [Modern Application Development with Oracle Kubernetes Environment and Oracle Verrazzano Enterprise Container Platform](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3614)
 
-This lab offers an introductory level, hands-on session with installation of Oracle Verrazzano Enterprise Container Platform, deployment of a microservice application built with Helidon. You will also explore Oracle Verrazzano Enterprise Container Platform tools, including OpenSearch, Grafana and Prometheus.
+This lab offers an introductory level, hands-on session with installation of Oracle Verrazzano Enterprise Container Platform, deployment of a microservice application built with Helidon. You will also explore Verrazzano tools, including OpenSearch, Grafana and Prometheus.
 
 ---
 
 ### [Oracle Verrazzano Fundamentals](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=853)
 
-This lab offers an introductory level, hands-on session with installation of Oracle Verrazzano Enterprise Container Platform, deployment of a Java Platform, Enterprise Edition (Java EE) application running on Oracle WebLogic Server + Microservices built using Helidon, Updating and redeployment of Microservice. You will also explore Oracle Verrazzano Enterprise Container Platform tools, including OpenSearch, Grafana and Prometheus.
+This lab offers an introductory level, hands-on session with installation of Oracle Verrazzano Enterprise Container Platform, deployment of a Java Platform, Enterprise Edition (Java EE) application running on Oracle WebLogic Server + Microservices built using Helidon, Updating and redeployment of Microservice. You will also explore Verrazzano tools, including OpenSearch, Grafana and Prometheus.
 
 ---
 
 ### [Modern Application Development with Oracle Kubernetes Environment and Oracle Verrazzano Enterprise Container Platform](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3323)
 
-This lab offers an introductory level, hands-on session with installation of Oracle Verrazzano Enterprise Container Platform, build and deployment of a microservice application built with Helidon. You will also explore Oracle Verrazzano Enterprise Container Platform tools, including OpenSearch, Grafana and Prometheus.
+This lab offers an introductory level, hands-on session with installation of Oracle Verrazzano Enterprise Container Platform, build and deployment of a microservice application built with Helidon. You will also explore Verrazzano  tools, including OpenSearch, Grafana and Prometheus.
 
 ---
 
 ### [Deploy a Spring Boot application to Oracle Cloud Infrastructure Container Engine for Kubernetes using Oracle Verrazzano Enterprise Container Platform](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3680)
 
-This lab offers an introductory level, hands-on session with installation of Oracle Verrazzano Enterprise Container Platform, build and deployment of a microservice application built with Spring boot. You will also explore Oracle Verrazzano Enterprise Container Platform tools, including OpenSearch, Grafana and Prometheus.
+This lab offers an introductory level, hands-on session with installation of Oracle Verrazzano Enterprise Container Platform, build and deployment of a microservice application built with Spring boot. You will also explore Verrazzano tools, including OpenSearch, Grafana and Prometheus.
 
 ---
 
 ### [Deploy a Tomcat application to Oracle Cloud Infrastructure Container Engine for Kubernetes using Oracle Verrazzano Enterprise Container Platform](https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/view-workshop?wid=3621)
 
-This lab offers an introductory level, hands-on session with installation of Oracle Verrazzano Enterprise Container Platform, build and deployment of a Java application running on Tomcat. You will also explore Oracle Verrazzano Enterprise Container Platform tools, including OpenSearch, Grafana and Prometheus.  
+This lab offers an introductory level, hands-on session with installation of Oracle Verrazzano Enterprise Container Platform, build and deployment of a Java application running on Tomcat. You will also explore Verrazzano tools, including OpenSearch, Grafana and Prometheus.  
