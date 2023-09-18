@@ -23,7 +23,7 @@ aliases:
 - /vz/vz.html
 ---
 
-{{< figure src="/img/vz/vz-1200x1200-banner.png" alt="Oracle Verrazzano Enterprise Container Platform Track" >}}
+{{< figure src="/img/vz/vz-1200x200-banner.png" alt="Oracle Verrazzano Enterprise Container Platform Track" >}}
 
 ---
 
