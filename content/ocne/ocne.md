@@ -159,6 +159,20 @@ This tutorial will show how to upgrade an Oracle Cloud Native Environment Releas
 
 ---
 
+#### [Run KubeVirt on Oracle Cloud Native Environment](https://luna.oracle.com/lab/87d85c56-d929-45bc-aa8c-3f51cd584b2d)
+
+Learn how to deploy and run KubeVirt on Oracle Cloud Native Environment.
+
+KubeVirt is a virtualization technology to create and manage virtual machines in Kubernetes. Administrators create these virtual machines using the kubectl command and Kubernetes custom resource definitions (CRDs). As with any container image within Kubernetes, it requires persistent storage to maintain its state. Hence, our need for Rook and Ceph.
+
+Rook is a cloud-native storage orchestrator platform that enables Ceph storage for our Kubernetes cluster. Rook deploys as a Kubernetes operator inside a Kubernetes cluster and automates the tasks to provision and de-provision Ceph-backed persistent storage using the Kubernetes Container Storage Interface (CSI).
+
+While Ceph allows the creation of block and object storage, there also exists a shared file system storage. This type uses a CephFilesystem (CephFS) to mount a shared POSIX (Portable Operating System Interface) compliant folder into one or more pods. This storage type is similar to NFS (Network File System) shared storage or CIFS (Common Internet File System) shared folders.
+
+This tutorial guides users on deploying KubeVirt with Ceph storage managed by Rook on Oracle Cloud Native Environment.
+
+---
+
 ### Installation Tutorials
 
 Each tutorial provides step-by-step procedures to complete specific tasks but does not provide an environment. Perform these tutorial steps on your own Oracle Linux environment.
