@@ -148,6 +148,14 @@ Introduction to using Podman on Oracle Linux.  This lab gets you started using P
 
 ---
 
+### [Run Containers with Podman on Oracle Linux](https://luna.oracle.com/lab/b48151dc-20d9-4c52-b868-840978f4a514)
+
+This lab will guide you through running and managing containers with Podman on Oracle Linux. It shows how to search and pull images from container registries and create containers with them.  
+
+You will start, stop and attach to containers, and execute commands in running containers. Viewing container logs, and removing containers and images are all covered in this lab.
+
+---
+
 ### [Use storage with Podman containers](https://luna.oracle.com/lab/0dde3b49-0b91-423e-a126-5e718e05ca64)
 
 Introduction to container storage on Oracle Linux.  This lab shows how to use different container storage types to access the host filesystem or persist files. This tutorial is targeted at users of Oracle Linux 8 or later.
