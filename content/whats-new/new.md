@@ -64,7 +64,7 @@ This page highlights the videos and hands on labs that have been recently added 
 - [Run Oracle Database on Oracle Linux for Arm](https://luna.oracle.com/lab/2a32f4bb-2cd1-4f9f-a900-db8f147c0b14)
 - [Install kind Using Rootless Podman on Oracle Linux](https://luna.oracle.com/lab/30610e81-95e7-4c54-85bc-efcb5e757e04)
 - [Use DNF to Maintain Security on Oracle Linux](https://luna.oracle.com/lab/b48151dc-20d9-4c52-b868-840978f4a514)
-- [Run Containers with Podman on Oracle Linux](https://luna.oracle.com/lab/b48151dc-20d9-4c52-b868-840978f4a514)
+- [Run Containers with Podman on Oracle Linux](https://luna.oracle.com/lab/2f0beeef-bc10-4e54-a042-ce31db0e9765)
 
 ---
 
