@@ -31,7 +31,7 @@ aliases:
 
 ---
 
-{{< figure src="/img/vbox/vbox-70-sect1.png" alt="Oracle VM VirtualBox 7 separator banner" >}}
+{{< figure src="/img/vbox/vbox-7-sect.png" alt="Oracle VM VirtualBox 7 separator banner" >}}
 
 ## Oracle VM VirtualBox 7
 
@@ -75,7 +75,7 @@ Oracle VM VirtualBox allows the simple and fast creation of virtual machines (VM
 
 ---
 
-{{< figure src="/img/vbox/vbox-61-sect1.png" alt="Oracle VM VirtualBox 6 separator banner" >}}
+{{< figure src="/img/vbox/vbox-6-sect.png" alt="Oracle VM VirtualBox 6 separator banner" >}}
 ## Oracle VM VirtualBox 6
 
 ### Videos
