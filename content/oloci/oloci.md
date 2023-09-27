@@ -120,9 +120,9 @@ Learn to administer compute instances using a range of tools and solutions provi
 
 - {{< youtube id="d1fgBuE1GMY" title="Accessing a Windows Instance on Oracle Cloud Infrastructure YouTube video" >}}
 
-#### Oracle Secure Desktops Tenancy Setup
+#### Oracle Cloud Infrastructure Secure Desktops Tenancy Setup
 
-- {{< youtube id="7HqkP9wRUXk" title="Oracle Secure Desktops Tenancy Setup Youtube video" >}}
+- {{< youtube id="7HqkP9wRUXk" title="Oracle Cloud Infrastructure Secure Desktops Tenancy Setup Youtube video" >}}
 
 ---
 
