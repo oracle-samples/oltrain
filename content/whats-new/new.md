@@ -101,5 +101,6 @@ This page highlights the videos and hands on labs that have been recently added 
 - [Integrate LDAP User Management with Oracle Linux Automation Manager](https://luna.oracle.com/lab/a03cfc90-4c3c-488d-9e66-ba514e00b619)
 - [Manage KVM Virtual Machines using Oracle Linux Automation Manager](https://luna.oracle.com/lab/3e869b97-6f71-46fa-a979-e0c8bf81d7d2)
 - [Setup HAProxy to Load Balance an Oracle Linux Automation Manager Cluster](https://luna.oracle.com/lab/1d19c310-b6d6-40a9-aa2b-44dee29a8f31)
+- [Build Custom Execution Environments with Oracle Linux Automation Manager Builder Utility](https://luna.oracle.com/lab/b54dddd3-661b-43af-afae-192e5fbdab07)
 
 
