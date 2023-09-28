@@ -35,12 +35,6 @@ aliases:
 
 ## Oracle Linux Automation Manager Release 2
 
-### Videos
-
-#### Release Features of Oracle Linux Automation Manager 2
-
-- {{< youtube id="2UwUXngKsDY" title="Release Features of Oracle Linux Automation Manager 2 YouTube video" >}}
-
 ### Labs
 
 Practice your skills with Oracle Linux Automation Manager with these free hands on labs.
@@ -107,7 +101,11 @@ Learn how to configure HAProxy to Load Balance an Oracle Linux Automation Manage
 
 Oracle Linux Automation Manager supports a cluster deployment of multiple control and execution nodes. With the control nodes acting as the entry point into the cluster, how does an administrator manage the traffic across these nodes? That is where a load balancer becomes beneficial. A load balancer efficiently distributes incoming network traffic across a group of backend servers or the control nodes in this solution. A load balancer ensures the Oracle Linux Automation Manager infrastructure is highly available and reliable and performance does not degrade.
 
-In the free lab environment, the below inventory defines the cluster deployment. To help automate the cluster installation on your hardware, check out the playbook in the [Oracle Linux Automation Manager](https://github.com/oracle-samples/ansible-collections/tree/main/playbooks/OLAM/cluster-plus-hop-node#xd_co_f=NjUzNDIzODAtMTcwNy00YzFlLTgxMDItNTM2YjIwZjBkMmQ0~) section of the [ansible-collections project](https://github.com/oracle-samples/ansible-collections).
+#### [Build Custom Execution Environments with Oracle Linux Automation Manager Builder Utility](https://luna.oracle.com/lab/b54dddd3-661b-43af-afae-192e5fbdab07)
+
+Learn to build custom execution environments for Oracle Linux Automation Manager.
+
+The Builder utility is a tool based on the upstream ansible-builder project for generating custom execution environments for Oracle Linux Automation Manager.
 
 ---
 
