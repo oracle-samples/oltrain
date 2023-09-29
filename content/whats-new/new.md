@@ -78,6 +78,7 @@ This page highlights the videos and hands on labs that have been recently added 
 - [Introducing Kubectl with Oracle Cloud Native Environment](https://luna.oracle.com/lab/6c65a513-b161-47d2-b45c-92ca02e38dc0)
 - [Use Kubectl to Manage Kubernetes Clusters and Nodes](https://luna.oracle.com/lab/4b16d141-4825-4d54-98f3-ce7babbea45c)
 - [Run KubeVirt on Oracle Cloud Native Environment](https://luna.oracle.com/lab/87d85c56-d929-45bc-aa8c-3f51cd584b2d)
+- [Use ConfigMaps and Secrets with Oracle Cloud Native Environment](https://luna.oracle.com/lab/14984256-1691-4d7a-8468-6ff38b6253ad)
 
 ---
 
