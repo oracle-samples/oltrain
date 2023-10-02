@@ -43,6 +43,7 @@ This page highlights the videos and hands on labs that have been recently added 
 - [Creating and Managing Profiles in Oracle OS Management Hub](https://youtu.be/vGTTxRFe-L0)
 - [Selecting Software Sources for Oracle OS Management Hub](https://youtu.be/cPzHiOtLWUo)
 - [Creating Groups in Oracle OS Management Hub](https://youtu.be/4JiabsfKFJ4)
+- [Creating Lifecycle Environments in Oracle OS Management Hub](https://youtu.be/5hQuu82Lka4)
 
 ---
 
