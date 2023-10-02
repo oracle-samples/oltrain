@@ -42,7 +42,7 @@ OS Management Hub provides:
 
 {{< figure src="/img/osmh/osmh-deploy-header.png" alt="osmh-deploy" >}}
 
-## Deploying OS Management Hub 
+## Deploying OS Management Hub
 
 Get up and running fast and start working with OS Management Hub service with the following videos.
 
@@ -75,3 +75,7 @@ Get up and running fast and start working with OS Management Hub service with th
 ### Creating Groups in Oracle OS Management Hub
 
 - {{< youtube id="4JiabsfKFJ4" title="Creating Groups in Oracle OS Management Hub Youtube video" >}}
+
+### Creating Lifecycle Environments in Oracle OS Management Hub
+
+- {{< youtube id="5hQuu82Lka4" title="Creating Lifecycle Environments in Oracle OS Management Hub" >}}
