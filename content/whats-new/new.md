@@ -55,6 +55,7 @@ This page highlights the videos and hands on labs that have been recently added 
 
 - [Use Gprofng for Performance Profiling Applications](https://youtu.be/TRZNoL_7xro)
 - [Ksplice Known Exploit Detection](https://youtu.be/13R21lfYy74)
+- [Search Container Registries with Podman on Oracle Linux](https://youtu.be/p2FxmHbPFqM)
 
 ### New Labs
 
