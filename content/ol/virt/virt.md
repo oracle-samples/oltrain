@@ -108,6 +108,10 @@ Take the quiz
 
 - {{< youtube QmZE-lFNzk4 >}}
 
+### Search Container Registries with Podman on Oracle Linux
+
+- {{< youtube id="p2FxmHbPFqM" title="Search Container Registries with Podman on Oracle Linux" >}}
+
 ### Using Public registries with Podman on Oracle Linux
 
 - {{< youtube q57hNilpakk >}}
