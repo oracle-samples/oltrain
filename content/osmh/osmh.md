@@ -46,7 +46,7 @@ OS Management Hub provides:
 
 Get up and running fast and start working with OS Management Hub service with the following videos.
 
-### Videos
+### Setup Videos
 
 #### Oracle OS Management Hub Service: Overview
 
@@ -79,3 +79,17 @@ Get up and running fast and start working with OS Management Hub service with th
 ### Creating Lifecycle Environments in Oracle OS Management Hub
 
 - {{< youtube id="5hQuu82Lka4" title="Creating Lifecycle Environments in Oracle OS Management Hub" >}}
+
+---
+
+{{< figure src="/img/osmh/osmh-admin-header.png" alt="osmh-deploy" >}}
+
+## Administering Instances in OS Management Hub
+
+Learn to manage groups, manage software promotions, schedule updates, run reports, and administer instances managed by Oracle OS Management Hub.
+
+### Administration Videos
+
+### Promoting Versioned Custom Software Sources Through Lifecycles In Oracle OS Management Hub
+
+- {{< youtube id="Y_tWW3YR4L0" title="Promoting Versioned Custom Software Sources Through Lifecycles In Oracle OS Management Hub" >}}
