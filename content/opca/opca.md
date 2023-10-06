@@ -73,9 +73,9 @@ This section provides video training for Day 0 configuration and for administrat
 
 - {{< youtube id="HiGz8ruDtas" title="Querying Loki Logs on Oracle Private Cloud Appliance Youtube video" >}}
 
-#### Alert Rules and Notification channels on Oracle Private Cloud Appliance
+#### Alert Rules and Notification Channels on Oracle Private Cloud Appliance
 
-- {{< youtube id="Qmj_V8TAQXs" title="Alert Rules and Notification channels on Oracle Private Cloud Appliance Youtube video" >}}
+- {{< youtube id="Qmj_V8TAQXs" title="Alert Rules and Notification Channels on Oracle Private Cloud Appliance Youtube video" >}}
 
 #### Migrating Virtual Machines on Oracle Private Cloud Appliance
 
@@ -121,13 +121,13 @@ This section provides video training for administrator and user tasks performed 
 
 - {{< youtube id="tsBn5UQSJ24" title="Federating with an Identity Provider in Oracle Private Cloud Appliance YouTube video" >}}
 
-#### Add Oracle Private Cloud Appliance as a Trusted relying Party
+#### Add Oracle Private Cloud Appliance as a Trusted Relying Party
 
-- {{< youtube id="wWm4TrPoEtI" title="Add Oracle Private Cloud Appliance as a Trusted relying Party Youtube video" >}}
+- {{< youtube id="wWm4TrPoEtI" title="Add Oracle Private Cloud Appliance as a Trusted Relying Party Youtube video" >}}
 
-#### Add Identity Provider self-Signed Certificates to Oracle Private Cloud Appliance
+#### Add Identity Provider Self-Signed Certificates to Oracle Private Cloud Appliance
 
-- {{< youtube id="uZcQk0pUe3s" title="Add Identity Provider self-Signed Certificates to Oracle Private Cloud Appliance YouTube video" >}}
+- {{< youtube id="uZcQk0pUe3s" title="Add Identity Provider Self-Signed Certificates to Oracle Private Cloud Appliance YouTube video" >}}
 
 {{< figure src="/img/opca/pca-page-network4.png" alt="Networking sub-section banner" >}}
 
@@ -149,9 +149,9 @@ This section provides video training for administrator and user tasks performed 
 
 ### Compute Instance Deployment Videos
 
-#### Importing compute Images Provided with Oracle Private Cloud Appliance
+#### Importing Compute Images Provided with Oracle Private Cloud Appliance
 
-- {{< youtube id="fToYmmf6NFk" title="Importing compute Images Provided with Oracle Private Cloud Appliance YouTube video" >}}
+- {{< youtube id="fToYmmf6NFk" title="Importing Compute Images Provided with Oracle Private Cloud Appliance YouTube video" >}}
 
 #### Manage a Compute Instance on Oracle Private Cloud Appliance
 
