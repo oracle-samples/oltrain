@@ -47,9 +47,9 @@ The following content will introduce you to the administration of the Oracle Lin
 
 - {{< youtube id="zjXX8EYIBzA" title="Managing Roles and Permissions with Oracle Linux Virtualization Manager YouTube video" >}}
 
-#### Adding a KVM Compute hHost with Oracle Linux Virtualization Manager
+#### Adding a KVM Compute Host with Oracle Linux Virtualization Manager
 
-- {{< youtube id="qMbUVnCbW7g" title="Adding a KVM Compute hHost with Oracle Linux Virtualization Manager YouTube video" >}}
+- {{< youtube id="qMbUVnCbW7g" title="Adding a KVM Compute Host with Oracle Linux Virtualization Manager YouTube video" >}}
 
 #### Creating a Virtual Machine Network in Oracle Linux Virtualization Manager
 
