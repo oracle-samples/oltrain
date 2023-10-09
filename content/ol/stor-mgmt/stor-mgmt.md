@@ -36,7 +36,7 @@ aliases:
 
 - {{< youtube fCuxJkrXf2w >}}
 
-### Mounting File systems on Oracle Linux
+### Mounting File Systems on Oracle Linux
 
 - {{< youtube 2cHm9ohqZJo >}}
 
@@ -44,11 +44,11 @@ aliases:
 
 - {{< youtube zO9kbExt3uI >}}
 
-### Using Swap space on Oracle Linux
+### Using Swap Space on Oracle Linux
 
 - {{< youtube rv6iXD8Iod0 >}}
 
-### Configure an NFS server on Oracle Linux
+### Configure an NFS Server on Oracle Linux
 
 - {{< youtube fnVoVzB8Px0 >}}
 

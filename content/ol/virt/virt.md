@@ -32,7 +32,7 @@ aliases:
 
 - {{< youtube ALtnopSysY4 >}}
 
-### Setup Cockpit Web console to Manage KVM on Oracle Linux
+### Setup Cockpit Web Console to Manage KVM on Oracle Linux
 
 - {{< youtube -Z3AwP2HPa4 >}}
 
@@ -112,7 +112,7 @@ Take the quiz
 
 - {{< youtube id="p2FxmHbPFqM" title="Search Container Registries with Podman on Oracle Linux" >}}
 
-### Using Public registries with Podman on Oracle Linux
+### Using Public Registries with Podman on Oracle Linux
 
 - {{< youtube q57hNilpakk >}}
 

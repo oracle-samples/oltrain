@@ -184,9 +184,9 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
 
 - {{< youtube id="MtFNdZz20M4" title="Configure the VCN Internet Gateway in Oracle Cloud Infrastructure YouTube video" >}}
 
-#### Network Interface Management using OCI Utilities on Oracle Cloud Instances
+#### Network Interface Management using OCI Utilities on Oracle Linux Instances
 
-- {{< youtube id="ZhbVYs1RBZ8" title="Network Interface Management using OCI Utilities on Oracle Cloud Instances YouTube video" >}}
+- {{< youtube id="ZhbVYs1RBZ8" title="Network Interface Management using OCI Utilities on Oracle Linux Instances YouTube video" >}}
 
 ### Labs
 

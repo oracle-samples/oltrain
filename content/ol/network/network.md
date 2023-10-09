@@ -32,7 +32,7 @@ aliases:
 
 - {{< youtube xCH9WoU96RQ >}}
 
-### Using Network Manager CLI (cmcli) on Oracle Linux
+### Using Network Manager CLI (nmcli) on Oracle Linux
 
 - {{< youtube EkI3RKl4loE >}}
 
