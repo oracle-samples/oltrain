@@ -103,16 +103,6 @@ MetalLB is a network load balancer for Kubernetes applications deployed on Oracl
 
 ---
 
-#### [Install Verrazzano on Oracle Cloud Native Environment](https://luna.oracle.com/lab/8a6bf419-7ef9-4be1-a679-680b03191011)
-
-Learn to install Verrazzano Enterprise Container Platform on Oracle Cloud Native Environment.
-
-Oracle Cloud Native Environment is a fully integrated suite for the development and management of cloud native applications.
-
-Verrazzano Enterprise Container Platform is an end-to-end enterprise container platform for deploying cloud native and traditional applications in multicloud and hybrid environments. It is made up of a curated set of open source components, many that are already in common use, and some that are written specifically to pull together all of the pieces that make Verrazzano a cohesive and easy to use platform.
-
----
-
 #### [Scale a Kubernetes Cluster on Oracle Cloud Native Environment](https://luna.oracle.com/lab/6c9e4d88-27e7-43bd-9366-0693fb8e4d3a)
 
 Learn how to scale a Kubernetes Cluster on Oracle Cloud Native Environment.
