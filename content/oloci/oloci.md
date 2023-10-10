@@ -96,10 +96,6 @@ Learn to administer compute instances using a range of tools and solutions provi
 
 - {{< youtube id="ZzmsCP-dAZE" title="Oracle Compute Cloud@Customer Service Overview YouTube video" >}}
 
-#### Oracle Cloud Infrastructure Secure Desktops: Overview
-
-- {{< youtube id="pwElvYIZzaM" title="Oracle Cloud Infrastructure Secure Desktops Overview YouTube video" >}}
-
 #### OCI Utilities Overview
 
 - {{< youtube id="bnf9T-wljVU" title="OCI Utilities Overview YouTube video" >}}
@@ -119,10 +115,6 @@ Learn to administer compute instances using a range of tools and solutions provi
 #### Accessing a Windows Instance on Oracle Cloud Infrastructure
 
 - {{< youtube id="d1fgBuE1GMY" title="Accessing a Windows Instance on Oracle Cloud Infrastructure YouTube video" >}}
-
-#### Oracle Cloud Infrastructure Secure Desktops Tenancy Setup
-
-- {{< youtube id="7HqkP9wRUXk" title="Oracle Cloud Infrastructure Secure Desktops Tenancy Setup Youtube video" >}}
 
 ---
 

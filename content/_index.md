@@ -37,7 +37,7 @@ These tracks provide you with immediate learning opportunities consisting of hun
 
 ## [Oracle Cloud Native Environment](ocne/ocne)
   
-{{< lead >}}Learn how you can deploy the software and tools to develop microservices-based applications in-line with open standards and specifications.{{< /lead >}}
+{{< lead >}}Learn you can deploy the software and tools to develop microservices-based applications in-line with open standards and specifications.{{< /lead >}}
 
 ---
 
@@ -45,7 +45,7 @@ These tracks provide you with immediate learning opportunities consisting of hun
 
 ## [Oracle Linux Automation Manager](olam/olam)
 
-{{< lead >}} Learn how to use Oracle Linux Automation Engine as an automation tool for deploying software, configuring systems, and orchestrating tasks such as upgrades and updates, in the form of playbooks. {{< /lead >}}
+{{< lead >}} Learn to use Oracle Linux Automation Manager as an automation tool for deploying software, configuring systems, and orchestrating tasks. {{< /lead >}}
 
 ---
 
@@ -61,7 +61,7 @@ These tracks provide you with immediate learning opportunities consisting of hun
 
 ## [Oracle OS Management Hub](osmh/osmh)
 
-{{< lead >}} Learn how to use Oracle OS Management Hub to manage and monitor updates and patches for the operating system environments in private data centers. {{< /lead >}}
+{{< lead >}} Learn to use Oracle OS Management Hub to manage and monitor updates and patches for the operating system environments in private data centers. {{< /lead >}}
 
 ---
 
@@ -69,7 +69,7 @@ These tracks provide you with immediate learning opportunities consisting of hun
 
 ## [Oracle OS Management Service](osms/osms)
   
-{{< lead >}} Learn how to use the Oracle OS Management service to manage updates and patches for your operating system environments on your Oracle Cloud Infrastructure instances. {{< /lead >}}
+{{< lead >}} Learn to use the Oracle OS Management service to manage updates and patches for your operating system environments on your Oracle Cloud Infrastructure instances. {{< /lead >}}
 
 ---
 
@@ -88,6 +88,12 @@ These tracks provide you with immediate learning opportunities consisting of hun
 {{< lead >}} Learn to use Oracle VM VirtualBox virtualization software to run and test multiple operating systems concurrently on a single system, reducing operational costs and shortening the time needed to securely deploy applications on-premises and to the cloud. {{< /lead >}}
 
 ---
+
+{{< figure src="img/osd/osd-banner-v2.png" alt="Oracle Secure Desktops separator graphic" href="osd/osd" >}}
+
+## [Oracle Cloud Infrastructure Secure Desktops](osd/osd)
+
+{{< lead >}} Learn to use the Oracle Cloud Infrastructure Secure Desktops service that allows an administrator to create a set of identically configured remote desktops that individual users can access securely. {{< /lead >}}
 
 <!-- <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">

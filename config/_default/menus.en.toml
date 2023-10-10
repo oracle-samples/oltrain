@@ -80,6 +80,13 @@
   weight = 90
 
 [[main]]
+  name = "Oracle Cloud Infrastructure Secure Desktops"
+  identifier = "t10"
+  parent = "t"
+  pageRef = "osd/osd"
+  weight = 95
+
+[[main]]
   name = "Blogs"
   #pageRef = "tags"
   weight = 20
@@ -177,6 +184,14 @@
   weight = 190
 
 [[main]]
+  name = "Oracle Cloud Infrastructure Secure Desktops"
+  identifier = "doc10"
+  parent = "doc"
+  url = "https://docs.oracle.com/en-us/iaas/secure-desktops/home.htm"
+  weight = 195
+
+
+[[main]]
   name = "Playlists"
   identifier = "pl"
   #pageRef = "tags"
@@ -251,6 +266,13 @@
   parent = "pl"
   url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsbt_qDAXLMF5oFUhEkgbUM"
   weight = 290
+
+[[main]]
+  name = "Oracle Cloud Infrastructure Secure Desktops"
+  identifier = "pl11"
+  parent = "pl"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzv0axRP4vP7zpubJE555Wbb"
+  weight = 295
 
 [[main]]
   identifier = "web"
