@@ -92,8 +92,18 @@ This page highlights the videos and hands on labs that have been recently added 
 ### New Videos
 
 - [Oracle Compute Cloud@Customer Service Overview](https://youtu.be/ZzmsCP-dAZE)
+
+---
+
+{{< figure src="/img/osd/osd-banner-v2.png" alt="OSD banner" >}}
+
+## Oracle Cloud Infrastructure Secure Desktops
+
+### New Videos
+
 - [Oracle Cloud Infrastructure Secure Desktops: Overview](https://youtu.be/pwElvYIZzaM)
 - [Oracle Cloud Infrastructure Secure Desktops Tenancy Setup](https://youtu.be/7HqkP9wRUXk)
+- [Oracle Cloud Infrastructure Secure Desktops - User's Client View](https://youtu.be/ZbaQQ5M81Vs)
 
 ---
 
