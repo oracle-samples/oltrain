@@ -49,6 +49,6 @@ The Secure Desktops service provides:
 
 - {{< youtube id="7HqkP9wRUXk" title="Oracle Cloud Infrastructure Secure Desktops Tenancy Setup YouTube video" >}}
 
-### Oracle Cloud Infrastructure Secure Desktops - User's Client View
+#### Oracle Cloud Infrastructure Secure Desktops - User's Client View
 
 - {{< youtube id="ZbaQQ5M81Vs" title="Oracle Cloud Infrastructure Secure Desktops - User's Client View" >}}
