@@ -104,6 +104,7 @@ This page highlights the videos and hands on labs that have been recently added 
 - [Oracle Cloud Infrastructure Secure Desktops: Overview](https://youtu.be/pwElvYIZzaM)
 - [Oracle Cloud Infrastructure Secure Desktops Tenancy Setup](https://youtu.be/7HqkP9wRUXk)
 - [Oracle Cloud Infrastructure Secure Desktops - User's Client View](https://youtu.be/ZbaQQ5M81Vs)
+- [Oracle Cloud Infrastructure Secure Desktops - Administration Workflow](https://youtu.be/2VPp_0or1RU)
 
 ---
 
