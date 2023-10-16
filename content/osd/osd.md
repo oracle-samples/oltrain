@@ -53,6 +53,6 @@ The Secure Desktops service provides:
 
 - {{< youtube id="ZbaQQ5M81Vs" title="Oracle Cloud Infrastructure Secure Desktops - User's Client View" >}}
 
-### Oracle Cloud Infrastructure Secure Desktops - Administration Workflow
+#### Oracle Cloud Infrastructure Secure Desktops - Administration Workflow
 
 - {{< youtube id="2VPp_0or1RU" title="Oracle Cloud Infrastructure Secure Desktops - Administration Workflow" >}}

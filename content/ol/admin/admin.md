@@ -255,6 +255,14 @@ The Oracle Cloud Infrastructure (OCI) Ampere A1 compute platform provides determ
 
 ---
 
+### [Get Started with Git on Oracle Linux](https://luna.oracle.com/lab/6c55a20f-e751-4326-a157-b16770262346)
+
+Git is a free and open-source Distributed Version Control System (DVCS) which is available for MacOS, MS Windows and Linux/Unix platforms. This lab only covers using Git on Oracle Linux, but the steps covered in this lab work for any platform.
+
+How does Git work? Git does not need a centrally located Git server to be fully functional. Instead, a simple project consists of a local folder on your computer containing files. Git then tracks any changes made to the directories and files contained within the project over time. It achieves this by storing the history and details of branches and commits locally without requiring a network connection.
+
+---
+
 {{< figure src="/img/quiz1.png" alt="ol-admin-quiz" >}}
 
 Test your skills on what you have learned so far with this quiz.
