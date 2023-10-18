@@ -65,6 +65,7 @@ This page highlights the videos and hands on labs that have been recently added 
 - [Use DNF to Maintain Security on Oracle Linux](https://luna.oracle.com/lab/b48151dc-20d9-4c52-b868-840978f4a514)
 - [Run Containers with Podman on Oracle Linux](https://luna.oracle.com/lab/2f0beeef-bc10-4e54-a042-ce31db0e9765)
 - [Get Started with Git on Oracle Linux](https://luna.oracle.com/lab/6c55a20f-e751-4326-a157-b16770262346)
+- [Manage AppSteam Modules on Oracle Linux](https://luna.oracle.com/lab/19feea85-3457-4e8d-bf4d-7f962ee0505f)
 
 ---
 
