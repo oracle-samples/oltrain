@@ -110,3 +110,5 @@ This page highlights the videos and hands on labs that have been recently added 
 ### New Labs
 
 - [Build Custom Execution Environments with Oracle Linux Automation Manager Builder Utility](https://luna.oracle.com/lab/b54dddd3-661b-43af-afae-192e5fbdab07)
+- [Manage Execution Environments in Oracle Linux Automation Manager Private Automation Hub](https://luna.oracle.com/lab/3e9f93ad-a33a-446a-aef5-4d6eb54e70af)
+
