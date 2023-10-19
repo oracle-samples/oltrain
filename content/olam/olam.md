@@ -101,11 +101,21 @@ Learn how to configure HAProxy to Load Balance an Oracle Linux Automation Manage
 
 Oracle Linux Automation Manager supports a cluster deployment of multiple control and execution nodes. With the control nodes acting as the entry point into the cluster, how does an administrator manage the traffic across these nodes? That is where a load balancer becomes beneficial. A load balancer efficiently distributes incoming network traffic across a group of backend servers or the control nodes in this solution. A load balancer ensures the Oracle Linux Automation Manager infrastructure is highly available and reliable and performance does not degrade.
 
+---
+
 #### [Build Custom Execution Environments with Oracle Linux Automation Manager Builder Utility](https://luna.oracle.com/lab/b54dddd3-661b-43af-afae-192e5fbdab07)
 
 Learn to build custom execution environments for Oracle Linux Automation Manager.
 
 The Builder utility is a tool based on the upstream ansible-builder project for generating custom execution environments for Oracle Linux Automation Manager.
+
+---
+
+#### [Manage Execution Environments in Oracle Linux Automation Manager Private Automation Hub](https://luna.oracle.com/lab/3e9f93ad-a33a-446a-aef5-4d6eb54e70af)
+
+Learn to manage execution environments with Private Automation Hub.
+
+The Private Automation Hub is an Oracle Linux Automation Manager feature based on the upstream Galaxy-NG project for managing collections, execution environment images, and other curated content locally within a customer's infrastructure.
 
 ---
 
