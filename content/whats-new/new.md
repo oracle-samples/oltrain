@@ -55,6 +55,7 @@ This page highlights the videos and hands on labs that have been recently added 
 ### New Videos
 
 - [Search Container Registries with Podman on Oracle Linux](https://youtu.be/p2FxmHbPFqM)
+- [Pull Images with Podman on Oracle Linux](https://youtu.be/DFtZYIOPcuU)
 
 ### New Labs
 
