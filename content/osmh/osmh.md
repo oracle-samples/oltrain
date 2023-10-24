@@ -93,3 +93,7 @@ Learn to manage groups, manage software promotions, schedule updates, run report
 #### Promoting Versioned Custom Software Sources Through Lifecycles In Oracle OS Management Hub
 
 - {{< youtube id="Y_tWW3YR4L0" title="Promoting Versioned Custom Software Sources Through Lifecycles In Oracle OS Management Hub" >}}
+
+#### Managing Jobs in Oracle OS Management Hub
+
+- {{< youtube id="v4GodjnO1Vo" title="Managing Jobs in Oracle OS Management Hub" >}}

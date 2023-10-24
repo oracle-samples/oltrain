@@ -34,6 +34,7 @@ This page highlights the videos and hands on labs that have been recently added 
 {{< figure src="/img/osmh/osmh-banner-v2.png" alt="OSMH Banner" >}}
 
 ## OS Management Hub
+
 ### New Videos
 
 - [Oracle OS Management Hub: Overview](https://youtu.be/zBDX5VmurZM)
@@ -45,6 +46,7 @@ This page highlights the videos and hands on labs that have been recently added 
 - [Creating Groups in Oracle OS Management Hub](https://youtu.be/4JiabsfKFJ4)
 - [Creating Lifecycle Environments in Oracle OS Management Hub](https://youtu.be/5hQuu82Lka4)
 - [Promoting Versioned Custom Software Sources Through Lifecycles In Oracle OS Management Hub](https://youtu.be/Y_tWW3YR4L0)
+- [Managing Jobs in Oracle OS Management Hub](https://youtu.be/v4GodjnO1Vo)
 
 ---
 
