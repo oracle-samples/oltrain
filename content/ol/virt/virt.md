@@ -104,14 +104,6 @@ Take the quiz
 
 - {{< youtube L9Arzr88p0M >}}
 
-### Pulling an Image using Podman on Oracle Linux
-
-- {{< youtube QmZE-lFNzk4 >}}
-
-### Run Containers with Podman on Oracle Linux
-
-- {{< youtube id="-eRlcn3l_Sk" title="Run Containers with Podman on Oracle Linux" >}}
-
 ### Search Container Registries with Podman on Oracle Linux
 
 - {{< youtube id="p2FxmHbPFqM" title="Search Container Registries with Podman on Oracle Linux" >}}
@@ -119,6 +111,10 @@ Take the quiz
 ### Pull Images with Podman on Oracle Linux
 
 - {{< youtube id="DFtZYIOPcuU" title="Creating Lifecycle Environments in Oracle OS Management Hub" >}}
+
+### Run Containers with Podman on Oracle Linux
+
+- {{< youtube id="-eRlcn3l_Sk" title="Run Containers with Podman on Oracle Linux" >}}
 
 ### Using Public Registries with Podman on Oracle Linux
 
