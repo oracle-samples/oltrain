@@ -110,7 +110,7 @@ Take the quiz
 
 ### Pull Images with Podman on Oracle Linux
 
-- {{< youtube id="DFtZYIOPcuU" title="Creating Lifecycle Environments in Oracle OS Management Hub" >}}
+- {{< youtube id="DFtZYIOPcuU" title="Pull Images with Podman on Oracle Linux" >}}
 
 ### Run Containers with Podman on Oracle Linux
 
