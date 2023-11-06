@@ -31,9 +31,9 @@ aliases:
 
 ---
 
-{{< figure src="/img/olam/OLAM-banner-v2.png" alt="Oracle Linux Automation Manager Version 2 section banner" >}}
+{{< figure src="/img/olam/OLAM-banner-v2.png" alt="Oracle Linux Automation Manager section banner" >}}
 
-## Oracle Linux Automation Manager Release 2
+## Oracle Linux Automation Manager
 
 ### Labs
 
@@ -152,45 +152,3 @@ Learn how to use Oracle Linux Automation Engine to deploy Podman Containers on O
 Learn to use the OCI Dynamic Inventory with Oracle Linux Automation Engine. Oracle Linux Automation Engine, the open-source software for provisioning and configuration management, uses an inventory file to work against managed nodes or hosts in your infrastructure. This inventory file contains a list of servers, their IP addresses, and other optional connection information.
 
 A static inventory file works well if your infrastructure hardly changes.  However, your infrastructure is likely in constant flux when using the cloud. Therefore it would be great to have a way to have your inventory dynamically updated as hosts come and go.
-
----
-
-{{< figure src="/img/olam/OLAM-ver1-section1.png" alt="Oracle Linux Automation Manager Version 1 section banner" >}}
-
-## Oracle Linux Automation Manager Release 1
-
-These videos will get you started with the installation and overview of Oracle Linux Automation Manager, while also covering how to add users, organizations, credentials, and permissions to prepare for running jobs.
-
-### Videos
-
-#### Installing Oracle Linux Automation Manager on Oracle Linux
-
-- {{< youtube id="-RCqGHhweo0" title="Installing Oracle Linux Automation Manager on Oracle Linux YouTube video" >}}
-
-#### Getting Started with Oracle Linux Automation Manager
-
-- {{< youtube id="EEWdxROy-nM" title="Getting Started with Oracle Linux Automation Manager YouTube video" >}}
-
-#### Users and Credentials on Oracle Linux Automation Manager
-
-- {{< youtube id="AQk9vJZ2R0Y" title="Users and Credentials on Oracle Linux Automation Manager YouTube video" >}}
-
-#### Setting Permissions in Oracle Linux Automation Manager
-
-- {{< youtube id="oDMFXm3HjmA" title="Setting Permissions in Oracle Linux Automation Manager YouTube video" >}}
-
-#### Projects and Inventories in Oracle Linux Automation Manager
-
-- {{< youtube id="rgvPfRXBaAI" title="Projects and Inventories in Oracle Linux Automation Manager YouTube video" >}}
-
-#### Creating Job Templates in Oracle Linux Automation Manager
-
-- {{< youtube id="-r9wGs4efYU" title="Creating Job Templates in Oracle Linux Automation Manager YouTube video" >}}
-
-#### Using Oracle Cloud Infrastructure Ansible Collection in Oracle Linux Automation Manager
-
-- {{< youtube id="gXSmPoY0BVs" title="Using Oracle Cloud Infrastructure Ansible Collection in Oracle Linux Automation Manager YouTube video" >}}
-
-#### Create a Dynamic Inventory in Oracle Linux Automation Manager
-
-- {{< youtube id="Fs3l5P-D_nk" title="Create a Dynamic Inventory in Oracle Linux Automation Manager YouTube video" >}}
