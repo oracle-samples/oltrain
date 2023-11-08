@@ -47,6 +47,7 @@ This page highlights the videos and hands on labs that have been recently added 
 - [Creating Lifecycle Environments in Oracle OS Management Hub](https://youtu.be/5hQuu82Lka4)
 - [Promoting Versioned Custom Software Sources Through Lifecycles In Oracle OS Management Hub](https://youtu.be/Y_tWW3YR4L0)
 - [Managing Jobs in Oracle OS Management Hub](https://youtu.be/v4GodjnO1Vo)
+- [Managing OS Updates with Lifecycle Environments in Oracle OS Management Hub](https://youtu.be/pve5b0opToQ)
 
 ---
 
