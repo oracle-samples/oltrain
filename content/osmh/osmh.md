@@ -76,13 +76,9 @@ Get up and running fast and start working with OS Management Hub service with th
 
 - {{< youtube id="4JiabsfKFJ4" title="Creating Groups in Oracle OS Management Hub Youtube video" >}}
 
-#### Creating Lifecycle Environments in Oracle OS Management Hub
-
-- {{< youtube id="5hQuu82Lka4" title="Creating Lifecycle Environments in Oracle OS Management Hub" >}}
-
 ---
 
-{{< figure src="/img/osmh/osmh-admin-header.png" alt="osmh-deploy" >}}
+{{< figure src="/img/osmh/osmh-admin-header.png" alt="osmh-admin" >}}
 
 ## Administering Instances in OS Management Hub
 
@@ -90,10 +86,26 @@ Learn to manage groups, manage software promotions, schedule updates, run report
 
 ### Administration Videos
 
-#### Promoting Versioned Custom Software Sources Through Lifecycles In Oracle OS Management Hub
-
-- {{< youtube id="Y_tWW3YR4L0" title="Promoting Versioned Custom Software Sources Through Lifecycles In Oracle OS Management Hub" >}}
-
 #### Managing Jobs in Oracle OS Management Hub
 
 - {{< youtube id="v4GodjnO1Vo" title="Managing Jobs in Oracle OS Management Hub" >}}
+
+---
+
+{{< figure src="/img/osmh/osmh-develop-header.png" alt="osmh-develop" >}}
+
+## Developing OS Software Content with Lifecycle Environments
+
+Learn about Oracle OS Management Hub's lifecycle environment resource and how to setup and use a lifecycle environment to deliver curated, versioned OS content in a staged, methodical manner.
+
+## Managing OS Updates with Lifecycle Environments in Oracle OS Management Hub
+
+- {{< youtube id="pve5b0opToQ" title="Managing OS Updates with Lifecycle Environments in Oracle OS Management Hub" >}}
+
+### Creating Lifecycle Environments in Oracle OS Management Hub
+
+- {{< youtube id="5hQuu82Lka4" title="Creating Lifecycle Environments in Oracle OS Management Hub" >}}
+
+### Promoting Versioned Custom Software Sources Through Lifecycles In Oracle OS Management Hub
+
+- {{< youtube id="Y_tWW3YR4L0" title="Promoting Versioned Custom Software Sources Through Lifecycles In Oracle OS Management Hub" >}}
