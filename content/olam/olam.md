@@ -119,6 +119,14 @@ The Private Automation Hub is an Oracle Linux Automation Manager feature based o
 
 ---
 
+#### [Use Custom Execution Environment with Oracle Linux Automation Manager](https://luna.oracle.com/lab/9b8e3edf-72c0-4e01-9b66-b27eb1002a47)
+
+Learn to deploy and configure a custom execution environment in Oracle Linux Automation Manager for running jobs.
+
+Through the use of a custom execution environment (ee), Oracle Linux Automation Manager can leverage playbooks containing collections and other resources not available with the default `olam-ee` image.
+
+---
+
 {{< figure src="/img/olam/OLAM-engine-section.png" alt="Oracle Linux Automation Engine section banner" >}}
 
 ## Oracle Linux Automation Engine
