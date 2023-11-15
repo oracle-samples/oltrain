@@ -139,6 +139,12 @@ This lab will focus on OCI File System service to provide nfs-style cloud storag
 
 ---
 
+#### [Use Persistent Volumes and Persistent Volume Claims with Oracle Cloud Native Environment](https://luna.oracle.com/lab/cdf43182-16c7-4c42-9a91-6052a5934184)
+
+This tutorial shows how to create and use Persistent Volumes and Persistent Volume Claims with Oracle Cloud Native Environment. Both Persistent Volumes and Persistent Volume Claims work together to provide persistence to any container-based applications deployed onto Oracle Cloud Native Environment. You will start by covering how to use Persistent Volumes initially, and then cover the use of Persistent Volume Claims.
+
+---
+
 #### [Upgrade to Oracle Cloud Native Environment 1.6](https://luna.oracle.com/lab/fa8fc61b-893c-4507-93a2-711540e9ace7)
 
 Learn how to upgrade to Oracle Cloud Native Environment 1.6.

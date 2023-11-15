@@ -82,6 +82,7 @@ This page highlights the videos and hands on labs that have been recently added 
 
 - [Run KubeVirt on Oracle Cloud Native Environment](https://luna.oracle.com/lab/87d85c56-d929-45bc-aa8c-3f51cd584b2d)
 - [Use ConfigMaps and Secrets with Oracle Cloud Native Environment](https://luna.oracle.com/lab/14984256-1691-4d7a-8468-6ff38b6253ad)
+- [Use Persistent Volumes and Persistent Volume Claims with Oracle Cloud Native Environment](https://luna.oracle.com/lab/cdf43182-16c7-4c42-9a91-6052a5934184)
 
 ---
 
