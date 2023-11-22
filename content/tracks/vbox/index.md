@@ -1,0 +1,114 @@
+---
+title: "Oracle VM VirtualBox"
+date: 2020-08-12
+draft: false
+description: "Welcome to Oracle VM VirtualBox Track"
+summary: "This track allows you to explore Oracle VM VirtualBox to help you grow your skill set using free videos and hands-on tutorials and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming better at testing, developing, demonstrating, and deploying solutions across multiple platforms from ultra-books to high-end server class hardware and cloud infrastructure, using a lightweight, easy to use, fast and powerful virtualization engine."
+tags: ["VBOX"]
+slug: "vbox"
+showRecent: false
+showDate: false
+showLikes: false
+showViews: false
+showEdit: false
+showReadingTime: false
+showAuthor: false
+showDateUpdated : false
+sharingLinks : false
+cascade:
+  showDate: false
+  showAuthor: false
+  invertPagination: true
+aliases:
+- /VBOX/vbox.html
+- /vbox/vbox/
+---
+
+{{< figure src="/img/vbox/vbox-1200x200-banner.png" alt="Oracle VM VirtualBox Track Graphic" >}}
+
+---
+
+{{< lead >}} VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 3. {{< /lead >}}
+
+---
+
+{{< figure src="/img/vbox/vbox-7-sect.png" alt="Oracle VM VirtualBox 7 separator banner" >}}
+
+## Oracle VM VirtualBox 7
+
+### Videos
+
+#### Integrate VirtualBox 7 with Oracle Cloud Infrastructure
+
+- {{< youtube id="3roYMw-D2ks" title="Integrate VirtualBox 7 with Oracle Cloud Infrastructure YouTube video" >}}
+
+#### Use Oracle VM VirtualBox on Oracle Cloud Infrastructure Instances
+
+- {{< youtube id="QJ_z20kSxX4" title="Use Oracle VM VirtualBox on Oracle Cloud Infrastructure Instances Youtube video" >}}
+
+#### Configure a Cloud Network for local VirtualBox VMs using VirtualBox 7
+
+- {{< youtube id="wi853qbgXh4" text="Configure a Cloud Network for local VirtualBox VMs using VirtualBox 7 Youtube video" >}}
+
+#### Managing OCI Instances directly from VirtualBox 7
+
+- {{< youtube id="uFEN4Di-WDE" text="Managing OCI Instances directly from VirtualBox 7 Youtube video" >}}
+
+#### Import Oracle Cloud Infrastructure Instances into VirtualBox 7
+
+- {{< youtube id="xGoE8X5NqkM" text="Import Oracle Cloud Infrastructure Instances in VirtualBox 7 Youtube video" >}}
+
+#### Export local virtual machines to Oracle Cloud Infrastructure with VirtualBox 7
+
+- {{< youtube id="KZAw45DeIMw" text="Export local virtual machines to Oracle Cloud Infrastructure with VirtualBox 7 YouTube video" >}}
+
+---
+
+### Labs
+
+Follow guided step-by-step procedures to complete specific tasks with VirtualBox in an Oracle-provided free lab environment. Alternatively, you can perform the lab steps on your own environment.
+
+#### [Use Oracle VM VirtualBox on Oracle Cloud Infrastructure Instances](https://luna.oracle.com/lab/922eabed-e47c-4934-a4a5-dbacc02f4f3b)
+
+Learn how to install Oracle VM VirtualBox and extension pack on an Oracle Linux cloud instance. Use VirtualBox to create a new Oracle Linux virtual machine with guest additions.
+
+Oracle VM VirtualBox allows the simple and fast creation of virtual machines (VM) supporting a wide variety of operating systems. VirtualBox can be installed and run on various platforms, from a standalone laptop to a cloud instance. This hands on lab guides you through installing VirtualBox and its extension pack on an Oracle Linux cloud instance. It steps you through creating a new virtual machine using VirtualBox installed on the cloud instance, and installing the Guest Additions to the new VM.  You will practice implementing nested virtualization in VirtualBox to support the creation of virtual machines on the cloud instance. You will install Guest Additions to a VM which will provide closer integration between host and guest and improve the interactive performance of the guest system.
+
+---
+
+{{< figure src="/img/vbox/vbox-6-sect.png" alt="Oracle VM VirtualBox 6 separator banner" >}}
+## Oracle VM VirtualBox 6
+
+### Videos
+
+#### Install VirtualBox 6 on Oracle Linux 8
+
+- {{< youtube id="Dl2CxAoSC5o" title="Install VirtualBox 8 on Oracle Linux 8 YouTube video" >}}
+
+#### Install VirtualBox 6 Extension Pack on Oracle Linux 8
+
+- {{< youtube id="wHOYAGQtOcM" title="Install VirtualBox 6 Extension Pack on Oracle Linux 8 Youtube video" >}}
+
+#### Create a Linux VM using VirtualBox 6 on Oracle Linux 8
+
+- {{< youtube id="E5fGTh2XT10" title="Create a Linux VM using VirtualBox 6 on Oracle Linux 8 Youtube video" >}}
+
+#### Install VirtualBox 6 Guest Additions (Linux VM) on Oracle Linux 8
+
+- {{< youtube id="NmFN7azdZzY" title="Install VirtualBox 6 Guest Additions (Linux VM) on Oracle Linux 8 Youtube video" >}}
+
+#### Export a Linux VM guest using VirtualBox 6 on Oracle Linux 8
+
+- {{< youtube id="jEDfsovNNyg" title="Export a Linux VM guest using VirtualBox 6 on Oracle Linux 8 YouTube video" >}}
+
+---
+
+{{< figure src="/img/quiz1.png" alt="Virtualbox Track quiz graphic" >}}
+
+Test your skills on what you have learned so far with this quiz.
+
+> **Note:** To access the quiz you will need to create a Single Sign On account if you do not already have one.
+
+{{< button href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:31YKIU" target="_blank" >}}
+Take the quiz
+{{< /button >}}

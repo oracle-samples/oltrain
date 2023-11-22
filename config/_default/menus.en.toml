@@ -20,70 +20,70 @@
   name = "Oracle Linux"
   identifier = "t1"
   parent = "t"
-  pageRef = "ol/ol"
+  pageRef = "tracks/ol"
   weight = 10
 
 [[main]]
   name = "Linux on Oracle Cloud Infrastructure"
   identifier = "t2"
   parent = "t"
-  pageRef = "oloci/oloci"
+  pageRef = "tracks/oloci"
   weight = 20
 
 [[main]]
   name = "Oracle Cloud Native Environment"
   identifier = "t3"
   parent = "t"
-  pageRef = "ocne/ocne"
+  pageRef = "tracks/ocne"
   weight = 30
 
 [[main]]
   name = "Oracle Linux Automation Manager"
   identifier = "t4"
   parent = "t"
-  pageRef = "olam/olam"
+  pageRef = "tracks/olam"
   weight = 40
 
 [[main]]
   name = "Oracle Linux Virtualization Manager"
   identifier = "t5"
   parent = "t"
-  pageRef = "olvm/olvm"
+  pageRef = "tracks/olvm"
   weight = 50
 
 [[main]]
   name = "Oracle OS Management Service"
   identifier = "t6"
   parent = "t"
-  pageRef = "osms/osms"
+  pageRef = "tracks/osms"
   weight = 60
 
 [[main]]
   name = "Oracle OS Management Hub"
   identifier = "t7"
   parent = "t"
-  pageRef = "osmh/osmh"
+  pageRef = "tracks/osmh"
   weight = 70
 
 [[main]]
   name = "Oracle Private Cloud Appliance"
   identifier = "t8"
   parent = "t"
-  pageRef = "opca/opca"
+  pageRef = "tracks/opca"
   weight = 80
 
 [[main]]
   name = "Oracle VM VirtualBox"
   identifier = "t9"
   parent = "t"
-  pageRef = "vbox/vbox"
+  pageRef = "tracks/vbox"
   weight = 90
 
 [[main]]
   name = "Oracle Cloud Infrastructure Secure Desktops"
   identifier = "t10"
   parent = "t"
-  pageRef = "osd/osd"
+  pageRef = "tracks/osd"
   weight = 95
 
 [[main]]
