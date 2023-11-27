@@ -5,7 +5,7 @@ weight: 03
 draft: false
 description: "Storage Management"
 summary: "When working with Oracle Linux, the environment you are accessing is not always physically accessible. In those cases, you need to know how to administer your environment remotely. Watch these short videos on how to establish secure connections to remote Oracle Linux 8 systems. With secure connections, all traffic transmitted over the wire is encrypted and protected from password sniffing attacks and other outside monitoring."
-tags: [ "Storage Management", "Disk Partitioning", "FSTab", "NFS", "BTRFS" ]
+tags: ["partitions","fstab","nfs","btrfs","filesystems"]
 slug: "stor-mgmt"
 showRecent: false
 showDate: false

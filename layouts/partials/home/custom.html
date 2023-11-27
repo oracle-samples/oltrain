@@ -1,14 +1,10 @@
-{{ $myTracks := 10 }}
-
 {{ $jsHome := resources.Get "js/home.js" | resources.Minify | resources.Fingerprint "sha512" }}
 <div id="background">
   {{ partial "partials/home/background.html" . }}
 </div>
-<div class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
-  {{ range first $myTracks (.Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections)).Pages }}
-    {{ partial "article-link/card.html" . }}
-  {{ end }}
-</div>
+<section id="tracks">
+  {{ partial "tracks/cardview2.html" . }}
+</section>
 <section>
   {{ partial "recent-articles-demo.html" . }}
 </section>

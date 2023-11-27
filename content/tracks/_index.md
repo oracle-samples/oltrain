@@ -1,6 +1,10 @@
 ---
 title: "Training Tracks"
 description: "List of products"
+cascade:
+  showPagination: false
+_build:
+  list: never
 ---
 
 {{< lead >}}

@@ -4,7 +4,7 @@ date: 2020-08-03
 draft: false
 description: "What's New from the Oracle Linux Training Station"
 summary: "This page highlights the videos and hands on labs that have been added to the learning tracks during the previous 3 months."
-tags: ["New Content" ]
+tags: ["new" ]
 slug: "new"
 showRecent: false
 showDate: false

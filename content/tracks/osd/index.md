@@ -4,7 +4,7 @@ date: 2020-08-11
 draft: false
 description: "Welcome to Oracle Cloud Infrastructure Secure Desktops Track."
 summary: "This track provides a learning path with step-by-step instructions and guidance for using Oracle Secure Desktops."
-tags: ["Oracle Secure Desktops","Oracle Cloud Infrastructure","OCI"]
+tags: ["osd","oci"]
 slug: "osd"
 showRecent: false
 showDate: false

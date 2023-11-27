@@ -4,7 +4,7 @@ date: 2020-08-18
 draft: false
 description: "Welcome to Oracle Cloud Native Environment Track"
 summary: "This track contains videos to facilitate your usage of the technologies, software and tools used by Oracle to develop microservices-based applications that can be deployed in environments that support open standards and specifications.  Information and videos presented here cover Microservices technologies which are components of the Oracle Cloud Native Environment General Availability announcement, as well as additional technologies to help you expand your learning of microservices."
-tags: ["OCNE","Kubernetes"]
+tags: ["ocne","kubernetes"]
 slug: "ocne"
 showRecent: false
 showDate: false

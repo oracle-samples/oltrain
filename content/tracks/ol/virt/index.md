@@ -5,7 +5,7 @@ weight: 02
 draft: false
 description: "Virtualization"
 summary: "This page focuses on Kernel-based Virtual Machine (KVM), Containers, Podman, chroot, and Kubernetes. It covers lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux."
-tags: [ "Virtualization", "KVM", "Network Bridge", "Cockpit" ]
+tags: [ "kvm","cockpit","containers","podman"]
 slug: "virt"
 showRecent: false
 showDate: false

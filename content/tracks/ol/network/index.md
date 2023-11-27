@@ -5,7 +5,7 @@ weight: 07
 draft: false
 description: "Networking"
 summary: "This track focusses on the configuration files, firewalls, and command line utilities to get a Linux system online. Learn how to connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems."
-tags: [ "Networking" ]
+tags: ["networking","ip",firewall,"nmcli"]
 slug: "network"
 showRecent: false
 showDate: false

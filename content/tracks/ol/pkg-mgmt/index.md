@@ -5,7 +5,7 @@ weight: 06
 draft: false
 description: "Package Management"
 summary: "This track focusses on software package management is an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes, and security patches. Oracle Linux 8 introduced DNF, which replaces YUM, and in this video series, we cover how to use DNF, install the Oracle UEK kernel and how to add repositories."
-tags: [ "Package Management", "DNF", "EPEL Repository" ]
+tags: ["dnf","yum","repository"]
 slug: "pkg-mgmt"
 showRecent: false
 showDate: false

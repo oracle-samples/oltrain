@@ -5,7 +5,7 @@ weight: 11
 draft: false
 description: "Learn how to use Oracle Linux and its features."
 summary: "On this track you will learn technologies and components included in Oracle Linux and common tools and features of Linux."
-tags: [ "Learn", "Introduction" ]
+tags: ["learn","introduction","bash"]
 slug: "intro-ol"
 showLikes: false
 showViews: false
@@ -20,6 +20,7 @@ cascade:
   invertPagination: false
 aliases:
 - /OL/intro/intro.html
+- /ol/intro-ol/intro-ol/
 series: ["Oracle Linux"]
 series_order: 4
 ---

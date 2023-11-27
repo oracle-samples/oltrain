@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-mainSections = ["tracks"]
+mainSections = ["posts"]
 # robots = ""
 
 disableImageZoom = true
@@ -39,11 +39,11 @@ smartTOCHideUnfocusedChildren = true
 [homepage]
   layout = "custom" # valid options: page, profile, hero, card, background, custom
   # homepageImage = "/img/iceland.jpg" # used in: hero, and card
-  showRecent = false
-  showRecentItems = 0
-  showMoreLink = false
-  showMoreLinkDest = "docs"
-  cardView = false
+  showRecent = true
+  showRecentItems = 3
+  showMoreLink = true
+  showMoreLinkDest = "posts"
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
 

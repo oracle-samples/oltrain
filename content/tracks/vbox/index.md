@@ -4,7 +4,7 @@ date: 2020-08-12
 draft: false
 description: "Welcome to Oracle VM VirtualBox Track"
 summary: "This track allows you to explore Oracle VM VirtualBox to help you grow your skill set using free videos and hands-on tutorials and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming better at testing, developing, demonstrating, and deploying solutions across multiple platforms from ultra-books to high-end server class hardware and cloud infrastructure, using a lightweight, easy to use, fast and powerful virtualization engine."
-tags: ["VBOX"]
+tags: ["vbox"]
 slug: "vbox"
 showRecent: false
 showDate: false

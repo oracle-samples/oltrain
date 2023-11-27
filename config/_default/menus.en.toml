@@ -297,6 +297,21 @@
   pageRef = "tags"
   weight = 500
 
+# [[subnavigation]]
+#   name = "test topic"
+#   url = "https://www.github.com"
+#   weight = 10
+
+# [[subnavigation]]
+#   name = "test topic2"
+#   url = "https://www.github.com"
+#   weight = 20
+
+# [[subnavigation]]
+#   name = "test topic3"
+#   url = "https://www.github.com"
+#   weight = 25
+
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
