@@ -13,12 +13,13 @@ showReadingTime: false
 showAuthor: false
 showDateUpdated : false
 sharingLinks : false
-showCards: true
 cardView: true
+showTableOfContents: false
 cascade:
   showDate: false
   showAuthor: false
-  invertPagination: true
+  showPagination: true
+  invertPagination: false
 aliases:
 - /OL/ol.html
 - /ol/oracle-linux/
@@ -28,8 +29,12 @@ aliases:
 
 ---
 
-{{< lead >}} 
-This track provides a place to explore Oracle Linux and help you grow your skill set through free videos, tutorials, and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
+{{< lead >}}
+This track provides a place to explore Oracle Linux.
 {{< /lead >}}
+
+Explore these sections to help you grow your skill set through free videos, tutorials, and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
+
+{{< article link="/oltrain/playlists/" >}}
 
 ---

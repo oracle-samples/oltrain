@@ -12,7 +12,7 @@ showTableOfContents : true
 showTaxonomies : false 
 showWordCount : false
 showSummary : false
-sharingLinks : false
-
+cascade:
+  sharingLinks : false
 ---
 
