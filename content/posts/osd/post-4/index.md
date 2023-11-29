@@ -1,8 +1,8 @@
 ---
-title: "Oracle Cloud Infrastructure Secure Desktops - Administration Workflow"
+title: "Administration Workflow"
 date: 2023-10-16
 draft: false
-summary: "This Oracle Cloud Infrastructure Secure Desktops- Admininistration Workflow demo video provides you an overview of how to create and manage desktop pools in OCI console."
+summary: "This video provides you an overview of how to create and manage desktop pools in OCI console."
 tags: ["osd","video"]
 showDate: true
 ---

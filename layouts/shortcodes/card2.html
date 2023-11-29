@@ -1,0 +1,13 @@
+{{ $limit := .Get "limit" | default 1 }}
+{{ $title := .Get "title" | default (i18n "shortcode.recent_articles" | emojify) }}
+{{ $parent := .Page.RelPermalink }}
+{{ $tag := .Get "tag" }}
+<h2 class="mt-20 text-2xl font-extrabold mb-10">{{ $title }}</h2>
+<section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+    {{ $articles := $.Site.GetPage "taxonomyTerm" $tag }}
+    {{ range $articles.Pages }}
+        {{ if not (eq .RelPermalink $parent) }}
+            {{ partial "article-link/card.html" . }}
+        {{ end }}
+    {{ end }}
+</section>

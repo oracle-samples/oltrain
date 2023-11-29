@@ -4,7 +4,7 @@ date: 2020-08-11
 draft: false
 description: "Welcome to Oracle Cloud Infrastructure Secure Desktops Track."
 summary: "This track provides a learning path with step-by-step instructions and guidance for using Oracle Secure Desktops."
-tags: ["osd","oci"]
+tags: ["track","osd","oci"]
 slug: "osd"
 showRecent: false
 showDate: false
@@ -35,26 +35,9 @@ The Secure Desktops service provides:
 
 - A way to create and maintain a large number of identical desktops.
 - Controlled access to a remote desktop for potentially non-technical users.
-- Data security by storing data on Oracle Cloud Infrastructure resources and not on an individual client device.{{< /lead >}}
+- Data security by storing data on Oracle Cloud Infrastructure resources and not on an individual client device.
+{{< /lead >}}
 
 ---
 
-### Videos
-
-{{< lead >}} These videos guide you through some common tasks you perform when working with Oracle Secure Desktops. {{< /lead >}}
-
-#### Oracle Cloud Infrastructure Secure Desktops: Overview
-
-- {{< youtube id="pwElvYIZzaM" title="Oracle Cloud Infrastructure Secure Desktops Overview YouTube video" >}}
-
-#### Oracle Cloud Infrastructure Secure Desktops Tenancy Setup
-
-- {{< youtube id="7HqkP9wRUXk" title="Oracle Cloud Infrastructure Secure Desktops Tenancy Setup YouTube video" >}}
-
-#### Oracle Cloud Infrastructure Secure Desktops - User's Client View
-
-- {{< youtube id="ZbaQQ5M81Vs" title="Oracle Cloud Infrastructure Secure Desktops - User's Client View" >}}
-
-#### Oracle Cloud Infrastructure Secure Desktops - Administration Workflow
-
-- {{< youtube id="2VPp_0or1RU" title="Oracle Cloud Infrastructure Secure Desktops - Administration Workflow" >}}
+{{< list2 title="Articles" limit=30 tag="/tags/osd" >}}
