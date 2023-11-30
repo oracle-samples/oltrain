@@ -1,8 +1,11 @@
 {{ $limit := .Get "limit" | default 1 }}
+{{ $istitle := .Get "title" }}
 {{ $title := .Get "title" | default (i18n "shortcode.recent_articles" | emojify) }}
 {{ $parent := .Page.RelPermalink }}
 {{ $tag := .Get "tag" }}
+{{ if $istitle }}
 <h2 class="mt-20 text-2xl font-extrabold mb-10">{{ $title }}</h2>
+{{ end }}
 <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
     {{ $articles := $.Site.GetPage "taxonomyTerm" $tag }}
     {{ range $articles.Pages }}

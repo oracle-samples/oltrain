@@ -42,8 +42,17 @@ OS Management Hub provides:
 
 ---
 
-{{< card2 title="Deployment" limit=30 tag="/tags/osmh-deploy" >}}
+{{< figure src="/img/osmh/osmh-deploy-header.png" alt="osmh-deploy" >}}
 
-{{< card2 title="Administration" limit=30 tag="/tags/osmh-admin" >}}
+## Deploying OS Management Hub
+{{< card2 limit=30 tag="/tags/osmh-deploy" >}}
 
-{{< card2 title="Development" limit=30 tag="/tags/osmh-dev" >}}
+{{< figure src="/img/osmh/osmh-admin-header.png" alt="osmh-admin" >}}
+
+## Administering Instances in OS Management Hub
+{{< card2 limit=30 tag="/tags/osmh-admin" >}}
+
+{{< figure src="/img/osmh/osmh-develop-header.png" alt="osmh-develop" >}}
+
+## Developing OS Software Content with Lifecycle Environments
+{{< card2 limit=30 tag="/tags/osmh-dev" >}}
