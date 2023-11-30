@@ -1,12 +1,14 @@
 ---
-title: "My first OSMH post"
-date: 2023-11-27
+title: "Overview"
+date: 2023-06-26
 draft: false
-summary: "This is my first post on my site"
-tags: ["osmh"]
+summary: "Learn about the Oracle OS Management Hub service and its advantages."
+tags: ["osmh", "video","osmh-deploy"]
 showDate: true
 ---
 
-## A sub-title
+{{< youtube id="zBDX5VmurZM" title="Oracle OS Management Hub: Overview" >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nibh nisl, vulputate eu lacus vitae, maximus molestie libero. Vestibulum laoreet, odio et sollicitudin sollicitudin, quam ligula tempus urna, sed sagittis eros eros ac felis. In tristique tortor vitae lacinia commodo. Mauris venenatis ultrices purus nec fermentum. Nunc sit amet aliquet metus. Morbi nisl felis, gravida ac consequat vitae, blandit eu libero. Curabitur porta est in dui elementum porttitor. Maecenas fermentum, tortor ac feugiat fringilla, orci sem sagittis massa, a congue risus ipsum vel massa. Aliquam sit amet nunc vulputate, facilisis neque in, faucibus nisl.
+## Details
+
+This video introduces you to the Oracle OS Management Hub service and briefly explains the advantages of using Oracle OS Management Hub to manage and monitor updates and patches for the operating system environments in your private data centers through a single management console.

@@ -35,6 +35,12 @@ This track provides a place to explore Oracle Linux.
 
 Explore these sections to help you grow your skill set through free videos, tutorials, and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
 
-{{< article link="/oltrain/playlists/" >}}
+{{< figure
+    src="img/ytplaylist.png"
+    alt="Link to Oracle Linux Youtube Playlists"
+    href="/oltrain/playlists/"
+>}}
+
+<!-- {{< article link="/oltrain/playlists/" >}} -->
 
 ---

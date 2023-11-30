@@ -2,7 +2,7 @@
 title: Oracle Linux YouTube Playlists
 sharingLinks : false
 hideFeatureImage: false
-showHero: false
+showHero: true
 ---
 
 <table>
