@@ -44,49 +44,7 @@ The Oracle Private Cloud Appliance runs its own specific and separate administra
 
 This section provides video training for Day 0 configuration and for administrator tasks performed from the Service Enclave. To access the Service Enclave, you use either the Service Web UI or Service CLI.
 
-### Videos
-
-#### Day 0 configuration on Oracle Private Cloud Appliance
-
-- {{< youtube id="pkeW3uqt11w" title="Day 0 configuration on Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Using the Service CLI on Private Cloud Appliance
-
-- {{< youtube id="zgX87aB32qw" title="Using the Service CLI on Private Cloud Appliance Youtube video" >}}
-
-#### Configure Authorization Groups on Oracle Private Cloud Appliance
-
-- {{< youtube id="QCsCyFWPea0" title="Configure Authorization Groups on Oracle Private Cloud Appliance Youtube video" >}}
-
-#### Provision Compute Nodes on Oracle Private Cloud Appliance
-
-- {{< youtube id="aQlRAYuLMwo" title="Provision Compute Nodes on Oracle Private Cloud Appliance Youtube video" >}}
-
-#### Tenancy Creation on Oracle Private Cloud Appliance
-
-- {{< youtube id="LBN5NHbpEnk" title="Tenancy Creation on Oracle Private Cloud Appliance Youtube video" >}}
-
-#### Grafana Basic Monitoring on Oracle Private Cloud Appliance
-
-- {{< youtube id="humJ2jiovBs" title="Grafana Basic Monitoring on Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Querying Loki Logs on Oracle Private Cloud Appliance
-
-- {{< youtube id="HiGz8ruDtas" title="Querying Loki Logs on Oracle Private Cloud Appliance Youtube video" >}}
-
-#### Alert Rules and Notification Channels on Oracle Private Cloud Appliance
-
-- {{< youtube id="Qmj_V8TAQXs" title="Alert Rules and Notification Channels on Oracle Private Cloud Appliance Youtube video" >}}
-
-#### Migrating Virtual Machines on Oracle Private Cloud Appliance
-
-- {{< youtube id="_YjZMVApxaE" title="Migrating Virtual Machines on Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Patch Individual Components on Oracle Private Cloud Appliance
-
-- {{< youtube id="v_5ASLflVxU" title="Patch Individual Components on Oracle Private Cloud Appliance YouTube video" >}}
-
-{{< figure src="/img/opca/pca-page-compencl2.png" alt="Compute Enclave Tasks section banner" >}}
+{{< card2 limit=30 tag="/tags/opca-service" >}}
 
 ## Compute Enclave Tasks
 
@@ -96,125 +54,35 @@ This section provides video training for administrator and user tasks performed 
 
 {{< figure src="/img/opca/pca-page-ocicli.png" alt="Using the OCI CLI sub-section banner" >}}
 
-### Using the OCI CLI Videos
-
-#### Install the Oracle Cloud Infrastructure CLI on Oracle Private Cloud Appliance
-
-- {{< youtube id="SNtGCBl_yZE" title="Install the Oracle Cloud Infrastructure CLI on Oracle Private Cloud Appliance Youtube video" >}}
-
-#### Configuring the Oracle Cloud Infrastructure CLI on Oracle Private Cloud Appliance
-
-- {{< youtube id="x2iWGXIa-rQ" title="Configuring the Oracle Cloud Infrastructure CLI on Oracle Private Cloud Appliance YouTube video" >}}
+### Using the OCI CLI
+{{< card2 limit=30 tag="/tags/opca-cli" >}}
 
 {{< figure src="/img/opca/pca-page-iam4x.png" alt="Identify and Access Management sub-section banner" >}}
 
-### Identify and Access Management Videos
-
-#### User and group Administration on Oracle Private Cloud Appliance
-
-- {{< youtube id="D0CxmJ6pn4U" title="User and group Administration on Oracle Private Cloud Appliance Youtube video" >}}
-
-#### Compartment and Policy Administration on Oracle Private Cloud Appliance
-
-- {{< youtube id="KV4sQOWXab8" title="Compartment and Policy Administration on Oracle Private Cloud Appliance" >}}
-
-#### Federating with an Identity Provider in Oracle Private Cloud Appliance
-
-- {{< youtube id="tsBn5UQSJ24" title="Federating with an Identity Provider in Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Add Oracle Private Cloud Appliance as a Trusted Relying Party
-
-- {{< youtube id="wWm4TrPoEtI" title="Add Oracle Private Cloud Appliance as a Trusted Relying Party Youtube video" >}}
-
-#### Add Identity Provider Self-Signed Certificates to Oracle Private Cloud Appliance
-
-- {{< youtube id="uZcQk0pUe3s" title="Add Identity Provider Self-Signed Certificates to Oracle Private Cloud Appliance YouTube video" >}}
+### Identify and Access Management
+{{< card2 limit=30 tag="/tags/opca-iam" >}}
 
 {{< figure src="/img/opca/pca-page-network4.png" alt="Networking sub-section banner" >}}
 
-### Networking Videos
-
-#### Create Virtual Cloud Network on Oracle Private Cloud Appliance
-
-- {{< youtube id="OCasg_HQ3LI" title="Create Virtual Cloud Network on Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Internet Gateway on Oracle Private Cloud Appliance
-
-- {{< youtube id="H8GwY7i720A" title="Internet Gateway on Oracle Private Cloud Appliance youTube video" >}}
-
-#### Local Peering Gateway on Oracle Private Cloud Appliance
-
-- {{< youtube id="pxdkxjajhO0" title="Local Peering Gateway on Oracle Private Cloud Appliance YouTube video" >}}
+### Networking
+{{< card2 limit=30 tag="/tags/opca-net" >}}
 
 {{< figure src="/img/opca/pca-page-compinst4.png" alt="Compute Instance Deployment sub-section banner" >}}
 
-### Compute Instance Deployment Videos
-
-#### Importing Compute Images Provided with Oracle Private Cloud Appliance
-
-- {{< youtube id="fToYmmf6NFk" title="Importing Compute Images Provided with Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Manage a Compute Instance on Oracle Private Cloud Appliance
-
-- {{< youtube id="lxD2w1Chyxg" title="Manage a Compute Instance on Oracle Private Cloud Appliance youTube video" >}}
-
-#### Manage an Instance Configuration on Oracle Private Cloud Appliance
-
-- {{< youtube id="B4aW0hzDfc4" title="Manage an Instance Configuration on Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Manage Instance Pools on Oracle Private Cloud Appliance
-
-- {{< youtube id="VfSKX7WxNX8" title="Manage Instance Pools on Oracle Private Cloud Appliance YouTube video" >}}
+### Compute Instance Deployment
+{{< card2 limit=30 tag="/tags/opca-deploy" >}}
 
 {{< figure src="/img/opca/pca-page-storage4.png" alt="Storage sub-section banner" >}}
 
-### Storage Videos
+### Storage
+{{< card2 limit=30 tag="/tags/opca-storage" >}}
 
-#### Managing Block Volumes on Oracle Private Cloud Appliance
-
-- {{< youtube id="s5N6mGxUNew" title="Managing Block Volumes on Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Manage Boot Volumes on Oracle Private Cloud Appliance
-
-- {{< youtube id="Vo4119i8HsU" title="Manage Boot Volumes on Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Resizing Block Volumes on Oracle Private Cloud Appliance
-
-- {{< youtube id="bO2kM9tSPU0" title="Resizing Block Volumes on Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Managing Volume Groups on Oracle Private Cloud Appliance
-
-- {{< youtube id="YlwfUWbXsT8" title="Managing Volume Groups on Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Managing Backup Policies on Oracle Private Cloud Appliance
-
-- {{< youtube id="6R_61dHmCMY" title="Managing Backup Policies on Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Managing Mount Targets on Oracle Private Cloud Appliance
-
-- {{< youtube id="bTmckStW_wY" title="Managing Mount Targets on Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Creating a File System on Oracle Private Cloud Appliance
-
-- {{< youtube id="lB03H7YJP0Q" title="Creating a File System on Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Managing Object Storage Buckets on Oracle Private Cloud Appliance
-
-- {{< youtube id="t6e_T0qJrNg" title="Managing Object Storage Buckets on Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Mounting File Systems on Oracle Private Cloud Appliance
-
-- {{< youtube id="RZoIqkCPSBQ" title="Mounting File Systems on Oracle Private Cloud Appliance YouTube video" >}}
-
-#### Managing Object Versioning on Oracle Private Cloud Appliance
-
-- {{< youtube id="wS6jhUwK6Fk" title="Managing Object Versioning on Oracle Private Cloud Appliance YouTube video" >}}
-
----
 ## Oracle Private Cloud Appliance Foundations Training
 
 For even more training on Oracle Private Cloud Appliance, use this link to access further foundation level training.
 
-**Note:** To access the learning path content you will need to create a Single Sign On account if you do not already have one.
+> **Note:** To access the learning path content you will need to create a Single Sign On account if you do not already have one.
 
-### [Oracle Private Cloud Appliance Foundations course](https://www.oracle.com/goto/pcafoundations)
+{{< button href="https://www.oracle.com/goto/pcafoundations" target="_blank" >}}
+Take the course
+{{< /button >}}
