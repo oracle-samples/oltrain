@@ -35,73 +35,12 @@ aliases:
 {{< figure src="/img/vbox/vbox-7-sect.png" alt="Oracle VM VirtualBox 7 separator banner" >}}
 
 ## Oracle VM VirtualBox 7
-
-### Videos
-
-#### Integrate VirtualBox 7 with Oracle Cloud Infrastructure
-
-- {{< youtube id="3roYMw-D2ks" title="Integrate VirtualBox 7 with Oracle Cloud Infrastructure YouTube video" >}}
-
-#### Use Oracle VM VirtualBox on Oracle Cloud Infrastructure Instances
-
-- {{< youtube id="QJ_z20kSxX4" title="Use Oracle VM VirtualBox on Oracle Cloud Infrastructure Instances Youtube video" >}}
-
-#### Configure a Cloud Network for local VirtualBox VMs using VirtualBox 7
-
-- {{< youtube id="wi853qbgXh4" text="Configure a Cloud Network for local VirtualBox VMs using VirtualBox 7 Youtube video" >}}
-
-#### Managing OCI Instances directly from VirtualBox 7
-
-- {{< youtube id="uFEN4Di-WDE" text="Managing OCI Instances directly from VirtualBox 7 Youtube video" >}}
-
-#### Import Oracle Cloud Infrastructure Instances into VirtualBox 7
-
-- {{< youtube id="xGoE8X5NqkM" text="Import Oracle Cloud Infrastructure Instances in VirtualBox 7 Youtube video" >}}
-
-#### Export local virtual machines to Oracle Cloud Infrastructure with VirtualBox 7
-
-- {{< youtube id="KZAw45DeIMw" text="Export local virtual machines to Oracle Cloud Infrastructure with VirtualBox 7 YouTube video" >}}
-
----
-
-### Labs
-
-Follow guided step-by-step procedures to complete specific tasks with VirtualBox in an Oracle-provided free lab environment. Alternatively, you can perform the lab steps on your own environment.
-
-#### [Use Oracle VM VirtualBox on Oracle Cloud Infrastructure Instances](https://luna.oracle.com/lab/922eabed-e47c-4934-a4a5-dbacc02f4f3b)
-
-Learn how to install Oracle VM VirtualBox and extension pack on an Oracle Linux cloud instance. Use VirtualBox to create a new Oracle Linux virtual machine with guest additions.
-
-Oracle VM VirtualBox allows the simple and fast creation of virtual machines (VM) supporting a wide variety of operating systems. VirtualBox can be installed and run on various platforms, from a standalone laptop to a cloud instance. This hands on lab guides you through installing VirtualBox and its extension pack on an Oracle Linux cloud instance. It steps you through creating a new virtual machine using VirtualBox installed on the cloud instance, and installing the Guest Additions to the new VM.  You will practice implementing nested virtualization in VirtualBox to support the creation of virtual machines on the cloud instance. You will install Guest Additions to a VM which will provide closer integration between host and guest and improve the interactive performance of the guest system.
-
----
+{{< card2 limit=30 tag="/tags/vbox7" >}}
 
 {{< figure src="/img/vbox/vbox-6-sect.png" alt="Oracle VM VirtualBox 6 separator banner" >}}
+
 ## Oracle VM VirtualBox 6
-
-### Videos
-
-#### Install VirtualBox 6 on Oracle Linux 8
-
-- {{< youtube id="Dl2CxAoSC5o" title="Install VirtualBox 8 on Oracle Linux 8 YouTube video" >}}
-
-#### Install VirtualBox 6 Extension Pack on Oracle Linux 8
-
-- {{< youtube id="wHOYAGQtOcM" title="Install VirtualBox 6 Extension Pack on Oracle Linux 8 Youtube video" >}}
-
-#### Create a Linux VM using VirtualBox 6 on Oracle Linux 8
-
-- {{< youtube id="E5fGTh2XT10" title="Create a Linux VM using VirtualBox 6 on Oracle Linux 8 Youtube video" >}}
-
-#### Install VirtualBox 6 Guest Additions (Linux VM) on Oracle Linux 8
-
-- {{< youtube id="NmFN7azdZzY" title="Install VirtualBox 6 Guest Additions (Linux VM) on Oracle Linux 8 Youtube video" >}}
-
-#### Export a Linux VM guest using VirtualBox 6 on Oracle Linux 8
-
-- {{< youtube id="jEDfsovNNyg" title="Export a Linux VM guest using VirtualBox 6 on Oracle Linux 8 YouTube video" >}}
-
----
+{{< card2 limit=30 tag="/tags/vbox6" >}}
 
 {{< figure src="/img/quiz1.png" alt="Virtualbox Track quiz graphic" >}}
 
