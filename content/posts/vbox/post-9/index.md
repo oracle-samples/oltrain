@@ -1,5 +1,5 @@
 ---
-title: "Intall the Extension Pack"
+title: "Install the Extension Pack"
 date: 2020-07-03
 draft: false
 summary: "Learn to install the VirtualBox Extension Pack."

@@ -1,5 +1,5 @@
 ---
-title: "Intall"
+title: "Install"
 date: 2020-07-02
 draft: false
 summary: "Learn to install VirtualBox on Oracle Linux."
