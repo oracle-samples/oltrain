@@ -41,6 +41,4 @@ Explore these sections to help you grow your skill set through free videos, tuto
     href="/oltrain/playlists/"
 >}}
 
-<!-- {{< article link="/oltrain/playlists/" >}} -->
-
 ---

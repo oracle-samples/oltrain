@@ -29,7 +29,9 @@ aliases:
 
 ---
 
-{{< lead >}} Use Oracle Linux for the most cost-effective and integrated operating environment for Oracle Cloud Infrastructure. {{< /lead >}}
+{{< lead >}}
+Use Oracle Linux for the most cost-effective and integrated operating environment for Oracle Cloud Infrastructure.
+{{< /lead >}}
 
 ---
 
@@ -39,51 +41,7 @@ aliases:
 
 Learn to provision and launch compute instances with the cloud web console to support your cloud solution in Oracle Cloud infrastructure.
 
-### Videos
-
-#### Create a Linux Instance on Oracle Cloud Infrastructure
-
-- {{< youtube id="tlwlLd4GvCc" title="Create a Linux Instance on Oracle Cloud Infrastructure YouTube video" >}}
-
-#### Create an Oracle Autonomous Linux Instance in Oracle Cloud Infrastructure
-
-- {{< youtube id="eKQ6h7Onr-8" title="Create an Oracle Autonomous Linux Instance in Oracle Cloud Infrastructure YouTube video" >}}
-
-#### Create a Windows Instance on Oracle Cloud Infrastructure
-
-- {{< youtube id="8SgkZTUKwFg" title="Create a Windows Instance on Oracle Cloud Infrastructure Youtube video" >}}
-
-#### Use cloud-init to Launch a Linux Instance on Oracle Cloud Infrastructure
-
-- {{< youtube id="P1sH3zevfHk" title="Use cloud-init to Launch a Linux Instance on Oracle Cloud Infrastructure YouTube video" >}}
-
-#### Terminate a Compute Instance on Oracle Cloud Infrastructure
-
-- {{< youtube id="pRD_yUPuYjs" title="Terminate a Compute Instance on Oracle Cloud Infrastructure YouTube video" >}}
-
-#### Detaching and Attaching Boot Volumes on Oracle Cloud Infrastructure
-
-- {{< youtube id="NAWAsx3cKxE" title="Detaching and Attaching Boot Volumes on Oracle Cloud Infrastructure YouTube video" >}}
-
-#### Using Boot Volumes to Scale Oracle Cloud Infrastructure Instances
-
-- {{< youtube id="4mbAxZBy_es" title="Using Boot Volumes to Scale Oracle Cloud Infrastructure Instances YouTube video" >}}
-
-#### Introduction to Terraform - Deploying Oracle Linux on Oracle Cloud Infrastructure
-
-- {{< youtube id="SeBhCRr21pg" title="Introduction to Terraform, Deploying Oracle Linux on Oracle Cloud Infrastructure YouTube video" >}}
-
-#### Configuring Oracle Linux with Terraform - Deploying Oracle Linux on Oracle Cloud Infrastructure
-
-- {{< youtube id="Bb25PRJ3Ats" title="Configuring Oracle Linux with Terraform - Deploying Oracle Linux on Oracle Cloud Infrastructure YouTube video" >}}
-
-### Tutorials
-
-#### [Introduction to Terraform with Oracle Linux](https://docs.oracle.com/en/learn/intro_terraform_linux/index.html)
-
-This lab exercise introduces you to Terraform in Oracle Cloud Infrastructure, and shows you how to do a simple deployment of an Oracle Linux instance. By following instructions, copying commands and code you can work through this simple exercise as an introduction to Terraform in Oracle Cloud Infrastructure.
-
----
+{{< card2 limit=30 tag="/tags/oloci-deploy" >}}
 
 {{< figure src="/img/oloci/OLOCI-admin-header2.png" alt="Administering Instances in Oracle Cloud Infrastructure section banner" >}}
 
