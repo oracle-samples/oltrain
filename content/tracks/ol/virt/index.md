@@ -28,55 +28,9 @@ series_order: 11
 
 {{< figure src="/img/ol/virt/OL-virt-kvm.png" alt="virt-kvm" >}}
 
-## KVM Videos
+## KVM
 
-### Enabling KVM on Oracle Linux
-
-- {{< youtube ALtnopSysY4 >}}
-
-### Setup Cockpit Web Console to Manage KVM on Oracle Linux
-
-- {{< youtube -Z3AwP2HPa4 >}}
-
-### Using Cockpit to Create KVM VMs on Oracle Linux
-
-- {{< youtube daHQeCY13s8 >}}
-
-### SSH into a NAT based KVM VM on Oracle Linux
-
-- {{< youtube 2MEqDxOeuDw >}}
-
-### Create a Network Bridge for KVM on Oracle Linux
-
-- {{< youtube OAfIb7gtang >}}
-
-### Using a Network Bridge with KVM VMs on Oracle Linux
-
-- {{< youtube CXBTBxFoSKI >}}
-
-### Switch a KVM VM from NAT to Bridged on Oracle Linux
-
-- {{< youtube hMstMTqzP_Q >}}
-
-### Convert and Deploy a VirtualBox VM to KVM on Oracle Linux
-
-- {{< youtube 7gZLiTa3150 >}}
-
-### Add a disk to an existing KVM VM on Oracle Linux
-
-- {{< youtube B3h_DWOMwrk >}}
-
-## KVM Labs
-
-### [Create VMs with KVM on Oracle Linux](https://luna.oracle.com/lab/1671b073-895c-4800-bd60-cfe1f445074c)
-
-Learn how to deploy KVM on Oracle Linux to create and manage virtual machines.
-
-Kernel-based Virtual Machine (KVM) is an open-source type-1 (bare-metal) hypervisor. This functionality permits a host system, such as Oracle Linux 8, to host multiple virtual machines (VMs) or guests when running on supported hardware.
-
-This lab will deploy Oracle Linux Kernel Virtualization Manager (KVM) to create a virtual machine.
-
-[![](../../common/images/createvmkvm_lab.png)](https://luna.oracle.com/lab/1671b073-895c-4800-bd60-cfe1f445074c)
+{{< card2 limit=30 tag="/tags/ol-kvm" >}}
 
 {{< figure src="/img/quiz1.png" alt="ol-virt-kvm-quiz" >}}
 
@@ -88,11 +42,12 @@ Test your skills on what you have learned so far with this quiz.
 Take the quiz
 {{< /button >}}
 
----
-
 {{< figure src="img/ol/virt/OL-virt-containers.png" alt="Containers" >}}
 
-## Container Videos
+## Podman
+
+{{< card2 limit=30 tag="/tags/ol-podman" >}}
+
 
 ### Containers - A High-Level Overview
 
@@ -219,6 +174,16 @@ Project Quay is an open-source repository used to store and manage artifacts suc
 - Build Automation - Git/GitHub/GitLab integration
 
 It can be deployed on either a Kubernetes cluster using an Operator, or as a standalone container or high availability cluster on Podman
+
+---
+
+### [Deploy Keycloak using Podman on Oracle Linux](https://luna.oracle.com/lab/752793ff-9f74-4bb0-b848-90c5bcae4388)
+
+Learn to deploy Keycloak for providing authentication to applications and secure services using OAuth and SAML.
+
+Keycloak provides single sign-on functionality for web applications and RESTFUL web services. A primary goal of Keycloak is to provide security features that developers can easily use to secure applications and services within their organizations, for example Single-Sign-On authentication. Keycloak can also be integrated with existing LDAP and Active Directory servers.
+
+Keycloak is based on standard protocols and provides support for User Federation, OpenID Connect, OAuth 2.0 and SAML and many more. Keycloak provides both administrators, and users, with management consoles. Users can update their passwords, profile details and setup two-factor authentication via the Account Management Console. Likewise administrators can use the Admin Console to manage all aspects of Keycloak's functionality, it's authorization policies, applications and manage users (including user's permissions and sessions).
 
 ---
 

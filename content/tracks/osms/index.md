@@ -34,4 +34,4 @@ The Oracle Cloud Infrastructure OS Management service allows you to manage and m
 
 ---
 
-{{< card2 title="Articles" limit=30 tag="/tags/osms" >}}
+{{< card2 title="Related" limit=30 tag="/tags/osms" >}}
