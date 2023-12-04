@@ -37,4 +37,4 @@ Oracle Linux Automation Manager is a task engine and Web interface for schedulin
 
 ---
 
-{{< card2 title="Articles" limit=30 tag="/tags/olam" >}}
+{{< card2 title="Related" limit=30 tag="/tags/olam" >}}

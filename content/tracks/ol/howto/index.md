@@ -25,30 +25,8 @@ aliases:
 - /ol/howto/
 ---
 
-## Videos
+{{< lead >}}
+These videos are intended as quick references or short procedural sequences.
+{{< /lead >}}
 
-{{< lead >}} These videos are intended as quick references or short procedural sequences. {{< /lead >}}
-
-### File a Service Request with Oracle Linux
-
-- {{< youtube an__8pNrptY >}}
-
-### Diagnostic Data Collection when Engaging with Oracle Linux Support
-
-- {{< youtube iy8IXLlSxUw >}}
-
-### Configure Kdump on Oracle Linux
-
-- {{< youtube 7p8SRETTYxs >}}
-
-### Register with Oracle Unbreakable Linux Network
-
-- {{< youtube -fRXz3GKbng >}}
-
-### Setup and Use Oracle Ksplice - Rebootless Updates
-
-- {{< youtube gW2y3GI6SuU >}}
-
-### Configure and Use Oracle Linux Yum Server
-
-- {{< youtube a4zg-S-bWZw >}}
+{{< card2 title="Related" limit=30 tag="/tags/ol-howto" >}}
