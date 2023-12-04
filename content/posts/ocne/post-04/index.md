@@ -1,5 +1,5 @@
 ---
-title: "Install Minikube on Oracle Linux"
+title: "Install Minikube"
 date: 2022-04-19
 draft: false
 summary: "Minikube is a popular tool for developers and administrators to run a fully functional Kubernetes cluster in their local environment. Although minikube is cross-platform, this tutorial only guides you through the installation and configuration of minikube with the podman driver."
@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Install Minikube on Oracle Linux](https://luna.oracle.com/lab/8b2f7860-3204-4cd3-8d55-3f6de9ca03c2)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/8b2f7860-3204-4cd3-8d55-3f6de9ca03c2)
 
-:spiral_notepad: [Install Minikube on Oracle Linux](https://docs.oracle.com/en/learn/ol-minikube)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-minikube)
 
 ## Details
 

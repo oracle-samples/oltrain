@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Deploy Oracle Cloud Native Environment](https://luna.oracle.com/lab/d18fe294-efb5-4498-9e7b-d5cc724d8619)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/d18fe294-efb5-4498-9e7b-d5cc724d8619)
 
-:spiral_notepad: [Deploy Oracle Cloud Native Environment](https://docs.oracle.com/en/learn/ocne-install)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-install)
 
 ## Details
 

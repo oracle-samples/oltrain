@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Use Persistent Volumes and Persistent Volume Claims](https://luna.oracle.com/lab/cdf43182-16c7-4c42-9a91-6052a5934184)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/cdf43182-16c7-4c42-9a91-6052a5934184)
 
-:spiral_notepad: [Use Persistent Volumes and Persistent Volume Claims](https://docs.oracle.com/en/learn/ocne-pv/#introduction)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-pv/#introduction)
 
 ## Details
 

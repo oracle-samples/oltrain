@@ -1,5 +1,5 @@
 ---
-title: "Use Gluster with Oracle Cloud Native Environment"
+title: "Use Gluster"
 date: 2022-05-18
 draft: false
 summary: "Using the Gluster Container Storage Interface module, Oracle Cloud Native Environment administrators can set up statically or dynamically provisioned persistent storage for Kubernetes applications using Gluster Storage."
@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Use Gluster with Oracle Cloud Native Environment](https://luna.oracle.com/lab/5455954d-142c-4801-9f34-5946ad19573d)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/5455954d-142c-4801-9f34-5946ad19573d)
 
-:spiral_notepad: [Use Gluster with Oracle Cloud Native Environment](https://docs.oracle.com/en/learn/ocne-gluster)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-gluster)
 
 ## Details
 

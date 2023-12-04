@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Use ConfigMaps and Secrets with Oracle Cloud Native Environment](https://luna.oracle.com/lab/14984256-1691-4d7a-8468-6ff38b6253ad)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/14984256-1691-4d7a-8468-6ff38b6253ad)
 
-:spiral_notepad: [Use ConfigMaps and Secrets with Oracle Cloud Native Environment](https://docs.oracle.com/en/learn/ocne-configmap)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-configmap)
 
 ## Details
 

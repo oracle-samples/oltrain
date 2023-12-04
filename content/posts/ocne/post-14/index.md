@@ -1,5 +1,5 @@
 ---
-title: "Scale a Kubernetes Cluster on Oracle Cloud Native Environment"
+title: "Scale a Kubernetes Cluster"
 date: 2022-09-06
 draft: false
 summary: "This tutorial demonstrates how to scale an existing Kubernetes cluster in Oracle Cloud Native Environment.
@@ -10,9 +10,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Scale a Kubernetes Cluster on Oracle Cloud Native Environment](https://luna.oracle.com/lab/6c9e4d88-27e7-43bd-9366-0693fb8e4d3a)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/6c9e4d88-27e7-43bd-9366-0693fb8e4d3a)
 
-:spiral_notepad: [Scale a Kubernetes Cluster on Oracle Cloud Native Environment](https://docs.oracle.com/en/learn/ocne-scale/)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-scale/)
 
 ## Details
 

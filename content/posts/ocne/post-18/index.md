@@ -1,5 +1,5 @@
 ---
-title: "How to Upgrade to Oracle Cloud Native Environment"
+title: "How to Upgrade"
 date: 2023-04-13
 draft: false
 summary: "This tutorial will show how to upgrade an Oracle Cloud Native Environment Release 1.6 install to Release 1.7."
@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [How to Upgrade to Oracle Cloud Native Environment](https://luna.oracle.com/lab/fa8fc61b-893c-4507-93a2-711540e9ace7)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/fa8fc61b-893c-4507-93a2-711540e9ace7)
 
-:spiral_notepad: [How to Upgrade to Oracle Cloud Native Environment](https://docs.oracle.com/en/learn/ocne-upgrade)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-upgrade)
 
 ## Details
 

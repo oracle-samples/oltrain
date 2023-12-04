@@ -1,5 +1,5 @@
 ---
-title: "Provision PersistentVolumes Using File Storage Service on Oracle Cloud Native Environment"
+title: "Provision PersistentVolumes Using File Storage Service"
 date: 2023-03-23
 draft: false
 summary: "This tutorial will focus on OCI File System service to provide nfs-style cloud storage."
@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Provision PersistentVolumes Using File Storage Service on Oracle Cloud Native Environment](https://luna.oracle.com/lab/5d95fdca-c690-4ebf-8ac0-315ac095ac59)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/5d95fdca-c690-4ebf-8ac0-315ac095ac59)
 
-:spiral_notepad: [Provision PersistentVolumes Using File Storage Service on Oracle Cloud Native Environment](https://docs.oracle.com/en/learn/ocne-pv-fss)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-pv-fss)
 
 ## Details
 

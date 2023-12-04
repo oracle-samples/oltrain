@@ -1,5 +1,5 @@
 ---
-title: "Run Kubernetes on Oracle Linux"
+title: "Run Kubernetes"
 date: 2022-06-30
 draft: false
 summary: "This tutorial works with Kubernetes running within a compact Oracle Cloud Native Environment on Oracle Linux. It introduces the skills required to deploy a working sample application."
@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Run Kubernetes on Oracle Linux](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
 
-:spiral_notepad: [Run Kubernetes on Oracle Linux](https://docs.oracle.com/en/learn/ol-kube)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-kube)
 
 ## Details
 

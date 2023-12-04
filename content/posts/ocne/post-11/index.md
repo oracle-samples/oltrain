@@ -1,5 +1,5 @@
 ---
-title: "Deploy an Internal Load Balancer with Oracle Cloud Native Environment"
+title: "Deploy an Internal Load Balancer"
 date: 2022-07-29
 draft: false
 summary: "Learn how to deploy an internal load-balancer with Oracle Cloud Native Environment to enable high availability."
@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Deploy an Internal Load Balancer with Oracle Cloud Native Environment](https://luna.oracle.com/lab/15c6f5a7-9fec-4946-bb42-92dd41310fdf)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/15c6f5a7-9fec-4946-bb42-92dd41310fdf)
 
-:spiral_notepad: [Deploy an Internal Load Balancer with Oracle Cloud Native Environment](https://docs.oracle.com/en/learn/ocne-install-ha)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-install-ha)
 
 ## Details
 

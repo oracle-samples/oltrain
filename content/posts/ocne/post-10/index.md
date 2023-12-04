@@ -1,5 +1,5 @@
 ---
-title: "Deploy an External Load Balancer with Oracle Cloud Native Environment"
+title: "Deploy an External Load Balancer"
 date: 2022-07-29
 draft: false
 summary: "Learn how to deploy an external load-balancer with Oracle Cloud Native Environment."
@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Deploy an External Load Balancer with Oracle Cloud Native Environment](https://luna.oracle.com/lab/be8d99fc-44c3-4062-a3c3-95e982243ccf)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/be8d99fc-44c3-4062-a3c3-95e982243ccf)
 
-:spiral_notepad: [Deploy an External Load Balancer with Oracle Cloud Native Environment](https://docs.oracle.com/en/learn/ocne-install-ha-oci)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-install-ha-oci)
 
 ## Details
 

@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Use Quick Install to Deploy Oracle Cloud Native Environment](https://luna.oracle.com/lab/42f9b19b-e254-42cf-885d-a80127d9d751)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/42f9b19b-e254-42cf-885d-a80127d9d751)
 
-:spiral_notepad: [Use Quick Install to Deploy Oracle Cloud Native Environment](https://docs.oracle.com/en/learn/ocne-quick-install)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-quick-install)
 
 ## Details
 

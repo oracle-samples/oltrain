@@ -1,5 +1,5 @@
 ---
-title: "A Quick Tour of Kubernetes on Oracle Linux"
+title: "Kubernetes Concepts"
 date: 2022-03-25
 draft: false
 summary: "This video provides a high-level overview/introduction to what Kubernetes is and introduces a few basic concepts to you."

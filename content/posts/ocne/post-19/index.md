@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Introducing Kubectl with Oracle Cloud Native Environment](https://luna.oracle.com/lab/6c65a513-b161-47d2-b45c-92ca02e38dc0)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/6c65a513-b161-47d2-b45c-92ca02e38dc0)
 
-:spiral_notepad: [Introducing Kubectl with Oracle Cloud Native Environment](https://docs.oracle.com/en/learn/ocne-kubectl-intro)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-kubectl-intro)
 
 ## Details
 

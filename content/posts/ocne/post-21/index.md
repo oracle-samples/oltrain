@@ -1,5 +1,5 @@
 ---
-title: "Run KubeVirt on Oracle Cloud Native Environment"
+title: "Run KubeVirt"
 date: 2023-09-18
 draft: false
 summary: "KubeVirt is a virtualization technology to create and manage virtual machines in Kubernetes. Administrators create these virtual machines using the kubectl command and Kubernetes custom resource definitions (CRDs)."
@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Run KubeVirt on Oracle Cloud Native Environment](https://luna.oracle.com/lab/87d85c56-d929-45bc-aa8c-3f51cd584b2d)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/87d85c56-d929-45bc-aa8c-3f51cd584b2d)
 
-:spiral_notepad: [Run KubeVirt on Oracle Cloud Native Environment](https://docs.oracle.com/en/learn/ocne-kubevirt/)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-kubevirt/)
 
 ## Details
 

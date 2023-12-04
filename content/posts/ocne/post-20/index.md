@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Use Kubectl to Manage Kubernetes Clusters and Nodes on Oracle Cloud Native Environment](https://luna.oracle.com/lab/4b16d141-4825-4d54-98f3-ce7babbea45c)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/4b16d141-4825-4d54-98f3-ce7babbea45c)
 
-:spiral_notepad: [Use Kubectl to Manage Kubernetes Clusters and Nodes on Oracle Cloud Native Environment](https://docs.oracle.com/en/learn/ocne-kubectl-cluster/)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-kubectl-cluster/)
 
 ## Details
 
