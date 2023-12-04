@@ -3,7 +3,7 @@ title: "Run a Compact Oracle Cloud Native Environment"
 date: 2022-06-30
 draft: false
 summary: "The 1.5 release of Oracle Cloud Native Environment introduced the compact deployment, allowing non-system Kubernetes workloads to run on control plane nodes."
-tags: ["ocne", "lab", "tutorial"]
+tags: ["ocne", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 

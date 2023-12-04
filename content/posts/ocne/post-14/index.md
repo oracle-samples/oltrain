@@ -4,7 +4,7 @@ date: 2022-09-06
 draft: false
 summary: "This tutorial demonstrates how to scale an existing Kubernetes cluster in Oracle Cloud Native Environment.
 Scaling up a Kubernetes cluster means adding nodes; likewise, scaling down occurs by removing nodes. Nodes can be either control plane or worker nodes. Oracle recommends against scaling the cluster up and down at the same time. Instead, perform a scale up and then down in two separate commands."
-tags: ["ocne", "lab", "tutorial"]
+tags: ["ocne", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 

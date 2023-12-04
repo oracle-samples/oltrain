@@ -3,7 +3,7 @@ title: "Provision PersistentVolumes Using File Storage Service on Oracle Cloud N
 date: 2023-03-23
 draft: false
 summary: "This tutorial will focus on OCI File System service to provide nfs-style cloud storage."
-tags: ["ocne", "lab", "tutorial"]
+tags: ["ocne", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 

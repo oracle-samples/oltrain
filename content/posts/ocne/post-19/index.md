@@ -3,7 +3,7 @@ title: "Introducing Kubectl"
 date: 2023-04-28
 draft: false
 summary: "Kubectl is a versatile tool used to deploy and inspect the configurations and logs of the cluster resources and applications."
-tags: ["ocne", "lab", "tutorial"]
+tags: ["ocne", "lab", "tutorial", "ocne-k8s"]
 showDate: true
 ---
 

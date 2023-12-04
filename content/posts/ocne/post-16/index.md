@@ -3,7 +3,7 @@ title: "Use Quick Install to Deploy Oracle Cloud Native Environment"
 date: 2022-11-28
 draft: false
 summary: "Oracle Cloud Native Environment Release 1.5.7 introduced the ability to use the Oracle Cloud Native Environment Platform CLI to perform a quick installation of itself. This is done using the olcnectl provision command on an installation host (the _operator_ node)."
-tags: ["ocne", "lab", "tutorial"]
+tags: ["ocne", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 

@@ -3,7 +3,7 @@ title: "Use Operator Lifecycle Manager to Deploy a Kubernetes Operator on Oracle
 date: 2022-05-17
 draft: false
 summary: "This tutorial shows you how install the Operator Lifecycle Manager module for Oracle Cloud Native Environment into a Kubernetes cluster, then deploy a Kubernetes operator."
-tags: ["ocne", "lab", "tutorial"]
+tags: ["ocne", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 

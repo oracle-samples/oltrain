@@ -3,7 +3,7 @@ title: "Use Persistent Volumes and Persistent Volume Claims"
 date: 2023-11-15
 draft: false
 summary: "This tutorial shows how to create and use Persistent Volumes and Persistent Volume Claims with Oracle Cloud Native Environment."
-tags: ["ocne", "lab", "tutorial"]
+tags: ["ocne", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 

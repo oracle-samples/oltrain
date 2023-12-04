@@ -3,7 +3,7 @@ title: "Enable Istio Proxy Sidecar Injection in Oracle Cloud Native Environment"
 date: 2022-09-21
 draft: false
 summary: "Istio is a Service Mesh that provides a separate infrastructure layer to handle inter-service communication. Network communication is abstracted from the services themselves and handled by proxies. Istio uses a sidecar design, which means that communication proxies run in their own containers beside every service container."
-tags: ["ocne", "lab", "tutorial"]
+tags: ["ocne", "lab", "tutorial", "ocne-istio"]
 showDate: true
 ---
 

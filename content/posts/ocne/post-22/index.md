@@ -3,7 +3,7 @@ title: "Use ConfigMaps and Secrets"
 date: 2023-09-29
 draft: false
 summary: "This tutorial shows how to create and use ConfigMaps and Secrets with Oracle Cloud Native Environment."
-tags: ["ocne", "lab", "tutorial"]
+tags: ["ocne", "lab", "tutorial", "ocne-k8s"]
 showDate: true
 ---
 

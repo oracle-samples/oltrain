@@ -3,7 +3,7 @@ title: "Run Kubernetes on Oracle Linux"
 date: 2022-06-30
 draft: false
 summary: "This tutorial works with Kubernetes running within a compact Oracle Cloud Native Environment on Oracle Linux. It introduces the skills required to deploy a working sample application."
-tags: ["ocne", "lab", "tutorial"]
+tags: ["ocne", "lab", "tutorial", "ocne-k8s"]
 showDate: true
 ---
 

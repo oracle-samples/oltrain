@@ -3,7 +3,7 @@ title: "Deploy Oracle Cloud Native Environment"
 date: 2022-05-18
 draft: false
 summary: "Oracle Cloud Native Environment is a fully integrated suite for the development and management of cloud native applications.  The Kubernetes module is the core module. It is used to deploy and manage containers and also automatically installs and configures CRI-O, runC and Kata Containers.  CRI-O manages the container runtime for a Kubernetes cluster.  The runtime may be either runC or Kata Containers."
-tags: ["ocne", "lab", "tutorial"]
+tags: ["ocne", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 

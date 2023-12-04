@@ -3,7 +3,7 @@ title: "Deploy an Internal Load Balancer with Oracle Cloud Native Environment"
 date: 2022-07-29
 draft: false
 summary: "Learn how to deploy an internal load-balancer with Oracle Cloud Native Environment to enable high availability."
-tags: ["ocne", "lab", "tutorial"]
+tags: ["ocne", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 

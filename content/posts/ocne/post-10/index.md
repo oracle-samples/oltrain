@@ -3,7 +3,7 @@ title: "Deploy an External Load Balancer with Oracle Cloud Native Environment"
 date: 2022-07-29
 draft: false
 summary: "Learn how to deploy an external load-balancer with Oracle Cloud Native Environment."
-tags: ["ocne", "lab", "tutorial"]
+tags: ["ocne", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 

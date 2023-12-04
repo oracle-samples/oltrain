@@ -3,7 +3,7 @@ title: "Use OCI Cloud Controller Manager on Oracle Cloud Native Environment"
 date: 2022-08-26
 draft: false
 summary: "This tutorial shows how to deploy the Oracle Cloud Infrastructure Cloud Controller Manager module (OCI-CCM module) within Oracle Cloud Native Environment to handle requests for an external LoadBalancer Service type. The Oracle Cloud Infrastructure Cloud Controller Manager module uses the open source [oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) project, which is a Kubernetes Cloud Controller Manager implementation (or out-of-tree cloud-provider) for Oracle Cloud Infrastructure (OCI)."
-tags: ["ocne", "lab", "tutorial"]
+tags: ["ocne", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 

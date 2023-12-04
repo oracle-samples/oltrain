@@ -3,7 +3,7 @@ title: "Use Kubectl to Manage Kubernetes Clusters and Nodes"
 date: 2023-05-31
 draft: false
 summary: "Although graphical tools can manage Kubernetes, many administrators prefer to use command-line tools. The command line tool provided within the Kubernetes ecosystem is called [kubectl](https://kubernetes.io/docs/reference/kubectl/kubectl/). Kubectl is a versatile tool used to deploy and inspect the configurations and logs of the cluster resources and applications."
-tags: ["ocne", "lab", "tutorial"]
+tags: ["ocne", "lab", "tutorial", "ocne-k8s"]
 showDate: true
 ---
 
