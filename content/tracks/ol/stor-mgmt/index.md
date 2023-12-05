@@ -26,13 +26,11 @@ series: ["Oracle Linux"]
 series_order: 10
 ---
 
-## Videos
+{{< lead >}}
+Whether manually partitioning your primary disk, adding additional disks for storage, or creating shared storage, working with disks is a skill all Linux Administrators should know. These videos will get you started on using fdisk, formatting, filesystems, and disk encryption.
+{{< /lead >}}
 
-{{< lead >}} Whether manually partitioning your primary disk, adding additional disks for storage, or creating shared storage, working with disks is a skill all Linux Administrators should know. These videos will get you started on using fdisk, formatting, filesystems, and disk encryption. {{< /lead >}}
-
-### Disk Partitioning with fdisk on Oracle Linux
-
-- {{< youtube 3edFvAXe4Hs >}}
+{{< card2 title="Related" limit=30 tag="/tags/ol-storage" >}}
 
 ### Using Ext2, Ext3 and Ext4 File Systems on Oracle Linux
 
