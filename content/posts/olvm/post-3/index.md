@@ -1,5 +1,5 @@
 ---
-title: "Managing Roles and Permissions"
+title: "Add a Compute Host"
 date: 2019-11-21
 draft: false
 summary: "Learn how to add and remove KVM Compute Hosts in Oracle Linux Virtualization Manager."
