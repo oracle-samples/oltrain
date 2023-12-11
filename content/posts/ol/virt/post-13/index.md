@@ -2,7 +2,7 @@
 title: "Search Container Registries"
 date: 2023-10-03
 draft: false
-summary: "Learn how to search container registries with Podamn on Oracle Linux."
+summary: "Learn how to search container registries with Podman on Oracle Linux."
 tags: ["ol", "video","ol-podman"]
 showDate: true
 ---

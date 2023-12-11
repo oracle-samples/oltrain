@@ -2,7 +2,7 @@
 title: "Running a Container"
 date: 2020-09-03
 draft: false
-summary: "Learn how run containers with Podamn on Oracle Linux."
+summary: "Learn how run containers with Podman on Oracle Linux."
 tags: ["ol", "video","ol-podman"]
 showDate: true
 ---

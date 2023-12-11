@@ -1,5 +1,5 @@
 ---
-title: "Install Podamn"
+title: "Install Podman"
 date: 2020-08-24
 draft: false
 summary: "Learn how install Podman, Buildah, and Scopeo on Oracle Linux."

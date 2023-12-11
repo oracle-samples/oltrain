@@ -2,7 +2,7 @@
 title: "Use Public Registries"
 date: 2021-12-07
 draft: false
-summary: "Learn how to use public registries with Podamn on Oracle Linux."
+summary: "Learn how to use public registries with Podman on Oracle Linux."
 tags: ["ol", "video","ol-podman"]
 showDate: true
 ---

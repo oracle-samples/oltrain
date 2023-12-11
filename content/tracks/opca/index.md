@@ -4,7 +4,7 @@ date: 2020-08-13
 draft: false
 description: "Welcome to Oracle Private Cloud Appliance Track"
 summary: "This track contains videos to facilitate your learning of the administrative and user tasks performed with the technologies and tools of the Oracle Private Cloud Appliance."
-tags: ["opca"]
+tags: ["opca","track"]
 slug: "opca"
 showRecent: false
 showDate: false

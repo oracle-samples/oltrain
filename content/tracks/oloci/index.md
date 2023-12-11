@@ -5,7 +5,7 @@ draft: false
 description: "Welcome to Linux on Oracle Cloud Infrastructure Track"
 summary: "This track provides a learning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.  
 As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.  Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure."
-tags: ["olci","oci"]
+tags: ["oloci","oci","track"]
 slug: "oloci"
 showRecent: false
 showDate: false

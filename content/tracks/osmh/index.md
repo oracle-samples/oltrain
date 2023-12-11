@@ -4,7 +4,7 @@ date: 2020-08-14
 draft: false
 description: "Welcome to the OS Management Hub Track"
 summary: "OS Management Hub is the next generation management solution for Oracle Linux. This track provides a learning path with step-by-step instructions and guidance for using the service.  Oracle OS Management Hub is used to manage and monitor updates and patches for the operating system environments in private data centers through a single management console. It simplifies the provisioning and maintaining of large deployments of physical servers and virtual machines that span public cloud and private data centers."
-tags: ["osmh","oci"]
+tags: ["osmh","oci","track"]
 slug: "osmh"
 showRecent: false
 showDate: false

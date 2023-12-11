@@ -4,7 +4,7 @@ date: 2020-08-20
 draft: false
 description: "Learn how to use Oracle Linux and its features."
 summary: "This track is the place to explore Oracle Linux to help you grow your skillset using free videos and hands-on tutorials and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator."
-tags: ["ol","operating systems"]
+tags: ["ol","operating systems","track"]
 slug: "ol"
 showLikes: false
 showViews: false

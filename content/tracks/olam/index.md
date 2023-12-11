@@ -4,7 +4,7 @@ date: 2020-08-17
 draft: false
 description: "Welcome to Oracle Linux Automation Manager Track"
 summary: "This track provides free training to help introduce you to Oracle Linux Automation Manager and improve your skills with its automation tools.  The Oracle Linux Automation Engine is an automation tool for deploying software, configuring systems, and orchestrating tasks such as upgrades and updates, in the form of playbooks.  Oracle Linux Automation Manager provides features that allow your organization to effectively manage infrastructure configuration through a browser user interface."
-tags: ["olam","ansible"]
+tags: ["olam","ansible","track"]
 slug: "olam"
 showRecent: false
 showDate: false

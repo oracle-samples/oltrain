@@ -2,7 +2,7 @@
 title: "Create a Local Registry"
 date: 2021-12-16
 draft: false
-summary: "Learn how to create a local registry with Podamn on Oracle Linux."
+summary: "Learn how to create a local registry with Podman on Oracle Linux."
 tags: ["ol", "video","ol-podman"]
 showDate: true
 ---

@@ -2,7 +2,7 @@
 title: "Pull Images"
 date: 2023-10-23
 draft: false
-summary: "Learn how to pull images with Podamn on Oracle Linux."
+summary: "Learn how to pull images with Podman on Oracle Linux."
 tags: ["ol", "video","ol-podman"]
 showDate: true
 ---
