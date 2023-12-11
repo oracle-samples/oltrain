@@ -22,7 +22,7 @@ aliases:
 - /OL/intro/intro.html
 - /ol/intro-ol/intro-ol/
 series: ["Oracle Linux"]
-series_order: 4
+series_order: 1
 ---
 
 {{< lead >}}

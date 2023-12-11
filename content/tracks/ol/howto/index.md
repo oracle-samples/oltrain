@@ -23,6 +23,8 @@ cascade:
 aliases:
 - /OL/howto/howto.html
 - /ol/howto/
+series: ["Oracle Linux"]
+series_order: 12
 ---
 
 {{< lead >}}

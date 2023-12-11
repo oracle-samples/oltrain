@@ -23,7 +23,7 @@ cascade:
 aliases:
 - /OL/admin/admin.html
 series: ["Oracle Linux"]
-series_order: 1
+series_order: 2
 ---
 
 {{< lead >}}
