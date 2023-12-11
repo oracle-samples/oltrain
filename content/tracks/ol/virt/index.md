@@ -23,7 +23,7 @@ cascade:
 aliases:
 - /OL/virt/virt.html
 series: ["Oracle Linux"]
-series_order: 11
+series_order: 10
 ---
 
 {{< figure src="/img/ol/virt/OL-virt-kvm.png" alt="virt-kvm" >}}

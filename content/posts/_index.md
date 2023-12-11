@@ -13,7 +13,7 @@ showWordCount : false
 showSummary : false
 cascade:
   sharingLinks : false
-  showPagination : true
+  showPagination : false
   invertPagination: true 
 ---
 

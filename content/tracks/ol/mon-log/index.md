@@ -23,7 +23,7 @@ cascade:
 aliases:
 - /OL/mon_log/mon_log.html
 series: ["Oracle Linux"]
-series_order: 6
+series_order: 5
 ---
 
 {{< lead >}}

@@ -23,7 +23,7 @@ cascade:
 aliases:
 - /OL/network/network.html
 series: ["Oracle Linux"]
-series_order: 7
+series_order: 6
 ---
 
 {{< lead >}}

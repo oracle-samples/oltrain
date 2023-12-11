@@ -23,7 +23,7 @@ cascade:
 aliases:
 - /OL/ksplice/ksplice.html
 series: ["Oracle Linux"]
-series_order: 5
+series_order: 4
 ---
 
 {{< lead >}}

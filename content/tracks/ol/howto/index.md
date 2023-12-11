@@ -24,7 +24,7 @@ aliases:
 - /OL/howto/howto.html
 - /ol/howto/
 series: ["Oracle Linux"]
-series_order: 12
+series_order: 11
 ---
 
 {{< lead >}}

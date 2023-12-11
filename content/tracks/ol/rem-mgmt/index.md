@@ -23,7 +23,7 @@ cascade:
 aliases:
 - /OL/rem_mgmt/rem_mgmt.html
 series: ["Oracle Linux"]
-series_order: 9
+series_order: 8
 ---
 
 {{< lead >}}

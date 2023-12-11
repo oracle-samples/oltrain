@@ -23,7 +23,7 @@ cascade:
 aliases:
 - /OL/pkg_mgmt/pkg_mgmt.html
 series: ["Oracle Linux"]
-series_order: 8
+series_order: 7
 ---
 
 {{< lead >}}

@@ -23,7 +23,7 @@ cascade:
 aliases:
 - /OL/stor_mgmt/stor_mgmt.html
 series: ["Oracle Linux"]
-series_order: 10
+series_order: 9
 ---
 
 {{< lead >}}
