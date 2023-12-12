@@ -68,4 +68,4 @@ googleAnalytics = "G-PEDMYR1V0K"
   [module.hugoVersion]
     extended = true
     min = "0.87.0"
-    max = "0.116.0"
+    max = "0.126.0"
