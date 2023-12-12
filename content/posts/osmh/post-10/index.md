@@ -3,7 +3,7 @@ title: "Managing Jobs"
 date: 2023-10-23
 draft: false
 summary: "Learn about the basic management of jobs in Oracle OS Management Hub."
-tags: ["osmh", "video","osmh-dev"]
+tags: ["osmh", "video","osmh-admin"]
 showDate: true
 ---
 

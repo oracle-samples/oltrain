@@ -3,7 +3,7 @@ title: "Creating Lifecycle Environments"
 date: 2023-09-29
 draft: false
 summary: "Learn to create a lifecycle environment in Oracle OS Management Hub."
-tags: ["osmh", "video","osmh-admin"]
+tags: ["osmh", "video","osmh-dev"]
 showDate: true
 ---
 
