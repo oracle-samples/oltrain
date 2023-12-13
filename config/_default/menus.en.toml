@@ -208,7 +208,7 @@
   name = "Oracle Linux"
   identifier = "pl2"
   parent = "pl"
-  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIztOLwiTOF0HOV5aiTjGNpLl"
+  url = "/playlists"
   weight = 210
 
 [[main]]
