@@ -22,6 +22,7 @@ cascade:
   invertPagination: true
 aliases:
 - /OL/pkg_mgmt/pkg_mgmt.html
+- /ol/pkg_mgmt/pkg_mgmt/
 series: ["Oracle Linux"]
 series_order: 7
 ---

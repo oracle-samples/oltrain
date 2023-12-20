@@ -22,6 +22,7 @@ cascade:
   invertPagination: true
 aliases:
 - /OL/ksplice/ksplice.html
+- /ol/ksplice/ksplice/
 series: ["Oracle Linux"]
 series_order: 4
 ---

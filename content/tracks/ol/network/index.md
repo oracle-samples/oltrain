@@ -22,6 +22,7 @@ cascade:
   invertPagination: true
 aliases:
 - /OL/network/network.html
+- /ol/network/network/
 series: ["Oracle Linux"]
 series_order: 6
 ---

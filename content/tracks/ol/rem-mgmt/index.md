@@ -22,6 +22,7 @@ cascade:
   invertPagination: true
 aliases:
 - /OL/rem_mgmt/rem_mgmt.html
+- /ol/rem_mgmt/rem_mgmt/
 series: ["Oracle Linux"]
 series_order: 8
 ---

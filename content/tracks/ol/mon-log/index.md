@@ -22,6 +22,7 @@ cascade:
   invertPagination: true
 aliases:
 - /OL/mon_log/mon_log.html
+- /ol/mon_log/mon_log/
 series: ["Oracle Linux"]
 series_order: 5
 ---

@@ -22,6 +22,7 @@ cascade:
   invertPagination: true
 aliases:
 - /OL/stor_mgmt/stor_mgmt.html
+- /ol/stor_mgmt/stor_mgmt/
 series: ["Oracle Linux"]
 series_order: 9
 ---
