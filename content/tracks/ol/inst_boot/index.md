@@ -22,6 +22,7 @@ cascade:
   invertPagination: true
 aliases:
 - /OL/inst_boot/inst_boot.html
+- /ol/inst_boot/inst_boot/
 series: ["Oracle Linux"]
 series_order: 3
 ---

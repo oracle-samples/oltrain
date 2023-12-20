@@ -20,7 +20,7 @@ cascade:
   showAuthor: false
   invertPagination: true
 aliases:
-- osd/osd/
+- /osd/osd/
 ---
 
 {{< figure src="/img/osd/osd-1200x200-banner.png" alt="Oracle Cloud Infrastructure Secure Desktops Track" >}}

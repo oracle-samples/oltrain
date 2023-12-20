@@ -22,6 +22,7 @@ cascade:
   invertPagination: true
 aliases:
 - /OL/virt/virt.html
+- /ol/virt/virt/
 series: ["Oracle Linux"]
 series_order: 10
 ---
