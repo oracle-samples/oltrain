@@ -22,7 +22,7 @@ cascade:
   invertPagination: true
 aliases:
 - /OL/admin/admin.html
-- /ol/admin/
+- /ol/admin/admin/
 series: ["Oracle Linux"]
 series_order: 2
 ---
