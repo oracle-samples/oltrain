@@ -40,4 +40,4 @@ The Secure Desktops service provides:
 
 ---
 
-{{< card2 title="Articles" limit=30 tag="/tags/osd" >}}
+{{< card2 title="Related" limit=30 tag="/tags/osd" >}}

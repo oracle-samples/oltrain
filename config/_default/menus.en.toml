@@ -87,6 +87,13 @@
   weight = 95
 
 [[main]]
+  name = "Oracle Compute Cloud@Customer"
+  identifier = "t11"
+  parent = "t"
+  pageRef = "tracks/oc3"
+  weight = 96
+
+[[main]]
   name = "Blogs"
   #pageRef = "tags"
   weight = 20
@@ -190,6 +197,13 @@
   url = "https://docs.oracle.com/en-us/iaas/secure-desktops/home.htm"
   weight = 195
 
+  [[main]]
+  name = "Oracle Compute Cloud@Customer"
+  identifier = "doc11"
+  parent = "doc"
+  url = "https://docs.oracle.com/en-us/iaas/compute-cloud-at-customer/home.htm"
+  weight = 196
+
 
 [[main]]
   name = "Playlists"
@@ -273,6 +287,13 @@
   parent = "pl"
   url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzv0axRP4vP7zpubJE555Wbb"
   weight = 295
+
+[[main]]
+  name = "Oracle Compute Cloud@Customer"
+  identifier = "pl12"
+  parent = "pl"
+  url = "https://www.youtube.com/watch?v=ZzmsCP-dAZE&list=PLKCk3OyNwIzvtU6ZBQDRL6cXjRBEwMODj"
+  weight = 296
 
 [[main]]
   identifier = "web"
