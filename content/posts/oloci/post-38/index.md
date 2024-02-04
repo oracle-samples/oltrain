@@ -9,7 +9,7 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Lab](https://luna.oracle.com/lab/a7e62a2a-10d0-4b11-a317-bf559c99b148)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/dd23fba0-9e2b-4a62-b86c-bea4fbc08f9d)
 
 :spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/oci-sys-admin)
 
