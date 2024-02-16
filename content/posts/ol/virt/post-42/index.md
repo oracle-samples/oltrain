@@ -2,7 +2,7 @@
 title: "Use virt-install"
 date: 2024-02-16
 draft: false
-summary: "Learn how to use the virt-install command on an Oracle Linux 8 system."
+summary: "Learn how to use the virt-install command on an Oracle Linux system."
 tags: ["ol", "video","clips","ol-kvm"]
 showDate: true
 ---
@@ -11,4 +11,4 @@ showDate: true
 
 ## Details
 
-This video clip demonstrates how to use the virt-install command to create a guest virtual machine on Oracle Linux 8.
+This video clip demonstrates how to use the virt-install command to create a guest virtual machine on Oracle Linux.
