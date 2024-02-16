@@ -7,7 +7,7 @@ tags: ["osd","video"]
 showDate: true
 ---
 
-{{< youtube id="pwElvYIZzaM" title="Oracle Cloud Infrastructure Secure Desktops: Overview Youtube video" >}}
+{{< youtube id="-tlrmf37HDs" title="Oracle Cloud Infrastructure Secure Desktops: Overview Youtube video" >}}
 
 Details:
 
