@@ -1,6 +1,6 @@
 ---
 title: "Migrating from Oracle Linux Manager"
-date: 2024-01-20
+date: 2024-02-20
 draft: false
 summary: "This video covers the key steps and details for taking an existing Oracle Linux Manager 2.10 deployment and rebuilding it in Oracle OS Management Hub."
 tags: ["osmh","video","osmh-admin"]
