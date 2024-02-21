@@ -3,7 +3,7 @@ title: "Comparing Oracle Linux Manager"
 date: 2024-02-19
 draft: false
 summary: "In this video, the primary features and concepts of Oracle Linux Manager and OS Management Hub are compared for OS management of on-premises Oracle Linux system deployments."
-tags: ["osmh","video","osmh-admin"]
+tags: ["osmh","video","osmh-migrate"]
 showDate: true
 ---
 

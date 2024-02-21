@@ -56,3 +56,8 @@ OS Management Hub provides:
 
 ## Developing OS Software Content with Lifecycle Environments
 {{< card2 limit=30 tag="/tags/osmh-dev" >}}
+
+{{< figure src="/img/osmh/osmh-migrate-header.png" alt="osmh-migrate" >}}
+
+## Migrating to OS Management Hub
+{{< card2 limit=30 tag="/tags/osmh-migrate" >}}
