@@ -11,7 +11,7 @@ showDate: true
 
 :crescent_moon: [Lab](https://luna.oracle.com/lab/2f0beeef-bc10-4e54-a042-ce31db0e9765)
 
-:spiral_notepad: [Tutorial](https://docs.oraclecorp.com/en/learn/run-containers-podman)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/run-containers-podman)
 
 ## Details
 
