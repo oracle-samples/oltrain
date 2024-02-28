@@ -9,7 +9,7 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Lab](https://luna.oracle.com/lab/752793ff-9f74-4bb0-b848-90c5bcae4388)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/55225d03-4fdb-42dd-bb3c-0382cb918963)
 
 :spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/podman-desktop)
 
