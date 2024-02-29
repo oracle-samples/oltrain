@@ -1,6 +1,6 @@
 ---
 title: "Use the AWX Collection"
-date: 2023-11-09
+date: 2024-02-29
 draft: false
 summary: "Learn to add and manage resources in Oracle Linux Automation Manager using a playbook."
 tags: ["olam","lab","tutorial"]
