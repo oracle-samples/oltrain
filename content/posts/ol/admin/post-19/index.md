@@ -9,8 +9,6 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Lab](https://luna.oracle.com/lab/6c0d44b2-1247-4780-a1ae-09f283812ef8)
-
 :spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/oracle-linux-postfix-starttls)
 
 ## Details
