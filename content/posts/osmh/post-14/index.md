@@ -7,7 +7,7 @@ tags: ["osmh","video","osmh-migrate"]
 showDate: true
 ---
 
-{{< youtube id="6_NC_RG9TnE" title="Migrating from Oracle Linux Manager to Oracle OS Management Hub" >}}
+{{< youtube id="fDyWE-pUEMw" title="Migrating from Oracle Linux Manager to Oracle OS Management Hub" >}}
 
 ## Details
 
