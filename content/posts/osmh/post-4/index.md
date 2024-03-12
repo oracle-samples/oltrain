@@ -1,6 +1,6 @@
 ---
 title: "Registering Instances"
-date: 2023-07-17
+date: 2023-06-27
 draft: false
 summary: "Learn how to register Linux environments or systems in data centers as managed instances."
 tags: ["osmh", "video","osmh-deploy"]

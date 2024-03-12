@@ -1,6 +1,6 @@
 ---
 title: "Creating Groups"
-date: 2023-08-24
+date: 2023-06-26
 draft: false
 summary: "Learn about groups and their role in Oracle OS Management Hub."
 tags: ["osmh", "video","osmh-deploy"]

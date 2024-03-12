@@ -3,7 +3,7 @@ title: "Create Custom Software Sources"
 date: 2023-09-15
 draft: false
 summary: "Learn how to create Oracle OS Management Hub custom and versioned custom software sources for Oracle Linux from a reference package list using the OCI CLI."
-tags: ["osmh","tutorial","osmh-deploy"]
+tags: ["osmh","tutorial","osmh-admin"]
 showDate: true
 ---
 

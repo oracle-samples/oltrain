@@ -1,6 +1,6 @@
 ---
 title: "Selecting Software Sources"
-date: 2023-08-04
+date: 2023-07-18
 draft: false
 summary: "Learn through step by step instructions for handling software sources within the Oracle Cloud Infrastructure web console."
 tags: ["osmh", "video","osmh-deploy"]

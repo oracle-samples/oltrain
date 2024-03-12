@@ -1,6 +1,6 @@
 ---
 title: "Overview"
-date: 2023-06-26
+date: 2023-08-24
 draft: false
 summary: "Learn about the Oracle OS Management Hub service and its advantages."
 tags: ["osmh", "video","osmh-deploy"]

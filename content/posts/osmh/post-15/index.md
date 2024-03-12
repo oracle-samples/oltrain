@@ -1,5 +1,5 @@
 ---
-title: "Migrate from Oracle Linux Manager"
+title: "Migrating an Oracle Linux Manager Client"
 date: 2024-03-07
 draft: false
 summary: "Learn to migrate an Oracle Linux instance from Oracle Linux Manager to Oracle OS Management Hub."

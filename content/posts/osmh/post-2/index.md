@@ -1,6 +1,6 @@
 ---
 title: "Preparing Oracle Cloud Infrastructure"
-date: 2023-06-27
+date: 2023-08-04
 draft: false
 summary: "Learn how to prepare Oracle Cloud Infrastructure for Oracle OS Management Hub."
 tags: ["osmh", "video","osmh-deploy"]
