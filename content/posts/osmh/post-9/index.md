@@ -1,6 +1,6 @@
 ---
 title: Promoting Through Lifecycles
-date: 2023-10-04
+date: 2023-09-29
 draft: false
 summary: "This video provides a step by step walk-through of promoting a versioned custom software source through a lifecycle environment and its associated lifecycle stages."
 tags: ["osmh", "video","osmh-dev"]

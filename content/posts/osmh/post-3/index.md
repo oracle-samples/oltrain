@@ -1,6 +1,6 @@
 ---
 title: "Creating and Registering a Management Station"
-date: 2023-06-30
+date: 2023-07-17
 draft: false
 summary: "Learn how to create and register an instance or system in a data center as a Management Station."
 tags: ["osmh", "video","osmh-deploy"]

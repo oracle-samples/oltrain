@@ -1,6 +1,6 @@
 ---
 title: "Creating and Managing Profiles"
-date: 2023-07-18
+date: 2023-06-30
 draft: false
 summary: "Learn to use a profile to register instances with OS Management Hub."
 tags: ["osmh", "video","osmh-deploy"]
