@@ -35,7 +35,7 @@ Secure Desktops is ideal for organizations that need to provide employees with c
 The Secure Desktops service provides:
 
 - A way to create and maintain a large number of identical desktops.
-- Controlled access to a remote desktop for potentially non-technical users.
+- Controlled access to a virtual desktop for potentially non-technical users.
 - Data security by storing data on Oracle Cloud Infrastructure resources and not on an individual client device.
 
 ---
