@@ -35,7 +35,7 @@ aliases:
 {{< figure src="/img/vbox/vboxmanage-sect.png" alt="Oracle VM VirtualBox VBoxManage separator banner" >}}
 
 ## Oracle VM VirtualBox VBoxManage
-{{< card2 limit=30 tag="/tags/VBoxManage" >}}
+{{< card2 limit=30 tag="/tags/vbox-cli" >}}
 
 {{< figure src="/img/vbox/vbox-7-sect.png" alt="Oracle VM VirtualBox 7 separator banner" >}}
 

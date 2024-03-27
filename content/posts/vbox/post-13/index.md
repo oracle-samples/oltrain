@@ -1,9 +1,9 @@
 ---
-title: "Create Virtual Machines with VBoxManage"
+title: "Create Virtual Machines"
 date: 2024-03-25
 draft: false
 summary: "Learn to create virtual machines using VBoxManage createvm"
-tags: ["vbox", "video", "clips","VBoxManage"]
+tags: ["vbox", "video", "clips","vbox-cli"]
 showDate: true
 ---
 
