@@ -1,5 +1,5 @@
 ---
-title: "Removing Container Images"
+title: "Remove Container Images"
 date: 2024-01-30
 draft: false
 summary: "Learn to remove container images using Podman on Oracle Linux."
