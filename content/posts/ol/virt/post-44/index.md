@@ -1,5 +1,5 @@
 ---
-title: "Run Containers with Podman"
+title: "Run Containers"
 date: 2024-03-13
 draft: false
 summary: "Learn to run container images using Podman on Oracle Linux."

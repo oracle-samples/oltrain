@@ -1,9 +1,9 @@
 ---
-title: "Modify Virtual Machine Properties with VBoxManage"
+title: "Modify Virtual Machine Properties"
 date: 2024-03-25
 draft: false
 summary: "Learn to modify virtual machine properties using VBoxManage modifyvm"
-tags: ["vbox", "video", "clips","VBoxManage"]
+tags: ["vbox", "video", "clips","vbox-cli"]
 showDate: true
 ---
 

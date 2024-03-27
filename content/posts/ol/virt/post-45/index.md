@@ -1,5 +1,5 @@
 ---
-title: "Search Container Registries with Podman"
+title: "Search Container Registries"
 date: 2024-03-27
 draft: false
 summary: "Learn to search container registries for images using Podman on Oracle Linux."
