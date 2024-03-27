@@ -1,5 +1,5 @@
 ---
-title: "Stopping Containers"
+title: "Stop Containers"
 date: 2024-01-28
 draft: false
 summary: "Learn to stop containers using Podman on Oracle Linux."
