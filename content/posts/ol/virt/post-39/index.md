@@ -1,5 +1,5 @@
 ---
-title: "Removing Containers"
+title: "Remove Containers"
 date: 2024-01-29
 draft: false
 summary: "Learn to remove containers using Podman on Oracle Linux."
