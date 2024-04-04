@@ -1,8 +1,8 @@
 ---
-title: "Adding a Secondary NIC"
+title: "Adding a Secondary VNIC"
 date: 2020-09-30
 draft: false
-summary: "Learn how to add a secondary NIC to a Linux instance on Oracle Cloud Infrastructure."
+summary: "Learn how to add a secondary VNIC to a Linux instance on Oracle Cloud Infrastructure."
 tags: ["oloci", "video","oloci-network"]
 showDate: true
 ---

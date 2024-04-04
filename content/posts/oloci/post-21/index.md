@@ -1,5 +1,5 @@
 ---
-title: "Networks Introduction"
+title: "Cloud Networks Introduction"
 date: 2020-09-03
 draft: false
 summary: "Learn about Virtual Cloud Networks on Oracle Cloud Infrastructure."
