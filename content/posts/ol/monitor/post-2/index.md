@@ -7,7 +7,7 @@ tags: ["ol", "video","ol-monitor"]
 showDate: true
 ---
 
-{{< youtube id="FD-wgH4xhJ" title="Using the sosreport Utility on Oracle Linux" >}}
+{{< youtube id="FD-wgH4xhJI" title="Using the sosreport Utility on Oracle Linux" >}}
 
 ## Details
 
