@@ -11,4 +11,4 @@ showDate: true
 
 ## Details
 
-This video provides an introduction to Udev.
+This video provides an introduction and examples on using Udev in Oracle Linux.
