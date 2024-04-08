@@ -52,10 +52,10 @@ aliases:
 ## Backup and Recovery
 {{< card2 limit=30 tag="/tags/olvm-backup" >}}
 
-{{< figure src="/img/olvm/OLVM-oem-section2.png" alt="Oracle Enterprise Manager for Oracle Linux Virtualization Manager section banner" >}}
+{{< figure src="/img/olvm/OLVM-monitor-section2.png" alt="Monitoring Services for Oracle Linux Virtualization Manager section banner" >}}
 
-## Oracle Enterprise Manager
-{{< card2 limit=30 tag="/tags/olvm-oem" >}}
+## Monitoring Services
+{{< card2 limit=30 tag="/tags/olvm-mon" >}}
 
 {{< figure src="/img/quiz1.png" alt="Oracle Linux Virtualization Manager quiz section banner" >}}
 
