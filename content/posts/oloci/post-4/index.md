@@ -7,7 +7,7 @@ tags: ["oloci", "video","oloci-deploy"]
 showDate: true
 ---
 
-{{< youtube id="P1sH3zevfHk" title="Use cloud-init to Launch a Linux Instance on Oracle Cloud Infrastructure YouTube video" >}}
+{{< youtube id="9DnCIpbn-8o" title="Use cloud-init to Launch a Linux Instance on Oracle Cloud Infrastructure YouTube video" >}}
 
 ## Details
 
