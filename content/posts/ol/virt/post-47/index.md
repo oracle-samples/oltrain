@@ -7,7 +7,7 @@ tags: ["ol", "video","clips","ol-podman"]
 showDate: true
 ---
 
-{{< youtube id="rZN4aF99xHw" title="Build Custom Images with Podman" >}}
+{{< youtube id="rZN4aF99xHw" title="Build Custom Images" >}}
 
 ## Details
 
