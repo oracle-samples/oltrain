@@ -11,7 +11,7 @@ showDate: true
 
 :crescent_moon: [Lab](https://luna.oracle.com/lab/91b487c8-7c50-4daa-b38c-9e11f6f11175)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/affinity)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-affinity)
 
 ## Details
 
