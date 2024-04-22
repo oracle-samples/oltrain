@@ -1,5 +1,5 @@
 ---
-title: "Start Headless Virtual Machines with VBoxManage"
+title: "Start Headless Virtual Machines"
 date: 2024-04-22
 draft: false
 summary: "Learn to start headless virtual machines using the VBoxManage startvm and VBoxHeadless commands"
