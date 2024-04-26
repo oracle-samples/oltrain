@@ -3,7 +3,7 @@ title: "Use Affinity"
 date: 2024-04-16
 draft: false
 summary: "This tutorial shows how to use Affinity and Anti-affinity with Oracle Cloud Native Environment."
-tags: ["ocne", "lab", "tutorial", "ocne-k8s", "affinity"]
+tags: ["ocne", "lab", "tutorial", "ocne-k8s"]
 showDate: true
 ---
 
