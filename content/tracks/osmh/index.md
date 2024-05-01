@@ -35,7 +35,7 @@ OS Management Hub supports Oracle Linux instances in OCI, on-premises data cente
 
 OS Management Hub provides:
 
-- Tools for tracking and resolving critical security and bug udpates across environments of Oracle Linux instances.
+- Tools for tracking and resolving critical security and bug updates across environments of Oracle Linux instances.
 - Methods for grouping systems and monitoring updates.
 - Capabilities to deliver staged rollouts of security errata and other content, with control points from development through production.
 - Integration with mission critical Oracle Linux features, such as Oracle Ksplice for zero-downtime security updates.
@@ -48,12 +48,12 @@ OS Management Hub provides:
 ## Deploying OS Management Hub
 {{< card2 limit=30 tag="/tags/osmh-deploy" >}}
 
-{{< figure src="/img/osmh/osmh-develop-header.png" alt="osmh-develop" >}}
+{{< figure src="/img/osmh/osmh-oci-header.png" alt="osmh-develop" >}}
 
 ## Managing OS in Oracle Cloud Infrastructure 
 {{< card2 limit=30 tag="/tags/osmh-oci" >}}
 
-{{< figure src="/img/osmh/osmh-oci-header.png" alt="osmh-oci" >}}
+{{< figure src="/img/osmh/osmh-develop-header.png" alt="osmh-oci" >}}
 
 ## Developing OS Software Content with Lifecycle Environments
 {{< card2 limit=30 tag="/tags/osmh-dev" >}}
