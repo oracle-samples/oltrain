@@ -1,5 +1,5 @@
 ---
-title: "Migrating from Oracle Linux Manager"
+title: "Creating and Registering OCI Compute Instances"
 date: 2024-05-01
 draft: false
 summary: "This video demonstrates how to register Oracle Cloud Infrastructure (OCI) compute instances with Oracle OS Management Hub."
