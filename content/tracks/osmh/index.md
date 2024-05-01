@@ -28,14 +28,14 @@ aliases:
 
 ---
 
-{{< lead >}} Oracle OS Management Hub is the next-generation management solution for Oracle Linux. Use OS Management Hub to manage and monitor updates and patches for Oracle Linux environments in private data centers using a centralized management console.
+{{< lead >}} Oracle OS Management Hub (formerly OS Management) is the next-generation management solution for your operating system environments. Use a centralized management console to manage updates and patches for instances in Oracle Cloud Iinfrastructure(OCI), on-premises data centers, or supported third-party cloud environments.
 {{< /lead >}}
 
-OS Management Hub initially targets Oracle Linux instances in private data centers and is included with all Oracle Linux Basic and Premier Support subscriptions at no additional cost.
+OS Management Hub supports Oracle Linux instances in OCI, on-premises data centers, and 3rd party cloud and is included with all Oracle Linux Basic and Premier Support subscriptions at no additional cost.
 
 OS Management Hub provides:
 
-- Tools for tracking and resolving critical issues across an environment of Oracle Linux instances.
+- Tools for tracking and resolving critical security and bug udpates across environments of Oracle Linux instances.
 - Methods for grouping systems and monitoring updates.
 - Capabilities to deliver staged rollouts of security errata and other content, with control points from development through production.
 - Integration with mission critical Oracle Linux features, such as Oracle Ksplice for zero-downtime security updates.
@@ -49,6 +49,11 @@ OS Management Hub provides:
 {{< card2 limit=30 tag="/tags/osmh-deploy" >}}
 
 {{< figure src="/img/osmh/osmh-develop-header.png" alt="osmh-develop" >}}
+
+## Managing OS in Oracle Cloud Infrastructure 
+{{< card2 limit=30 tag="/tags/osmh-oci" >}}
+
+{{< figure src="/img/osmh/osmh-oci-header.png" alt="osmh-oci" >}}
 
 ## Developing OS Software Content with Lifecycle Environments
 {{< card2 limit=30 tag="/tags/osmh-dev" >}}
