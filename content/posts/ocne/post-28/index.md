@@ -3,7 +3,7 @@ title: "Use Stateless Deployments"
 date: 2024-05-09
 draft: false
 summary: "Learn how to use Stateless Deployments with Oracle Cloud Native Environment."
-tags: ["ocne", "lab", "tutorial", "ocne-install"]
+tags: ["ocne", "lab", "tutorial", "ocne-k8s"]
 showDate: true
 ---
 
