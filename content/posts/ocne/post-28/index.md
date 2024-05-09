@@ -1,5 +1,5 @@
 ---
-title: "Use Stateless Deployments with Oracle Cloud Native Environment"
+title: "Use Stateless Deployments"
 date: 2024-05-09
 draft: false
 summary: "Learn how to use Stateless Deployments with Oracle Cloud Native Environment."
