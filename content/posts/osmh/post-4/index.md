@@ -1,5 +1,5 @@
 ---
-title: "Registering On-premises and 3rd Party Cloud Environments with Oracle OS Management Hub"
+title: "Registering Non-OCI Environments"
 date: 2023-06-27
 draft: false
 summary: "Learn how to register Linux environments in on-premises data centers or 3rd party cloud with OS Management Hub."
