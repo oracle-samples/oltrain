@@ -7,7 +7,7 @@ tags: ["osd","video"]
 showDate: true
 ---
 
-{{< youtube id="3FzwEsWIiyI" title="Oracle Cloud Infrastructure Secure Desktops - Image Builder YouTube video" >}}
+{{< youtube id="QumOEIf0R3w" title="Oracle Cloud Infrastructure Secure Desktops - Image Builder YouTube video" >}}
 
 ## Details
 
