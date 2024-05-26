@@ -1,9 +1,9 @@
 ---
 title: "Backup and Restore"
-date: 2020-07-20
+date: 2022-07-20
 draft: false
 summary: "Learn how to backup and restore the Oracle Linux Virtualization Manager engine."
-tags: ["olvm", "video","olvm-admin"]
+tags: ["olvm", "video","olvm-backup"]
 showDate: true
 ---
 

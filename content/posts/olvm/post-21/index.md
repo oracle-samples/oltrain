@@ -1,6 +1,6 @@
 ---
 title: "Upload Resources to a Data Storage Domain"
-date: 2020-03-12
+date: 2020-03-01
 draft: false
 summary: "Learn to upload disk image files to a storage domain using Oracle Linux Virtualization Manager."
 tags: ["olvm", "video","olvm-storage"]

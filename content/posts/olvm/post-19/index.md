@@ -1,6 +1,6 @@
 ---
 title: "Manage iSCSI Storage"
-date: 2020-02-19
+date: 2020-03-03
 draft: false
 summary: "Learn to use iSCSI storage with Oracle Linux Virtualization Manager."
 tags: ["olvm", "video","olvm-storage"]

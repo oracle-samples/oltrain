@@ -1,6 +1,6 @@
 ---
 title: "Managing Roles and Permissions"
-date: 2020-02-11
+date: 2021-11-28
 draft: false
 summary: "Learn how create rols and assign permissions in Oracle Linux Virtualization Manager."
 tags: ["olvm", "video","olvm-admin"]

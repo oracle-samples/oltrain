@@ -32,30 +32,40 @@ aliases:
 
 ---
 
-{{< figure src="/img/olvm/OLVM-admin-section2.png" alt="Administration and Deployment section banner" >}}
+{{< figure src="/img/olvm/OLVM-deploy-section3.png" alt="Deployment section banner" >}}
 
-## Administration and Deployment
-{{< card2 limit=30 tag="/tags/olvm-admin" >}}
+## Deployment
+{{< card2 limit=30 tag="/tags/olvm-deploy" >}}
 
-{{< figure src="/img/olvm/OLVM-vm-section2.png" alt="Managing Virtual Machines section banner" >}}
-
-## Managing Virtual Machines
-{{< card2 limit=30 tag="/tags/olvm-manage" >}}
-
-{{< figure src="/img/olvm/OLVM-storage-section2.png" alt="Managing Virtual Storage section banner" >}}
+{{< figure src="/img/olvm/OLVM-storage-section3.png" alt="Managing Virtual Storage section banner" >}}
 
 ## Managing Storage
 {{< card2 limit=30 tag="/tags/olvm-storage" >}}
 
-{{< figure src="/img/olvm/OLVM-backup-section2.png" alt="Backup and Recovery section banner" >}}
+{{< figure src="/img/olvm/OLVM-migrate-section3.png" alt="Migrating to OLVM section banner" >}}
 
-## Backup and Recovery
+## Managing Migration to Oracle Linux Virtualization Manager
+{{< card2 limit=30 tag="/tags/olvm-migrate" >}}
+
+{{< figure src="/img/olvm/OLVM-admin-section3.png" alt="Administration section banner" >}}
+
+## Administration
+{{< card2 limit=30 tag="/tags/olvm-admin" >}}
+
+{{< figure src="/img/olvm/OLVM-vm-section3.png" alt="Managing Virtual Machines section banner" >}}
+
+## Managing Virtual Machines
+{{< card2 limit=30 tag="/tags/olvm-vm" >}}
+
+{{< figure src="/img/olvm/OLVM-backup-section3.png" alt="Backup and Disaster Recovery section banner" >}}
+
+## Backup and Disaster Recovery
 {{< card2 limit=30 tag="/tags/olvm-backup" >}}
 
-{{< figure src="/img/olvm/OLVM-monitor-section2.png" alt="Monitoring Services for Oracle Linux Virtualization Manager section banner" >}}
+{{< figure src="/img/olvm/OLVM-monitor-section3.png" alt="Monitoring Services for Oracle Linux Virtualization Manager section banner" >}}
 
 ## Monitoring Services
-{{< card2 limit=30 tag="/tags/olvm-mon" >}}
+{{< card2 limit=30 tag="/tags/olvm-monitor" >}}
 
 {{< figure src="/img/quiz1.png" alt="Oracle Linux Virtualization Manager quiz section banner" >}}
 
@@ -66,3 +76,4 @@ Test your skills on what you have learned so far with this quiz.
 {{< button href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:CMMO0UH" target="_blank" >}}
 Take the quiz
 {{< /button >}}
+

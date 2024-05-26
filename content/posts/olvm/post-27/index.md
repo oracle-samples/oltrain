@@ -3,7 +3,7 @@ title: "Monitor with Grafana"
 date: 2024-04-08
 draft: false
 summary: "Learn how to access Grafana and view pre-configured dashboards for Oracle Linux Virtualization Manager."
-tags: ["olvm", "video","olvm-mon"]
+tags: ["olvm", "video","olvm-monitor"]
 showDate: true
 ---
 

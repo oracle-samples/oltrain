@@ -1,9 +1,9 @@
 ---
 title: "Configure VLANs"
-date: 2021-07-02
+date: 2021-07-24
 draft: false
 summary: "Learn how to configure VLANs for security and expansion in Oracle Linux Virtualization Manager."
-tags: ["olvm", "video","olvm-admin"]
+tags: ["olvm", "video","olvm-deploy"]
 showDate: true
 ---
 

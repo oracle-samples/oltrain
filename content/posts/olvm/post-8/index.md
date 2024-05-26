@@ -1,6 +1,6 @@
 ---
 title: "Getting Started with REST API"
-date: 2021-07-06
+date: 2020-08-07
 draft: false
 summary: "Learn about the Oracle Linux Virtualization Manager REST API."
 tags: ["olvm", "video","olvm-admin"]

@@ -3,7 +3,7 @@ title: "Export to OVA"
 date: 2020-10-02
 draft: false
 summary: "Learn to export a VM and templates to OVA using Oracle Linux Virtualization Manager."
-tags: ["olvm", "video","olvm-manage"]
+tags: ["olvm", "video","olvm-vm"]
 showDate: true
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Use the Backup API for VM Backups"
-date: 2021-07-11
+date: 2021-12-21
 draft: false
 summary: "Learn how to use the Backup API to backup Oracle Linux Virtualization Manager VMs."
-tags: ["olvm", "video","olvm-admin"]
+tags: ["olvm", "video","olvm-backup"]
 showDate: true
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Create a VM"
-date: 2020-04-15
+date: 2021-07-15
 draft: false
 summary: "Learn to create a VM in Oracle Linux Virtualization Manager."
-tags: ["olvm", "video","olvm-manage"]
+tags: ["olvm", "video","olvm-vm"]
 showDate: true
 ---
 

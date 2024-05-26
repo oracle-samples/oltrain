@@ -3,7 +3,7 @@ title: "Migrate oVirt"
 date: 2021-11-05
 draft: false
 summary: "Learn to migrate from oVirt to Oracle Linux Virtualization Manager."
-tags: ["olvm", "video","olvm-admin"]
+tags: ["olvm", "video","olvm-migrate"]
 showDate: true
 ---
 
