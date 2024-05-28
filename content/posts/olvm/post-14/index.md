@@ -1,9 +1,9 @@
 ---
 title: "Create a Template"
-date: 2020-06-21
+date: 2021-06-11
 draft: false
 summary: "Learn to create a Template from a VM in Oracle Linux Virtualization Manager."
-tags: ["olvm", "video","olvm-manage"]
+tags: ["olvm", "video","olvm-vm"]
 showDate: true
 ---
 

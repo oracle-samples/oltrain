@@ -1,9 +1,9 @@
 ---
 title: "Create a VM Network"
-date: 2020-03-24
+date: 2021-08-26
 draft: false
 summary: "Learn how to create a logical network in Oracle Linux Virtualization Manager."
-tags: ["olvm", "video","olvm-admin"]
+tags: ["olvm", "video","olvm-deploy"]
 showDate: true
 ---
 

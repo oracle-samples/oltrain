@@ -3,7 +3,7 @@ title: "Migrate Oracle VM"
 date: 2021-12-16
 draft: false
 summary: "Learn to migrate a VM from Oracle VM to Oracle Linux Virtualization Manager."
-tags: ["olvm", "video","olvm-admin"]
+tags: ["olvm", "video","olvm-migrate"]
 showDate: true
 ---
 

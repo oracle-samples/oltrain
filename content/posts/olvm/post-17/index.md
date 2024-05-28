@@ -3,7 +3,7 @@ title: "Create a VM Snapshot"
 date: 2021-04-29
 draft: false
 summary: "Learn to create a VM snapshot in Oracle Linux Virtualization Manager."
-tags: ["olvm", "video","olvm-manage"]
+tags: ["olvm", "video","olvm-vm"]
 showDate: true
 ---
 

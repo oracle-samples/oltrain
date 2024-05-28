@@ -1,9 +1,9 @@
 ---
 title: "Restore a VM from a Snapshot"
-date: 2021-05-26
+date: 2021-04-26
 draft: false
 summary: "Learn to restore a VM from a snapshot in Oracle Linux Virtualization Manager."
-tags: ["olvm", "video","olvm-manage"]
+tags: ["olvm", "video","olvm-vm"]
 showDate: true
 ---
 

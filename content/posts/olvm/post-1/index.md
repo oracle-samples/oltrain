@@ -1,6 +1,6 @@
 ---
 title: "Manage Local Users and Groups with the CLI"
-date: 2020-11-30
+date: 2021-11-30
 draft: false
 summary: "Learn how to create and manage domain users and groups in Oracle Linux Virtualization Manager."
 tags: ["olvm", "video","olvm-admin"]
