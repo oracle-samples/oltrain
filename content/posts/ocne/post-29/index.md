@@ -3,7 +3,7 @@ title: "Manage Namespaces with kubectl"
 date: 2024-05-27
 draft: false
 summary: "This video introduces the kubectl commands used to create, delete and list namespaces."
-tags: ["ocne", "video", "ocne-k8s"]
+tags: ["ocne", "video", "clips", "ocne-k8s"]
 showDate: true
 ---
 
