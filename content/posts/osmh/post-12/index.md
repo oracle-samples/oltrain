@@ -1,6 +1,6 @@
 ---
 title: "Create Software Sources with Package Lists"
-date: 2023-09-15
+date: 2024-06-04
 draft: false
 summary: "Learn how to create Oracle OS Management Hub custom and versioned custom software sources for Oracle Linux from a reference package list."
 tags: ["osmh","tutorial","osmh-admin"]
