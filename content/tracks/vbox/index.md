@@ -42,11 +42,6 @@ aliases:
 ## Oracle VM VirtualBox 7
 {{< card2 limit=30 tag="/tags/vbox7" >}}
 
-{{< figure src="/img/vbox/vbox-6-sect.png" alt="Oracle VM VirtualBox 6 separator banner" >}}
-
-## Oracle VM VirtualBox 6
-{{< card2 limit=30 tag="/tags/vbox6" >}}
-
 {{< figure src="/img/quiz1.png" alt="Virtualbox Track quiz graphic" >}}
 
 Test your skills on what you have learned so far with this quiz.
