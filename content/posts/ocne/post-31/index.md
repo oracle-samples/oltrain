@@ -1,6 +1,6 @@
 ---
 title: "Deploy Oracle Cloud Native Environment User Interface"
-date: 2024-06-05
+date: 2024-06-12
 draft: false
 summary: Learn how to deploy the user interface on Oracle Cloud Native Environment."
 tags: ["ocne", "lab", "tutorial", "ocne-install"]
