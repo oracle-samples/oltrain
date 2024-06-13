@@ -1,28 +1,28 @@
 ---
-title: "Use and Configure CoreDNS"
+title: "Deploy Oracle Cloud Native Environment User Interface"
 date: 2024-06-05
 draft: false
-summary: "Learn how to use and Configure CoreDNS with Oracle Cloud Native Environment."
-tags: ["ocne", "lab", "tutorial", "ocne-k8s"]
+summary: Learn how to deploy the user interface on Oracle Cloud Native Environment."
+tags: ["ocne", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 
 ## Links
 
-:crescent_moon: [Lab](https://luna.oracle.com/lab/bdf64a85-fef5-485e-b7f1-67cb3c5820f3)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/ba62a6e2-c1aa-4d39-9836-eeb49a64a56e)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-coredns)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne-ui)
 
 ## Details
 
-Dynamic Name System (DNS) provides a way to translate hostnames to IP addresses for systems located anywhere on your network or the Internet. CoreDNS provides the same DNS service within your Kubernetes cluster to ensure that all deployments on your Kubernetes cluster have a reliable communication mechanism between the pods and services it uses. CoreDNS resolves requests for hostnames to IP addresses within the Oracle Cloud Native Environment cluster.
+This tutorial introduces you to the new user interface features of Oracle Cloud Native Environment. The UI builds on the upstream Headlamp project that provides a fully functional Kubernetes UI.
 
 ### Objectives
 
 In this tutorial, you will learn:
 
-   - How to configure and use CoreDNS
-   - Where to locate the CoreDNS configuration files and how to alter them
+   - How to configure the Oracle Cloud Native Environment Application Catalog (Technical Preview)
+   - How to install and access the Oracle Cloud Native Environment UI (Technical Preview)
 
 ### Prerequisites
 
