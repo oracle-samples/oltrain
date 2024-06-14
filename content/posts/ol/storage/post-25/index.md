@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Lab](https://luna.oracle.com/lab/2edede28-75f0-4046-8567-4cfd1596f931)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/7a272852-6042-47e3-b25f-eb681c733e66)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-lvmraid)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-acls)
 
 ## Details
 

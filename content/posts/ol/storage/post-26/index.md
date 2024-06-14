@@ -1,5 +1,5 @@
 ---
-title: "Enrypt drives using LUKS"
+title: "Encrypt drives using LUKS"
 date: 2022-07-25
 draft: false
 summary: "Learn how to encrypt drives using LUKS"
@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Lab](https://luna.oracle.com/lab/2edede28-75f0-4046-8567-4cfd1596f931)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/9c62956d-153b-4e93-84b0-0b2759f7e4bb)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-lvmraid)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-luks/)
 
 ## Details
 
