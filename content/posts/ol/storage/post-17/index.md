@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Lab](https://luna.oracle.com/lab/3e7b391f-db29-405d-85bc-b70ad5753dd4)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/5847ea10-bead-4dda-be13-72b55551f6a2)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com//en/learn/create_nfs_linux)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/autofs_linux8)
 
 ## Details
 
