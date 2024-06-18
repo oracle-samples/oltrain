@@ -1,6 +1,6 @@
 ---
-title: "Deploy and use Ingress-Nginx Controller on Oracle Cloud Native Environment"
-date: 2024-06-12
+title: "Deploy and use Ingress-Nginx Controller"
+date: 2024-06-18
 draft: false
 summary: "Learn how to deploy and use Ingress-Nginx Controller on Oracle Cloud Native Environment"
 tags: ["ocne", "lab", "tutorial", "ocne-install"]
