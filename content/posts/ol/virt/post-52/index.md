@@ -2,7 +2,7 @@
 title: "Use virsh"
 date: 2024-06-18
 draft: false
-summary: "Learn how to manage virtual machines on Oracle Linux."
+summary: "Learn how to manage KVM virtual machines on Oracle Linux."
 tags: ["ol", "video","clips","ol-kvm"]
 showDate: true
 ---
@@ -11,4 +11,4 @@ showDate: true
 
 ## Details
 
-This video introduces you to the virsh command, which is a command-line tool for managing virtual machines on Oracle Linux. Learn to use the virsh command to start, stop, reboot, pause, delete a VM and more.
+This video introduces you to the virsh command, which is a command-line tool for managing KVM virtual machines on Oracle Linux. Learn to use the virsh command to start, stop, reboot, pause, delete a VM and more.
