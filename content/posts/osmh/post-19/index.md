@@ -1,6 +1,6 @@
 ---
 title: "Setting up OCI Policy"
-date: 2024-06-17
+date: 2023-07-28
 draft: false
 summary: " In this video, you will learn how to create an administrator group and add users, write matching rules for a dynamic group of instance resources that will be managed by OS management hub, find compartment and sub compartment OCIDs, and write the policy that defines permissions for users and instance resources to use OS management hub."
 tags: ["osmh","video","osmh-deploy"]
