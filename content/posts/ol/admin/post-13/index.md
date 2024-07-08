@@ -11,4 +11,4 @@ showDate: true
 
 ## Details
 
-This video provides information and examples for using PAM.
+This video provides information and examples for using the Pluggable Authentication Modules (PAM) on Oracle Linux.
