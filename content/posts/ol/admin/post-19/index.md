@@ -3,7 +3,7 @@ title: "STARTTLS for Postfix"
 date: 2021-09-23
 draft: false
 summary: "Learn how to install Postfix as an SMTP server and Mail Submission Agent with STARTTLS on Oracle Linux."
-tags: ["ol","lab","tutorial","ol-admin"]
+tags: ["ol","tutorial","ol-admin"]
 showDate: true
 ---
 
