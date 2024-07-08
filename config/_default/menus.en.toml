@@ -123,6 +123,12 @@
   weight = 24
 
 [[main]]
+  name = "Oracle Linux Training Blog"
+  parent = "Blogs"
+  url = "https://blogs.oracle.com/linux/category/lnx-training"
+  weight = 25
+
+[[main]]
   name = "Docs"
   identifier = "doc"
   weight = 100
