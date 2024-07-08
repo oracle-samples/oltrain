@@ -1,5 +1,5 @@
 ---
-title: "Managing OS Updates w/ Lifecycles"
+title: "Managing OS Updates with Lifecycles"
 date: 2023-11-06
 draft: false
 summary: "Learn to use lifecycle environments to manage and develop versioned custom software sources."
