@@ -11,4 +11,4 @@ showDate: true
 
 ## Details
 
-This video demonstrates using the netstat utility on Oracle Linux 8.
+This video demonstrates using the netstat utility to display the contents of various network-related data structures for active connections on Oracle Linux.

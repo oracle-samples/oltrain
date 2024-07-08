@@ -11,4 +11,4 @@ showDate: true
 
 ## Details
 
-This video provides an introduction to using the nftables firewall.
+This video introduces nftables, which replaces the legacy iptables component of Netfilter in Oracle Linux 7 and older.

@@ -11,4 +11,4 @@ showDate: true
 
 ## Details
 
-This video provides an introduction to using the firewalld utility.
+This video provides an introduction to using the firewalld utility which provides a dynamically managed firewall on Oracle Linux.
