@@ -11,4 +11,4 @@ showDate: true
 
 ## Details
 
-This introduction covers topics on basic bash shell scripting.
+This introduction discusses the basics of scripting with Bash on Oracle Linux.
