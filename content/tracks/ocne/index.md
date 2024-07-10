@@ -49,7 +49,7 @@ An open-source system for automating the deployment, scaling and management of c
 
 {{< card2 limit=50 tag="/tags/ocne-k8s" >}}
 
-{{< figure src="/img/quiz1.png" alt="ocne-kubernetes-quiz" >}}
+<!-- {{< figure src="/img/quiz1.png" alt="ocne-kubernetes-quiz" >}}
 
 Test your skills on what you have learned so far with this quiz.
 
@@ -57,17 +57,17 @@ Test your skills on what you have learned so far with this quiz.
 
 {{< button href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:BPJX2YO" target="_blank" >}}
 Take the quiz
-{{< /button >}}
+{{< /button >}} -->
 
-{{< figure src="/img/ocne/OCNE-istio-section.png" alt="ISTIO section banner" >}}
+<!-- {{< figure src="/img/ocne/OCNE-istio-section.png" alt="ISTIO section banner" >}}
 
 ## Istio
 
 Operating as a service mesh for managing the interaction and operation of services in a microservices architecture. Istio coordinates communication between services, providing service discovery, load balancing, security, recovery, telemetry, and policy enforcement capabilities.
 
-{{< card2 limit=30 tag="/tags/ocne-istio" >}}
+{{< card2 limit=30 tag="/tags/ocne-istio" >}} -->
 
-{{< figure src="/img/quiz1.png" alt="Oracle Cloud Native Environment Quiz section banner" >}}
+<!-- {{< figure src="/img/quiz1.png" alt="Oracle Cloud Native Environment Quiz section banner" >}}
 
 Test your skills on what you have learned so far with this quiz.
 
@@ -75,4 +75,4 @@ Test your skills on what you have learned so far with this quiz.
 
 {{< button href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:DWXQQN7" target="_blank" >}}
 Take the quiz
-{{< /button >}}
+{{< /button >}} -->
