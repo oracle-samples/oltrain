@@ -11,4 +11,4 @@ showDate: true
 
 ## Details
 
-This video provides instructions for installing the EPEL repository.
+This video provides instructions for installing the Extra Packages for Enterprise Linux (EPEL) repository on Oracle Linux.
