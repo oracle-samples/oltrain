@@ -2,7 +2,7 @@
 title: "Running CLI Tasks"
 date: 2022-02-14
 draft: false
-summary: "Learn to run introductory tasks to administer Oracle Linux."
+summary: "Learn to use the Oracle Linux shell and command line to perform a series of introductory tasks to administer the system."
 tags: ["ol","lab","tutorial","ol-intro"]
 showDate: true
 ---
@@ -15,19 +15,21 @@ showDate: true
 
 ## Details
 
-These guides explore introductory tasks for using Oracle Linux.
+This tutorial explores introductory tasks for administring Oracle Linux from the command line using the Bash shell.
 
 ### Objectives
 
-In this lab, you'll:
+In this tutorial, you'll:
 
-  - Execute commands using a shell and the command line.
+  - Run commands using a shell and the command line.
   - Work with files and directories.
   - Edit files with vim.
   - Learn about file permissions.
   - Monitor system processes.
 
-### What Do You Need?
+### Prerequisites
 
-  - A system with Oracle Linux installed
+- Minimum of a single Oracle Linux system
 
+- Each system should have Oracle Linux installed and configured with:
+    - A non-root user account with sudo access
