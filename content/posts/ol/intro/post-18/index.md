@@ -11,7 +11,7 @@ showDate: true
 
 :crescent_moon: [Lab](https://luna.oracle.com/lab/facec73e-8517-4314-877f-d4f8f429c5ab)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/shell-commands-intro-to-oracle-linux)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-shell-cmd)
 
 ## Details
 
