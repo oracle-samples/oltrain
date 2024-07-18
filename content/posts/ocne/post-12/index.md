@@ -2,7 +2,7 @@
 title: "Use MetalLB"
 date: 2022-08-15
 draft: false
-summary: "[MetalLB](https://metallb.universe.tf/) is a network load balancer for Kubernetes applications deployed with Oracle Cloud Native Environment that runs on bare metal hosts. MetalLB allows you to use Kubernetes LoadBalancer services, which traditionally use a cloud provider's network load balancer, in bare metal environments."
+summary: "Learn how to configure MetalLB with Oracle Cloud Native Environment."
 tags: ["ocne", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
