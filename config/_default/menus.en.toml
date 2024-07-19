@@ -238,12 +238,12 @@
   url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzu51n3L6dxHgKRy8CayIBXI"
   weight = 220
 
-# [[main]]
-#   name = "Oracle Cloud Native Environment"
-#   identifier = "pl4"
-#   parent = "pl"
-#   url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzuwyOFQFhl_UyUoJPoseTN-"
-#   weight = 230
+[[main]]
+  name = "Oracle Cloud Native Environment"
+  identifier = "pl4"
+  parent = "pl"
+  url = "https://www.youtube.com/watch?v=MTh850Oro0g&list=PLKCk3OyNwIzsDQW7m47lq27tWFQZVxqur"
+  weight = 230
 
 # [[main]]
 #   name = "Oracle Linux Automation Manager"
