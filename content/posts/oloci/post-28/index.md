@@ -3,7 +3,7 @@ title: "Create Virtual Cloud Networks"
 date: 2022-01-18
 draft: false
 summary: "Learn how to create a Virtual Cloud Network on Oracle Cloud Infrastructure."
-tags: ["oloci","tutorial","oloci-network"]
+tags: ["oloci","lab","tutorial","oloci-network"]
 showDate: true
 ---
 
