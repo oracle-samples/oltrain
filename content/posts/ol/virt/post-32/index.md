@@ -2,7 +2,7 @@
 title: "Install Keycloak"
 date: 2023-10-18
 draft: false
-summary: "Learn how to deploy Keycloak to provide application authentication and secure services using OAUTH and SAML."
+summary: "Learn how to deploy Keycloak to provide application authentication and secure services using OAuth and SAML."
 tags: ["ol","lab","tutorial","ol-podman"]
 showDate: true
 ---
