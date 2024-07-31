@@ -1,7 +1,7 @@
 ---
 title: "Mount a NFS Share"
 date: 2022-09-22
-draft: false
+draft: true
 summary: "Learn how to use an NFS share as a volume for remote and persistent storage within a Podman container."
 tags: ["ol","lab","tutorial","ol-podman"]
 showDate: true

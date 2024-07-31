@@ -1,7 +1,7 @@
 ---
 title: "Use Storage"
 date: 2020-12-14
-draft: false
+draft: true
 summary: "Learn how to user storage with Podman on Oracle Linux."
 tags: ["ol","lab","tutorial","ol-podman"]
 showDate: true

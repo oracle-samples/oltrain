@@ -1,7 +1,7 @@
 ---
 title: "Run Containers"
 date: 2023-09-22
-draft: false
+draft: true
 summary: "Learn how to create and manage containers and images with Podman on Oracle Linux."
 tags: ["ol","lab","tutorial","ol-podman"]
 showDate: true
