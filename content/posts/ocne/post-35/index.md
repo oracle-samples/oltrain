@@ -3,7 +3,7 @@ title: "Install kind"
 date: 2023-08-07
 draft: false
 summary: "Learn to install a local Kubernetes cluster using kind on Oracle Linux to develop for Cloud Native environments."
-tags: ["ocne", "video", "ocne-k8s"]
+tags: ["ocne", "lab", "tutorial", "ocne-k8s"]
 showDate: true
 ---
 
