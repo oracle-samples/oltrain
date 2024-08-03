@@ -2,7 +2,7 @@
 title: "Get Started with Git"
 date: 2023-10-16
 draft: false
-summary: "Learn how to install and get started using Git on Oracle Linux."
+summary: "Learn how to install Git and start using it on Oracle Linux."
 tags: ["ol","lab","tutorial","ol-admin"]
 showDate: true
 ---
@@ -15,26 +15,29 @@ showDate: true
 
 ## Details
 
-Git is a free and open-source Distributed Version Control System (DVCS) which is available for MacOS, MS Windows and Linux/Unix platforms. This lab only covers using Git on Oracle Linux, but the steps covered in this lab work for any platform.
+Git is a free and open-source Distributed Version Control System (DVCS) available for MacOS, MS Windows, and Linux/Unix platforms. This tutorial covers using Git on Oracle Linux, but the steps covered in this tutorial work for any platform. 
 
-How does Git work?  Git does not need a centrally located Git server to be fully functional. Instead, a simple project consists of a local folder on your computer containing files. Git then tracks any changes made to the directories and files contained within the project over time. It achieves this by storing the history and details of branches and commits locally  without requiring a network connection.
+How does Git work? Git does not need a centrally located Git server to be fully functional. Instead, a simple project consists of a local folder on your computer containing files. Git then tracks any changes made to the directories and files contained within the project over time. It achieves this by storing the history and details of branches and commits locally without requiring a network connection.
 
-The ability to manage your code history and track these changes over time is why it is called a _version control system_. Notice the absence of '_distributed_'?  Being '_distributed_' requires a remotely hosted server to provide some of the more advanced features of a remotely hosted server such as GitHub.
+The ability to manage your code history and track these changes over time is why it is called a *version control system*. Notice the absence of *distributed*? Being *distributed* requires a remotely hosted server to provide some of the more advanced features of a remotely hosted server such as GitHub.
 
-Git is very powerful with a large feature set that assists development teams in tracking those changes. Git is most efficient when used at the command line - this may appear to be a barrier for some users. The command line can appear confusing at times, hopefully, this lab helps by providing an introduction showing how to install, configure and then start using Git on Oracle Linux.
+Git is very powerful, with an extensive feature set that assists development teams in tracking changes. It is most efficient when used at the command line, which may appear to be a barrier for some users. The command line can appear confusing at times. Hopefully, this tutorial will help by providing an introduction showing how to install and configure Git and then start using it on Oracle Linux. 
 
-> **Note:** This lab shows how to install and use Git locally. It does not cover using a remote repository, such as GitHub.
+> **Note:** This tutorial shows how to install and use Git locally. It does not cover using a remote repository, such as GitHub.
 
 ### Objectives
 
-In this lab, you'll learn:
+In this tutorial, you'll learn how to:
 
-  - What Git is
-  - How to install Git
-  - How to create a Git repository
-  - The basic commands to use with Git
+  - Install Git
+  - Create a Git repository
+  - Use Git
 
-### What Do You Need?
+### Prerequisites
 
-  - An Oracle Linux system.
+- Minimum of a single Oracle Linux system
 
+- Each system should have Oracle Linux installed and configured with:
+
+   - A non-root user account with sudo access
+   - Access to the internet
