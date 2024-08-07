@@ -15,13 +15,13 @@ showDate: true
 
 ## Details
 
-SELinux is a set of kernel mods and user-space tools that provide another layer of system security, precise access control, system-wide admin-defined policies, and improved mitigation for privilege escalation attacks.
+SELinux, or Security-Enhanced Linux, is a set of kernel modifications and user-space tools designed to protect the Linux Operating System. SELinux is a Linux kernel security module that uses a mechanism called mandatory access controls (MAC) to provide another layer of system security, precise access control, system-wide admin-defined policies, and improved mitigation for privilege escalation attacks as defined by the system administrator.
 
-These guides walk you through using these user-space tools to help keep your system running in enforcing mode.
+This tutorial guides you through using these user-space tools to help keep your system running in enforcing mode.
 
 ### Objectives
 
-In this lab, you'll learn to:
+In this tutorial, you will learn how to:
 
    - Check SELinux mode and status
    - Understand SELinux security labels
@@ -32,7 +32,8 @@ In this lab, you'll learn to:
 
 ### Prerequisites
 
-   - A system with Oracle Linux 8 installed with the following configuration:
-      - a non-root user with `sudo` permissions
+- Minimum of a single Oracle Linux system
 
-
+- Each system should have Oracle Linux installed and configured with:
+    - A non-root user account with sudo access
+    - Access to the Internet
