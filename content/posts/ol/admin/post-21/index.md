@@ -11,20 +11,27 @@ showDate: true
 
 :crescent_moon: [Lab](https://luna.oracle.com/lab/54fa9d88-4243-4b4f-bae2-d52ec8cfb688)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/oracle-linux-nginx)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-nginx)
 
 ## Details
 
-These guides provide instructions for installing the NGINX web server and enabling it on Oracle Linux 8 or later.
+NGINX is a lightweight HTTP/S server capable of higher performance and lower memory use than a typical Apache web server deployment. However, this performance gain comes at the cost of some functionality and flexibility. NGINX has also gained in popularity as a powerful proxy service capable of functioning as a direct HTTP proxy, a reverse proxy with caching, an SMTP, POP3, or IMAP proxy, or a generic TCP/UDP proxy. NGINX also provides load-balancing services with fault tolerance.
 
-### Background
+### Objectives
 
-NGINX is a lightweight HTTP/S server that is capable of higher performance and lower memory use than a typical Apache web server deployment. However, this performance gain comes at the cost of some functionality and flexibility. NGINX has also gained in popularity as a powerful proxy service that is capable of functioning as a direct HTTP proxy, a reverse proxy with caching, an SMTP, POP3 or IMAP proxy or as a generic TCP/UDP proxy. NGINX also provides load balancing services with fault tolerance.
+In this tutorial, you'll learn how to:
 
-On earlier Oracle Linux versions, the NGINX web server was provided as part of a software collection package. The web server package is now directly available from the Oracle Linux 8 Application Streams repository and therefore simpler to deploy and configure.
+   - Install and enable the NGINX web server
+   - Create a custom site
+   - Enable SSL using a self-signed certificate
 
-### What Do You Need?
+### Prerequisites
 
--   Any system with Oracle Linux 8 installed
+- Minimum of a single Oracle Linux system
 
+- Each system should have Oracle Linux installed and configured with:
+    - A non-root user account with sudo access
+    - Access to the Internet
+
+> If using Oracle Cloud Infrastructure (OCI), create ingress security rules for destination ports 80, 443, and 8080 from anywhere.
 
