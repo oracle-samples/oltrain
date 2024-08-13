@@ -1,5 +1,5 @@
 ---
-title: "un Control Group Version 2"
+title: "Run Control Group Version 2"
 date: 2022-03-22
 draft: false
 summary: "Learn how to use control group version 2 on Oracle Linux to limit the CPU time for user slices."
