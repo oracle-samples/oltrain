@@ -7,7 +7,7 @@ tags: ["osmh", "video","osmh-admin"]
 showDate: true
 ---
 
-{{< youtube id="v4GodjnO1Vo" title="Managing Jobs in Oracle OS Management Hub" >}}
+{{< youtube id="73ZqRTTW_wo" title="Managing Jobs in Oracle OS Management Hub" >}}
 
 ## Details
 
