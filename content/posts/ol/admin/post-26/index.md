@@ -19,13 +19,13 @@ Oracle Database Free—Developer Release is the same powerful Oracle Database bu
 
 Whether you are a developer, a data scientist, a DBA, an educator, or just interested in databases, Oracle Database 23c Free—Developer Release is the ideal way to get started. It provides native support for all modern data types, analytics, and the latest development paradigms—all built into one product.
 
-These guides use the container and RPM installation methods to install Oracle Database Free on Oracle Linux.
+This tutorial uses the container and RPM installation methods to install Oracle Database Free on Oracle Linux.
 
-> **For help outside of this lab environment**, see the `Getting help` section of the [Oracle Database Free FAQ](https://www.oracle.com/database/free/faq/).
+> **For help outside of this tutorial**, see the `Getting help` section of the [Oracle Database Free FAQ](https://www.oracle.com/database/free/faq/).
 
 ### Objectives
 
-In this lab, you'll learn how to:
+In this tutorial, you'll learn how to:
 
 - Install Oracle Database Free using Podman
 - Install Oracle Database Free RPM
@@ -33,7 +33,8 @@ In this lab, you'll learn how to:
 
 ### Prerequisites
 
-- A system running Oracle Linux
-- Minimum of 7680 MB free on the partition containing `/opt` for the RPM installation
+- Minimum of a single Oracle Linux system
 
-
+- Each system should have Oracle Linux installed and configured with:
+    - A non-root user account with sudo access
+    - Access to the Internet
