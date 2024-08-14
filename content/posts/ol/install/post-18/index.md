@@ -11,4 +11,4 @@ showDate: true
 
 ## Details
 
-This video demonstrates how to install Image Builder on Oracle Linux.
+This video describes the requirements for, and demonstrates how to install the Image Builder tool on Oracle Linux.
