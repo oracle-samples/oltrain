@@ -11,11 +11,11 @@ showDate: true
 
 :crescent_moon: [Lab](https://luna.oracle.com/lab/660a07d9-0580-4fae-973b-d5dfaebda1cb)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/switch_centos7_ol7)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/switch-centos7-ol7)
 
 ## Details
 
-The following guides provide step-by-step procedures to automatically switch a CentOS 7 instance to Oracle Linux 7 by removing any CentOS-specific packages or replacing them with the Oracle Linux equivalent. As the [README.md](https://github.com/oracle/centos2ol) states in the Oracle centos2ol repository on GitHub, the script used in this tutorial is a work-in-progress and not designed to handle all possible configurations.
+The following tutorial provides step-by-step procedures to automatically switch a CentOS 7 instance to Oracle Linux 7 by removing or replacing any CentOS-specific packages with the Oracle Linux equivalent. The [README.md](https://github.com/oracle/centos2ol) in the Oracle `centos2ol` repository on GitHub states that the script used in this tutorial is a work in progress and not designed to handle all possible configurations.
 
 Please ensure you have a *complete backup* of the system before starting this process if the script cannot successfully convert the system.
 
@@ -23,10 +23,10 @@ Be sure to review the centos2ol project [README.md](https://github.com/oracle/ce
 
 ### Objectives
 
-In this lab, you'll:
+In this tutorial, you'll:
 
   - Check for non-standard kernels
-  - Ensure `yum` configuration is working
+  - Ensure the `yum` configuration is working
   - Disable or remove stale and non-CentOS repositories
   - Ensure 5GB free space in `/var/cache`
   - Disable all automatic updates, including `yum-cron`
@@ -34,4 +34,3 @@ In this lab, you'll:
 ### Prerequisite
 
   - A system with CentOS 7 installed.
-
