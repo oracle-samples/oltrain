@@ -13,7 +13,7 @@ showDate: true
 
 ## Details
 
-The following tutorial provides step-by-step procedures to automatically switch a CentOS 8 instance to Oracle Linux 8 by removing any CentOS-specific packages or replacing them with the Oracle Linux equivalent. As the [README.md](https://github.com/oracle/centos2ol) states in the Oracle centos2ol repository on GitHub, the script used in this tutorial is a work-in-progress and not designed to handle all possible configurations.
+The following tutorial provides step-by-step procedures to automatically switch a CentOS 8 instance to Oracle Linux 8 by removing or replacing any CentOS-specific packages with the Oracle Linux equivalent. The [README.md](https://github.com/oracle/centos2ol) in the Oracle `centos2ol` repository on GitHub states that the script used in this tutorial is a work in progress and not designed to handle all possible configurations.
 
 Please ensure you have a *complete backup* of the system before starting this process if the script cannot successfully convert the system.
 
@@ -24,7 +24,7 @@ Be sure to review the centos2ol project [README.md](https://github.com/oracle/ce
 In this lab, you'll:
 
   - Check for non-standard kernels
-  - Ensure `dnf` configuration is working
+  - Ensure the `dnf` configuration is working
   - Disable or remove stale and non-CentOS repositories
   - Ensure 5GB free space in `/var/cache`
   - Disable all automatic updates, including `dnf-automatic`
@@ -32,4 +32,3 @@ In this lab, you'll:
 ### Prerequisite
 
   - A system with CentOS 8 installed.
-
