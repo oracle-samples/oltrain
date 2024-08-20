@@ -19,16 +19,24 @@ FreeIPA is an open-source identity and authentication management system for Linu
 
 Beyond the scope of this tutorial, FreeIPA also provides MIT Kerberos for Single-Sign-on authentication, the Dogtag Certificate Authority, and optional Domain Name management through an ISC Bind server.
 
-These guides show how to install FreeIPA and configure the included LDAP directory.
+This tutorial shows how to install FreeIPA and configure the included LDAP directory.
 
 ### Objectives
+
+In this tutorial, you will learn how to:
 
   - Install FreeIPA Server
   - Disable anonymous binds
   - Add Users and Groups
 
-### What Do You Need?
+### Prerequisites
 
-  - A system with a minimum of 2 vCPUs, 2GB of RAM, and Oracle Linux installed
-  - An FQDN (Fully Qualified Domain Name ) pointing to your server’s IP address
+- Minimum of a single Oracle Linux system
+
+- Each system should have Oracle Linux installed and configured with:
+    - A non-root user account with sudo access
+    - Access to the Internet
+    - An FQDN (Fully Qualified Domain Name ) pointing to your server’s IP address
+
+> For more information on requirements for FreeIPA, see the upstream [Quick Start Guide](https://www.freeipa.org/page/Quick_Start_Guide#Preparing_a_Platform).
 
