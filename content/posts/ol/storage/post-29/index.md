@@ -1,8 +1,8 @@
 ---
-title: "Use Btrfs Send and Recv"
+title: "Use Btrfs Send and Receive"
 date: 2024-08-20
 draft: false
-summary: "Learn how to use the Btrfs send and recv features to remotely back up a subvolume over SSH."
+summary: "Learn how to use the Btrfs send and receive features to remotely back up a subvolume over SSH."
 tags: ["ol", "tutorial", "ol-storage"]
 showDate: true
 ---
@@ -15,7 +15,7 @@ showDate: true
 
 ## Details
 
-Having a backup is essential to avoid losing data. Using Btrfs and its send and recv features, we can configure secure sender and receiver systems to securely and efficiently remote backup a subvolume over SSH. Then, set up Systemd timers to perform regular, timely backups.
+Having a backup is essential to avoid losing data. Using Btrfs and its send and receive features, we can configure secure sender and receiver systems to securely and efficiently remote backup a subvolume over SSH. Then, set up Systemd timers to perform regular, timely backups.
 
 Note that only the changes made on the sender system are copied to the receiver system, reducing the backup facility's overhead. Since the systems use Btrfs snapshots, the disk usage for incremental backups is restricted only to the size of the changes.
 
