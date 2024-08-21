@@ -2,7 +2,7 @@
 title: "Disable Kernel Module"
 date: 2023-05-03
 draft: false
-summary: "Learn how to disable the bluetooth kernel module and to prevent it loading at boot time on Oracle Linux 8 and Oracle Linux 9 systems."
+summary: "Learn how to disable a kernel module and prevent it from loading at boot time."
 tags: ["ol","lab","tutorial","ol-admin"]
 showDate: true
 ---
@@ -15,21 +15,23 @@ showDate: true
 
 ## Details
 
-In this lab you unload a kernel module on an Oracle Linux instance and configure the system to prevent the module from loading at boot time. You can use this knowledge to disable kernel modules for hardware that might be causing a problem on a system or that may be flagged for a vulnerability.
+As a Linux administrator, there will come a time when you want to disable kernel modules for hardware that might be causing a problem on a system, or it gets flagged for a vulnerability.
 
 ### Objectives
 
-These guides show how to disable the btrfs Linux kernel module on Oracle Linux and to prevent it from loading at boot time. The btrfs module is used for demonstration purposes but you could use the same procedure to disable any other Linux kernel module on a system. The main steps are outlined below:
+In this tutorial, you will learn how to:
 
-  - Disable the module using modprobe
+  - Disable a module using modprobe
   - Add the module to the kernel module deny list
   - Create a backup of the existing initramfs
   - Rebuild the initramfs by using dracut to exclude the module
 
-> **Note:** Disabling modules can have unintended consequences and can prevent a system from booting properly or from being fully functional after boot. In this tutorial we demonstrate creating a backup ramdisk image as best practice to make sure that you are able to recover in the event that a change prevents boot.
+> **Note:** Disabling modules can have unintended consequences and prevent a system from booting properly or being fully functional after boot. Therefore, we'll demonstrate creating a backup ramdisk image as best practice to ensure you can recover if a change prevents booting the operating system.
 
-### What Do You Need?
+### Prerequisites
 
-  - A client system with Oracle Linux 8 or Oracle Linux 9 installed
+- Minimum of a single Oracle Linux system
 
-
+- Each system should have Oracle Linux installed and configured with:
+    - A non-root user account with sudo access
+    - Access to the Internet
