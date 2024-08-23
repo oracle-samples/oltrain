@@ -15,19 +15,22 @@ showDate: true
 
 ## Details
 
-These guides provide step-by-step procedures to perform user and group administration on Oracle Linux. You will create users and groups, implement user private groups, and grant user elevated privileges.
+When administering a Linux system, you will eventually need to create users and groups, whether for a particular software installation or to perform a specific task. As for groups, it's a great way to control directory access.
 
 ### Objectives
 
-In this lab, you'll:
+In this tutorial, you will learn how to:
 
-  - Create a new user and explore user's home directory
-  - Create a new group and add user to group
+  - Create a new user and explore the user's home directory
+  - Create a new group and add a user to the group
   - Utilize the user private group scheme and implement write access to a directory
   - Administer the `sudo` command for granting **root** privileges
 
-### What Do You Need?
+### Prerequisites
 
-  - A system with Oracle Linux installed
+- Minimum of a single Oracle Linux system
 
+- Each system should have Oracle Linux installed and configured with:
+    - A non-root user account with sudo access
+    - Access to the Internet
 
