@@ -2,7 +2,7 @@
 title: "Configure SSH Tunnels"
 date: 2022-07-09
 draft: false
-summary: "Learn to configure SSH tunnels on Oracle Linux."
+summary: "Learn how to configure SSH tunnels to establish secure connections using Oracle Linux."
 tags: ["ol","lab","tutorial","ol-remote"]
 showDate: true
 ---
@@ -11,19 +11,26 @@ showDate: true
 
 :crescent_moon: [Lab](https://luna.oracle.com/lab/d1dc0830-fe30-48d4-8e5c-d30ad525e36e)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/oracle-linux-ssh-tunnels)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-ssh-tunnels)
 
 ## Details
 
-These guides provide step by step procedures to configure SSH tunnels for network traffic. SSH tunnels or SSH forwarding encapsulates specific TCP traffic and enables it to traverse the network through an SSH connection. This tutorial is targeted at users of Oracle Linux 8 or later.
+SSH is the default standard for making secure connections or file transfers over an untrusted network. SSH tunneling or SSH port forwarding allows for the encapsulation of specific TCP data traffic during transit without the fear of it being eavesdropped or intercepted. This approach even allows for adding network security to legacy applications that do not natively support encryption.
 
 ### Objectives
-This tutorial teaches you how to configure the following types of SSH tunneling:
 
-* Dynamic port forwarding
-* Local port forwarding
+In this tutorial, you will learn how to:
 
-### What Do You Need?
-* A remote SSH system with the some configured services, such as web services, VNC services, Cockpit, etc to be used by remote clients.
-* A client system with appropriate software installed, such as a desktop viewer to use VNC services.
+   - Create a dynamic port forwarding tunnel
+   - Establish a local port forwarding tunnel
 
+### Prerequisites
+
+- Minimum of two Oracle Linux systems
+
+- Each system should have Oracle Linux installed and configured with:
+    - A non-root user account with sudo access
+    - Key-based SSH, also known as password-less SSH, between the hosts
+    - Access to the Internet
+
+> This tutorial uses the Cockpit web-based application to test the SSH tunnel, available by default on Oracle Linux cloud images. You can also use VNC services or other web applications and services just as easily.
