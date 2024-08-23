@@ -2,12 +2,12 @@
 title: "Search for Packages"
 date: 2024-05-03
 draft: false
-summary: "This video demonstrates the search packages resource for instances and then demonstrates the package search feature of software sources."
+summary: "This video demonstrates the search packages resource for instances and then demonstrates the package search feature for software sources."
 tags: ["osmh","video","osmh-admin"]
 showDate: true
 ---
 
-{{< youtube id="Rv8Dlk4EyKo" title="Search for Packages in Oracle OS Management Hub" >}}
+{{< youtube id="Q-1okN_LxMs" title="Search for Packages in Oracle OS Management Hub" >}}
 
 ## Details
 
