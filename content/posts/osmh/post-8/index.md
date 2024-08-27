@@ -7,7 +7,7 @@ tags: ["osmh", "video","osmh-dev"]
 showDate: true
 ---
 
-{{< youtube id="5hQuu82Lka4" title="Creating Lifecycle Environments in Oracle OS Management Hub" >}}
+{{< youtube id="_Gq2TfYiEo8" title="Creating Lifecycle Environments in Oracle OS Management Hub" >}}
 
 ## Details
 
