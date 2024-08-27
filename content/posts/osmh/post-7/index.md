@@ -7,7 +7,7 @@ tags: ["osmh", "video","osmh-deploy"]
 showDate: true
 ---
 
-{{< youtube id="4JiabsfKFJ4" title="Creating Groups in Oracle OS Management Hub" >}}
+{{< youtube id="-KrxEQTwQnQ" title="Creating Groups in Oracle OS Management Hub" >}}
 
 ## Details
 
