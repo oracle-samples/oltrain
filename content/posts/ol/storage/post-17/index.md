@@ -1,7 +1,7 @@
 ---
 title: "Use autofs"
 date: 2021-03-28
-draft: false
+draft: true
 summary: "Learn how to autofs to mount NFS shares automatically."
 tags: ["ol", "lab", "tutorial", "ol-storage"]
 showDate: true
