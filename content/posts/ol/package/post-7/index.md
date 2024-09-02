@@ -17,16 +17,16 @@ showDate: true
 
 The task of mirroring a yum repository holds multiple benefits. These include the following:
 
-- Provide access to yum repositories for systems without access to a public network
+- Provide access to Yum repositories for systems without access to a public network
 - Improve software download times and reduce the bandwidth overhead of a large infrastructure
 - Configure local network-based installation strategies
 - Catering for a snapshot style update strategy where performing testing against a controlled software distribution environment
 
-This tutorial shows how to mirror a yum repository for local, offline, or distributed systems access.
+This tutorial shows how to mirror a yum repository to access to local, offline, or distributed systems.
 
 ### Objectives
 
-In this lab, you'll learn how to:
+In this tutorial, you'll learn how to:
 
    - Prepare a system to host the repository mirror
    - Install and configure a web server
@@ -36,5 +36,9 @@ In this lab, you'll learn how to:
 ### Prerequisites
 
   - Two Oracle Linux systems, one for the server and the other as a client
-  - Storage with enough free space to contain the repository mirror
 
+  - Each system should have Oracle Linux installed and configured with:
+    - A non-root user account with sudo access
+    - Access to the Internet
+
+  - Storage with enough free space to contain the repository mirror 
