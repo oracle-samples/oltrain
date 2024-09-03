@@ -2,7 +2,7 @@
 title: "Encrypt drives using LUKS"
 date: 2022-07-25
 draft: false
-summary: "Learn how to encrypt drives using LUKS"
+summary: "Learn how to encrypt a device using LUKS on Oracle Linux."
 tags: ["ol", "lab", "tutorial", "ol-storage"]
 showDate: true
 ---
@@ -15,9 +15,9 @@ showDate: true
 
 ## Details
 
-Oracle Linux includes device mapper crypt (`dm-crypt`) and the Linux Unified Key Setup (LUKS) to handle encryption on block devices.
+Oracle Linux includes a device mapper crypt (`dm-crypt`) and the Linux Unified Key Setup (LUKS) to handle encryption on block devices.
 
-In this lab, we'll focus on the front-end tools to encrypt a device using LUKS, which utilizes the `dm-crypt` module from the device mapper support included with the Linux Kernel.
+In this tutorial, we'll focus on the front-end tools to encrypt a device using LUKS, which utilizes the `dm-crypt` module from the device mapper support included with the Linux Kernel.
 
 ### Objectives
 
@@ -29,6 +29,9 @@ In this tutorial, you will learn how to:
 
 ### Prerequisites
 
-The tutorial uses the following system:
+- Minimum of a single Oracle Linux system
 
-- A system with an available disk and a fully patched installation of Oracle Linux.
+- Each system should have Oracle Linux installed and configured with:
+    - A non-root user account with sudo access
+    - Access to the Internet
+    - A block device attached to the system  
