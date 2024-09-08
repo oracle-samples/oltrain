@@ -2,7 +2,7 @@
 title: "Deploy Quay in HA"
 date: 2023-03-31
 draft: false
-summary: "Learn how to deploy a High Availabilty Project Quay Registry Configuration on Podman."
+summary: "Learn to set up and use a high-availability deployment of Project Quay Registry using Podman and HAProxy on Oracle Linux."
 tags: ["ol","lab","tutorial","ol-podman"]
 showDate: true
 ---
@@ -11,43 +11,40 @@ showDate: true
 
 :crescent_moon: [Lab](https://luna.oracle.com/lab/a63c2548-c459-457f-b3d1-123c99d90d89)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/podman-ha-quay)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-podman-quay-ha)
 
 ## Details
 
-Project Quay is an open-source repository used to store and manage artefacts such as containers for use on cloud native platforms.  Project Quay also offers additional functionality such as (in no particular order):
+Project Quay is an open-source repository that stores and manages artifacts such as containers for use on cloud-native platforms. It offers these and many other features:
 
-  - Registry - High availability
-  - Security - Vulnerability scanning, Logging & Auditing, Notifications & Alerts
-  - Access Control - Role-based access control (RBAC)
-  - Integration - OAuth support
-  - Build Automation - Git/GitHub/GitLab integration
+  - High availability registry
+  - Vulnerability scanning, logging, auditing, notifications, and alerts
+  - Role-based access control (RBAC)
+  - Integration with OAuth support
+  - Build automation integration with Git/GitHub/GitLab
 
-It can be deployed on either a Kubernetes cluster using an Operator, or as a standalone container or high availability cluster on Podman.
+As a container, it can be deployed on a Kubernetes cluster using an Operator or on Podman, providing a standalone or high-availability deployment. 
 
 ### Objectives
 
-This lab demonstrates how to:
+In this tutorial, you'll learn how to:
 
  - Access a 3-node Project Quay deployment
  - Verify basic Project Quay functionality works
  - Use the HAProxy Console to monitor Project Quay nodes
 
-  > **Note:** The steps provided do not include how to configure the registry using certificates.  Therefore, configuring Project Quay in this specific way is recommended for non-production purposes or an internal/air-gapped environment only.
+ > **Note:** The steps provided do not include configuring the registry using certificates. Therefore, configuring Project Quay in this specific way is recommended for non-production purposes or an internal/air-gapped environment only.
 
-### Requirements
+### Prerequisites
 
-Four systems with Oracle Linux, Podman, Redis, PostgreSQL, HAProxy and Project Quay installed, whose responsibilities are apportioned like this:
+- Four Oracle Linux systems
 
-   | Server Name | Role/Purpose                                                        |
-   | ----------- | ------------------------------------------------------------------- |
-   | _ol-server_ | Hosts the HAProxy load balancer and the Postgres database           |
-   | _quay01_, _quay02_, _quay03_ | Hosts the Project Quay and Redis servers |
+- Each system should have Oracle Linux installed and configured with:
+   - A non-root user account with sudo access
+   - Access to the Internet
+   - Firewall and ingress rules to allow TCP and/or HTTP traffic for the services
 
-In addition the requisite security rules to allow TCP and/or HTTP traffic to permit the above to work must be configured correctly.<br>
-
-> **Note:** This lab builds upon these two previous labs, which provide details explaining how to install and configure both HAProxy and Project Quay, respectively:
->
->   - [Learn to install Project Quay on Podman](https://luna.oracle.com/lab/e3f488a9-20a8-49d8-ae08-818f8730568c)
->   - [Deploy HAProxy using Podman](https://luna.oracle.com/lab/a9eb9ff9-b56d-4ddc-9283-b72467d78128)
->
+| Server Name | Role/Purpose                                                        | 
+| ----------- | ------------------------------------------------------------------- | 
+| *ol-node-01* | Hosts the HAProxy load balancer and the Postgres database           |
+| *quay-01*, *quay-02*, *quay-03* | Hosts the Project Quay and Redis servers |
