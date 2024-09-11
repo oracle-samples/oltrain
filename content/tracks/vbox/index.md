@@ -1,9 +1,9 @@
 ---
-title: "Oracle VM VirtualBox"
+title: "Oracle VirtualBox"
 date: 2020-08-12
 draft: false
-description: "Welcome to Oracle VM VirtualBox Track"
-summary: "This track allows you to explore Oracle VM VirtualBox to help you grow your skill set using free videos and hands-on tutorials and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming better at testing, developing, demonstrating, and deploying solutions across multiple platforms from ultra-books to high-end server class hardware and cloud infrastructure, using a lightweight, easy to use, fast and powerful virtualization engine."
+description: "Welcome to Oracle VirtualBox Track"
+summary: "This track allows you to explore Oracle VirtualBox to help you grow your skill set using free videos and hands-on tutorials and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming better at testing, developing, demonstrating, and deploying solutions across multiple platforms from ultra-books to high-end server class hardware and cloud infrastructure, using a lightweight, easy to use, fast and powerful virtualization engine."
 tags: ["vbox","track"]
 slug: "vbox"
 showRecent: false
@@ -24,22 +24,22 @@ aliases:
 - /vbox/vbox/
 ---
 
-{{< figure src="/img/vbox/vbox-1200x200-banner.png" alt="Oracle VM VirtualBox Track Graphic" >}}
+{{< figure src="/img/vbox/vbox-2024-1200x200-banner.png" alt="Oracle VirtualBox Track Graphic" >}}
 
 ---
 
-{{< lead >}} VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 3. {{< /lead >}}
+{{< lead >}} VirtualBox is a powerful x86, ARM, and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 3. {{< /lead >}}
 
 ---
 
-{{< figure src="/img/vbox/vboxmanage-sect.png" alt="Oracle VM VirtualBox VBoxManage separator banner" >}}
+{{< figure src="/img/vbox/vboxmanage-sect.png" alt="Oracle VirtualBox VBoxManage separator banner" >}}
 
-## Oracle VM VirtualBox VBoxManage
+## Oracle VirtualBox VBoxManage
 {{< card2 limit=30 tag="/tags/vbox-cli" >}}
 
-{{< figure src="/img/vbox/vbox-7-sect.png" alt="Oracle VM VirtualBox 7 separator banner" >}}
+{{< figure src="/img/vbox/vbox-70-2024-sect.png" alt="Oracle VirtualBox 7.0 separator banner" >}}
 
-## Oracle VM VirtualBox 7
+## Oracle VirtualBox 7.0
 {{< card2 limit=30 tag="/tags/vbox7" >}}
 
 {{< figure src="/img/quiz1.png" alt="Virtualbox Track quiz graphic" >}}
