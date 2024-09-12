@@ -11,4 +11,4 @@ showDate: true
 
 ## Details
 
-This video demonstrates how to use VBoxManage to register a virtual machine(VM) with Oracle VM VirtualBox on an Oracle Linux system.
+This video demonstrates how to use VBoxManage to register a virtual machine(VM) with Oracle VirtualBox on an Oracle Linux system.

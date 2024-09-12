@@ -21,16 +21,15 @@ This tutorial will work with the Oracle Linux Volume Manager utilities to create
 
 ### Objectives
 
-In this tutorial, you will learn how to:
-
 - Create a RAID logical volume
 - Resize a RAID logical volume
 - Recover a failed RAID device
 
 ### Prerequisites
 
-The tutorial uses the following system:
+- Minimum of a single Oracle Linux system
 
-- Any Oracle Linux 8 system with the following configurations:
-  - a non-root user with sudo permissions
-  - additional block volumes for use with LVM
+- Each system should have Oracle Linux installed and configured with:
+    - A non-root user account with sudo access
+    - Access to the Internet
+    - Six or more block devices attached to the system  

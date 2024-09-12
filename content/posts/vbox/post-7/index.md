@@ -2,7 +2,7 @@
 title: "Use VirtualBox on OCI"
 date: 2022-12-19
 draft: false
-summary: "Learn how to create virtual machines using Oracle VM VirtualBox running on a Oracle Linux cloud instance."
+summary: "Learn how to create virtual machines using Oracle VirtualBox 7.0 running on a Oracle Linux cloud instance."
 tags: ["vbox","lab","tutorial","vbox7"]
 showDate: true
 ---
@@ -15,7 +15,7 @@ showDate: true
 
 ## Details
 
-Oracle VM VirtualBox allows the simple and fast creation of virtual machines (VM) supporting a wide variety of operating systems. VirtualBox can be installed and run on various platforms, from a standalone laptop to a cloud instance. This hands on lab guides you through installing VirtualBox and its extension pack on an Oracle Linux cloud instance. It steps you through creating a new virtual machine using VirtualBox installed on the cloud instance, and installing the Guest Additions to the new VM.
+Oracle VirtualBox allows the simple and fast creation of virtual machines (VM) supporting a wide variety of operating systems. VirtualBox can be installed and run on various platforms, from a standalone laptop to a cloud instance. This hands on lab guides you through installing VirtualBox and its extension pack on an Oracle Linux cloud instance. It steps you through creating a new virtual machine using VirtualBox installed on the cloud instance, and installing the Guest Additions to the new VM.
 
 You will practice implementing nested virtualization in VirtualBox to support the creation of virtual machines on the cloud instance. You will install Guest Additions to a VM which will provide closer integration between host and guest and improve the interactive performance of the guest system.
 

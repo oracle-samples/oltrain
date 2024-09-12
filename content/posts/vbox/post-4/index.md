@@ -2,7 +2,7 @@
 title: "Manage OCI Instances"
 date: 2022-10-25
 draft: false
-summary: "Learn how to centerally manage OCI environments within VirtualBox."
+summary: "Learn how to centerally manage OCI environments within Oracle VirtualBox 7.0."
 tags: ["vbox", "video","vbox7"]
 showDate: true
 ---
@@ -11,4 +11,4 @@ showDate: true
 
 ## Details
 
-With Oracle VM VirtualBox you can now centrally managed your local and OCI environments directly from the VirtualBox UI.
+With Oracle VirtualBox 7.0 you can now centrally managed your local and OCI environments directly from the VirtualBox UI.

@@ -11,4 +11,4 @@ showDate: true
 
 ## Details
 
-With Oracle VM VirtualBox 7 you can get a local virtual machine acting and working like it is running on Oracle Cloud Infrastructure thanks to the "Cloud Network" feature.
+With Oracle VirtualBox 7.0 you can get a local virtual machine acting and working like it is running on Oracle Cloud Infrastructure thanks to the "Cloud Network" feature.
