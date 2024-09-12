@@ -1,8 +1,8 @@
 ---
-title: "Use Network-Bound Disk Encryption"
+title: "Use Network Bound Disk Encryption"
 date: 2021-06-21
 draft: false
-summary: "Learn how to use Network-Bound Disk Encryption."
+summary: "Learn how to use Network Bound Disk Encryption with Tang and Clevis on Oracle Linux."
 tags: ["ol", "lab", "tutorial", "ol-storage"]
 showDate: true
 ---
@@ -11,22 +11,27 @@ showDate: true
 
 :crescent_moon: [Lab](https://luna.oracle.com/lab/e348bfed-8e08-4b12-8114-74e87eb12497)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/nbde-oracle-linux)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-tang-clevis)
 
 ## Details
 
-The following tutorial shows you how to configure an Oracle Linux system with disk encryption that is dependent on a network based key service.
+This tutorial demonstrates how to configure an Oracle Linux system with Linux Unified Key Setup (LUKS) disk encryption that is dependent on a network-based key service consisting of [Tang](https://github.com/latchset/tang) and [Clevis](https://github.com/latchset/clevis). You will create an encrypted XFS file system that is automatically unlocked at boot when on the same network as your key server.
 
 ### Objectives
 
-In this tutorial, you will learn how to:
+In this tutorial, you'll learn how to:
 
-- Create an encrypted XFS file system that is automatically unlocked at boot when on the same network as your key server 
-- This tutorial is targeted at users of Oracle Linux 8 or later.
+  - Set up LUKS using [cryptsetup](https://gitlab.com/cryptsetup/cryptsetup/-/wikis/home), which provides the tooling for disk-based encryption and includes support for LUKS.
+  - Configure Tang as a network service that provides cryptographic services over HTTP.
+  - Use Clevis for the network encryption framework. Clevis can use keys provided by Tang as a passphrase to unlock LUKS volumes.
+
 
 ### Prerequisites
 
-The tutorial uses the following system:
+- Minimum of two Oracle Linux systems
 
-- Two systems with Oracle Linux 8 installed.
-- A disk or block device attached to one system to use for encrypted storage
+- Each system should have Oracle Linux installed and configured with:
+    - A non-root user account with sudo access
+    - Access to the Internet
+    - A disk or block device attached to the system to use for encrypted storage
+
