@@ -73,7 +73,7 @@
   weight = 80
 
 [[main]]
-  name = "Oracle VM VirtualBox"
+  name = "Oracle VirtualBox"
   identifier = "t9"
   parent = "t"
   pageRef = "tracks/vbox"
@@ -190,7 +190,7 @@
   weight = 180
 
 [[main]]
-  name = "Oracle VM VirtualBox"
+  name = "Oracle VirtualBox"
   identifier = "doc9"
   parent = "doc"
   url = "https://docs.oracle.com/en/virtualization/virtualbox/index.html"
@@ -281,7 +281,7 @@
   weight = 280
 
 [[main]]
-  name = "Oracle VM VirtualBox"
+  name = "Oracle VirtualBox"
   identifier = "pl10"
   parent = "pl"
   url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsbt_qDAXLMF5oFUhEkgbUM"
