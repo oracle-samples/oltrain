@@ -1,7 +1,7 @@
 ---
 title: "System Logging"
 date: 2021-11-03
-draft: false
+draft: true
 summary: "Learn how to use journald, logwatch, and rsyslog on Oracle Linux."
 tags: ["ol","lab","tutorial","ol-monitor"]
 showDate: true
