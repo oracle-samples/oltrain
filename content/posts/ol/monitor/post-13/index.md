@@ -1,7 +1,7 @@
 ---
 title: "Monitor System Resources"
 date: 2021-10-21
-draft: false
+draft: true
 summary: "Learn how to use vmstat, mpstat, and top to report the usage of system resources."
 tags: ["ol","lab","tutorial","ol-monitor"]
 showDate: true

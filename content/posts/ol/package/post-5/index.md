@@ -1,7 +1,7 @@
 ---
 title: "Maintain Security with DNF"
 date: 2023-09-12
-draft: false
+draft: true
 summary: "Learn to use DNF for security package maintenance on Oracle Linux."
 tags: ["ol","lab","tutorial","ol-package"]
 showDate: true
