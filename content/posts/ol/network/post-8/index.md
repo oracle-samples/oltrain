@@ -1,7 +1,7 @@
 ---
 title: "NetworkManager and IP"
 date: 2021-09-17
-draft: false
+draft: true
 summary: "Learn to use NetworkManager and the IP Command to configure and manage network interfaces on Oracle Linux."
 tags: ["ol","lab","tutorial","ol-network"]
 showDate: true

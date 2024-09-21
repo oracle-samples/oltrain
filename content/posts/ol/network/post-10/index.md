@@ -1,7 +1,7 @@
 ---
 title: "Create VLANs"
 date: 2022-05-16
-draft: false
+draft: true
 summary: "Learn how to create and delete VLAN interfaces in Oracle Linux."
 tags: ["ol","lab","tutorial","ol-network"]
 showDate: true
