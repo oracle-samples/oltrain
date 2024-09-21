@@ -1,7 +1,7 @@
 ---
 title: "Create Network Bonds"
 date: 2022-05-02
-draft: false
+draft: true
 summary: "Learn how to create a logical group interface by bonding multiple interfaces together using the nmcli and ip commands on Oracle Linux."
 tags: ["ol","lab","tutorial","ol-network"]
 showDate: true
