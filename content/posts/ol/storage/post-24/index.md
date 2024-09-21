@@ -15,7 +15,7 @@ showDate: true
 
 ## Details
 
-Logical Volume Management allows for removing unused physical volumes (PVs) and for the moving of an entire volume group (VGs). The removal of a PV shrinks the overall size of the VG.
+Logical Volume Management allows for removing unused physical volumes (PVs) and moving an entire volume group (VGs). The removal of a PV shrinks the overall size of the VG.
 
 This tutorial will work with the Oracle Linux Volume Manager utilities to shrink a volume group by removing a physical volume and then transferring the volume group to another system.
 
@@ -23,14 +23,14 @@ This tutorial will work with the Oracle Linux Volume Manager utilities to shrink
 
 In this tutorial, you will learn how to:
 
-- Move a logical volume
-- Shrink a volume group
-- Transfer a volume group to another system
+   - Move a logical volume
+   - Shrink a volume group
+   - Transfer a volume group to another system
 
 ### Prerequisites
 
-The tutorial uses the following system:
+- Minimum of two Oracle Linux systems
 
-- Two Oracle Linux 8 systems with the following configurations:
-  - a non-root user with sudo permissions
-  - additional block volumes for use with LVM
+- Each system should have Oracle Linux installed and configured with:
+   - A non-root user account with sudo access
+   - Additional block volumes for use with LVM
