@@ -19,11 +19,11 @@ Relax-and-Recover (ReaR) was born in 2006 by Gratien D'haese and Schlomo Schapir
 
 ReaR is directly available from the Application Streams repository in Oracle Linux 8 or later and is simple to deploy and configure.
 
-These guides walk users on installing and configuring ReaR to backup and restore Oracle Linux using NFS storage.
+This tutorial guides users on installing and configuring ReaR to backup and restore Oracle Linux using NFS storage.
 
 ### Objectives
 
-At the end of these guides, you should be able to do the following:
+In this tutorial, you'll learn to:
 
 - Install the ReaR package
 - Configure ReaR to exclude specific filesystems, mount points, and Logical Volumes that are not needed
@@ -33,8 +33,10 @@ At the end of these guides, you should be able to do the following:
 
 ### Prerequisites
 
+- Minimum of three Oracle Linux systems
+
  - An Oracle Linux system as the ReaR client
  - An NFS server as the backup storage location
  - Another system for the recovery
 
-
+> We'll leverage KVM in this tutorial to create virtual machines for the required systems.

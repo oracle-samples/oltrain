@@ -15,13 +15,11 @@ showDate: true
 
 ## Details
 
-Auditd is a userspace system daemon that runs in the background generating logs about different activities performed on Oracle Linux.
-
-These guides walk you through installation, configuration, and using auditd.
+Auditd is a userspace system daemon running in the background, generating logs about activities performed on Oracle Linux.
 
 ### Objectives
 
-In this lab, you'll learn to:
+In this tutorial, you'll learn to:
 
    - Install the audit packages
    - Manage the audit service
@@ -29,7 +27,7 @@ In this lab, you'll learn to:
    - Search the audit logs
 
 ### Prerequisites
+- Minimum of two Oracle Linux systems
 
-  - A system with Oracle Linux 8 installed
-  - a non-root user with `sudo` permissions
-
+- Each system should have Oracle Linux installed and configured with:
+   - A non-root user account with sudo access
