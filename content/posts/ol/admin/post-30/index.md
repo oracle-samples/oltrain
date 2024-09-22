@@ -15,23 +15,24 @@ showDate: true
 
 ## Details
 
-Oracle Database 19c Enterprise Edition, the current long-term support release of Oracle Database, is now certified and available on the popular Arm architecture for cloud and on-premises deployments.
+Oracle Database 19c Enterprise Edition, the current long-term support release of Oracle Database, is now certified and available on the popular Arm architecture for cloud and on-premises deployments.  
 
 The Oracle Cloud Infrastructure (OCI) Ampere A1 compute platform provides deterministic performance, linear scalability, and an energy-efficient, sustainable, eco-friendly design for Oracle Database customers. Building applications is free to try, easy to learn, and fast to explore.
 
-These guides use the container method to install Oracle Database 19c on Oracle Linux on an OCI Ampere A1 compute instance.
+This tutorial uses the container method to install Oracle Database 19c on Oracle Linux on an OCI Ampere A1 compute instance.
 
 > **For help outside of this lab environment**, see the Oracle Database server Release 19c [documentation](http://docs.oracle.com/en/database/).
 
 ### Objectives
 
-In these guides, you'll learn how to:
+In this tutorial, you'll learn how to:
 
 - Install Oracle Database 19c using Podman
 - Connect to Oracle Database 19c using SQL*Plus
 
 ### Prerequisites
 
-- A system running Oracle Linux
+- Minimum of one Oracle Linux system
 
-
+- Each system should have Oracle Linux installed and configured with:
+   - A non-root user account with sudo access
