@@ -52,46 +52,46 @@
   weight = 50
 
 [[main]]
-  name = "Oracle OS Management Service"
+  name = "Oracle OS Management Hub"
   identifier = "t6"
   parent = "t"
-  pageRef = "tracks/osms"
+  pageRef = "tracks/osmh"
   weight = 60
 
 [[main]]
-  name = "Oracle OS Management Hub"
+  name = "Oracle Private Cloud Appliance"
   identifier = "t7"
   parent = "t"
-  pageRef = "tracks/osmh"
+  pageRef = "tracks/opca"
   weight = 70
 
 [[main]]
-  name = "Oracle Private Cloud Appliance"
+  name = "Oracle VirtualBox"
   identifier = "t8"
   parent = "t"
-  pageRef = "tracks/opca"
+  pageRef = "tracks/vbox"
   weight = 80
 
 [[main]]
-  name = "Oracle VirtualBox"
-  identifier = "t9"
-  parent = "t"
-  pageRef = "tracks/vbox"
-  weight = 90
-
-[[main]]
   name = "Oracle Cloud Infrastructure Secure Desktops"
-  identifier = "t10"
+  identifier = "t9"
   parent = "t"
   pageRef = "tracks/osd"
   weight = 95
 
 [[main]]
   name = "Oracle Compute Cloud@Customer"
-  identifier = "t11"
+  identifier = "t10"
   parent = "t"
   pageRef = "tracks/oc3"
   weight = 96
+
+[[main]]
+  name = "Oracle OS Management Service"
+  identifier = "t11"
+  parent = "t"
+  pageRef = "tracks/osms"
+  weight = 97
 
 [[main]]
   name = "Blogs"
@@ -169,47 +169,46 @@
   weight = 150
 
 [[main]]
-  name = "Oracle OS Management Service"
+  name = "Oracle OS Management Hub"
   identifier = "doc6"
   parent = "doc"
-  url = "https://docs.oracle.com/en-us/iaas/os-management/home.htm"
+  url = "https://docs.oracle.com/iaas/osmh/doc/home.htm"
   weight = 160
 
 [[main]]
-  name = "Oracle OS Management Hub"
+  name = "Oracle Private Cloud Appliance"
   identifier = "doc7"
   parent = "doc"
-  url = "https://docs.oracle.com/iaas/osmh/doc/home.htm"
+  url = "https://docs.oracle.com/en/engineered-systems/private-cloud-appliance/"
   weight = 170
 
 [[main]]
-  name = "Oracle Private Cloud Appliance"
+  name = "Oracle VirtualBox"
   identifier = "doc8"
   parent = "doc"
-  url = "https://docs.oracle.com/en/engineered-systems/private-cloud-appliance/"
+  url = "https://docs.oracle.com/en/virtualization/virtualbox/index.html"
   weight = 180
 
 [[main]]
-  name = "Oracle VirtualBox"
-  identifier = "doc9"
-  parent = "doc"
-  url = "https://docs.oracle.com/en/virtualization/virtualbox/index.html"
-  weight = 190
-
-[[main]]
   name = "Oracle Cloud Infrastructure Secure Desktops"
-  identifier = "doc10"
+  identifier = "doc9"
   parent = "doc"
   url = "https://docs.oracle.com/en-us/iaas/secure-desktops/home.htm"
   weight = 195
 
   [[main]]
   name = "Oracle Compute Cloud@Customer"
-  identifier = "doc11"
+  identifier = "doc10"
   parent = "doc"
   url = "https://docs.oracle.com/en-us/iaas/compute-cloud-at-customer/home.htm"
   weight = 196
 
+[[main]]
+  name = "Oracle OS Management Service"
+  identifier = "doc11"
+  parent = "doc"
+  url = "https://docs.oracle.com/en-us/iaas/os-management/home.htm"
+  weight = 197
 
 [[main]]
   name = "Playlists"
@@ -260,46 +259,46 @@
   weight = 250
 
 [[main]]
-  name = "Oracle OS Management Service"
+  name = "Oracle OS Management Hub"
   identifier = "pl7"
   parent = "pl"
-  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsn5mtWgjb_HS7GJoKa2rMn"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzvL2cIZri305uCRIo1TmMZW"
   weight = 260
 
 [[main]]
-  name = "Oracle OS Management Hub"
+  name = "Oracle Private Cloud Appliance"
   identifier = "pl8"
   parent = "pl"
-  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzvL2cIZri305uCRIo1TmMZW"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsnBlQvRh23rFgxMYFduQOo"
   weight = 270
 
 [[main]]
-  name = "Oracle Private Cloud Appliance"
+  name = "Oracle VirtualBox"
   identifier = "pl9"
   parent = "pl"
-  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsnBlQvRh23rFgxMYFduQOo"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsbt_qDAXLMF5oFUhEkgbUM"
   weight = 280
 
 [[main]]
-  name = "Oracle VirtualBox"
-  identifier = "pl10"
-  parent = "pl"
-  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsbt_qDAXLMF5oFUhEkgbUM"
-  weight = 290
-
-[[main]]
   name = "Oracle Cloud Infrastructure Secure Desktops"
-  identifier = "pl11"
+  identifier = "pl10"
   parent = "pl"
   url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzv0axRP4vP7zpubJE555Wbb"
   weight = 295
 
 [[main]]
   name = "Oracle Compute Cloud@Customer"
-  identifier = "pl12"
+  identifier = "pl11"
   parent = "pl"
   url = "https://www.youtube.com/watch?v=ZzmsCP-dAZE&list=PLKCk3OyNwIzvtU6ZBQDRL6cXjRBEwMODj"
   weight = 296
+
+[[main]]
+  name = "Oracle OS Management Service"
+  identifier = "pl12"
+  parent = "pl"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsn5mtWgjb_HS7GJoKa2rMn"
+  weight = 297
 
 [[main]]
   identifier = "web"
