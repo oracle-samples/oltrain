@@ -1,9 +1,9 @@
 ---
 title: "Run Kubernetes"
-date: 2022-06-30
+date: 2024-09-24
 draft: false
-summary: "This tutorial works with Kubernetes running within a compact Oracle Cloud Native Environment on Oracle Linux. It introduces the skills required to deploy a working sample application."
-tags: ["ocne", "lab", "tutorial", "ocne-k8s"]
+summary: "Learn to run Kubernetes on Oracle Linux using Oracle Cloud Native Environment."
+tags: ["ocne", "ocne2", "lab", "tutorial", "ocne-k8s"]
 showDate: true
 ---
 
@@ -15,7 +15,7 @@ showDate: true
 
 ## Details
 
-Kubernetes is Greek for pilot or helmsman - in other words, the person who follows commands and steers a ship towards its ultimate goal (rather than being the Captain giving orders). To that end, Kubernetes is an open-source, extensible platform for deploying, managing, and scaling containerized applications. It achieves this by using several command-line tools. This lab uses one of those called kubectl together with YAML files to define the required attributes for the organization deploying the application and understand how to set up and maintain the application once done deploying it.
+Kubernetes is Greek for pilot or helmsman - in other words, the person who follows commands and steers a ship towards its ultimate goal (rather than being the Captain giving orders). To that end, Kubernetes is an open-source, extensible platform for deploying, managing, and scaling containerized applications. It achieves this by using several command-line tools. This tutorial uses one of those called `kubectl` together with YAML files to define the required attributes for the organization deploying the application and understand how to set up and maintain the application once done deploying it.
 
 All deployments onto a Kubernetes cluster get represented as objects. These deployed objects use text-based YAML files to provide details of the required state of any application deployed onto the cluster. These YAML files may describe the following:
 
@@ -23,22 +23,16 @@ All deployments onto a Kubernetes cluster get represented as objects. These depl
 - Details of the resources required by the application
 - Any policies detailing how these applications maintain their state, such as restart policies, upgrade policies, etc.
 
-This third point, although important, is complicated without understanding the basics. Therefore, we'll hold off for now and handle that topic in future tutorials.
-This tutorial works with Kubernetes running within a compact Oracle Cloud Native Environment on Oracle Linux. The intent is not to be a 'one stop shop' for everything needed to administer a production deployment. Instead, it introduces the skills required to deploy a working sample application.
+Although essential, this third point is complicated without understanding the basics. Therefore, we'll hold off on discussing it and handle it in future tutorials.
+
+This tutorial works with Kubernetes within an Oracle Cloud Native Environment on Oracle Linux. Its intent is not to be a 'one-stop shop' for everything needed to administer a production deployment but to introduce the necessary skills to deploy a working sample application successfully.
 
 ### Objectives
 
-At the end of this tutorial, you should be able to do the following:
-
-- Examine the different Kubernetes components such as a Pod, Deployment, and Service
-- Examine the different Kubernetes objects
-- Deploy and Test a sample project
+* Examine the different Kubernetes components such as a Pod, Deployment, and Service
+* Examine the different Kubernetes objects
+* Deploy and Test a sample project
 
 ### Prerequisites
 
-The tutorial uses the following system:
-
-An Oracle Linux 8 or later system with the following configuration:
-
-- a non-root user with sudo privileges
-- Oracle Cloud Native Environment installed and configured
+- Installation of Oracle Cloud Native Environment
