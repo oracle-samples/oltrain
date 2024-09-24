@@ -1,6 +1,6 @@
 ---
 title: "OS Management on Oracle Cloud Infrastructure"
-date: 2020-08-15
+date: 2020-08-01
 draft: false
 description: "Welcome to OS Management on Oracle Cloud Infrastructure Track"
 summary: The OS Management Service allows you to manage updates and patches for the operating system environment on your Oracle Cloud Infrastructure instances. The OS Management Service also provides options for discovering and monitoring resources on your instances."
