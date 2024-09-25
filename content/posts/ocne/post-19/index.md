@@ -1,6 +1,6 @@
 ---
 title: "Introducing Kubectl"
-date: 2024-09-26
+date: 2024-09-25
 draft: false
 summary: "Learn how to use kubectl with Oracle Cloud Native Environment."
 tags: ["ocne", "ocne2", "lab", "tutorial", "ocne-k8s"]
