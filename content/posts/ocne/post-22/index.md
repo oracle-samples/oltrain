@@ -1,9 +1,9 @@
 ---
 title: "Use ConfigMaps and Secrets"
-date: 2023-09-29
+date: 2024-10-01
 draft: false
-summary: "This tutorial shows how to create and use ConfigMaps and Secrets with Oracle Cloud Native Environment."
-tags: ["ocne", "lab", "tutorial", "ocne-k8s"]
+summary: "Learn how to create and use ConfigMaps and Secrets with Oracle Cloud Native Environment."
+tags: ["ocne", "ocne2", "lab", "tutorial", "ocne-k8s"]
 showDate: true
 ---
 
@@ -15,24 +15,15 @@ showDate: true
 
 ## Details
 
-This tutorial shows how to create and use ConfigMaps and Secrets with Oracle Cloud Native Environment. Both ConfigMaps and Secrets are used to define configuration data and have many similarities. You will start by covering how to use ConfigMaps, and then cover the use of Secrets.
+A key advantage of containers is knowing your software executes on any computer without problems. Many applications use environment variables to control the application's runtime behavior, such as an API Key or environment variables. They may be hard-coded into a container, but doing so makes switching environments between a Production and Development environment difficult. Kubernetes addresses this by moving the application's configuration into an object called a ConfigMap comprised of a series of key-value pairs injected into the application's environment at runtime. The application then consumes these transparently as though they were environment values in their runtime environment.
 
 ### Objectives
 
-You will learn:
+In this tutorial, you'll learn how to:
 
-- Use ConfigMaps and Secrets with Oracle Cloud Native Environment.
+- Use ConfigMaps and Secrets
 
 ### Prerequisites
 
-- 3 Oracle Linux systems to use as:
-  - Operator node (ocne-operator-01)
-  - Kubernetes control plane node (ocne-control-01)
-  - Kubernetes worker node (ocne-worker-01)
-
-- Each system should have the latest Oracle Linux 8 (x86_64) installed
-
-- This environment is pre-configured with:
-  - An Oracle user account (used during the installation) with sudo access
-  - Key-based SSH, also known as password-less SSH, between the hosts
-  - Installation of Oracle Cloud Native Environment and Oracle Cloud Infrastructure Cloud Controller Manager (oci-ccm) module
+- Installation of Oracle Cloud Native Environment
+   - a single control and worker node
