@@ -1,6 +1,6 @@
 ---
 title: "Use Taints and Tolerations"
-date: 2024-10-2
+date: 2024-10-02
 draft: false
 summary: "Learn to use taints and tolerations with Oracle Cloud Native Environment."
 tags: ["ocne", "ocne2", "lab", "tutorial", "ocne-k8s"]
