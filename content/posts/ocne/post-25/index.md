@@ -1,6 +1,6 @@
 ---
 title: "Use Labels and Node Selectors"
-date: 2024-10-2
+date: 2024-10-02
 draft: false
 summary: "Learn to use labels and node selectors with Oracle Cloud Native Environment."
 tags: ["ocne", "ocne2", "lab", "tutorial", "ocne-k8s"]
