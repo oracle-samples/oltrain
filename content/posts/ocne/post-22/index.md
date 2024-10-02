@@ -26,4 +26,4 @@ In this tutorial, you'll learn how to:
 ### Prerequisites
 
 - Installation of Oracle Cloud Native Environment
-   - a single control and worker node
+  - a single control and worker node
