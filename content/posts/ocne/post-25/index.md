@@ -1,9 +1,9 @@
 ---
 title: "Use Labels and Node Selectors"
-date: 2024-03-26
+date: 2024-10-2
 draft: false
-summary: "This tutorial shows how to use Labels and Node Selectors with Oracle Cloud Native Environment."
-tags: ["ocne", "lab", "tutorial", "ocne-k8s"]
+summary: "Learn to use labels and node selectors with Oracle Cloud Native Environment."
+tags: ["ocne", "ocne2", "lab", "tutorial", "ocne-k8s"]
 showDate: true
 ---
 
@@ -15,31 +15,22 @@ showDate: true
 
 ## Details
 
-The ability to influence how Kubernetes schedules Pods to provide the best performance, reduce running costs and more easily simplify cluster management is a vital skill for an administrator to master. Many Kubernetes clusters have nodes with varying capabilities, for example:
+The ability to influence how Kubernetes [schedules](https://kubernetes.io/docs/concepts/scheduling-eviction/) Pods to provide the best performance, reduce running costs, and more easily simplify cluster management is a vital skill for an administrator to master. Many Kubernetes clusters have nodes with varying capabilities, for example:
 
 - GPU card (for machine learning applications)
 - SSD disk (for applications requiring fast data access)
 - High-end CPU (for CPU-intensive tasks)
 
-Administrators use several ways to influence how the Kubernetes scheduler deploys applications to specific nodes. This tutorial covers using labels and nodeSelector (the simplest way to assign pods to nodes).
+Administrators use several ways to influence how the Kubernetes scheduler deploys applications to specific nodes. This tutorial covers using labels and node selectors, which are the simplest way to assign Pods to nodes.
 
 ### Objectives
 
-You will learn:
+In this tutorial, you will learn:
 
-- How to review and set labels on Nodes.
-- How to define and use a nodeSelector to influence an application deployment.
+- How to review and set labels on nodes
+- How to define and use a node selector to influence an application deployment
 
 ### Prerequisites
 
-- 4 Oracle Linux systems to use as:
-  - Operator node (ocne-operator-01)
-  - Kubernetes control plane node (ocne-control-01)
-  - Kubernetes worker nodes (ocne-worker-01 & ocne-worker-02)
-
-- Each system should have the latest Oracle Linux 8 (x86_64) installed
-
-- This environment is pre-configured with:
-  - An Oracle user account (used during the installation) with sudo access
-  - Key-based SSH, also known as password-less SSH, between the hosts
-  - Installation of Oracle Cloud Native Environment
+- Installation of Oracle Cloud Native Environment
+  - a single control node and two worker nodes
