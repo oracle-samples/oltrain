@@ -28,7 +28,7 @@ aliases:
 
 ---
 
-{{< lead >}} VirtualBox is a powerful x86, ARM, and AMD64/Intel64 virtualization product for enterprise as well as home use. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 3. {{< /lead >}}
+{{< lead >}} Oracle VirtualBox is a cross-platform virtualization product that enables you to run multiple operating systems on your macOS, Windows, Linux, or Oracle Solaris systems. Not only is VirtualBox an extremely feature rich, high performance product for enterprise customers, it is also the only professional solution that is freely available as Open Source Software under the terms of the GNU General Public License (GPL) version 3. {{< /lead >}}
 
 ---
 
