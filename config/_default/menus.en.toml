@@ -290,7 +290,7 @@
   name = "Oracle Compute Cloud@Customer"
   identifier = "pl11"
   parent = "pl"
-  url = "https://www.youtube.com/watch?v=ZzmsCP-dAZE&list=PLKCk3OyNwIzvtU6ZBQDRL6cXjRBEwMODj"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzvtU6ZBQDRL6cXjRBEwMODj"
   weight = 296
 
 [[main]]
