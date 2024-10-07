@@ -37,5 +37,5 @@ In this lab you will practice how to:
 
 ### Prerequisites
 
-- Any Oracle Linux 8 or later
+- Any Oracle Linux 8 system or later
 
