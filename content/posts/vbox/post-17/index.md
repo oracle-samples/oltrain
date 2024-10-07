@@ -7,8 +7,8 @@ tags: ["vbox", "video", "clips","vbox-cli"]
 showDate: true
 ---
 
-{{< youtube id="zDVhdUy2vII" title="Start Headless Virtual Machines with VBoxManage" >}}
+{{< youtube id="7sVs3Yu6M08" title="Start Headless Virtual Machines with VBoxManage" >}}
 
 ## Details
 
-This video demonstrates how to use the VBoxManage startvm and VBoxHeadless commands to start VirtualBox VMs without visible output on the host, but can still optionally deliver VRDP data.
+This video demonstrates how to use the VBoxManage CLI to start Oracle VirtualBox virtual machines(VM) as headless on an Oracle Linux system. Oracle VirtualBox comes with a front-end called VBoxHeadless, which produces no visible output on the host at all, but can optionally deliver VRDP data. Headless virtual machines are ideal for setting up remote desktop servers where users connect remotely via remote diplay protocols(RDP). 
