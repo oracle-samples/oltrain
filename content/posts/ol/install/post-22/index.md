@@ -15,17 +15,17 @@ showDate: true
 
 ## Details
 
-For installing Oracle Linux, in addition to downloading standard installation images for different platforms, you can also generate your own custom Oracle Linux images with the Image Builder tool. 
+In addition to downloading standard installation images for different platforms, you can generate your own custom Oracle Linux images with the Image Builder tool to install Oracle Linux.
 
-All additional packages and customizations to be added to your new custom image are defined using a blueprint. The tool creates your custom composer image based on your blueprint and your chosen image format, ready to deploy on a variety of cloud and bare metal platforms. The custom images are stored in the tool, ready to be downloaded whenever you need.
+All additional packages and customizations you plan to add to your new custom image are defined using a blueprint. The tool creates your custom composer image based on your blueprint and chosen image format, ready to deploy on various cloud and bare metal platforms. The custom images are stored in the tool and ready to be downloaded whenever needed.
 
-The tool works from command line or from the Image Builder page in the Cockpit web console.
+The tool works from the command line or from the Image Builder page in the Cockpit web console.
 
-This lab describes how to use the Image Builder tool from command line to create ready to deploy custom Oracle Linux images.
+This tutorial describes how to use the Image Builder tool from the command line to create ready-to-deploy custom Oracle Linux images.
 
 ### Objectives
 
-In this lab you will practice how to:
+In this tutorial, you will learn how to:
 
 - Install the Image builder tool
 - Create and configure blueprints
@@ -37,5 +37,4 @@ In this lab you will practice how to:
 
 ### Prerequisites
 
-- Any Oracle Linux 8 system or later
-
+- An Oracle Linux system
