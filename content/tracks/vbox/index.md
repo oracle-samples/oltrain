@@ -35,16 +35,19 @@ aliases:
 {{< figure src="/img/vbox/vboxmanage-sect.png" alt="Oracle VirtualBox VBoxManage separator banner" >}}
 
 ## Oracle VirtualBox VBoxManage
+
 {{< card2 limit=30 tag="/tags/vbox-cli" >}}
 
 {{< figure src="/img/vbox/vbox-71-2024-sect.png" alt="Oracle VirtualBox 7.1 separator banner" >}}
 
 ## Oracle VirtualBox 7.1
+
 {{< card2 limit=30 tag="/tags/vbox7-1" >}}
 
 {{< figure src="/img/vbox/vbox-70-2024-sect.png" alt="Oracle VirtualBox 7.0 separator banner" >}}
 
 ## Oracle VirtualBox 7.0
+
 {{< card2 limit=30 tag="/tags/vbox7" >}}
 
 <!-- {{< figure src="/img/quiz1.png" alt="Virtualbox Track quiz graphic" >}}
