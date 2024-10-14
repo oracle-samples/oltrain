@@ -47,7 +47,7 @@ aliases:
 ## Oracle VirtualBox 7.0
 {{< card2 limit=30 tag="/tags/vbox7" >}}
 
-{{< figure src="/img/quiz1.png" alt="Virtualbox Track quiz graphic" >}}
+<!-- {{< figure src="/img/quiz1.png" alt="Virtualbox Track quiz graphic" >}}
 
 Test your skills on what you have learned so far with this quiz.
 
@@ -55,4 +55,4 @@ Test your skills on what you have learned so far with this quiz.
 
 {{< button href="https://apexapps.oracle.com/pls/apex/f?p=ST_QUIZ:200:0::::P200_QUIZ_KEY:31YKIU" target="_blank" >}}
 Take the quiz
-{{< /button >}}
+{{< /button >}} -->
