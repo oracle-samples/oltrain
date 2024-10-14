@@ -1,9 +1,9 @@
 ---
-title: "Use VirtualBox on OCI"
-date: 2022-12-19
+title: "Use VirtualBox on Oracle Linux"
+date: 2024-10-14
 draft: false
-summary: "Learn how to create virtual machines using Oracle VirtualBox 7.0 running on a Oracle Linux cloud instance."
-tags: ["vbox","lab","tutorial","vbox7"]
+summary: "Learn to create virtual machines and run Oracle VirtualBox on Oracle Linux."
+tags: ["vbox","lab","tutorial","vbox7-1"]
 showDate: true
 ---
 
@@ -15,24 +15,27 @@ showDate: true
 
 ## Details
 
-Oracle VirtualBox allows the simple and fast creation of virtual machines (VM) supporting a wide variety of operating systems. VirtualBox can be installed and run on various platforms, from a standalone laptop to a cloud instance. This hands on lab guides you through installing VirtualBox and its extension pack on an Oracle Linux cloud instance. It steps you through creating a new virtual machine using VirtualBox installed on the cloud instance, and installing the Guest Additions to the new VM.
+Oracle VirtualBox is a cross-platform virtualization product that enables you to run multiple operating systems on your macOS, Windows, Linux, or Oracle Solaris systems. While providing the ability to run multiple virtual machines on a host system, VirtualBox also allows managing resources in Oracle Cloud Infrastructure.
 
-You will practice implementing nested virtualization in VirtualBox to support the creation of virtual machines on the cloud instance. You will install Guest Additions to a VM which will provide closer integration between host and guest and improve the interactive performance of the guest system.
-
-You can read more detailed information about Oracle VM VirtualBox at this documentation link: [Oracle VM VirtualBox Documentation](https://docs.oracle.com/en/virtualization/virtualbox/index.html)
+You can read more detailed information about Oracle VirtualBox at this documentation link: [Oracle VirtualBox Documentation](https://docs.oracle.com/en/virtualization/virtualbox/index.html)
 
 ### Objectives
 
-In this lab, you will learn to:
+In this tutorial, you will learn to:
 
-   - Create a SSH tunnel to an Oracle Linux Server instance
-   - Connect to the cloud instance Server GUI Desktop with VNC
-   - Install Oracle VM VirtualBox to an Oracle Linux cloud instance
-   - Install the VirtualBox Expansion Pack
-   - Use VirtualBox to create a new Oracle Linux virtual machine
-   - Install VirtualBox Guest Additions to a Virtual Machine
+- Install Oracle VirtualBox on Oracle Linux
+- Install the VirtualBox Extension Pack
+- Use VirtualBox to create a new Oracle Linux virtual machine
+- Install VirtualBox Guest Additions to a Virtual Machine
 
 ### Prerequisites
 
-Basic experience of working with Oracle Linux command line and its desktop graphical user interface.
+- Minimum of one Oracle Linux instance
 
+- Each system should have Oracle Linux installed and configured with:
+
+  - An Oracle user account (used during the installation) with sudo access
+  - A graphical desktop
+  - A VNC (Virtual Network Computing) server if running a headless/remote system
+
+> If installing on an Oracle Cloud Infrastructure (OCI) instance, you'll need to use an Intel CPU shape such as *VM.Standard3.Flex*.
