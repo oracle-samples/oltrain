@@ -11,7 +11,7 @@ showDate: true
 
 :crescent_moon: [Lab](https://luna.oracle.com/lab/922eabed-e47c-4934-a4a5-dbacc02f4f3b)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/vbox-oci)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-vbox/)
 
 ## Details
 
