@@ -1,6 +1,6 @@
 ---
 title: "Install"
-date: 2021-10-27
+date: 2024-11-13
 draft: false
 summary: "Learn how to install Oracle Linux Automation Manager on Oracle Linux."
 tags: ["olam","lab","tutorial"]
@@ -15,17 +15,18 @@ showDate: true
 
 ## Details
 
-These guides provide instructions for installing a single-host Oracle Linux Automation Manager 2 deployment.
+Oracle Linux Automation Manager is a task engine and web-based graphical user interface (GUI) for scheduling and running Oracle Linux Automation Engine playbooks against inventories of remote hosts. This suite of tools allows administrators to easily manage their IT infrastructure and complete repetitive tasks in a known and predictable manner, avoiding common manual-based administration issues.
+
+The Oracle Linux Automation Engine is a tool for managing and running administration tasks using code-based infrastructure as Code (IaC) YAML definition files called playbooks. These playbooks include instructional tasks such as deploying software, configuring systems, and orchestrating upgrades and updates.
 
 ### Objectives
 
-In this lab, you'll learn how to:
+In this tutorial, you'll learn how to:
 
 - Enable the Oracle Linux DNF repository
 - Set the firewall rules
-- Download, install, and configure Oracle Linux Automation Manager
+- Download, install, and configure a single-host Oracle Linux Automation Manager
 
 ### Prerequisites
 
 - A system with Oracle Linux installed.
-
