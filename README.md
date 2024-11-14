@@ -25,9 +25,9 @@ This site deploys using GitHub Actions configured in `Settings` > `Pages`.
 
 ## Support or Contact
 
-- Project Owner: Craig McBride ([@craigmcb](https://github.com/craigmcb))
-- Project Admin: Martin Littlecott ([@mlittlec](https://github.com/mlittlec))
-- Project Admin: Bill Graef ([@bgraef](https://github.com/bgraef))
+- Project Owner: Bill Graef ([@bgraef](https://github.com/bgraef))
+- Project Maintainer: Martin Littlecott ([@mlittlec](https://github.com/mlittlec))
+- Project Maintainer: Rowan Puttergill ([@ol-roboro](https://github.com/ol-roboro))
 
 
 ## Contributing
