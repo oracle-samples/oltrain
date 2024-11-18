@@ -1,6 +1,6 @@
 ---
 title: "Get Started"
-date: 2022-11-21
+date: 2024-11-18
 draft: false
 summary: "Learn how to setup and use Oracle Linux Automation Manager."
 tags: ["olam","lab","tutorial"]
@@ -15,28 +15,26 @@ showDate: true
 
 ## Details
 
-Oracle Linux Automation Manager provides features allowing your organization to effectively manage infrastructure configuration through a browser-based user interface.
+Oracle Linux Automation Manager provides features that allow your organization to manage infrastructure configuration effectively through a browser-based user interface.
 
-By the end of these guides, you'll have a working Oracle Linux Automation Manager 2 installation ready to run more complex playbooks.
-
+By the end of this tutorial, you'll have a working Oracle Linux Automation Manager installation ready to run more complex playbooks.
 
 ### Objectives
 
-In this lab, you'll learn how to:
+In this tutorial, you'll learn how to:
 
 - Use the WebUI
 - Review the Default Organization
 - Add a User
-- Setup an Inventory
-- Setup a Credential
+- Set up an Inventory
+- Set up a Credential
 - Create a Project
-- Setup a Job Template
+- Set up a Job Template
 - Run the Job
 
 ### Prerequisites
 
-- A system with Oracle Linux Automation Manager installed.
+- A control system with Oracle Linux Automation Manager installed.
+- A remote system to run playbooks against.
 
 For details on installing Oracle Linux Automation Manager, see the [Oracle Linux Automation Manager Installation Guide](https://docs.oracle.com/en/operating-systems/oracle-linux-automation-manager/).
-
-
