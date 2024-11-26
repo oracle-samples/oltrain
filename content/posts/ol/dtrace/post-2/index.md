@@ -7,7 +7,7 @@ tags: ["ol", "video","ol-dtrace"]
 showDate: true
 ---
 
-{{< youtube id="Rvy3wY9SXI" title="DTrace Module 2 - Going Further" >}}
+{{< youtube id="Rvy3w3Y9SXI" title="DTrace Module 2 - Going Further" >}}
 
 ## Details
 
