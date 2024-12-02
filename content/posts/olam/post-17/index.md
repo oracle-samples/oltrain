@@ -1,7 +1,7 @@
 ---
 title: "Enable the EPEL Repository"
 date: 2024-01-23
-draft: false
+draft: true
 summary: "Learn to use Oracle Linux Automation Engine to add the EPEL Repository to an Oracle Linux instance."
 tags: ["olam","lab","tutorial","olae"]
 showDate: true

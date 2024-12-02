@@ -1,7 +1,7 @@
 ---
 title: "Manipulate Files"
 date: 2024-02-05
-draft: false
+draft: true
 summary: "Learn to use Oracle Linux Automation Engine to manipulate files and directories on an Oracle Linux instance."
 tags: ["olam","lab","tutorial","olae"]
 showDate: true

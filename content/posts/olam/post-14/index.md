@@ -1,8 +1,8 @@
 ---
-title: "Automate Setup of Oracle Linux"
-date: 2021-10-15
+title: "Run Oracle Linux Tasks"
+date: 2024-12-03
 draft: false
-summary: "Learn to use Oracle Linux Automation Engine to perform the initial configuration of an Oracle Linux instance."
+summary: "Learn to use Oracle Linux Automation Engine to perform the initial configuration and other administrative tasks for Oracle Linux."
 tags: ["olam","lab","tutorial","olae"]
 showDate: true
 ---
@@ -11,25 +11,28 @@ showDate: true
 
 :crescent_moon: [Lab](https://luna.oracle.com/lab/56b90194-88ab-421e-bc93-2ac708dce6ba)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/olae-setup-ol8)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/olae-ol-tasks)
 
 ## Details
 
-These guides provide a playbook for automating the initial setup of Oracle Linux using the configuration management tool Oracle Linux Automation Engine.
+Oracle Linux Automation Engine enables administrators to automate the initial setup of Oracle Linux and run other administrative jobs using an Infrastructure as code (IaC) configuration management tool through a series of playbooks and tasks.
 
 ### Objectives
 
-In this lab, you'll learn about writing and running a playbook that:
+In this tutorial, you'll learn how to:
 
-   - Creates a user
-   - Adds the user to the `sudo` group
-   - Copies a local SSH public key to the user's `authorized_keys` file
+- Write playbooks that:
+  - Create a user
+  - Adds the user to the *sudo* group
+  - Copies a local SSH public key to the user's *authorized_keys* file
+  - Adds a DNF repository and installs a package
+  - Manipulates files
 
-### What Do You Need?
+### Prerequisites
 
-  - A minimum of two Oracle Linux systems with the following configuration:
+- A minimum of two Oracle Linux systems with the following configuration:
 
-      - a non-root user with `sudo` permissions
-      - ssh keypair for the non-root user
-      - the ability to ssh from one host (control-node) to the other (host) using passwordless ssh login
+  - a non-root user with *sudo* permissions
+  - ssh keypair for the non-root user
+  - the ability to SSH from one host to another using a passwordless SSH login
 
