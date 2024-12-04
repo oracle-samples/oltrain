@@ -63,7 +63,7 @@
   identifier = "t7"
   parent = "t"
   pageRef = "tracks/opca"
-  weight = 70
+  weight = 97
 
 [[main]]
   name = "Oracle VirtualBox"
@@ -91,7 +91,7 @@
   identifier = "t11"
   parent = "t"
   pageRef = "tracks/osms"
-  weight = 97
+  weight = 81
 
 [[main]]
   name = "Blogs"
@@ -180,7 +180,7 @@
   identifier = "doc7"
   parent = "doc"
   url = "https://docs.oracle.com/en/engineered-systems/private-cloud-appliance/"
-  weight = 170
+  weight = 197
 
 [[main]]
   name = "Oracle VirtualBox"
@@ -208,7 +208,7 @@
   identifier = "doc11"
   parent = "doc"
   url = "https://docs.oracle.com/en-us/iaas/os-management/home.htm"
-  weight = 197
+  weight = 181
 
 [[main]]
   name = "Playlists"
@@ -266,13 +266,6 @@
   weight = 260
 
 [[main]]
-  name = "Oracle Private Cloud Appliance"
-  identifier = "pl8"
-  parent = "pl"
-  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsnBlQvRh23rFgxMYFduQOo"
-  weight = 270
-
-[[main]]
   name = "Oracle VirtualBox"
   identifier = "pl9"
   parent = "pl"
@@ -294,11 +287,18 @@
   weight = 296
 
 [[main]]
+  name = "Oracle Private Cloud Appliance"
+  identifier = "pl8"
+  parent = "pl"
+  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsnBlQvRh23rFgxMYFduQOo"
+  weight = 297
+
+[[main]]
   name = "Oracle OS Management Service"
   identifier = "pl12"
   parent = "pl"
   url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsn5mtWgjb_HS7GJoKa2rMn"
-  weight = 297
+  weight = 281
 
 [[main]]
   identifier = "web"
