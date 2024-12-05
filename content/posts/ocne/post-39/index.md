@@ -3,7 +3,7 @@ title: "Use Kubepug"
 date: 2024-10-23
 draft: false
 summary: "Learn to install and run kubepug on Oracle Cloud Native Environment to detect deprecated APIs before upgrading Kubernetes."
-tags: ["ocne2", "lab", "tutorial", "ocne2-install"]
+tags: ["ocne2", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 

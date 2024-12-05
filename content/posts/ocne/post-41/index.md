@@ -3,7 +3,7 @@ title: "Install OCI Cluster"
 date: 2024-10-30
 draft: false
 summary: "Learn to use the oci provider to deploy and manage Oracle Cloud Native Environment on Oracle Cloud Infrastructure."
-tags: ["ocne2", "lab", "tutorial", "ocne2-install"]
+tags: ["ocne2", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 

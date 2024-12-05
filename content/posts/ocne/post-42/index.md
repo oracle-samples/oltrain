@@ -1,7 +1,7 @@
 ---
 title: "Manage kubeconfig Files with kubectl"
 date: 2024-11-15
-draft: false
+draft: true
 summary: "This video introduces the kubectl commands used to configure Kubernetes configuration files."
 tags: ["ocne", "video", "clips", "ocne-k8s"]
 showDate: true

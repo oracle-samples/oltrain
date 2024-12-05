@@ -3,7 +3,7 @@ title: "Install Minikube"
 date: 2022-04-19
 draft: false
 summary: "Minikube is a popular tool for developers and administrators to run a fully functional Kubernetes cluster in their local environment. Although minikube is cross-platform, this tutorial only guides you through the installation and configuration of minikube with the podman driver."
-tags: ["ocne", "lab", "tutorial", "ocne-k8s"]
+tags: ["k8s", "lab", "tutorial", "ocne-k8s"]
 showDate: true
 ---
 
