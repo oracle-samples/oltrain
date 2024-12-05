@@ -1,6 +1,6 @@
 ---
 title: "Use the AWX Collection"
-date: 2024-02-29
+date: 2024-12-06
 draft: false
 summary: "Learn to add and manage resources in Oracle Linux Automation Manager using a playbook."
 tags: ["olam","lab","tutorial"]
@@ -23,13 +23,13 @@ This tutorial provides details on how to deploy a DevOps instance for running th
 
 In this lab, you'll learn how to:
 
-  - Deploy the DevOps and Oracle Linux Automation Manager instances
-  - Setup the config file on the DevOps instance
-  - Write a playbook to create the required items to run a Job
-  - Test and verify the playbook
+- Deploy the DevOps and Oracle Linux Automation Manager instances
+- Setup the config file on the DevOps instance
+- Write a playbook to create the required items to run a Job
+- Test and verify the playbook
 
 ### Prerequisites
 
-  - Two systems running Oracle Linux
-    - A development environment for running the AWX Ansible Collection playbooks
-    - Another for running Oracle Linux Automation Manager
+- Two systems running Oracle Linux
+  - A development environment for running the AWX Ansible Collection playbooks
+  - Another for running Oracle Linux Automation Manager
