@@ -3,7 +3,7 @@ title: "Run Ingress-nginx with MetalLB"
 date: 2024-10-08
 draft: false
 summary: "Learn to deploy and use the Ingress-Nginx Controller with MetalLB on Oracle Cloud Native Environment."
-tags: ["ocne2", "lab", "tutorial", "ocne2-install"]
+tags: ["ocne2", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 

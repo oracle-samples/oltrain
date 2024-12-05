@@ -1,7 +1,7 @@
 ---
 title: "Understand Kubernetes Terminology"
 date: 2022-04-08
-draft: false
+draft: true
 summary: "Unsure what the various Kubernetes terms you hear being used mean?  Then take a couple of minutes out, and this will introduce the basic Kubernetes Resource terms and provide context for their use."
 tags: ["ocne", "video", "ocne-k8s"]
 showDate: true

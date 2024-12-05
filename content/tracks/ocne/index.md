@@ -36,10 +36,10 @@ Oracle Cloud Native Environment delivers a simplified framework for installation
 
 ---
 
-{{< figure src="/img/ocne/OCNE2-install-section.png" alt="Oracle Cloud Native Environment 2 Installation section banner" >}}
+<!-- {{< figure src="/img/ocne/OCNE2-install-section.png" alt="Oracle Cloud Native Environment 2 Installation section banner" >}}
 
 ## Oracle Cloud Native Environment 2
-{{< card2 limit=50 tag="/tags/ocne2-install" >}}
+{{< card2 limit=50 tag="/tags/ocne2-install" >}} -->
 
 {{< figure src="/img/ocne/OCNE-install-section.png" alt="Oracle Cloud Native Environment Installation section banner" >}}
 

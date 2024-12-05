@@ -3,7 +3,7 @@ title: "Install libvirt Cluster"
 date: 2024-09-25
 draft: false
 summary: "Learn to create a Kubernetes Cluster using the *libvirt* provider with the Oracle Cloud Native Environment CLI."
-tags: ["ocne2", "lab", "tutorial", "ocne2-install"]
+tags: ["ocne2", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 

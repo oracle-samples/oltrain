@@ -3,7 +3,7 @@ title: "Configure the UI"
 date: 2024-10-09
 draft: false
 summary: "Learn to configure the Oracle Cloud Native Environment User Interface."
-tags: ["ocne2", "lab", "tutorial", "ocne2-install"]
+tags: ["ocne2", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 
