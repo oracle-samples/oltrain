@@ -1,7 +1,7 @@
 ---
 title: "Manage Deployments with kubectl"
 date: 2024-10-28
-draft: true
+draft: false
 summary: "This video introduces the kubectl commands used to create and manage deployments."
 tags: ["ocne", "video", "clips", "ocne-k8s"]
 showDate: true
