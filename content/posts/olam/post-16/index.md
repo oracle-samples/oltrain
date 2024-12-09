@@ -1,6 +1,6 @@
 ---
 title: "Use a Dynamic Inventory"
-date: 2022-04-05
+date: 2024-12-09
 draft: false
 summary: "Learn how to use an OCI Dynamic Inventory with Oracle Linux Automation Engine."
 tags: ["olam","lab","tutorial","olae"]
@@ -19,19 +19,20 @@ Oracle Linux Automation Engine, the open-source software for provisioning and co
 
 A static inventory file works well if your infrastructure hardly changes.
 
-However, your infrastructure is likely in constant flux when using the cloud. Therefore it would be great to have a way to have your inventory dynamically updated as hosts come and go.
+However, your infrastructure is likely in constant flux when using the cloud. Therefore, it would be great to have a way to have your inventory dynamically updated as hosts come and go.
 
 ### Objectives
 
-In this lab, you'll learn to:
+In this tutorial, you'll learn to:
 
-   - Setup Oracle Linux Automation Engine
-   - Create an OCI Dynamic Inventory
-   - Use the OCI Dynamic Inventory with a Playbook.
+- Setup Oracle Linux Automation Engine
+- Create an OCI Dynamic Inventory
+- Use the OCI Dynamic Inventory with a Playbook.
 
 ### Prerequisites
 
-  - Install an Oracle Linux system with the following configuration:
-      - a non-root user with `sudo` permissions
+- A minimum of two Oracle Linux systems with the following configuration:
 
-
+  - a non-root user with *sudo* permissions
+  - ssh keypair for the non-root user
+  - the ability to SSH from one host to another using a passwordless SSH login
