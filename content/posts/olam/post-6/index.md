@@ -1,6 +1,6 @@
 ---
 title: "Use OCI Ansible Collection"
-date: 2023-01-18
+date: 2024-12-12
 draft: false
 summary: "Learn how to use the OCI Ansible Collection with Oracle Linux Automation Manager."
 tags: ["olam","lab","tutorial"]
@@ -15,25 +15,22 @@ showDate: true
 
 ## Details
 
-The Oracle Cloud Infrastructure (OCI) Ansible Collection provides an easy way to provision and manage resources in the Oracle Cloud using Ansible.
-
-These guides show how to use this collection in Oracle Linux Automation Manager and interacts with an Oracle Cloud tenancy.
+The Oracle Cloud Infrastructure (OCI) Ansible Collection provides an easy way to provision and manage resources in the Oracle Cloud using Oracle Linux Automation Engine or Oracle Linux Automation Manager.
 
 ### Objectives
 
-In this lab, you'll learn how to:
+In this tutorial, you'll learn how to:
 
-  - Create a playbook that uses the OCI Ansible Collection
-  - Configure credentials for Ansible Galaxy
-  - Add the Oracle Cloud Infrastructure credential
-  - Create a Job Template
-  - Run the Job
+- Create a playbook that uses the OCI Ansible Collection
+- Configure credentials for Ansible Galaxy
+- Add the Oracle Cloud Infrastructure credential
+- Create a Job Template
+- Run the Job
 
 ### Prerequisites
 
-  - A system with Oracle Linux Automation Manager installed
-  - Access to a git repository
-  - An Oracle Cloud Infrastructure (OCI) account
-  - A user in the OCI account with permission to work with resources in a compartment
-  - Access to that accounts credentials and OCID information
-
+- A system with Oracle Linux Automation Manager installed
+- Access to a git repository
+- An Oracle Cloud Infrastructure (OCI) account
+- A user in the OCI account with permission to work with resources in a compartment
+- Access to that account's credentials and OCID information
