@@ -46,3 +46,5 @@ dist
 tmp
 
 *.hugo_build.lock*
+
+git-key2*
