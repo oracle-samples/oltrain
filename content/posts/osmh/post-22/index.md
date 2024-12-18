@@ -2,7 +2,7 @@
 title: "Manage Oracle Linux at Scale with Groups"
 date: 2024-12-18
 draft: false
-summary: " In this lab, learn to manage and monitor OS updates for Oracle Linux compute instances using Oracle OS Management Hub in Oracle Cloud Infrastructure."
+summary: " Learn to manage and monitor OS updates for Oracle Linux compute instances using Oracle OS Management Hub in Oracle Cloud Infrastructure."
 tags: ["osmh","lab","tutorial","osmh-oci"]
 showDate: true
 ---
