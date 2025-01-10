@@ -1,5 +1,5 @@
 ---
-title: "Use Horizontal Pod Autoscaling with Oracle Cloud Native Environment"
+title: "Use Horizontal Pod Autoscaling"
 date: 2024-12-10
 draft: false
 summary: "Learn how to configure HorizontalPodAutoscaler to scale the number of Pods on an Oracle Cloud Native Environment cluster."
