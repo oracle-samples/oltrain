@@ -1,5 +1,5 @@
 ---
-title: "Use Vertical Pod Autoscaling with Oracle Cloud Native Environment"
+title: "Use Vertical Pod Autoscaling"
 date: 2025-01-10
 draft: false
 summary: "Learn how to configure VerticalPodAutoscaler to scale the Pods resources on an Oracle Cloud Native Environment cluster."
