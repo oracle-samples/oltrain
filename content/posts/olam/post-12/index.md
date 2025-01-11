@@ -1,6 +1,6 @@
 ---
 title: "Use Custom Execution Environments"
-date: 2024-01-11
+date: 2025-01-11
 draft: false
 summary: "Learn to deploy and configure a custom execution environment in Oracle Linux Automation Manager for running jobs."
 tags: ["olam","lab","tutorial"]
