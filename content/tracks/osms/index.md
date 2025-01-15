@@ -28,6 +28,13 @@ aliases:
 
 ---
 
+> **Note:** 
+>
+> Effective April 23, 2025, the Oracle OS Management service reaches end of life (EOL). OS Management is replaced by [OS Management Hub](https://oracle-samples.github.io/oltrain/tracks/osmh/), which provides an improved user experience with new features, including patch deployments through lifecycle stages, enhanced job scheduling, and reporting capabilities.
+> 
+> Before the EOL date, we recommend that you migrate managed instances from OS Management to OS Management Hub.
+---
+
 {{< lead >}}
 The Oracle Cloud Infrastructure OS Management service allows you to manage and monitor updates and patches for the operating system environments on your Oracle Cloud instances, including instances managed by the OS Management Oracle Autonomous Linux service. OS Management also provides options for discovering and monitoring resources on your instances.
 {{< /lead >}}
