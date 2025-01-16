@@ -4,7 +4,7 @@ date: 2020-08-03
 weight: 06
 draft: false
 description: "DTrace"
-summary: "This track focusses on the DTrace tracing tool. DTrace traces activities in both userland and kernel and provides a microscope into the Oracle Linux operating system."
+summary: "DTrace is a comprehensive, advanced tracing tool for troubleshooting systematic problems in real time."
 tags: ["dtrace"]
 slug: "dtrace"
 showRecent: false
@@ -28,7 +28,9 @@ series_order: 12
 ---
 
 {{< lead >}}
-This track focusses on the DTrace tracing tool. DTrace traces activities in both userland and kernel and provides a microscope into the Oracle Linux operating system.
+DTrace provides dynamic tracing through the ability to instrument a running operating system kernel.
+
+DTrace enables you to associate actions, such as collecting or printing stack traces, function arguments, timestamps, and statistical aggregates, with probes, which can be runtime events or source-code locations. The D language is powerful, yet simple. DTrace is dynamic, has low overhead, and is safe to use on production systems. It enables you to examine the behavior of user programs and the operating system, to understand how your system works, to track down performance problems, and to locate the causes of aberrant behavior.
 {{< /lead >}}
 
 {{< card2 title="Related" limit=30 tag="/tags/ol-dtrace" >}}
