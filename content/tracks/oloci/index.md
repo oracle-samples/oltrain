@@ -1,6 +1,6 @@
 ---
 title: "Linux on Oracle Cloud Infrastructure"
-date: 2020-08-19
+date: 2020-08-14
 draft: false
 description: "Welcome to Linux on Oracle Cloud Infrastructure Track"
 summary: "This track provides a learning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.  
