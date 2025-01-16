@@ -1,7 +1,7 @@
 ---
 title: "Set up Gluster Storage"
 date: 2021-08-21
-draft: false
+draft: true
 summary: "Learn how to set up Gluster Storage"
 tags: ["ol", "lab", "tutorial", "ol-storage"]
 showDate: true

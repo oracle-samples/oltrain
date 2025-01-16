@@ -1,7 +1,7 @@
 ---
 title: "Create a Highly Available NFS Service with Gluster"
 date: 2022-05-09
-draft: false
+draft: true
 summary: "Learn how to create a highly available NFS Service with Gluster"
 tags: ["ol", "lab", "tutorial", "ol-storage"]
 showDate: true
