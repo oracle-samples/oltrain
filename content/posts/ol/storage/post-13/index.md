@@ -1,7 +1,7 @@
 ---
 title: "Introduction to GlusterFS"
 date: 2021-10-06
-draft: false
+draft: true
 summary: "Learn how to use GlusterFS on Oracle Linux."
 tags: ["ol", "video","ol-storage"]
 showDate: true
