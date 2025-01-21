@@ -1,7 +1,7 @@
 ---
 title: "Create an Oracle Linux Storage Applicance"
 date: 2022-02-14
-draft: false
+draft: true
 summary: "Learn to create an Oracle Linux Storage Appliance compute instance. Shows initial connection and setup of the appliance, and adding block volumes to create a storage pool."
 tags: ["oloci","lab","tutorial","oloci-storage"]
 showDate: true
