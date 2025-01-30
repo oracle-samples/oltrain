@@ -1,7 +1,7 @@
 ---
 title: "Configure Oracle Linux Storage Appliance"
 date: 2020-08-15
-draft: false
+draft: true
 summary: "Learn how to configure an Oracle Linux Storage Appliance on Oracle Cloud Infrastructure."
 tags: ["oloci", "video","oloci-storage"]
 showDate: true

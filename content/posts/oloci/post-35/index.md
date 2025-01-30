@@ -1,7 +1,7 @@
 ---
 title: "Use Oracle Linux Storage Appliance"
 date: 2020-08-16
-draft: false
+draft: true
 summary: "Learn how to work with an Oracle Linux Storage Appliance on Oracle Cloud Infrastructure."
 tags: ["oloci", "video","oloci-storage"]
 showDate: true
