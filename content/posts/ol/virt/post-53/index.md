@@ -9,9 +9,9 @@ showDate: true
 
 ## Links
 
-:crescent_moon: [Lab](https://luna.oracle.com/lab/a63c2548-c459-457f-b3d1-123c99d90d89)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/6cc1f2f1-5a2b-44cb-8662-b89aec478449)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-podman-quay-ha)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-podman-pasta-networking)
 
 ## Details
 
