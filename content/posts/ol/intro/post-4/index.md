@@ -1,6 +1,6 @@
 ---
 title: "Files and Directories"
-date: 2025-02-05
+date: 2025-02-15
 draft: false
 summary: "Learn how to administer file and directories on Oracle Linux."
 tags: ["ol", "video","ol-intro"]

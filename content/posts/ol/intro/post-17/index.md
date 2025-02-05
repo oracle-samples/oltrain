@@ -1,6 +1,6 @@
 ---
 title: "Bash Shell Scripting"
-date: 2025-02-05
+date: 2025-02-10
 draft: false
 summary: "Learn the basics of bash scripting on Oracle Linux."
 tags: ["ol", "video","ol-intro"]

@@ -1,6 +1,6 @@
 ---
 title: "Linux Shell and CLI"
-date: 2025-02-05
+date: 2025-02-20
 draft: false
 summary: "Learn how to use the command line in Oracle Linux."
 tags: ["ol", "video","ol-intro"]

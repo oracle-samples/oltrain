@@ -1,6 +1,6 @@
 ---
 title: "Advantages to Oracle Linux"
-date: 2025-02-05
+date: 2025-02-25
 draft: false
 summary: "Learn about the advantages of running Oracle Linux."
 tags: ["ol", "video","ol-intro"]
