@@ -19,12 +19,12 @@ sharingLinks : false
 cascade:
   showDate: false
   showAuthor: false
-  invertPagination: true
+  invertPagination: false
 aliases:
 - /OL/virt/virt.html
 - /ol/virt/virt/
 series: ["Oracle Linux"]
-series_order: 10
+series_order: 11
 ---
 
 {{< figure src="/img/ol/virt/OL-virt-kvm.png" alt="virt-kvm" >}}

@@ -19,12 +19,12 @@ sharingLinks : false
 cascade:
   showDate: false
   showAuthor: false
-  invertPagination: true
+  invertPagination: false
 aliases:
 - /OL/rem_mgmt/rem_mgmt.html
 - /ol/rem_mgmt/rem_mgmt/
 series: ["Oracle Linux"]
-series_order: 8
+series_order: 9
 ---
 
 {{< lead >}}

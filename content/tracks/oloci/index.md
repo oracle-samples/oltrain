@@ -16,6 +16,7 @@ showReadingTime: false
 showAuthor: false
 showDateUpdated : false
 sharingLinks : false
+showPagination: false
 cascade:
   showDate: false
   showAuthor: false

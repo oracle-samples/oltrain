@@ -19,12 +19,12 @@ sharingLinks : false
 cascade:
   showDate: false
   showAuthor: false
-  invertPagination: true
+  invertPagination: false
 aliases:
 - /OL/inst_boot/inst_boot.html
 - /ol/inst_boot/inst_boot/
 series: ["Oracle Linux"]
-series_order: 3
+series_order: 2
 ---
 
 {{< lead >}}

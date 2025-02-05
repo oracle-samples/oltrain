@@ -19,12 +19,12 @@ sharingLinks : false
 cascade:
   showDate: false
   showAuthor: false
-  invertPagination: true
+  invertPagination: false
 aliases:
 - /OL/pkg_mgmt/pkg_mgmt.html
 - /ol/pkg_mgmt/pkg_mgmt/
 series: ["Oracle Linux"]
-series_order: 7
+series_order: 6
 ---
 
 {{< lead >}}

@@ -19,12 +19,12 @@ sharingLinks : false
 cascade:
   showDate: false
   showAuthor: false
-  invertPagination: true
+  invertPagination: false
 aliases:
 - /OL/network/network.html
 - /ol/network/network/
 series: ["Oracle Linux"]
-series_order: 6
+series_order: 5
 ---
 
 {{< lead >}}

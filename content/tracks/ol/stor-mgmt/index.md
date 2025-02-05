@@ -19,12 +19,12 @@ sharingLinks : false
 cascade:
   showDate: false
   showAuthor: false
-  invertPagination: true
+  invertPagination: false
 aliases:
 - /OL/stor_mgmt/stor_mgmt.html
 - /ol/stor_mgmt/stor_mgmt/
 series: ["Oracle Linux"]
-series_order: 9
+series_order: 10
 ---
 
 {{< lead >}}

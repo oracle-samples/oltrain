@@ -19,12 +19,12 @@ sharingLinks : false
 cascade:
   showDate: false
   showAuthor: false
-  invertPagination: true
+  invertPagination: false
 aliases:
 - /OL/dtrace/dtrace.html
 - /ol/dtrace/
 series: ["Oracle Linux"]
-series_order: 12
+series_order: 7
 ---
 
 {{< lead >}}

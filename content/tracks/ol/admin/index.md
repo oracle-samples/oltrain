@@ -19,12 +19,12 @@ sharingLinks : false
 cascade:
   showDate: false
   showAuthor: false
-  invertPagination: true
+  invertPagination: false
 aliases:
 - /OL/admin/admin.html
 - /ol/admin/admin/
 series: ["Oracle Linux"]
-series_order: 2
+series_order: 3
 ---
 
 {{< lead >}}
