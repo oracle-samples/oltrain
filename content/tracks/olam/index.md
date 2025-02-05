@@ -18,6 +18,7 @@ sharingLinks : false
 hideFeatureImage: false
 showHero: true
 istrack: true
+showPagination: false
 cascade:
   showDate: false
   showAuthor: false

@@ -19,12 +19,12 @@ sharingLinks : false
 cascade:
   showDate: false
   showAuthor: false
-  invertPagination: true
+  invertPagination: false
 aliases:
 - /OL/mon_log/mon_log.html
 - /ol/mon_log/mon_log/
 series: ["Oracle Linux"]
-series_order: 5
+series_order: 4
 ---
 
 {{< lead >}}

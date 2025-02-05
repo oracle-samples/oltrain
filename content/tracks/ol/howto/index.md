@@ -19,12 +19,12 @@ sharingLinks : false
 cascade:
   showDate: false
   showAuthor: false
-  invertPagination: true
+  invertPagination: false
 aliases:
 - /OL/howto/howto.html
 - /ol/howto/
 series: ["Oracle Linux"]
-series_order: 11
+series_order: 12
 ---
 
 {{< lead >}}

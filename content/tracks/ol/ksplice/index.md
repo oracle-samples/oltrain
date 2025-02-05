@@ -19,12 +19,12 @@ sharingLinks : false
 cascade:
   showDate: false
   showAuthor: false
-  invertPagination: true
+  invertPagination: false
 aliases:
 - /OL/ksplice/ksplice.html
 - /ol/ksplice/ksplice/
 series: ["Oracle Linux"]
-series_order: 4
+series_order: 8
 ---
 
 {{< lead >}}
