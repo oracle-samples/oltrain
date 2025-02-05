@@ -1,8 +1,8 @@
 ---
-title: "Manage the Boot Kernel"
+title: "Use Grubby"
 date: 2023-08-02
 draft: false
-summary: "Learn about the tools to use when managing the boot kernel on Oracle Linux."
+summary: "Learn to use grubby to manage the boot kernel in Oracle Linux."
 tags: ["ol","lab","tutorial","ol-install"]
 showDate: true
 ---
@@ -11,27 +11,30 @@ showDate: true
 
 :crescent_moon: [Lab](https://luna.oracle.com/lab/67f106f2-8c50-442c-b24f-108b806be84f)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/oracle-linux-kernels)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-grubby)
 
 ## Details
 
-These guides describe how to set the default kernel of an Oracle Linux system from the command line. This tutorial is targeted at Oracle Linux 8 users, but the commands are also available on other Oracle Linux releases.
+*Grubby** is a flexible and powerful command-line tool that provides users with an easy way to modify the bootloader configuration used by Oracle Linux without users having to manually edit the GRUB (GRand Unified Bootloader) or GRUB2 configuration files directly. In most cases, changing the default kernel is unnecessary because Oracle Linux defaults to a configuration and behavior to use and boot the most recent kernel version first. **Grubby** is also scriptable, making managing your system's default kernel requirements easier. Reasons why you should consider using **grubby** include:
 
-### Background
-
-By default, Oracle Linux systems are configured to boot the most recent kernel version first. In most cases, changing the default kernel is unnecessary.
-
-In previous releases, setting the default kernel was performed by configuring the GRUB boot loader or by using other alternative commands. Now, however, you should preferrably use the **grubby** command to control and manage all of your boot requirements. This tool offers the benefit of being scriptable and can abstract bootloader configuration from the user.
+- It has a simple command-line structure that makes managing bootloader settings much easier.
+- It provides an easy way to list and manage multiple kernels, simplifying updating kernel parameters or changing the default kernel.
+- It works with both UEFI and BIOS-based systems.
+- It removes the risk associated with manual editing of bootloader files directly.
 
 ### Objectives
 
-In this lab, you'll learn how to:
--  determine the current loaded kernel
--  determine the default kernel
--  determine which kernel versions are available on the system
--  use **grubby** to manage kernels
+In this tutorial, you'll learn how to:
 
-### What Do You Need?
+- Determine the currently loaded kernel
+- Determine the default kernel
+- Determine which kernel versions are available on the system
+- Use **grubby** to manage kernels
 
--   Any Oracle Linux system that has the `grubby` package installed
+### Prerequisites
 
+- Minimum of a single Oracle Linux system
+
+- Each system should have Oracle Linux installed and configured with:
+  - A non-root user account with sudo access
+  - Access to the Internet
