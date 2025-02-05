@@ -1,13 +1,13 @@
 ---
 title: "Files and Directories"
-date: 2021-05-25
+date: 2025-02-05
 draft: false
 summary: "Learn how to administer file and directories on Oracle Linux."
 tags: ["ol", "video","ol-intro"]
 showDate: true
 ---
 
-{{< youtube id="Eo6zhlFHDXE" title="Introduction to Files and Directories on Oracle Linux" >}}
+{{< youtube id="NXktkK3gTuE" title="Working with Files and Directories" >}}
 
 ## Details
 
