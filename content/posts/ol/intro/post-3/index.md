@@ -1,13 +1,13 @@
 ---
 title: "Linux Shell and CLI"
-date: 2021-05-24
+date: 2025-01-30
 draft: false
 summary: "Learn how to use the command line in Oracle Linux."
 tags: ["ol", "video","ol-intro"]
 showDate: true
 ---
 
-{{< youtube id="QQSI_901fUU" title="Introduction to the Linux Shell and Command Line" >}}
+{{< youtube id="Z8TxX7s_kcE" title="Introduction to the Shell and Command-line Syntax" >}}
 
 ## Details
 
