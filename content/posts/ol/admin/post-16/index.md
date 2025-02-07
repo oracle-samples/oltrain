@@ -1,7 +1,7 @@
 ---
 title: "Configure Chrony"
 date: 2021-02-10
-draft: false
+draft: true
 summary: "Learn how to set date, time and configure Network Time Protocol using Chrony."
 tags: ["ol","lab","tutorial","ol-admin"]
 showDate: true
