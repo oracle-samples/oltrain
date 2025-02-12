@@ -1,13 +1,13 @@
 ---
 title: "Using vim"
-date: 2021-05-25
+date: 2025-01-28
 draft: false
 summary: "Learn how to use vim on Oracle Linux."
 tags: ["ol", "video","ol-intro"]
 showDate: true
 ---
 
-{{< youtube id="5xKldV3knzU" title="Using vim on Oracle Linux" >}}
+{{< youtube id="Hn4y-SoyKIc" title="Introduction to Using vim" >}}
 
 ## Details
 
