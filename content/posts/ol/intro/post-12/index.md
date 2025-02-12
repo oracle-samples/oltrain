@@ -1,13 +1,13 @@
 ---
 title: "Linux Architecture"
-date: 2021-08-10
+date: 2025-02-03
 draft: false
 summary: "Learn about the Linux Architecture and Kernel."
 tags: ["ol", "video","ol-intro"]
 showDate: true
 ---
 
-{{< youtube id="a0zXGhzPRp8" title="Linux Architecture and the Kernel" >}}
+{{< youtube id="h_xSovNStSE" title="Linux Architecture and the Kernel" >}}
 
 ## Details
 
