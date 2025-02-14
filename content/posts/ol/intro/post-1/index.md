@@ -2,7 +2,7 @@
 title: "Why Learn Linux"
 date: 2025-02-06
 draft: false
-summary: "Learn the benefits and development of Oracle Linux."
+summary: "Learn about the benefits and development of Oracle Linux."
 tags: ["ol", "video","ol-intro"]
 showDate: true
 ---
