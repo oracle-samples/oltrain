@@ -31,9 +31,9 @@ aliases:
 
 > **Note:** 
 >
-> Effective April 23, 2025, the Oracle OS Management service reaches end of life (EOL). OS Management is replaced by [OS Management Hub](https://oracle-samples.github.io/oltrain/tracks/osmh/), which provides an improved user experience with new features, including patch deployments through lifecycle stages, enhanced job scheduling, and reporting capabilities.
+> On April 23, 2025, the OS Management Service reaches end of life (EOL). Effective now, the service is no longer available in regions where you are not already using OS Management service, or to new users with new tenancies.
 > 
-> Before the EOL date, we recommend that you migrate managed instances from OS Management to OS Management Hub.
+> Before the EOL date, we recommend that you [migrate your managed instances](https://docs.oracle.com/iaas/os-management/osms/osms-migration-osmh.htm) to the [OS Management Hub service](https://docs.oracle.com/iaas/osmh/doc/home.htm). If you are an Oracle Autonomous Linux user, see [Important Maintenance Event](https://docs.oracle.com/iaas/os-management/osms/al-maintenance-event.htm). For more information, see the [Service Change Announcement](https://docs.oracle.com/iaas/Content/servicechanges.htm#os_management).
 ---
 
 {{< lead >}}
