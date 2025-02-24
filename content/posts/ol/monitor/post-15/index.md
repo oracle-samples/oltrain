@@ -17,18 +17,19 @@ showDate: true
 
 Performance Co-Pilot (PCP) collects OS and network metrics that you can use to diagnose performance issues. PCP is a distributed architecture with collector hosts and monitor hosts.
 
-These guides walk you through installation, configuration, and using PCP.
+- PCP refers to the monitored hosts as collector hosts. These hosts require a Performance Metrics Domain Agent (PMDA), which is responsible for collecting performance measurements. The Performance Metrics Collector Daemon or `pmcd` controls all PMDAs on the same hosts.
+
+- PCP monitor hosts display data collected from hosts, or archives, that have the PCP collector installed. The core PCP package includes many monitor tools.
 
 ### Objectives
 
-In this lab, you will learn:
+In this tutorial, you will learn:
 
-   - Configure one Oracle Linux host as a PCP collector and monitor
-   - Use PCP monitoring tools on a single host
-   - Configure remote monitoring of a 2nd Oracle Linux host
-   - Monitor performance with pmchart GUI
+- Configure one Oracle Linux host as a PCP collector and monitor
+- Use PCP monitoring tools on a single host
+- Configure remote monitoring of a second Oracle Linux host
+- Monitor performance with pmchart GUI
 
 ### Prerequisites
 
-  - Two (2) Oracle Linux 9 systems
-
+- Two (2) Oracle Linux 9 systems
