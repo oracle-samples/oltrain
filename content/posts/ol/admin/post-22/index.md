@@ -30,8 +30,8 @@ This tutorial functions in two parts:
    1. It guides you through upgrading the same system from Oracle Linux 8 to Oracle Linux 9.
 
 > **Note:** Before using Leapp in a production environment it is recommended to become familiar with the Leapp upgrade process in a test environment. This allows you to better understand the process, and its reports, and test for any security or compatibility and pre and post-upgrade issues that might be encountered.  
-
-> **Note:** The Leapp utility is used to upgrade the Operating System (OS) only, for example, from the current Oracle Linux 7 release to the current Oracle Linux 8, or the current Oracle Linux 8 to the current Oracle Linux 9. The procedures in this tutorial do not apply to and are unsupported on any other OS or versions.
+>
+> The Leapp utility is used to upgrade the Operating System (OS) only, for example, from the current Oracle Linux 7 release to the current Oracle Linux 8, or the current Oracle Linux 8 to the current Oracle Linux 9. The procedures in this tutorial do not apply to and are unsupported on any other OS or versions.
 
 ### Objectives
 

@@ -46,4 +46,4 @@ In this tutorial, you will learn to:
   - Compute Arm Shape for the control plane node
     - VM.Standard.A1.Flex with two OCPU and 12 memory
   - Compute for each additional control plane and worker node
-    - VM.Standard.E4.Flex with four OCPU and 64 memory 
+    - VM.Standard.E4.Flex with four OCPU and 64 memory
