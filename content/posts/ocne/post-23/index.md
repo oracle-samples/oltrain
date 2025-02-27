@@ -1,9 +1,9 @@
 ---
 title: "Use Persistent Volumes and Persistent Volume Claims"
-date: 2023-11-15
+date: 2025-02-27
 draft: false
 summary: "This tutorial shows how to create and use Persistent Volumes and Persistent Volume Claims with Oracle Cloud Native Environment."
-tags: ["ocne", "lab", "tutorial", "ocne-install"]
+tags: ["ocne2", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 
@@ -15,25 +15,35 @@ showDate: true
 
 ## Details
 
-This tutorial shows how to create and use Persistent Volumes and Persistent Volume Claims with Oracle Cloud Native Environment. Both Persistent Volumes and Persistent Volume Claims work together to provide persistence to any container-based applications deployed onto Oracle Cloud Native Environment. You will start by covering how to use Persistent Volumes initially, and then cover the use of Persistent Volume Claims.
+Because container-based applications are stateless by default, any file updates during the container lifetime are lost. However, if your application is stateful, the ability to persist any changes to the filesystem becomes relevant. It is this requirement that has led to Kubernetes supporting many types of volumes. Many volume types that you may have encountered already are [ephemeral](https://kubernetes.io/docs/concepts/storage/ephemeral-volumes/) (they only exist during the pod lifetime). Kubernetes also supports [persistent](https://kubernetes.io/docs/concepts/storage/persistent-volumes/) volumes, which persist any data stored beyond the pod lifetime. There are several [Persistent Volume types](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#types-of-persistent-volumes) supported by Kubernetes, and this tutorial will demonstrate one of the simplest - the `local` type, which stores data on devices stored locally on one of the cluster nodes.
+
+This tutorial shows how to create and use Persistent Volumes and Persistent Volume Claims with Oracle Cloud Native Environment (Oracle CNE). Persistent Volumes and Persistent Volume Claims work together to provide persistence to any container-based applications deployed onto Oracle CNE. You will start by covering how to use Persistent Volumes initially, then cover the use of Persistent Volume Claims.
 
 ### Objectives
 
-You will learn:
+In this tutorial, you will learn to:
 
+- Install the prerequisites for the *oci* provider
+- Use the *oci* provider to create and manage a Kubernetes cluster
 - The difference between a Persistent Volume (PV) and a Persistent Volume Claim (PVC)
-- How to use Persistent Volumes and Persistent Volume Claims with Oracle Cloud Native Environment.
+- How to use Persistent Volumes and Persistent Volume Claims
 
 ### Prerequisites
 
-- 3 Oracle Linux systems to use as:
-	- Operator node (ocne-operator-01)
-	- Kubernetes control plane node (ocne-control-01)
-	- Kubernetes worker node (ocne-worker-01)
+- Minimum of one Oracle Linux instance
 
-- Each system should have the latest Oracle Linux 8 (x86_64) installed
+- Each system should have Oracle Linux installed and configured with:
 
-- This environment is pre-configured with:
-    - An Oracle user account (used during the installation) with sudo access
-	- Key-based SSH, also known as password-less SSH, between the hosts
-	- Installation of Oracle Cloud Native Environment and Oracle Cloud Infrastructure Cloud Controller Manager (oci-ccm) module
+  - An Oracle user account (used during the installation) with sudo access
+  - Key-based SSH, also known as password-less SSH, between the hosts
+
+- OCI cluster creation requires access to the following resources in an Oracle Cloud Infrastructure tenancy:
+
+  - Virtual cloud network with four subnets
+  - Network load balancer
+  - Object Storage bucket with minimum 5 GiB available
+  - Compute Custom Image
+  - Compute Arm Shape for the control plane node
+    - VM.Standard.A1.Flex with two OCPU and 12 memory
+  - Compute for each additional control plane and worker node
+    - VM.Standard.E4.Flex with four OCPU and 64 memory 
