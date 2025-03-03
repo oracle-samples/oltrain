@@ -13,6 +13,7 @@ summaryLength = 30
 
 buildDrafts = false
 buildFuture = false
+enableEmoji = true
 
 googleAnalytics = "G-PEDMYR1V0K"
 
@@ -70,4 +71,4 @@ googleAnalytics = "G-PEDMYR1V0K"
   [module.hugoVersion]
     extended = true
     min = "0.87.0"
-    max = "0.141.0"
+    max = "0.148.0"
