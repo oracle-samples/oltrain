@@ -7,7 +7,7 @@ tags: ["ol", "video","ol-dtrace"]
 showDate: true
 ---
 
-{{< youtube id="K_lQop1AqmY" title="DTrace Module 3 - Multithreading Part 1" >}}
+{{< youtube id="k_lQop1AqmY" title="DTrace Module 3 - Multithreading Part 1" >}}
 
 ## Details
 

@@ -7,7 +7,7 @@ tags: ["ol", "video","ol-install"]
 showDate: true
 ---
 
-{{< youtube id="R5WYAKgdyzo" title="Install Oracle Linux 8" >}}
+{{< youtube id="R5WYAkgdyzo" title="Install Oracle Linux 8" >}}
 
 ## Details
 
