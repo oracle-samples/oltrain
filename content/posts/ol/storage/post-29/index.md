@@ -3,7 +3,7 @@ title: "Use Btrfs Send and Receive"
 date: 2024-08-20
 draft: false
 summary: "Learn how to use the Btrfs send and receive features to remotely back up a subvolume over SSH."
-tags: ["ol", "tutorial", "ol-storage"]
+tags: ["ol", "lab", "tutorial", "ol-storage"]
 showDate: true
 ---
 
