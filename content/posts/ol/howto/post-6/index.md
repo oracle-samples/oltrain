@@ -1,7 +1,7 @@
 ---
 title: "Setup Oracle Linux Yum Server"
 date: 2020-07-10
-draft: false
+draft: true
 summary: "Learn how to setup and use the Oracle Linux Yum Server."
 tags: ["ol", "video","ol-howto"]
 showDate: true
