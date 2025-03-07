@@ -1,7 +1,7 @@
 ---
 title: "Use oci-kvm"
 date: 2020-09-12
-draft: false
+draft: true
 summary: "Learn to use oci-kvm commands for Oracle Linux KVM Image on Oracle Cloud Infrastructure."
 tags: ["oloci", "video","oloci-kvm"]
 showDate: true

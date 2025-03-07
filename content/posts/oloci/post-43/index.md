@@ -1,7 +1,7 @@
 ---
 title: "Create a KVM Guest"
 date: 2020-09-11
-draft: false
+draft: true
 summary: "Learn to create a KVM Guest using Oracle Linux KVM Image on Oracle Cloud Infrastructure."
 tags: ["oloci", "video","oloci-kvm"]
 showDate: true

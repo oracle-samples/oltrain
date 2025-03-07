@@ -76,13 +76,13 @@ Learn to discover and administer block volume storage and create shared cluster 
 
 {{< card2 limit=30 tag="/tags/oloci-storage" >}}
 
-{{< figure src="/img/oloci/OLOCI-kvm-header2.png" alt="KVM Virtualization for Instance section banner" >}}
+[//]: # ({{< figure src="/img/oloci/OLOCI-kvm-header2.png" alt="KVM Virtualization for Instance section banner" >}})
 
-## KVM Virtualization for Instances
+[//]: # (## KVM Virtualization for Instances)
 
-Learn to implement KVM virtualization in Oracle Linux instances deployed on Oracle Cloud Infrastructure.
+[//]: # (Learn to implement KVM virtualization in Oracle Linux instances deployed on Oracle Cloud Infrastructure.)
 
-{{< card2 limit=30 tag="/tags/oloci-kvm" >}}
+[//]: # ({{< card2 limit=30 tag="/tags/oloci-kvm" >}})
 
 {{< figure src="/img/quiz1.png" alt="Oracle Cloud Infrastructure section quiz banner" >}}
 

@@ -1,7 +1,7 @@
 ---
 title: "Use Oracle Linux KVM Image"
 date: 2020-12-10
-draft: false
+draft: true
 summary: "Learn how to deploy the Oracle Linux KVM Image on Oracle Cloud Infrastructure."
 tags: ["oloci", "video","oloci-kvm"]
 showDate: true
