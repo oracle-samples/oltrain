@@ -7,7 +7,7 @@ tags: ["ol", "video","ol-install"]
 showDate: true
 ---
 
-{{< youtube id="BDmBtP4Y7Wg" title="Install Oracle Linux 9" >}}
+{{< youtube id="5xhpV_WVt50" title="Install Oracle Linux 9" >}}
 
 ## Details
 

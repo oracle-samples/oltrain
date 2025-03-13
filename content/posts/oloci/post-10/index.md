@@ -1,7 +1,7 @@
 ---
 title: "Intro to Terraform"
 date: 2021-12-17
-draft: false
+draft: true
 summary: "Learn how to use Terraform on Oracle Cloud Infrastructure."
 tags: ["oloci","tutorial","oloci-deploy"]
 showDate: true
