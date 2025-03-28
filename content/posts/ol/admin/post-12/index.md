@@ -7,7 +7,7 @@ tags: ["ol", "video","ol-admin"]
 showDate: true
 ---
 
-{{< youtube id="meKjLOxEu_o" title="SELinux Basics on Oracle Linux" >}}
+{{< youtube id="n9ggIaMKkm8" title="SELinux Basics on Oracle Linux" >}}
 
 ## Details
 
