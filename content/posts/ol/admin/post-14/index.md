@@ -7,7 +7,7 @@ tags: ["ol", "video","ol-admin"]
 showDate: true
 ---
 
-{{< youtube id="y3q8HAMTPDc" title="Introducing Udev on Oracle Linux" >}}
+{{< youtube id="entQQ9cEpdY" title="Introducing Udev on Oracle Linux" >}}
 
 ## Details
 
