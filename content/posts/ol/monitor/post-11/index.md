@@ -7,7 +7,7 @@ tags: ["ol", "video","ol-monitor"]
 showDate: true
 ---
 
-{{< youtube id="AKwV0DHt6oA" title="Linux Auditing System on Oracle Linux" >}}
+{{< youtube id="GCkNFiT0nm4" title="Linux Auditing System on Oracle Linux" >}}
 
 ## Details
 
