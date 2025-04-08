@@ -1,13 +1,13 @@
 ---
 title: "Using firewalld"
-date: 2020-10-19
+date: 2025-04-08
 draft: false
 summary: "Learn how to configure a firewall with firewalld on Oracle Linux."
 tags: ["ol", "video","ol-network"]
 showDate: true
 ---
 
-{{< youtube id="GPHxVRPUs9o" title="Introduction to using firewalld on Oracle Linux" >}}
+{{< youtube id="1YLZtyZmZf4" title="Using firewalld on Oracle Linux" >}}
 
 ## Details
 
