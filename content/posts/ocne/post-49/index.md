@@ -1,35 +1,31 @@
 ---
-title: "Update Kubernetes Version"
-date: 2025-04-02
+title: "Build From Source"
+date: 2025-04-15
 draft: false
-summary: "Learn how to upgrade the Kubernetes version in your Oracle Cloud Native Environment cluster."
+summary: "Learn how to build Oracle Cloud Native Environment from the GitHub source code."
 tags: ["ocne2", "lab", "tutorial", "ocne-install"]
 showDate: true
 ---
 
 ## Links
 
-:crescent_moon: [Lab](https://luna.oracle.com/lab/14b48272-191c-4c61-9fce-e4200b6af519)
+:crescent_moon: [Lab](https://luna.oracle.com/lab/cbb51122-f393-454e-96f2-0486402b1f1d)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne2-upgrade-kubernetes)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ocne2-build)
 
 ## Details
 
-Best practices recommend upgrading your Kubernetes cluster as soon after a new release as possible. The reasons to upgrade as quickly as possible include:
+The Oracle Cloud Native Environment (Oracle CNE) Command Line Interface (CLI) manages the lifecycle of the Kubernetes cluster at your organization. It is also an Open Source project available on [GitHub](https://github.com/oracle-cne/ocne), and this tutorial demonstrates how to build the `ocne` executable yourself. 
 
-- Apply the latest security fixes
-- Access stability and performance improvements
-- Access new features, APIs & functionality 
-
-This tutorial demonstrates how to upgrade the Kubernetes version used on your Oracle CNE cluster.
-
-For more information about Oracle CNE, please refer to the current [Release Documentation](https://docs.oracle.com/en/operating-systems/olcne/) site.
+For more information about Oracle Cloud Native Environment 2, please refer to the current [Release Documentation](https://docs.oracle.com/en/operating-systems/olcne/) site.
 
 ### Objectives
 
 In this tutorial, you'll learn to:
 
-- Upgrade the Kubernetes version deployed across your cluster
+- Configure the build environment
+- Build the `ocne` executable
+- Start a Kubernetes cluster with the resulting executable
 
 ### Prerequisites
 
