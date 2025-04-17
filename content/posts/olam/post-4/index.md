@@ -1,6 +1,6 @@
 ---
 title: "Migrate to a Clustered Deployment"
-date: 2022-11-10
+date: 2025-04-17
 draft: false
 summary: "Learn to migrate a single-host Oracle Linux Automation Manager installation to a clustered deployment with a remote database."
 tags: ["olam","lab","tutorial"]
