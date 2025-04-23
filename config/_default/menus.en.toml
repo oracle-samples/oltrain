@@ -87,13 +87,6 @@
   weight = 96
 
 [[main]]
-  name = "Oracle OS Management Service"
-  identifier = "t11"
-  parent = "t"
-  pageRef = "tracks/osms"
-  weight = 81
-
-[[main]]
   name = "Blogs"
   #pageRef = "tags"
   weight = 20
@@ -204,13 +197,6 @@
   weight = 196
 
 [[main]]
-  name = "Oracle OS Management Service"
-  identifier = "doc11"
-  parent = "doc"
-  url = "https://docs.oracle.com/en-us/iaas/os-management/home.htm"
-  weight = 181
-
-[[main]]
   name = "Playlists"
   identifier = "pl"
   #pageRef = "tags"
@@ -292,13 +278,6 @@
   parent = "pl"
   url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsnBlQvRh23rFgxMYFduQOo"
   weight = 297
-
-[[main]]
-  name = "Oracle OS Management Service"
-  identifier = "pl12"
-  parent = "pl"
-  url = "https://www.youtube.com/playlist?list=PLKCk3OyNwIzsn5mtWgjb_HS7GJoKa2rMn"
-  weight = 281
 
 [[main]]
   identifier = "web"
