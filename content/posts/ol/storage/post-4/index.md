@@ -1,13 +1,13 @@
 ---
 title: "Using fstab to Mount Devices"
-date: 2020-07-29
+date: 2025-04-23
 draft: false
 summary: "Learn how to use fstab to Mount Devices on Oracle Linux."
 tags: ["ol", "video","ol-storage"]
 showDate: true
 ---
 
-{{< youtube id="zO9kbExt3uI" title="Using fstab to Mount Devices on Oracle Linux" >}}
+{{< youtube id="pqnu2vpeKKY" title="Using fstab to Mount Devices on Oracle Linux" >}}
 
 ## Details
 
