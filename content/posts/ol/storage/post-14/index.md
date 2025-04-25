@@ -1,13 +1,13 @@
 ---
 title: "Logical Volume Management"
-date: 2022-05-30
+date: 2025-04-25
 draft: false
 summary: "Learn about Logical Volume Management on Oracle Linux."
 tags: ["ol", "video","ol-storage"]
 showDate: true
 ---
 
-{{< youtube id="2ebupdOpOn8" title="Logical Volume Management on Oracle Linux" >}}
+{{< youtube id="eGmYAvUXX6A" title="Logical Volume Management on Oracle Linux" >}}
 
 ## Details
 
