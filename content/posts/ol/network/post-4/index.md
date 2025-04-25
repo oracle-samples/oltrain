@@ -1,13 +1,13 @@
 ---
 title: "Create VLANs"
-date: 2022-04-25
+date: 2025-04-25
 draft: false
-summary: "Learn how to configure vlans on Oracle Linux."
+summary: "Learn how to configure VLANs on Oracle Linux."
 tags: ["ol", "video","ol-network"]
 showDate: true
 ---
 
-{{< youtube id="JcqXcGfjD0E" title="Create VLANs in Oracle Linux with the NMCLI and IP Utilities" >}}
+{{< youtube id="bnDvj6x2b8k" title="Create VLANs in Oracle Linux with the NMCLI and IP Utilities" >}}
 
 ## Details
 
