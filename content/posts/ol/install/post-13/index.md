@@ -3,13 +3,11 @@ title: "Switch from CentOS 7"
 date: 2022-11-14
 draft: false
 summary: "Learn how to convert from CentOS 7 to Oracle Linux 7"
-tags: ["ol","lab","tutorial","ol-install"]
+tags: ["ol","tutorial","ol-install"]
 showDate: true
 ---
 
 ## Links
-
-:crescent_moon: [Lab](https://luna.oracle.com/lab/660a07d9-0580-4fae-973b-d5dfaebda1cb)
 
 :spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/switch-centos7-ol7)
 
@@ -25,12 +23,12 @@ Be sure to review the centos2ol project [README.md](https://github.com/oracle/ce
 
 In this tutorial, you'll:
 
-  - Check for non-standard kernels
-  - Ensure the `yum` configuration is working
-  - Disable or remove stale and non-CentOS repositories
-  - Ensure 5GB free space in `/var/cache`
-  - Disable all automatic updates, including `yum-cron`
+- Check for non-standard kernels
+- Ensure the `yum` configuration is working
+- Disable or remove stale and non-CentOS repositories
+- Ensure 5GB free space in `/var/cache`
+- Disable all automatic updates, including `yum-cron`
 
 ### Prerequisite
 
-  - A system with CentOS 7 installed.
+- A system with CentOS 7 installed.
