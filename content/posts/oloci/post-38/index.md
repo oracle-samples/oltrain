@@ -3,13 +3,11 @@ title: "OCI iSCSI Utility"
 date: 2022-01-12
 draft: false
 summary: "Learn how to use the OCI iSCSI Utility to manage iSCSI block volumes on Oracle Cloud Infrastructure."
-tags: ["oloci","lab","tutorial","oloci-storage"]
+tags: ["oloci","tutorial","oloci-storage"]
 showDate: true
 ---
 
 ## Links
-
-:crescent_moon: [Lab](https://luna.oracle.com/lab/dd23fba0-9e2b-4a62-b86c-bea4fbc08f9d)
 
 :spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/oci-sys-admin)
 
@@ -40,5 +38,3 @@ It also supports the creation and removal of devices in the cloud resources, as 
 ### What Do You Need?
 
 - A fully patched Oracle Linux system
-
-
