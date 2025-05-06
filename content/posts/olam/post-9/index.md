@@ -19,14 +19,6 @@ Oracle Linux Automation Manager supports a cluster deployment of multiple contro
 
 The sample inventory below defines a multi-node cluster deployment in the free lab environment. To help automate the cluster installation on your hardware, check out the playbook in the [Oracle Linux Automation Manager](https://https://github.com/oracle-samples/ansible-playbooks/tree/main/playbooks/OLAM/cluster-plus-hop-node) section of the [ansible-playbooks](https://github.com/oracle-samples/ansible-playbooks) project.
 
-This sample inventory creates a cluster of three control plane nodes, two execution nodes, and a remote database.
-
-![playbook-inv](./images/playbook-inv.png " ")
-
-This image shows the topology for this cluster.
-
-![topology](./images/topology.png " ")
-
 Although there are many load balancer options, this tutorial will leverage HAProxy. HAProxy, or High Availability Proxy, is an application layer (Layer 7) load balancer and high-availability solution that you can use to implement a reverse proxy for HTTP and TCP-based Internet services. An application layer load balancer often includes many features because it can inspect the traffic content it is routing and either modify content within each packet or make decisions about handling each packet based on its content. These features simplify implementing session persistence, TLS, ACLs, and HTTP rewrites and redirection.
 
 ### Objectives
