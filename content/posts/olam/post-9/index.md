@@ -1,6 +1,6 @@
 ---
 title: "Setup HAProxy as Load Balancer"
-date: 2023-05-06
+date: 2025-05-06
 draft: false
 summary: "Learn how to configure HAProxy to Load Balance an Oracle Linux Automation Manager Cluster."
 tags: ["olam","lab","tutorial"]
