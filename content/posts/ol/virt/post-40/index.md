@@ -1,13 +1,13 @@
 ---
 title: "Remove Container Images"
-date: 2024-01-30
+date: 2025-05-05
 draft: false
 summary: "Learn to remove container images using Podman on Oracle Linux."
 tags: ["ol", "video","clips","ol-podman"]
 showDate: true
 ---
 
-{{< youtube id="fyPS7jO4O-g" title="Remove Container Images with Podman" >}}
+{{< youtube id="11l-h_51QmE" title="Remove Container Images with Podman" >}}
 
 ## Details
 

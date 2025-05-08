@@ -1,13 +1,13 @@
 ---
 title: "Stop Containers"
-date: 2024-01-28
+date: 2025-05-07
 draft: false
 summary: "Learn to stop containers using Podman on Oracle Linux."
 tags: ["ol", "video","clips","ol-podman"]
 showDate: true
 ---
 
-{{< youtube id="t-vpLn8gMr0" title="Stop Containers with Podman" >}}
+{{< youtube id="eu0YhrLR0g0" title="Stop Containers with Podman" >}}
 
 ## Details
 
