@@ -1,13 +1,13 @@
 ---
 title: "Remove Containers"
-date: 2024-01-29
+date: 2025-05-04
 draft: false
 summary: "Learn to remove containers using Podman on Oracle Linux."
 tags: ["ol", "video","clips","ol-podman"]
 showDate: true
 ---
 
-{{< youtube id="4hogVo1AEUo" title="Remove Containers with Podman" >}}
+{{< youtube id="r6xsSFdYE80" title="Remove Containers with Podman" >}}
 
 ## Details
 

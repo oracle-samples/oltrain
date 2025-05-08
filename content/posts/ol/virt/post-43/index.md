@@ -1,13 +1,13 @@
 ---
 title: "Create Containers"
-date: 2024-03-14
+date: 2025-05-01
 draft: false
 summary: "Learn to create container images using Podman on Oracle Linux."
 tags: ["ol", "video","clips","ol-podman"]
 showDate: true
 ---
 
-{{< youtube id="UZD0nOppX50" title="Create Containers with Podman" >}}
+{{< youtube id="d5mNERO_GH8" title="Create Containers with Podman" >}}
 
 ## Details
 
