@@ -1,13 +1,13 @@
 ---
 title: "Ksplice Known Exploit Detection"
-date: 2023-04-23
+date: 2025-06-15
 draft: false
 summary: "Learn how to install and use Oracle Ksplice Known Exploit Detection on Oracle Linux."
 tags: ["ol", "video","ol-ksplice"]
 showDate: true
 ---
 
-{{< youtube id="13R21lfYy74" title="Ksplice Known Exploit Detection on Oracle Linux" >}}
+{{< youtube id="E3EPqRJ8cio" title="Ksplice Known Exploit Detection on Oracle Linux" >}}
 
 ## Details
 

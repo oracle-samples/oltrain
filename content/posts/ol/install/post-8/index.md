@@ -1,14 +1,14 @@
 ---
 title: "Systemd Target Units"
-date: 2020-08-24
+date: 2025-06-16
 draft: false
 summary: "Learn about systemd target units on Oracle Linux."
 tags: ["ol", "video","ol-install"]
 showDate: true
 ---
 
-{{< youtube id="Tkxs-wfZrnw" title="systemd Target Units on Oracle Linux 8" >}}
+{{< youtube id="RYSQgmY7_tI" title="systemd Target Units on Oracle Linux" >}}
 
 ## Details
 
-This video describes the configuration and use of systemd target units in Oracle Linux 8.
+This video describes the configuration and use of systemd target units in Oracle Linux.

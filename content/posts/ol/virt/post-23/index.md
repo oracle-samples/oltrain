@@ -1,14 +1,14 @@
 ---
 title: "Use chroot"
-date: 2021-01-12
+date: 2025-06-16
 draft: false
 summary: "Learn how to use a chroot jail on Oracle Linux."
 tags: ["ol", "video","ol-podman"]
 showDate: true
 ---
 
-{{< youtube id="dxzwxvn621w" title="Use chroot on Oracle Linux" >}}
+{{< youtube id="dxPY_UJgdug" title="Use chroot on Oracle Linux" >}}
 
 ## Details
 
-This video demonstrates how to use a chroot jail on Oracle Linux 8 to install and run Nginx.
+This video demonstrates how to use a chroot jail on Oracle Linux to install and run Nginx.
