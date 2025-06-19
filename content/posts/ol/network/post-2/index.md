@@ -1,13 +1,13 @@
 ---
 title: "NetworkManager CLI"
-date: 2020-09-23
+date: 2025-06-19
 draft: false
 summary: "Learn about NetworkManager CLI on Oracle Linux."
 tags: ["ol", "video","ol-network"]
 showDate: true
 ---
 
-{{< youtube id="EkI3RKl4loE" title="Using NetworkManager CLI (nmcli) on Oracle Linux" >}}
+{{< youtube id="sGTJ9gXpfuE" title="Using NetworkManager CLI (nmcli) on Oracle Linux" >}}
 
 ## Details
 

@@ -1,13 +1,13 @@
 ---
 title: "Use virsh"
-date: 2024-06-18
+date: 2025-06-19
 draft: false
 summary: "Learn how to manage KVM virtual machines on Oracle Linux."
 tags: ["ol", "video","clips","ol-kvm"]
 showDate: true
 ---
 
-{{< youtube id="3IaUUPTX1_Q" title="Use the virsh Command Youtube video" >}}
+{{< youtube id="5rzD-341aTY" title="Use the virsh Command Youtube video" >}}
 
 ## Details
 
