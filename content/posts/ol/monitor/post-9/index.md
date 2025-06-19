@@ -1,14 +1,14 @@
 ---
 title: "System Logging with logwatch"
-date: 2021-03-06
+date: 2025-06-19
 draft: false
 summary: "Learn how to use logwatch on Oracle Linux."
 tags: ["ol", "video","ol-monitor"]
 showDate: true
 ---
 
-{{< youtube id="jfdcGZJIuLk" title="System Logging with logwatch on Oracle Linux" >}}
+{{< youtube id="NavMWADeTik" title="System Logging with logwatch on Oracle Linux" >}}
 
 ## Details
 
-This video demonstrates using the logwatch logging utility on Oracle Linux 8. The logwatch utility is a utility to perform basic log file monitoring and analysis.
+This video demonstrates using the logwatch logging utility on Oracle Linux. The logwatch utility is a utility to perform basic log file monitoring and analysis.

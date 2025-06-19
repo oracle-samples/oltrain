@@ -1,13 +1,13 @@
 ---
 title: "Intro to Control Groups"
-date: 2022-03-17
+date: 2025-06-19
 draft: false
 summary: "Learn how to use control groups on Oracle Linux."
 tags: ["ol", "video","ol-admin"]
 showDate: true
 ---
 
-{{< youtube id="AiYK0VBW7e4" title="Introduction to Control Groups on Oracle Linux" >}}
+{{< youtube id="EXSlm5UEnfY" title="Introduction to Control Groups on Oracle Linux" >}}
 
 ## Details
 

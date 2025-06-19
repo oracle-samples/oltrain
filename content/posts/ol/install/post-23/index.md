@@ -1,13 +1,13 @@
 ---
 title: "Install Oracle Linux on Microsoft Azure"
-date: 2024-10-29
+date: 2025-06-19
 draft: false
 summary: "Learn how to install Oracle Linux on Microsoft Azure."
 tags: ["ol", "video","ol-install"]
 showDate: true
 ---
 
-{{< youtube id="qemJWVPg4Z4" title="Installing Oracle Linux in Microsoft Azure" >}}
+{{< youtube id="G0M6jLkFmLQ" title="Installing Oracle Linux in Microsoft Azure" >}}
 
 ## Details
 
