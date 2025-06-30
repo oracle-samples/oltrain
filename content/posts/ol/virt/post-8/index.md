@@ -1,14 +1,14 @@
 ---
-title: "Convert VirtualBox to KVM"
-date: 2020-07-16
+title: "Convert Virtual Machine"
+date: 2025-06-30
 draft: false
-summary: "Learn how to convert a VirtualBox VM to KVM VM on Oracle Linux."
+summary: "Learn how to convert a Virtual Machine on Oracle Linux."
 tags: ["ol", "video","ol-kvm"]
 showDate: true
 ---
 
-{{< youtube id="7gZLiTa3150" title="Convert and Deploy a VirtualBox VM to KVM on Oracle Linux" >}}
+{{< youtube id="h8iDkx70Qu8" title="Convert and Deploy a VirtualBox VM to KVM on Oracle Linux" >}}
 
 ## Details
 
-This video demonstrates the use of virt-v2v to convert a VirtualBox ova export file to a qcow2 disk image and automatically import into KVM.
+This video demonstrates the use of virt-v2v to convert an OVA file to a QCOW2 disk image and import it automatically into KVM on Oracle Linux.
