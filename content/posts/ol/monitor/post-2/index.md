@@ -1,14 +1,14 @@
 ---
-title: "Run SOSReport"
-date: 2020-10-23
+title: "Run SOS Utility"
+date: 2025-07-04
 draft: false
-summary: "Learn how to use the sosreport utility on Oracle Linux."
+summary: "Learn how to use the sos report utility on Oracle Linux."
 tags: ["ol", "video","ol-monitor"]
 showDate: true
 ---
 
-{{< youtube id="FD-wgH4xhJI" title="Using the sosreport Utility on Oracle Linux" >}}
+{{< youtube id="gGpi9a3pmYg" title="Using the sos Report Utility on Oracle Linux" >}}
 
 ## Details
 
-This video demonstrates the sosreport utility to collect system information on Oracle Linux 8.
+This video demonstrates the sos report utility to collect system information on Oracle Linux.

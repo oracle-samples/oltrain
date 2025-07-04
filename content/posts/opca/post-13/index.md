@@ -7,7 +7,7 @@ tags: ["opca", "video","opca-iam"]
 showDate: true
 ---
 
-{{< youtube id="D0CxmJ6pn4U" title="User and group Administration on Oracle Private Cloud Appliance Youtube video" >}}
+{{< youtube id="vJ4es4kN-ac" title="User and group Administration on Oracle Private Cloud Appliance Youtube video" >}}
 
 ## Details
 
