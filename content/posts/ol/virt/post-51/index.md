@@ -1,13 +1,13 @@
 ---
 title: "Image Layers with Podman"
-date: 2024-05-21
+date: 2025-04-30
 draft: false
 summary: "Learn about the layers used to build images for running containers with Podman."
 tags: ["ol", "video","clips","ol-podman"]
 showDate: true
 ---
 
-{{< youtube id="NhMivoEX-YM" title="Install Podman on Oracle Linux" >}}
+{{< youtube id="NhMivoEX-YM" title="Image Layers with Podman on Oracle Linux" >}}
 
 ## Details
 
