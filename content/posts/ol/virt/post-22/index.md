@@ -7,7 +7,7 @@ tags: ["ol", "video","ol-podman"]
 showDate: true
 ---
 
-{{< youtube id="ckzqONjX5gs" title="Use a COntainerfile with Podman on Oracle Linux" >}}
+{{< youtube id="ckzqONjX5gs" title="Use a Containerfile with Podman on Oracle Linux" >}}
 
 ## Details
 
