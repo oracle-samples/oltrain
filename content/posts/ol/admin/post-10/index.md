@@ -1,13 +1,13 @@
 ---
-title: "Upgrade with Leapp"
-date: 2025-03-27
+title: "Upgrade Oracle Linux 7 with Leapp"
+date: 2025-07-21
 draft: false
-summary: "Learn how to upgrade Oracle Linux with Leapp."
+summary: "Learn how to upgrade Oracle Linux 7 with Leapp."
 tags: ["ol", "video","ol-admin"]
 showDate: true
 ---
 
-{{< youtube id="YENtkzwo9Ho" title="Oracle Linux Upgrades with Leapp" >}}
+{{< youtube id="cS9ZNol126I" title="Upgrade Oracle Linux 7 with Leapp" >}}
 
 ## Details
 
