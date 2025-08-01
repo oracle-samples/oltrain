@@ -11,7 +11,7 @@ showDate: true
 
 :crescent_moon: [Lab](https://luna.oracle.com/lab/4a0b9653-a029-4278-9987-362cccf4b384)
 
-:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/install-vnc-oracle-linux)
+:spiral_notepad: [Tutorial](https://docs.oracle.com/en/learn/ol-install-vnc)
 
 ## Details
 
