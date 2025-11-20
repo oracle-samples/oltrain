@@ -1,14 +1,14 @@
 ---
 title: "Customize Your Shell"
-date: 2021-12-21
+date: 2025-11-20
 draft: false
 summary: "Learn how to customize your work enviroment on Oracle Linux."
 tags: ["ol", "video","ol-intro"]
 showDate: true
 ---
 
-{{< youtube id="kdpfqiAp8BA" title="Customizing Work Environment on Oracle Linux" >}}
+{{< youtube id="SeAZUsbPCXc" title="Customizing Work Environments on Oracle Linux" >}}
 
 ## Details
 
-This introduction demonstrates how to customize Oracle Linux's working environment.
+This introduction demonstrates how to customize an Oracle Linux working environment.
