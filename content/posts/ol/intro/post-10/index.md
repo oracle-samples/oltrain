@@ -1,13 +1,13 @@
 ---
 title: "Remote Access using SSH"
-date: 2021-07-25
+date: 2025-12-08
 draft: false
 summary: "Learn how to connect to Oracle Linux using SSH."
 tags: ["ol", "video","ol-intro"]
 showDate: true
 ---
 
-{{< youtube id="ednoES-3JfU" title="Remote Access Using SSH on Oracle Linux" >}}
+{{< youtube id="5sOlDpwU4GA" title="Remote Access Using SSH on Oracle Linux" >}}
 
 ## Details
 
