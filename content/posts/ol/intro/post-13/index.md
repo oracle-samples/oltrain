@@ -1,13 +1,13 @@
 ---
 title: "Process Management"
-date: 2021-09-15
+date: 2025-12-11
 draft: false
 summary: "Learn how to monitor and run processes on Oracle Linux."
 tags: ["ol", "video","ol-intro"]
 showDate: true
 ---
 
-{{< youtube id="wMaWGV2yqtY" title="Monitoring and Managing Processes on Oracle Linux" >}}
+{{< youtube id="8YBHb6xSEpA" title="Monitoring and Managing Processes on Oracle Linux" >}}
 
 ## Details
 
