@@ -1,13 +1,13 @@
 ---
 title: "Software Management"
-date: 2021-06-23
+date: 2025-12-15
 draft: false
 summary: "Learn how manage software packages on Oracle Linux."
 tags: ["ol", "video","ol-intro"]
 showDate: true
 ---
 
-{{< youtube id="QiiVUyUxIc8" title="Software Management on Oracle Linux" >}}
+{{< youtube id="IzBiPyoKKKI" title="Software Management on Oracle Linux" >}}
 
 ## Details
 
