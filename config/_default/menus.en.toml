@@ -98,28 +98,34 @@
   weight = 21
 
 [[main]]
+  name = "Oracle Linux Kernel Development Blog"
+  parent = "Blogs"
+  url = "https://blogs.oracle.com/linux/category/lnx-linux-kernel-development"
+  weight = 22
+
+[[main]]
   name = "Oracle Cloud Infrastructure Blog"
   parent = "Blogs"
   url = "https://blogs.oracle.com/cloud-infrastructure/"
-  weight = 22
+  weight = 23
 
 [[main]]
   name = "Oracle Virtualization Blog"
   parent = "Blogs"
   url = "https://blogs.oracle.com/virtualization/"
-  weight = 23
+  weight = 24
 
 [[main]]
   name = "Simon Coter - Oracle Blog"
   parent = "Blogs"
   url = "https://blogs.oracle.com/scoter/"
-  weight = 24
+  weight = 25
 
 [[main]]
   name = "Oracle Linux Training Blog"
   parent = "Blogs"
   url = "https://blogs.oracle.com/linux/category/lnx-training"
-  weight = 25
+  weight = 26
 
 [[main]]
   name = "Docs"
