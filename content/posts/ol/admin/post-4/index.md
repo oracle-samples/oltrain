@@ -11,7 +11,7 @@ showDate: true
 
 ## Details
 
-TThis video demonstrates how to manage cron utility on Oracle Linux. This video describes the available automated task utilities, configures cron jobs, describes cron directories and files, and demonstrates the crontab utility.
+This video demonstrates how to manage cron utility on Oracle Linux. This video describes the available automated task utilities, configures cron jobs, describes cron directories and files, and demonstrates the crontab utility.
 
 - Automating System Tasks
 - Configuring cron Jobs
